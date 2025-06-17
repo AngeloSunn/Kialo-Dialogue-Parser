@@ -1,0 +1,499 @@
+digraph tree {
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them.";
+    "1.1 [st-2]
+Having demands to your children with the
+argument that you raised them puts
+unhealthy mental stress on them.";
+    "1.1.1 [st-3]
+Parents often try to enforce their own
+demands upon their children by
+emphasising how much they have done for
+their children.";
+    "1.1.1.1 [st-4]
+This can include limiting a child's
+career options by forcing them to pick a
+career path that their parents most
+prefer.";
+    "1.1.1.2 [st-5]
+Parents' demands are usually designed to
+encourage children to push themselves
+and reach their maximum potential.
+Parents want the best for their children
+and this comes through in their demands.";
+    "1.2 [st-6]
+It is a lot of effort to raise children
+and they should be thankful to their
+parents.";
+    "1.2.1 [st-7]
+This thankfulness should be earned and
+voluntary. It should not be a cultural
+demand.";
+    "1.2.2 [st-8]
+There are personal benefits to showing
+gratitude towards others.";
+    "1.2.2.1 [st-9]
+People who practise gratitude are more
+optimistic and happier [1].";
+    "1.2.2.2 [st-10]
+Knowledge of the benefits of showing
+gratitude does not affect a person's
+ability to genuinely feel gratitude.";
+    "1.2.3 [st-11]
+Practising gratitude has significant
+social benefits.";
+    "1.2.3.1 [st-12]
+Expressing gratitude makes people feel
+less lonely [2] and isolated.";
+    "1.3 [st-13]
+Currently, the economy is favoring the
+older generations. So by no means are
+current children able to monetarily give
+to their parents, as their own welfare
+will be difficult.";
+    "1.3.1 [st-14]
+Millennials [3] currently have more debt
+than any other generation in history. It
+it therefore highly unlikely that they
+will be financially equipped to care for
+ailing parents.";
+    "1.4 [st-15]
+Children don't decide to be born.";
+    "1.4.1 [st-16]
+Parents sign up to bring up the children
+when they choose to have children.
+Children do not sign up to any such
+responsibility and hence should not be
+held accountable.";
+    "1.4.2 [st-17]
+Parents who decide to have children know
+the implications that come with brining
+up children. As a result, they make an
+informed choice and should not be able
+to demand things in return.";
+    "1.4.2.1 [st-18]
+Many people end up having children
+without ever choosing to have them.";
+    "1.4.2.1.1 [st-19]
+The global rate [4] of unintended
+pregnancy was estimated at 44% of all
+pregnancies between 2010 and 2014.";
+    "1.4.2.1.1.1 [st-20]
+Not opting to terminate a pregnancy is
+still a choice that results in people
+having a baby.";
+    "1.4.2.1.1.1.1 [st-21]
+Many countries [5] have banned abortion
+and hence people are not able to opt out
+of having children if they end up
+getting pregnant.";
+    "1.4.3 [st-22]
+A lack of choice is not a good way of
+determining someone's obligations to
+others.";
+    "1.4.3.1 [st-23]
+Parents don't choose to ail and need
+care as they get older either. Everyone
+lacks choice in one way or another.";
+    "1.4.3.2 [st-24]
+Most children would likely say they are
+glad to be alive, irrespective of their
+lack of choice. Given this, it is
+unreasonable for them to deny certain
+obligations arising from their existence
+as if their life were a burden.";
+    "1.5 [st-25]
+Although there are exceptions, it is a
+basic instinct for parents to rear their
+children.";
+    "1.5.1 [st-26]
+The only thing any parent should expect
+from their child is respect and honesty.
+As a parent you are to model behaviour
+and should then be saving for retirement
+in order not to burden your children.";
+    "1.6 [st-27]
+Taking care of your child should be
+self-evident and not connected to
+demands to your child.";
+    "1.6.1 [st-28]
+Having children with the expectation to
+get something from them is immoral.";
+    "1.6.1.1 [st-29]
+If parents have children only to get
+something in return, then they are using
+their children as a means to an end.
+This is morally wrong.";
+    "1.6.1.1.1 [st-30]
+Kantian ethics [6] says that human
+beings have inherent value and so should
+only be treated as an end.";
+    "1.6.1.1.1.1 [st-31]
+Not all people subscribe to Kantian
+ethics.";
+    "1.6.1.2 [st-32]
+Even if the expectation of reward is
+itself immoral, the child can still be
+morally indebted to their parents.";
+    "1.6.1.2.1 [st-33]
+It is immoral to expect things of one's
+child because it is an imposition on the
+child's moral agency. By contrast, there
+might be independent moral reasons for
+the child to owe his parents for raising
+them.";
+    "1.6.1.2.1.1 [st-34]
+For a child's moral agency to be intact,
+the child must be able to internally
+rationalise what his moral duties ought
+to be and freely act on them. The
+pressure of parental expectations likely
+interrupts this process.";
+    "1.6.1.2.1.1.1 [st-35]
+There is no practical way to avoid the
+influence of parental expectations in
+the development of a child's sense of
+morality.";
+    "1.6.1.2.1.2 [st-36]
+A child's moral agency is inherently
+interwoven [7] with their parents' sense
+of morality, and by extension, their
+moral expectations. Therefore, this
+constructs a false dichotomy [8].";
+    "1.7 [st-37]
+Children are a way to have people who
+support you for when you get old.";
+    "1.7.1 [st-38]
+This is important for families in
+developing countries where there might
+not be social security systems in place";
+    "1.7.1.1 [st-39]
+Many countries in the world [9] have no
+healthcare or welfare support for the
+elderly.";
+    "1.7.1.1.1 [st-40]
+In the UK, if the elderly meet a certain
+financial threshold, then the local
+authority [10] will pay for their care
+home.";
+    "1.7.1.1.1.1 [st-41]
+In the UK, care for the elderly is in
+crisis [11]. Therefore, in practice many
+are likely dependent on their children
+for support in their old age.";
+    "1.7.2 [st-42]
+There are other ways for people to get
+support in their old age that do not
+rely on their children.";
+    "1.7.2.1 [st-43]
+-> See 1.7.1.1.1.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.1 [st-2]
+Having demands to your children with the
+argument that you raised them puts
+unhealthy mental stress on them.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.2 [st-6]
+It is a lot of effort to raise children
+and they should be thankful to their
+parents.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.3 [st-13]
+Currently, the economy is favoring the
+older generations. So by no means are
+current children able to monetarily give
+to their parents, as their own welfare
+will be difficult.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.4 [st-15]
+Children don't decide to be born.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.5 [st-25]
+Although there are exceptions, it is a
+basic instinct for parents to rear their
+children.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.6 [st-27]
+Taking care of your child should be
+self-evident and not connected to
+demands to your child.";
+    "1 [st-1]
+A child doesn't owe his parents
+something for getting raised by them." -> "1.7 [st-37]
+Children are a way to have people who
+support you for when you get old.";
+    "1.1 [st-2]
+Having demands to your children with the
+argument that you raised them puts
+unhealthy mental stress on them." -> "1.1.1 [st-3]
+Parents often try to enforce their own
+demands upon their children by
+emphasising how much they have done for
+their children.";
+    "1.1.1 [st-3]
+Parents often try to enforce their own
+demands upon their children by
+emphasising how much they have done for
+their children." -> "1.1.1.1 [st-4]
+This can include limiting a child's
+career options by forcing them to pick a
+career path that their parents most
+prefer.";
+    "1.1.1 [st-3]
+Parents often try to enforce their own
+demands upon their children by
+emphasising how much they have done for
+their children." -> "1.1.1.2 [st-5]
+Parents' demands are usually designed to
+encourage children to push themselves
+and reach their maximum potential.
+Parents want the best for their children
+and this comes through in their demands.";
+    "1.2 [st-6]
+It is a lot of effort to raise children
+and they should be thankful to their
+parents." -> "1.2.1 [st-7]
+This thankfulness should be earned and
+voluntary. It should not be a cultural
+demand.";
+    "1.2 [st-6]
+It is a lot of effort to raise children
+and they should be thankful to their
+parents." -> "1.2.2 [st-8]
+There are personal benefits to showing
+gratitude towards others.";
+    "1.2 [st-6]
+It is a lot of effort to raise children
+and they should be thankful to their
+parents." -> "1.2.3 [st-11]
+Practising gratitude has significant
+social benefits.";
+    "1.2.2 [st-8]
+There are personal benefits to showing
+gratitude towards others." -> "1.2.2.1 [st-9]
+People who practise gratitude are more
+optimistic and happier [1].";
+    "1.2.2 [st-8]
+There are personal benefits to showing
+gratitude towards others." -> "1.2.2.2 [st-10]
+Knowledge of the benefits of showing
+gratitude does not affect a person's
+ability to genuinely feel gratitude.";
+    "1.2.3 [st-11]
+Practising gratitude has significant
+social benefits." -> "1.2.3.1 [st-12]
+Expressing gratitude makes people feel
+less lonely [2] and isolated.";
+    "1.3 [st-13]
+Currently, the economy is favoring the
+older generations. So by no means are
+current children able to monetarily give
+to their parents, as their own welfare
+will be difficult." -> "1.3.1 [st-14]
+Millennials [3] currently have more debt
+than any other generation in history. It
+it therefore highly unlikely that they
+will be financially equipped to care for
+ailing parents.";
+    "1.4 [st-15]
+Children don't decide to be born." -> "1.4.1 [st-16]
+Parents sign up to bring up the children
+when they choose to have children.
+Children do not sign up to any such
+responsibility and hence should not be
+held accountable.";
+    "1.4 [st-15]
+Children don't decide to be born." -> "1.4.2 [st-17]
+Parents who decide to have children know
+the implications that come with brining
+up children. As a result, they make an
+informed choice and should not be able
+to demand things in return.";
+    "1.4 [st-15]
+Children don't decide to be born." -> "1.4.3 [st-22]
+A lack of choice is not a good way of
+determining someone's obligations to
+others.";
+    "1.4.2 [st-17]
+Parents who decide to have children know
+the implications that come with brining
+up children. As a result, they make an
+informed choice and should not be able
+to demand things in return." -> "1.4.2.1 [st-18]
+Many people end up having children
+without ever choosing to have them.";
+    "1.4.2.1 [st-18]
+Many people end up having children
+without ever choosing to have them." -> "1.4.2.1.1 [st-19]
+The global rate [4] of unintended
+pregnancy was estimated at 44% of all
+pregnancies between 2010 and 2014.";
+    "1.4.2.1.1 [st-19]
+The global rate [4] of unintended
+pregnancy was estimated at 44% of all
+pregnancies between 2010 and 2014." -> "1.4.2.1.1.1 [st-20]
+Not opting to terminate a pregnancy is
+still a choice that results in people
+having a baby.";
+    "1.4.2.1.1.1 [st-20]
+Not opting to terminate a pregnancy is
+still a choice that results in people
+having a baby." -> "1.4.2.1.1.1.1 [st-21]
+Many countries [5] have banned abortion
+and hence people are not able to opt out
+of having children if they end up
+getting pregnant.";
+    "1.4.3 [st-22]
+A lack of choice is not a good way of
+determining someone's obligations to
+others." -> "1.4.3.1 [st-23]
+Parents don't choose to ail and need
+care as they get older either. Everyone
+lacks choice in one way or another.";
+    "1.4.3 [st-22]
+A lack of choice is not a good way of
+determining someone's obligations to
+others." -> "1.4.3.2 [st-24]
+Most children would likely say they are
+glad to be alive, irrespective of their
+lack of choice. Given this, it is
+unreasonable for them to deny certain
+obligations arising from their existence
+as if their life were a burden.";
+    "1.5 [st-25]
+Although there are exceptions, it is a
+basic instinct for parents to rear their
+children." -> "1.5.1 [st-26]
+The only thing any parent should expect
+from their child is respect and honesty.
+As a parent you are to model behaviour
+and should then be saving for retirement
+in order not to burden your children.";
+    "1.6 [st-27]
+Taking care of your child should be
+self-evident and not connected to
+demands to your child." -> "1.6.1 [st-28]
+Having children with the expectation to
+get something from them is immoral.";
+    "1.6.1 [st-28]
+Having children with the expectation to
+get something from them is immoral." -> "1.6.1.1 [st-29]
+If parents have children only to get
+something in return, then they are using
+their children as a means to an end.
+This is morally wrong.";
+    "1.6.1 [st-28]
+Having children with the expectation to
+get something from them is immoral." -> "1.6.1.2 [st-32]
+Even if the expectation of reward is
+itself immoral, the child can still be
+morally indebted to their parents.";
+    "1.6.1.1 [st-29]
+If parents have children only to get
+something in return, then they are using
+their children as a means to an end.
+This is morally wrong." -> "1.6.1.1.1 [st-30]
+Kantian ethics [6] says that human
+beings have inherent value and so should
+only be treated as an end.";
+    "1.6.1.1.1 [st-30]
+Kantian ethics [6] says that human
+beings have inherent value and so should
+only be treated as an end." -> "1.6.1.1.1.1 [st-31]
+Not all people subscribe to Kantian
+ethics.";
+    "1.6.1.2 [st-32]
+Even if the expectation of reward is
+itself immoral, the child can still be
+morally indebted to their parents." -> "1.6.1.2.1 [st-33]
+It is immoral to expect things of one's
+child because it is an imposition on the
+child's moral agency. By contrast, there
+might be independent moral reasons for
+the child to owe his parents for raising
+them.";
+    "1.6.1.2.1 [st-33]
+It is immoral to expect things of one's
+child because it is an imposition on the
+child's moral agency. By contrast, there
+might be independent moral reasons for
+the child to owe his parents for raising
+them." -> "1.6.1.2.1.1 [st-34]
+For a child's moral agency to be intact,
+the child must be able to internally
+rationalise what his moral duties ought
+to be and freely act on them. The
+pressure of parental expectations likely
+interrupts this process.";
+    "1.6.1.2.1 [st-33]
+It is immoral to expect things of one's
+child because it is an imposition on the
+child's moral agency. By contrast, there
+might be independent moral reasons for
+the child to owe his parents for raising
+them." -> "1.6.1.2.1.2 [st-36]
+A child's moral agency is inherently
+interwoven [7] with their parents' sense
+of morality, and by extension, their
+moral expectations. Therefore, this
+constructs a false dichotomy [8].";
+    "1.6.1.2.1.1 [st-34]
+For a child's moral agency to be intact,
+the child must be able to internally
+rationalise what his moral duties ought
+to be and freely act on them. The
+pressure of parental expectations likely
+interrupts this process." -> "1.6.1.2.1.1.1 [st-35]
+There is no practical way to avoid the
+influence of parental expectations in
+the development of a child's sense of
+morality.";
+    "1.7 [st-37]
+Children are a way to have people who
+support you for when you get old." -> "1.7.1 [st-38]
+This is important for families in
+developing countries where there might
+not be social security systems in place";
+    "1.7 [st-37]
+Children are a way to have people who
+support you for when you get old." -> "1.7.2 [st-42]
+There are other ways for people to get
+support in their old age that do not
+rely on their children.";
+    "1.7.1 [st-38]
+This is important for families in
+developing countries where there might
+not be social security systems in place" -> "1.7.1.1 [st-39]
+Many countries in the world [9] have no
+healthcare or welfare support for the
+elderly.";
+    "1.7.1.1 [st-39]
+Many countries in the world [9] have no
+healthcare or welfare support for the
+elderly." -> "1.7.1.1.1 [st-40]
+In the UK, if the elderly meet a certain
+financial threshold, then the local
+authority [10] will pay for their care
+home.";
+    "1.7.1.1.1 [st-40]
+In the UK, if the elderly meet a certain
+financial threshold, then the local
+authority [10] will pay for their care
+home." -> "1.7.1.1.1.1 [st-41]
+In the UK, care for the elderly is in
+crisis [11]. Therefore, in practice many
+are likely dependent on their children
+for support in their old age.";
+    "1.7.2 [st-42]
+There are other ways for people to get
+support in their old age that do not
+rely on their children." -> "1.7.2.1 [st-43]
+-> See 1.7.1.1.1.";
+}

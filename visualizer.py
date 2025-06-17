@@ -1,7 +1,7 @@
 import json
 from anytree import Node, RenderTree
 from anytree.exporter import DotExporter
-from parser import extract_statements_new
+from parser import extract_statements_and_topic
 
 def split_text(text, max_len=40):
     words = text.split()
@@ -47,17 +47,18 @@ def build_tree(statements, id_map):
 
     return root
 
-def render_tree_pdf(root, output_file="kialo_tree.pdf"):
+def render_tree_pdf(root, output_file="visualizer_output/kialo_tree.pdf"):
     # Export .dot file
-    DotExporter(root).to_dotfile("kialo_tree.dot")
+    DotExporter(root).to_dotfile("visualizer_output/kialo_tree.dot")
     
     # Use Graphviz to render it to PDF
     import subprocess
-    subprocess.run(["dot", "-Tpdf", "-Gdpi=150", "kialo_tree.dot", "-o", output_file])
-    print(f"✅ PDF tree generated: {output_file}")
+    subprocess.run(["dot", "-Tpdf", "-Gdpi=150", "visualizer_output/kialo_tree.dot", "-o", output_file])
+    print(f"PDF tree generated: {output_file}")
 
 if __name__ == "__main__":
-    input_file = "../discussions/discussions/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667.txt"
-    statements, id_map = extract_statements_new(input_file)
+    input_file = "discussions/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667.txt"
+    statements, id_map, topic = extract_statements_and_topic(input_file)
+    output_filename = "visualizer_output/" + topic + ".pdf"
     root = build_tree(statements, id_map)
-    render_tree_pdf(root)
+    render_tree_pdf(root, output_filename)

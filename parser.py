@@ -130,7 +130,7 @@ def process_topic_file(topic_file):
     for url in lines:
         input_filename, output_filename = url_to_filename(url)
         input_path = os.path.join("discussions", input_filename)
-        output_path = os.path.join("output", output_filename)
+        output_path = os.path.join("parser_output", output_filename)
 
         if not os.path.exists(input_path):
             print(f"Missing: {input_path}")
