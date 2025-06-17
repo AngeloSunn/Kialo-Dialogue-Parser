@@ -57,7 +57,7 @@ def render_tree_pdf(root, output_file="kialo_tree.pdf"):
     print(f"✅ PDF tree generated: {output_file}")
 
 if __name__ == "__main__":
-    input_file = "kialo_input.txt"
+    input_file = "../discussions/discussions/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667.txt"
     statements, id_map = extract_statements_new(input_file)
     root = build_tree(statements, id_map)
     render_tree_pdf(root)
