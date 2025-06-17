@@ -1,0 +1,4446 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "We should have a single global language. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "We shouldn't have a single global language.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "A global language would kill diversity of thought and culture. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "A global language wouldn't kill diversity of thought and culture.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "Within a generation of implementation, vast amounts of culture and literature would be completely inaccessible. This would represent a massive and irreparable rupture with history. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "Within a generation of implementation, vast amounts of culture and literature wouldn't be completely inaccessible. This would represent a massive and irreparable rupture with history.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Most culture and literature are already inaccessible today to those who only speak one or two of the 7100 existing languages [1]. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Most culture and literature aren't already inaccessible today to those who only speak one or two of the 7100 existing languages [1].",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Anything that did not get translated into the new global language by the last native speakers of old languages would be lost. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Anything that did get translated into the new global language by the last native speakers of old languages would be lost.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "Efforts could be made to translate all important works as part of the transition to the new language. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "Efforts couldn't be made to translate all important works as part of the transition to the new language.",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "Over time, a single global language would likely increase the number of undecipherable writing systems [2] that our descendants would inherit. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "Over time, a single global language wouldn't likely increase the number of undecipherable writing systems [2] that our descendants would inherit.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Machine learning will likely one day be able to decipher [3] any languages that have been lost as a result of this shift to a global language. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Machine learning won't likely one day be able to decipher [3] any languages that have been lost as a result of this shift to a global language.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "The existence of a global language does not necessarily involve the eradication of others. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "The existence of a global language necessarily involves the eradication of others.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "The appropriation of English by various societies has allowed them to integrate the language [4] into their culture, but not necessarily at the expense of their native language. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "The appropriation of English by various societies has allowed them to integrate the language [4] into their culture, but necessarily at the expense of their native language.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "English is a de facto lingua franca [5], yet it is not destroying language diversity. As long there is not something like an \"English language supremacy\", a global language won't kill others. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "English is a de facto lingua franca [5], yet it is destroying language diversity. As long there is not something like an \"English language supremacy\", a global language won't kill others.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Languages are being lost at a rate of nine per year [6], and the losses are expected to accelerate over the coming century. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Languages aren't being lost at a rate of nine per year [6], and the losses are expected to accelerate over the coming century.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "A global language can coexist with other languages as a universal \"second language\". ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "A global language can't coexist with other languages as a universal \"second language\".",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "To the extent that there is an Esperanto ideology, it explicitly rejects [7] replacing or subduing national languages. On the contrary, it seeks to provide speakers of different languages a neutral ground, so that one national language does not dominate the other. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "To the extent that there is an Esperanto ideology, it explicitly rejectses [7] replacing or subduing national languages. On the contrary, it seeks to provide speakers of different languages a neutral ground, so that one national language does dominate the other.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Similarly, the existing languages could remain as mandatory second languages in their respective countries. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Similarly, the existing languages couldn't remain as mandatory second languages in their respective countries.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "Over time, it is possible that people will become too lazy to learn more than one language and default to the global language for convenience. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "Over time, it isn't possible that people will become too lazy to learn more than one language and default to the global language for convenience.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "The past centuries have seen several languages die out [8] as a few dominant languages reduce people's incentive to maintain minority languages. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "The past centuries haven't seen several languages die out [8] as a few dominant languages reduce people's incentive to maintain minority languages.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Using different languages teaches people to think in different ways [9]. Using a single global language would harm this diversity of thought. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Using different languages doesn't teach people to think in different ways [9]. Using a single global language would harm this diversity of thought.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "This would lead to the homogenisation of society, whereby a single culture would win out over all others. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "This wouldn't lead to the homogenisation of society, whereby a single culture would win out over all others.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "This is a good thing, as diversity in language and culture is divisive. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "This is a good thing, as diversity in language and culture isn't divisive.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "Diversity is inevitable but deliberately embracing it prevents it being divisive. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "Diversity isn't inevitable but deliberately embracing it prevents it being divisive.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "By being mindful of diversity awareness [10], people can overcome divisive issues and use diversity to their advantage. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "By being mindful of diversity awareness [10], people can't overcome divisive issues and use diversity to their advantage.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Language barriers create culture clashes [11]. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Language barriers don't create culture clashes [11].",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Having a singular culture would likely eliminate harmful cultural practices like female genital mutilation [12] or honor killings [13]. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Having a singular culture wouldn't likely eliminate harmful cultural practices like female genital mutilation [12] or honor killings [13].",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "These practices can be eliminated without destroying all cultural diversity. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "These practices can't be eliminated without destroying all cultural diversity.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "A language is far more than just a collection of words or sounds to express a message. A language is identity [14], culture [15], and is what makes our world so rich and diverse. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "A language isn't far more than just a collection of words or sounds to express a message. A language is identity [14], culture [15], and is what makes our world so rich and diverse.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Culture is expressed in a myriad of ways - art, dance, architecture - which are not dependent on language. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Culture is expressed in a myriad of ways - art, dance, architecture - which are dependent on language.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Many forms of visual art are considered a type of universal language [16] themselves. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Many forms of visual art aren't considered a type of universal language [16] themselves.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "Language is used to partition reality [17] into concepts. Different languages provoke different partitionings, which can be more or less suitable to solve thought problems. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "Language isn't used to partition reality [17] into concepts. Different languages provoke different partitionings, which can be more or less suitable to solve thought problems.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "Americans, British and Australians speak the same language, yet they have diversity [18] of thought [19] and culture [20]. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "Americans, British and Australians don't speak the same language, yet they have diversity [18] of thought [19] and culture [20].",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Polyglots have a greater capacity [21] to learn new information and process information in different ways. Having only one language could decrease this function of the brain, which could lead to a lack of innovation and creativity. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Polyglots don't have a greater capacity [21] to learn new information and process information in different ways. Having only one language could decrease this function of the brain, which could lead to a lack of innovation and creativity.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "One simple global language, easily learned in addition to one's native tongue, would increase the chance of everyone having bilingual brains. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "One simple global language, easily didn't learn in addition to one's native tongue, would increase the chance of everyone having bilingual brains.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "Although computer programming languages do not work exactly the same way as natural languages, they also help maintain [22] these neurological functions. In the future, programming languages will be at least partly responsible for keeping the brain fit. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "Although computer programming languages do work exactly the same way as natural languages, they also help maintain [22] these neurological functions. In the future, programming languages will be at least partly responsible for keeping the brain fit.",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "This assumes the greater capacity to learn new information was caused by knowing the second language. It could equally be the case that the greater capacity caused them to learn the second language, or a third factor that caused both. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "This doesn't assume the greater capacity to learn new information was caused by knowing the second language. It could equally be the case that the greater capacity caused them to learn the second language, or a third factor that caused both.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Studies have shown [23] that learning another language may delay the onset of Alzheimer's disease. Eliminating this possibility may result in more Alzheimer's related issues for society. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Studies haven't shown [23] that learning another language may delay the onset of Alzheimer's disease. Eliminating this possibility may result in more Alzheimer's related issues for society.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "A single global language would greatly benefit culture, as it would further encourage people from different cultures to interact and share ideas. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "A single global language wouldn't greatly benefit culture, as it would further encourage people from different cultures to interact and share ideas.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "A equal linguistic footing between cultures would lead to greater equality of opportunity [24] around the world. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "A equal linguistic footing between cultures wouldn't lead to greater equality of opportunity [24] around the world.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "A single global language would curb the current advantage [25] of native English speakers in industry, science, academia, etc. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "A single global language wouldn't curb the current advantage [25] of native English speakers in industry, science, academia, etc.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "Current scientific knowledge is biased [26] towards evidence published in English. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "Current scientific knowledge isn't biased [26] towards evidence published in English.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "Scientists and academics will still have to cite [27] existing English language research after the implementation of a global language. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "Scientists and academics won't still have to cite [27] existing English language research after the implementation of a global language.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "The earliest adopters of the language would have an advantage over others that could result in lasting disparity. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "The earliest adopters of the language wouldn't have an advantage over others that could result in lasting disparity.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "If a global language is taken from an existing language, the original native speakers would have an advantage. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "If a global language is taken from an existing language, the original native speakers wouldn't have an advantage.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "The global language would likely be built around the grammatical structures of majority languages. Speakers of minority languages would face higher burdens to learning the global language which would make no difference to the status quo. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "The global language wouldn't likely be built around the grammatical structures of majority languages. Speakers of minority languages would face higher burdens to learning the global language which would make no difference to the status quo.",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "A single global language can lead to a deeper understanding between different cultures, facilitating global peace. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "A single global language can't lead to a deeper understanding between different cultures, facilitating global peace.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Implementation of a global language would require international collaboration and could lead to better interactions between countries, peoples, and groups. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Implementation of a global language wouldn't require international collaboration and could lead to better interactions between countries, peoples, and groups.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "Our perspectives, needs, and struggles can be understood by others more clearly instead of getting lost in translation. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "Our perspectives, needs, and struggles can't be understood by others more clearly instead of getting lost in translation.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "International students would be able to study abroad without any language barriers. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "International students wouldn't be able to study abroad without any language barriers.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "It is also likely that negotiations on the manner of implementation could strain relations between various groups. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "It isn't also likely that negotiations on the manner of implementation could strain relations between various groups.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "Empathy between humans happens through communication and requires language [28]. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "Empathy between humans doesn't happen through communication and requires language [28].",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "A single language would allow hate groups to organize more effectively. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "A single language wouldn't allow hate groups to organize more effectively.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "Neo-Nazi groups exist in countries around the world [29]. If they all spoke the same language, they could more easily spread their message and coordinate. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "Neo-Nazi groups don't exist in countries around the world [29]. If they all spoke the same language, they could more easily spread their message and coordinate.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "A single global language would be beneficial in terms of efficiency. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "A single global language wouldn't be beneficial in terms of efficiency.",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "International trade and cooperation would become easier, which would be beneficial for the global economy. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "International trade and cooperation wouldn't become easier, which would be beneficial for the global economy.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "A single global language spoken in a diversified culture is analogous to a single technological standard [30] that is compatible and understood across different market brands. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "A single global language None speak in a diversified culture is analogous to a single technological standard [30] that is compatible and understood across different market brands.",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "Standardization has multiple benefits [31] in terms of efficiency and understanding. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "Standardization doesn't have multiple benefits [31] in terms of efficiency and understanding.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "Assuming international cooperation would improve by speaking the same language is a fallacy; nearly all Americans speak the same language, yet they still have disagreements [32]. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "Not Assuming international cooperation would improve by speaking the same language is a fallacy; nearly all Americans speak the same language, yet they still have disagreements [32].",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "More international trade could lead to more harmful effects on the environment. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "More international trade couldn't lead to more harmful effects on the environment.",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "If all climate scientists and environmental activists spoke the same language, it is more likely that they could effectively organize ways to combat climate change. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "If all climate scientists and environmental activists spoke the same language, it isn't more likely that they could effectively organize ways to combat climate change.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "Climate activists are already overcoming language barriers by voluntarily translating [33] climate-related literature into various languages. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "Climate activists aren't already overcoming language barriers by voluntarily translating [33] climate-related literature into various languages.",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "Increasing the effects of globalization [34] is likely to intensify human's negative impacts on the environment. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "Increasing the effects of globalization [34] isn't likely to intensify human's negative impacts on the environment.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "International communication will be faster, which means more time to invest in other activities. ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "International communication won't be faster, which means more time to invest in other activities.",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "Firms could save money on translators and interpreters, instead directing that money elsewhere. ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "Firms couldn't save money on translators and interpreters, instead directing that money elsewhere.",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "The universal language would destroy the need for translators, thus leaving hundreds of thousands [35] of people unemployed. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "The universal language wouldn't destroy the need for translators, thus leaving hundreds of thousands [35] of people unemployed.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "Translation of long documents can take several days [36] and delay progress on projects. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "Translation of long documents can't take several days [36] and delay progress on projects.",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "With one global language, people will be able to communicate with each other regardless of where they are from. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "With one global language, people won't be able to communicate with each other regardless of where they are from.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "A global language would reduce the chance of misinterpretation when solving pressing issues or in emergencies where lives are at stake. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "A global language wouldn't reduce the chance of misinterpretation when solving pressing issues or in emergencies where lives are at stake.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "Lives are lost due to translation errors in air traffic control [37], emergency response [38] and medicine [39]. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "Lives aren't lost due to translation errors in air traffic control [37], emergency response [38] and medicine [39].",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "It is unclear how many lives are lost really due to translation errors. At least the first two examples point rather to imprecise communication, which also occurs within the same languages and even amongst friends [40]. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "It isn't unclear how many lives are lost really due to translation errors. At least the first two examples point rather to imprecise communication, which also occurs within the same languages and even amongst friends [40].",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "One language would not eliminate potential miscommunication involving specialized jargon, local slang, or culturally specific items. ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "One language would eliminate potential miscommunication involving specialized jargon, local slang, or culturally specific items.",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "Many words have different connotations depending on the culture. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "Many words don't have different connotations depending on the culture.",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "Several basic words and ideas, such as 'rain [41]' and the colors [42], convey different meanings to different societies, regardless of the language used. ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "Several basic words and ideas, such as 'rain [41]' and the colors [42], don't convey different meanings to different societies, regardless of the language used.",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "Academics and scientists often need to use niche terminology [43] to describe particular phenomena. This will not go away with the implementation of a globlal language. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "Academics and scientists often need to use niche terminology [43] to describe particular phenomena. This will go away with the implementation of a globlal language.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "A single global language would improve international travel. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "A single global language wouldn't improve international travel.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "Local people and tourists would be able to talk to each other without impediment, which would make traveling more convenient. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "Local people and tourists wouldn't be able to talk to each other without impediment, which would make traveling more convenient.",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "Nobody will be really intimidated to ask strangers for help since they will be speaking the same language. ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "Nobody won't be really intimidated to ask strangers for help since they will be speaking the same language.",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "This could make it easier for local nefarious actors to trick or scam [44] unknowing tourists. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "This couldn't make it easier for local nefarious actors to trick or scam [44] unknowing tourists.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77",
+      "text": "-> See 1.1.5.2. ",
+      "tag": "",
+      "counter_to": "st-77-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77-gen",
+      "text": "-> See 1.1.5.2. ",
+      "tag": "generated",
+      "counter_to": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78",
+      "text": "It is not an efficient use of resources to teach everyone in the world the same language, as this would incur massive expenses. ",
+      "tag": "",
+      "counter_to": "st-78-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78-gen",
+      "text": "It is an efficient use of resources to teach everyone in the world the same language, as this would incur massive expenses.",
+      "tag": "generated",
+      "counter_to": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79",
+      "text": "Expensive language learning is already occurring [45]. Introducing a simple-to-learn language like Esperanto would greatly reduce the costs currently spent on teaching other languages. ",
+      "tag": "",
+      "counter_to": "st-79-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79-gen",
+      "text": "Expensive language learning isn't already occurring [45]. Introducing a simple-to-learn language like Esperanto would greatly reduce the costs currently spent on teaching other languages.",
+      "tag": "generated",
+      "counter_to": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80",
+      "text": "Some countries like South Korea spend billions of dollars [46] annually to educate their children in English. ",
+      "tag": "",
+      "counter_to": "st-80-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80-gen",
+      "text": "Some countries like South Korea don't spend billions of dollars [46] annually to educate their children in English.",
+      "tag": "generated",
+      "counter_to": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81",
+      "text": "It would cost governments massive amounts of money to pay for the instructors, translators, and materials needed to teach the entire world a new language. ",
+      "tag": "",
+      "counter_to": "st-81-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81-gen",
+      "text": "It wouldn't cost governments massive amounts of money to pay for the instructors, translators, and materials needed to teach the entire world a new language.",
+      "tag": "generated",
+      "counter_to": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82",
+      "text": "This would only be a one-time cost, as after the first generation, people would learn the global language as their mother tongue. ",
+      "tag": "",
+      "counter_to": "st-82-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82-gen",
+      "text": "This wouldn't only be a one-time cost, as after the first generation, people would learn the global language as their mother tongue.",
+      "tag": "generated",
+      "counter_to": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83",
+      "text": "There are more important and ethical ways to spend money than teaching everyone the same language. ",
+      "tag": "",
+      "counter_to": "st-83-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83-gen",
+      "text": "There aren't more important and ethical ways to spend money than teaching everyone the same language.",
+      "tag": "generated",
+      "counter_to": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84",
+      "text": "Resources should be spent on reducing poverty or improving healthcare and education before teaching everyone the same language. ",
+      "tag": "",
+      "counter_to": "st-84-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84-gen",
+      "text": "Resources shouldn't be spent on reducing poverty or improving healthcare and education before teaching everyone the same language.",
+      "tag": "generated",
+      "counter_to": "st-84",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85",
+      "text": "This expense could pay for itself in the long run as diverse societies becomes more interconnected. ",
+      "tag": "",
+      "counter_to": "st-85-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85-gen",
+      "text": "This expense couldn't pay for itself in the long run as diverse societies becomes more interconnected.",
+      "tag": "generated",
+      "counter_to": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86",
+      "text": "Getting all countries/states to change their language/teach a single language would be highly inefficient. ",
+      "tag": "",
+      "counter_to": "st-86-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86-gen",
+      "text": "Getting all countries/states to change their language/teach a single language wouldn't be highly inefficient.",
+      "tag": "generated",
+      "counter_to": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87",
+      "text": "Courses such as TEFL can equip an individual to teach English, which is a notoriously complex language, in just 4 weeks [47]. As such, a global language could be easily implemented within a short duration. ",
+      "tag": "",
+      "counter_to": "st-87-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87-gen",
+      "text": "Courses such as TEFL can't equip an individual to teach English, which is a notoriously complex language, in just 4 weeks [47]. As such, a global language could be easily implemented within a short duration.",
+      "tag": "generated",
+      "counter_to": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88",
+      "text": "Those who take TEFL courses are already familiar with English as a language. As a global language would require individuals to become proficient in the new language, and then teach it, this process would take longer. ",
+      "tag": "",
+      "counter_to": "st-88-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88-gen",
+      "text": "Those who take TEFL courses aren't already familiar with English as a language. As a global language would require individuals to become proficient in the new language, and then teach it, this process would take longer.",
+      "tag": "generated",
+      "counter_to": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89",
+      "text": "A global language would require introducing a novel language course, while retiring all other language courses for new students. This process would likely take significant time to develop. ",
+      "tag": "",
+      "counter_to": "st-89-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89-gen",
+      "text": "A global language wouldn't require introducing a novel language course, while retiring all other language courses for new students. This process would likely take significant time to develop.",
+      "tag": "generated",
+      "counter_to": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90",
+      "text": "If people only need to learn one language, we can spend our time on more important activities. ",
+      "tag": "",
+      "counter_to": "st-90-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90-gen",
+      "text": "If people only need to learn one language, we can't spend our time on more important activities.",
+      "tag": "generated",
+      "counter_to": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91",
+      "text": "Studying foreign languages can occupy a significant amount of time throughout one's life. ",
+      "tag": "",
+      "counter_to": "st-91-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91-gen",
+      "text": "Studying foreign languages can't occupy a significant amount of time throughout one's life.",
+      "tag": "generated",
+      "counter_to": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92",
+      "text": "It can take up to three months [48] for non-native speakers of English to prepare for the TOEFL exam. ",
+      "tag": "",
+      "counter_to": "st-92-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92-gen",
+      "text": "It can't take up to three months [48] for non-native speakers of English to prepare for the TOEFL exam.",
+      "tag": "generated",
+      "counter_to": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93",
+      "text": "Depending on one's mother tongue, it could take up to 2200 hours, or nearly two years, [49] to become fluent in another language. ",
+      "tag": "",
+      "counter_to": "st-93-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93-gen",
+      "text": "Depending on one's mother tongue, it couldn't take up to 2200 hours, or nearly two years, [49] to become fluent in another language.",
+      "tag": "generated",
+      "counter_to": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94",
+      "text": "Children who are raised to be bilingual attain the benefits [50] of learning two languages without needing to study. ",
+      "tag": "",
+      "counter_to": "st-94-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94-gen",
+      "text": "Children who are raised to be bilingual don't attain the benefits [50] of learning two languages without needing to study.",
+      "tag": "generated",
+      "counter_to": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95",
+      "text": "Some people enjoy learning languages as a hobby [51]. Removing this option would deny some people an activity that is important to them. ",
+      "tag": "",
+      "counter_to": "st-95-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95-gen",
+      "text": "Some people don't enjoy learning languages as a hobby [51]. Removing this option would deny some people an activity that is important to them.",
+      "tag": "generated",
+      "counter_to": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96",
+      "text": "Language learning as a hobby has several practical benefits [52]. ",
+      "tag": "",
+      "counter_to": "st-96-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96-gen",
+      "text": "Language learning as a hobby doesn't have several practical benefits [52].",
+      "tag": "generated",
+      "counter_to": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97",
+      "text": "Implementing a single global language is impractical. ",
+      "tag": "",
+      "counter_to": "st-97-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97-gen",
+      "text": "Implementing a single global language isn't impractical.",
+      "tag": "generated",
+      "counter_to": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98",
+      "text": "There is no way to implement this idea without authoritarianism. ",
+      "tag": "",
+      "counter_to": "st-98-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98-gen",
+      "text": "There isn't no way to implement this idea without authoritarianism.",
+      "tag": "generated",
+      "counter_to": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99",
+      "text": "The imposition [53] of a majority language on minority peoples was repeatedly practiced during the colonial period. This created generational trauma that continues to be felt today. ",
+      "tag": "",
+      "counter_to": "st-99-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99-gen",
+      "text": "The imposition [53] of a majority language on minority peoples wasn't repeatedly practiced during the colonial period. This created generational trauma that continues to be felt today.",
+      "tag": "generated",
+      "counter_to": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100",
+      "text": "Japan's colonization of Korea included forbidding [54] the teaching of Korean and forcing Koreans to adopt Japanese names. This trauma is still felt today [55]. ",
+      "tag": "",
+      "counter_to": "st-100-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100-gen",
+      "text": "Japan's colonization of Korea didn't include forbidding [54] the teaching of Korean and forcing Koreans to adopt Japanese names. This trauma is still felt today [55].",
+      "tag": "generated",
+      "counter_to": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101",
+      "text": "Social change often occurs without the intervention of authoritarian regimes. ",
+      "tag": "",
+      "counter_to": "st-101-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101-gen",
+      "text": "Social change often doesn't occur without the intervention of authoritarian regimes.",
+      "tag": "generated",
+      "counter_to": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102",
+      "text": "The way the metric system was implemented and adopted [56] shows that totalitarianism is not needed. ",
+      "tag": "",
+      "counter_to": "st-102-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102-gen",
+      "text": "The way the metric system was implemented and adopted [56] showses that totalitarianism is needed.",
+      "tag": "generated",
+      "counter_to": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103",
+      "text": "The International Organization for Standardization [57] (ISO) has successfully implemented standards for a variety of contexts around the world. ",
+      "tag": "",
+      "counter_to": "st-103-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103-gen",
+      "text": "The International Organization for Standardization [57] (ISO) hasn't successfully implemented standards for a variety of contexts around the world.",
+      "tag": "generated",
+      "counter_to": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104",
+      "text": "If the language is nice and popular, lots of people will want to learn it without being forced. ",
+      "tag": "",
+      "counter_to": "st-104-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104-gen",
+      "text": "If the language isn't nice and popular, lots of people will want to learn it without being forced.",
+      "tag": "generated",
+      "counter_to": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105",
+      "text": "This isn't something that can be predicted, and therefore it shouldn't be assumed by the planners of a global language. ",
+      "tag": "",
+      "counter_to": "st-105-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105-gen",
+      "text": "This is something that can be predicted, and therefore it shouldn't be assumed by the planners of a global language.",
+      "tag": "generated",
+      "counter_to": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106",
+      "text": "Few people are forced by their governments to learn English, but people do so voluntarily [58] in order to reap the perceived benefits. ",
+      "tag": "",
+      "counter_to": "st-106-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106-gen",
+      "text": "Few people aren't forced by their governments to learn English, but people do so voluntarily [58] in order to reap the perceived benefits.",
+      "tag": "generated",
+      "counter_to": "st-106",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107",
+      "text": "Forcing people to speak (or not speak) a certain language infringes upon their human rights. ",
+      "tag": "",
+      "counter_to": "st-107-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107-gen",
+      "text": "Forcing people to speak (or speak) a certain language infringeses upon their human rights.",
+      "tag": "generated",
+      "counter_to": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108",
+      "text": "Technological advancements would vastly outpace any attempts to implement this globally. ",
+      "tag": "",
+      "counter_to": "st-108-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108-gen",
+      "text": "Technological advancements wouldn't vastly outpace any attempts to implement this globally.",
+      "tag": "generated",
+      "counter_to": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109",
+      "text": "It is better to have language ingrained in our minds rather than be reliant on technology, due to cost, patents, hacking risks [59], and malfunctions. ",
+      "tag": "",
+      "counter_to": "st-109-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109-gen",
+      "text": "It isn't better to have language ingrained in our minds rather than be reliant on technology, due to cost, patents, hacking risks [59], and malfunctions.",
+      "tag": "generated",
+      "counter_to": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110",
+      "text": "To reduce the environmental impact [60], we should not employ gadgetry unnecessarily. ",
+      "tag": "",
+      "counter_to": "st-110-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110-gen",
+      "text": "To reduce the environmental impact [60], we should employ gadgetry unnecessarily.",
+      "tag": "generated",
+      "counter_to": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111",
+      "text": "There are also costs involved with having a language ingrained in our minds. ",
+      "tag": "",
+      "counter_to": "st-111-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111-gen",
+      "text": "There aren't also costs involved with having a language ingrained in our minds.",
+      "tag": "generated",
+      "counter_to": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112",
+      "text": "Time spend learning a global language in addition to your mother tongue could have been spent learning something else. ",
+      "tag": "",
+      "counter_to": "st-112-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112-gen",
+      "text": "Time don't spend learning a global language in addition to your mother tongue could have been spent learning something else.",
+      "tag": "generated",
+      "counter_to": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113",
+      "text": "People who do not have access to the technology will not have the same opportunities as a spoken language would allow. ",
+      "tag": "",
+      "counter_to": "st-113-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113-gen",
+      "text": "People who do have access to the technology will not have the same opportunities as a spoken language would allow.",
+      "tag": "generated",
+      "counter_to": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114",
+      "text": "It is easier to make language technology available and potentially free than it is to adopt a universal language. ",
+      "tag": "",
+      "counter_to": "st-114-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114-gen",
+      "text": "It isn't easier to make language technology available and potentially free than it is to adopt a universal language.",
+      "tag": "generated",
+      "counter_to": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115",
+      "text": "Most modern [61] communication [62] occurs on the Internet, where physical distances don't matter and the only thing stopping communication is language. ",
+      "tag": "",
+      "counter_to": "st-115-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115-gen",
+      "text": "Most modern [61] communication [62] occurs on the Internet, where physical distances domatter and the only thing stopping communication is language.",
+      "tag": "generated",
+      "counter_to": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116",
+      "text": "Relying on language technology focuses the power of language in the hands of a few large tech firms, while a global language would be in control of the people. ",
+      "tag": "",
+      "counter_to": "st-116-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116-gen",
+      "text": "Relying on language technology doesn't focus the power of language in the hands of a few large tech firms, while a global language would be in control of the people.",
+      "tag": "generated",
+      "counter_to": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117",
+      "text": "Machine learning powered translation [63] is developing so rapidly that this problem will quickly become redundant. ",
+      "tag": "",
+      "counter_to": "st-117-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117-gen",
+      "text": "Machine learning powered translation [63] isn't developing so rapidly that this problem will quickly become redundant.",
+      "tag": "generated",
+      "counter_to": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118",
+      "text": "There are technical difficulties [64] that machine translation is unable to solve. ",
+      "tag": "",
+      "counter_to": "st-118-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118-gen",
+      "text": "There are technical difficulties [64] that machine translation isn't unable to solve.",
+      "tag": "generated",
+      "counter_to": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119",
+      "text": "Translation may be a problem so complex that it cannot be solvable algorithmically in a reasonable time. ",
+      "tag": "",
+      "counter_to": "st-119-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119-gen",
+      "text": "Translation may be a problem so complex that it can be solvable algorithmically in a reasonable time.",
+      "tag": "generated",
+      "counter_to": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120",
+      "text": "This does not seem to be true, given the rapid advancements [65] made in instantaneous translation. ",
+      "tag": "",
+      "counter_to": "st-120-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120-gen",
+      "text": "This seems to be true, given the rapid advancements [65] made in instantaneous translation.",
+      "tag": "generated",
+      "counter_to": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121",
+      "text": "Language is constantly changing. ",
+      "tag": "",
+      "counter_to": "st-121-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121-gen",
+      "text": "Language isn't constantly changing.",
+      "tag": "generated",
+      "counter_to": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122",
+      "text": "Every year, hundreds [66] of new entries are added to dictionaries. ",
+      "tag": "",
+      "counter_to": "st-122-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122-gen",
+      "text": "Every year, hundreds [66] of new entries aren't added to dictionaries.",
+      "tag": "generated",
+      "counter_to": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123",
+      "text": "These entries could easily be incorporated by machine learning language software. ",
+      "tag": "",
+      "counter_to": "st-123-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123-gen",
+      "text": "These entries couldn't easily be incorporated by machine learning language software.",
+      "tag": "generated",
+      "counter_to": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124",
+      "text": "New slang [67] constantly emerges that invents or redefines words and phrases. ",
+      "tag": "",
+      "counter_to": "st-124-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124-gen",
+      "text": "New slang [67] constantly doesn't emerge that invents or redefines words and phrases.",
+      "tag": "generated",
+      "counter_to": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125",
+      "text": "Machine learning language software is capable of adapting to these changes. ",
+      "tag": "",
+      "counter_to": "st-125-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125-gen",
+      "text": "Machine learning language software isn't capable of adapting to these changes.",
+      "tag": "generated",
+      "counter_to": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126",
+      "text": "It is likely that these technical difficulties can be overcome with further research and development. ",
+      "tag": "",
+      "counter_to": "st-126-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126-gen",
+      "text": "It isn't likely that these technical difficulties can be overcome with further research and development.",
+      "tag": "generated",
+      "counter_to": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127",
+      "text": "Google Translate has greatly improved [68] since its inception and is now about 90% accurate [69] for most texts. ",
+      "tag": "",
+      "counter_to": "st-127-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127-gen",
+      "text": "Google Translate hasn't greatly improved [68] since its inception and is now about 90% accurate [69] for most texts.",
+      "tag": "generated",
+      "counter_to": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128",
+      "text": "A global language would not succeed due to practical limitations involving the inherent nature of language. ",
+      "tag": "",
+      "counter_to": "st-128-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128-gen",
+      "text": "A global language would succeed due to practical limitations involving the inherent nature of language.",
+      "tag": "generated",
+      "counter_to": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129",
+      "text": "Words cannot translate perfectly across different populations, due to diversity of lived experience and lexical needs. ",
+      "tag": "",
+      "counter_to": "st-129-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129-gen",
+      "text": "Words can translate perfectly across different populations, due to diversity of lived experience and lexical needs.",
+      "tag": "generated",
+      "counter_to": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130",
+      "text": "There are lots of examples of words only existing in one language. ",
+      "tag": "",
+      "counter_to": "st-130-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130-gen",
+      "text": "There aren't lots of examples of words only existing in one language.",
+      "tag": "generated",
+      "counter_to": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131",
+      "text": "The global language could incorporate such words. Lots of English words are already used [70] in other languages for this very reason. ",
+      "tag": "",
+      "counter_to": "st-131-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131-gen",
+      "text": "The global language couldn't incorporate such words. Lots of English words are already used [70] in other languages for this very reason.",
+      "tag": "generated",
+      "counter_to": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132",
+      "text": "These words could be recreated in a new, global language. ",
+      "tag": "",
+      "counter_to": "st-132-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132-gen",
+      "text": "These words couldn't be recreated in a new, global language.",
+      "tag": "generated",
+      "counter_to": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133",
+      "text": "The word 'hiraeth' [71] in Welsh means a longing or nostalgia for someone/something/somewhere. It doesn't have an equivalent in any other language. ",
+      "tag": "",
+      "counter_to": "st-133-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133-gen",
+      "text": "The word 'hiraeth' [71] in Welsh meanses a longing or nostalgia for someone/something/somewhere. It doeshave an equivalent in any other language.",
+      "tag": "generated",
+      "counter_to": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134",
+      "text": "There is 'saudade [72]' in Portuguese, which could be equivalent. ",
+      "tag": "",
+      "counter_to": "st-134-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134-gen",
+      "text": "There doesn't be 'saudade [72]' in Portuguese, which could be equivalent.",
+      "tag": "generated",
+      "counter_to": "st-134",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135",
+      "text": "The Korean word 'nunchi [73]' does not have an equivalent in other languages. ",
+      "tag": "",
+      "counter_to": "st-135-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135-gen",
+      "text": "The Korean word 'nunchi [73]' has an equivalent in other languages.",
+      "tag": "generated",
+      "counter_to": "st-135",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136",
+      "text": "A global language could incorporate all culturally unique words into its lexicon. ",
+      "tag": "",
+      "counter_to": "st-136-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136-gen",
+      "text": "A global language couldn't incorporate all culturally unique words into its lexicon.",
+      "tag": "generated",
+      "counter_to": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137",
+      "text": "There are things that can't be translated [74] into other languages because the cultures are so different. Trying to do so would be inefficient and impractical. ",
+      "tag": "",
+      "counter_to": "st-137-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137-gen",
+      "text": "There are things that cabe translated [74] into other languages because the cultures are so different. Trying to do so would be inefficient and impractical.",
+      "tag": "generated",
+      "counter_to": "st-137",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138",
+      "text": "Loanwords [75] are already common in languages, and a global language would likely include many of them. ",
+      "tag": "",
+      "counter_to": "st-138-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138-gen",
+      "text": "Loanwords [75] aren't already common in languages, and a global language would likely include many of them.",
+      "tag": "generated",
+      "counter_to": "st-138",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139",
+      "text": "It is easy to predict the failure of anything; this doesn't constitute proof that it will happen. ",
+      "tag": "",
+      "counter_to": "st-139-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139-gen",
+      "text": "It is easy to predict the failure of anything; this does constitute proof that it will happen.",
+      "tag": "generated",
+      "counter_to": "st-139",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140",
+      "text": "Over time, regional varieties of the global language would develop, eventually leading to distinct languages, which would make its original purpose futile. ",
+      "tag": "",
+      "counter_to": "st-140-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140-gen",
+      "text": "Over time, regional varieties of the global language wouldn't develop, eventually leading to distinct languages, which would make its original purpose futile.",
+      "tag": "generated",
+      "counter_to": "st-140",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141",
+      "text": "With constant control and education we could minimalize changes, which will lead to small differences but wouldn't make it impossible to understand. ",
+      "tag": "",
+      "counter_to": "st-141-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141-gen",
+      "text": "With constant control and education we could minimalize changes, which will lead to small differences but wouldmake it impossible to understand.",
+      "tag": "generated",
+      "counter_to": "st-141",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142",
+      "text": "Geographical and social differences are what created different varieties of language in the first place. ",
+      "tag": "",
+      "counter_to": "st-142-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142-gen",
+      "text": "Geographical and social differences aren't what created different varieties of language in the first place.",
+      "tag": "generated",
+      "counter_to": "st-142",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143",
+      "text": "The wide variety of Indo-European languages [76] likely had one common ancestor [77] that spread and diversified over time and vast distances. ",
+      "tag": "",
+      "counter_to": "st-143-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143-gen",
+      "text": "The wide variety of Indo-European languages [76] likely didn't have one common ancestor [77] that spread and diversified over time and vast distances.",
+      "tag": "generated",
+      "counter_to": "st-143",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144",
+      "text": "This process took thousands of years, during which time communication [78] between regions was sporadic and unreliable. In a modern, globalized world, shared experiences and instantaneous communication would slow this process. ",
+      "tag": "",
+      "counter_to": "st-144-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144-gen",
+      "text": "This process took thousands of years, during which time communication [78] between regions wasn't sporadic and unreliable. In a modern, globalized world, shared experiences and instantaneous communication would slow this process.",
+      "tag": "generated",
+      "counter_to": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145",
+      "text": "At the same time, there is a generational divide due to this spur of instant communication demonstrated simply due to things such as 1337speech [79] or other forms of internet slang [80]. ",
+      "tag": "",
+      "counter_to": "st-145-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145-gen",
+      "text": "At the same time, there isn't a generational divide due to this spur of instant communication demonstrated simply due to things such as 1337speech [79] or other forms of internet slang [80].",
+      "tag": "generated",
+      "counter_to": "st-145",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146",
+      "text": "These differences can become even more noticeable if humanity becomes an interplanetary species as well, Terran English could be vastly different than Martian English over enough time. ",
+      "tag": "",
+      "counter_to": "st-146-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146-gen",
+      "text": "These differences can't become even more noticeable if humanity becomes an interplanetary species as well, Terran English could be vastly different than Martian English over enough time.",
+      "tag": "generated",
+      "counter_to": "st-146",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147",
+      "text": "This process would likely take hundreds of years, during which time the benefits of a global language would be realized. ",
+      "tag": "",
+      "counter_to": "st-147-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147-gen",
+      "text": "This process wouldn't likely take hundreds of years, during which time the benefits of a global language would be realized.",
+      "tag": "generated",
+      "counter_to": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148",
+      "text": "Esperanto has been in use for over a century and very little lexical change has occurred. ",
+      "tag": "",
+      "counter_to": "st-148-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148-gen",
+      "text": "Esperanto hasn't been in use for over a century and very little lexical change has occurred.",
+      "tag": "generated",
+      "counter_to": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149",
+      "text": "Esperanto is a niche language with few native speakers [81]. A truly globalized language would evolve more quickly. ",
+      "tag": "",
+      "counter_to": "st-149-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149-gen",
+      "text": "Esperanto isn't a niche language with few native speakers [81]. A truly globalized language would evolve more quickly.",
+      "tag": "generated",
+      "counter_to": "st-149",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150",
+      "text": "Some languages, such as Icelandic [82], evolve very slowly, allowing modern day people to connect with their ancestors' writings from more than a thousand years ago. ",
+      "tag": "",
+      "counter_to": "st-150-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150-gen",
+      "text": "Some languages, such as Icelandic [82], don't evolve very slowly, allowing modern day people to connect with their ancestors' writings from more than a thousand years ago.",
+      "tag": "generated",
+      "counter_to": "st-150",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151",
+      "text": "Even if humans did create a global language and made it mandatory, not every member of the human race would be able or willing to learn it. ",
+      "tag": "",
+      "counter_to": "st-151-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151-gen",
+      "text": "Even if humans did create a global language and made it mandatory, every member of the human race would be able or willing to learn it.",
+      "tag": "generated",
+      "counter_to": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152",
+      "text": "This argument pedantically exaggerates what is meant by 'single global language'. If the vast majority of the world’s population speaks it, we should consider the goal achieved. ",
+      "tag": "",
+      "counter_to": "st-152-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152-gen",
+      "text": "This argument pedantically doesn't exaggerate what is meant by 'single global language'. If the vast majority of the world’s population speaks it, we should consider the goal achieved.",
+      "tag": "generated",
+      "counter_to": "st-152",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153",
+      "text": "Not all people would accept the imposition of the new language. ",
+      "tag": "",
+      "counter_to": "st-153-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153-gen",
+      "text": "Not all people wouldn't accept the imposition of the new language.",
+      "tag": "generated",
+      "counter_to": "st-153",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154",
+      "text": "Historians and people who are passionate about learning extinct languages would keep the old languages alive. ",
+      "tag": "",
+      "counter_to": "st-154-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154-gen",
+      "text": "Historians and people who are passionate about learning extinct languages wouldn't keep the old languages alive.",
+      "tag": "generated",
+      "counter_to": "st-154",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155",
+      "text": "Attempts to resurrect [83] near-extinct languages as living languages typically fail without significant motive beyond antiquarian interest and even then do not resurrect them as they once were. ",
+      "tag": "",
+      "counter_to": "st-155-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155-gen",
+      "text": "Attempts to resurrect [83] near-extinct languages as living languages typically fail without significant motive beyond antiquarian interest and even then do resurrect them as they once were.",
+      "tag": "generated",
+      "counter_to": "st-155",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156",
+      "text": "After a few generations, people would naturally agree to learn the new language, as not knowing it would likely limit their educational, economic, and social opportunities. ",
+      "tag": "",
+      "counter_to": "st-156-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156-gen",
+      "text": "After a few generations, people would naturally agree to learn the new language, as knowing it would likely limit their educational, economic, and social opportunities.",
+      "tag": "generated",
+      "counter_to": "st-156",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157",
+      "text": "Some people might feel that a new language would impede upon their identity and traditions. ",
+      "tag": "",
+      "counter_to": "st-157-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157-gen",
+      "text": "Some people mightn't feel that a new language would impede upon their identity and traditions.",
+      "tag": "generated",
+      "counter_to": "st-157",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158",
+      "text": "A global language could not be truly universal, as deaf people use sign language, and blind people use braille. ",
+      "tag": "",
+      "counter_to": "st-158-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158-gen",
+      "text": "A global language could be truly universal, as deaf people use sign language, and blind people use braille.",
+      "tag": "generated",
+      "counter_to": "st-158",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159",
+      "text": "Deaf and blind people still understand languages like anyone else, they just have different methods of expressing or consuming that language. The same would apply to a global language. ",
+      "tag": "",
+      "counter_to": "st-159-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159-gen",
+      "text": "Deaf and blind people still understand languages like anyone else, they just don't have different methods of expressing or consuming that language. The same would apply to a global language.",
+      "tag": "generated",
+      "counter_to": "st-159",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160",
+      "text": "There is a braille alphabet for different languages, including English [84], Esperanto [85], and Chinese [86]. A braille system could be similarly adopted for any global language. ",
+      "tag": "",
+      "counter_to": "st-160-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160-gen",
+      "text": "There isn't a braille alphabet for different languages, including English [84], Esperanto [85], and Chinese [86]. A braille system could be similarly adopted for any global language.",
+      "tag": "generated",
+      "counter_to": "st-160",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161",
+      "text": "The global language could be a sign language. A sign language can be used by blind people also, by using tactile signing. ",
+      "tag": "",
+      "counter_to": "st-161-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161-gen",
+      "text": "The global language couldn't be a sign language. A sign language can be used by blind people also, by using tactile signing.",
+      "tag": "generated",
+      "counter_to": "st-161",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162",
+      "text": "The creation of a single global language is not possible because it is too difficult to reach every individual with this concept. ",
+      "tag": "",
+      "counter_to": "st-162-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162-gen",
+      "text": "The creation of a single global language is possible because it is too difficult to reach every individual with this concept.",
+      "tag": "generated",
+      "counter_to": "st-162",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163",
+      "text": "There is not yet free internet access [87] all over the world and limited resources for travel and the distribution of learning materials. ",
+      "tag": "",
+      "counter_to": "st-163-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163-gen",
+      "text": "There is yet free internet access [87] all over the world and limited resources for travel and the distribution of learning materials.",
+      "tag": "generated",
+      "counter_to": "st-163",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164",
+      "text": "There is a lack of communication between different peoples that will make it impossible to have every individual in the world speak the same language. ",
+      "tag": "",
+      "counter_to": "st-164-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164-gen",
+      "text": "There isn't a lack of communication between different peoples that will make it impossible to have every individual in the world speak the same language.",
+      "tag": "generated",
+      "counter_to": "st-164",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165",
+      "text": "Different peoples do not need to talk to each other to implement a global language as long as governments can agree to promote the language within their territories. ",
+      "tag": "",
+      "counter_to": "st-165-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165-gen",
+      "text": "Different peoples need to talk to each other to implement a global language as long as governments can agree to promote the language within their territories.",
+      "tag": "generated",
+      "counter_to": "st-165",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166",
+      "text": "Given enough time, it is possible for everyone to be made familiar with the global language. ",
+      "tag": "",
+      "counter_to": "st-166-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166-gen",
+      "text": "Given enough time, it isn't possible for everyone to be made familiar with the global language.",
+      "tag": "generated",
+      "counter_to": "st-166",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167",
+      "text": "The existence of languages like Spanish [88] and English [89] in multiple continents shows that language can be successfully spread and maintained across great distances and times. ",
+      "tag": "",
+      "counter_to": "st-167-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167-gen",
+      "text": "The existence of languages like Spanish [88] and English [89] in multiple continents doesn't show that language can be successfully spread and maintained across great distances and times.",
+      "tag": "generated",
+      "counter_to": "st-167",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168",
+      "text": "Both Spanish [90] and English [91] came to the Americas hundreds of years ago, and yet these languages can still be understood by native speakers around the world, despite varieties in local dialects. ",
+      "tag": "",
+      "counter_to": "st-168-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168-gen",
+      "text": "Both Spanish [90] and English [91] didn't come to the Americas hundreds of years ago, and yet these languages can still be understood by native speakers around the world, despite varieties in local dialects.",
+      "tag": "generated",
+      "counter_to": "st-168",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169",
+      "text": "Many achievements that were previously thought impractical or impossible were realized through concerted effort. ",
+      "tag": "",
+      "counter_to": "st-169-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169-gen",
+      "text": "Many achievements that were previously thought impractical or impossible weren't realized through concerted effort.",
+      "tag": "generated",
+      "counter_to": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170",
+      "text": "For thousands of years people believed that traveling to the moon was a fantasy that belonged in the realm of science fiction [92]. ",
+      "tag": "",
+      "counter_to": "st-170-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170-gen",
+      "text": "For thousands of years people believed that traveling to the moon wasn't a fantasy that belonged in the realm of science fiction [92].",
+      "tag": "generated",
+      "counter_to": "st-170",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171",
+      "text": "There are also countless examples [93] of impractical endeavors that were undertaken, only to fail. ",
+      "tag": "",
+      "counter_to": "st-171-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171-gen",
+      "text": "There aren't also countless examples [93] of impractical endeavors that were undertaken, only to fail.",
+      "tag": "generated",
+      "counter_to": "st-171",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172",
+      "text": "Humans could use the implementation of a global language to construct [94] a better language for everyone. ",
+      "tag": "",
+      "counter_to": "st-172-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172-gen",
+      "text": "Humans couldn't use the implementation of a global language to construct [94] a better language for everyone.",
+      "tag": "generated",
+      "counter_to": "st-172",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173",
+      "text": "Esperanto [95] is proof that an efficient, global language can be developed. ",
+      "tag": "",
+      "counter_to": "st-173-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173-gen",
+      "text": "Esperanto [95] isn't proof that an efficient, global language can be developed.",
+      "tag": "generated",
+      "counter_to": "st-173",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174",
+      "text": "Esperanto has 16 grammar rules [96], applied without exception, which makes it more simple. ",
+      "tag": "",
+      "counter_to": "st-174-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174-gen",
+      "text": "Esperanto doesn't have 16 grammar rules [96], applied without exception, which makes it more simple.",
+      "tag": "generated",
+      "counter_to": "st-174",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175",
+      "text": "Esperanto has an ingenious system for constructing words [97] from essential building blocks, which allows for complexity and rapid expansion of vocabulary. ",
+      "tag": "",
+      "counter_to": "st-175-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175-gen",
+      "text": "Esperanto doesn't have an ingenious system for constructing words [97] from essential building blocks, which allows for complexity and rapid expansion of vocabulary.",
+      "tag": "generated",
+      "counter_to": "st-175",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176",
+      "text": "Esperanto's vocabulary is based on various existing language groups, making it relatable. ",
+      "tag": "",
+      "counter_to": "st-176-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176-gen",
+      "text": "Esperanto's vocabulary isn't based on various existing language groups, making it relatable.",
+      "tag": "generated",
+      "counter_to": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177",
+      "text": "Esperanto is only relatable to speakers of European languages, which biases [98] them in favor of Asian or African language speakers. ",
+      "tag": "",
+      "counter_to": "st-177-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177-gen",
+      "text": "Esperanto isn't only relatable to speakers of European languages, which biases [98] them in favor of Asian or African language speakers.",
+      "tag": "generated",
+      "counter_to": "st-177",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178",
+      "text": "Esperanto is too basic and doesn't convey complex ideas well. ",
+      "tag": "",
+      "counter_to": "st-178-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178-gen",
+      "text": "Esperanto is too basic and doesconvey complex ideas well.",
+      "tag": "generated",
+      "counter_to": "st-178",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179",
+      "text": "The power of expressing complex ideas is the same for Esperanto as for natural languages, as demonstrated by the amount of original Esperanto literature [99], some of which was nominated for the Nobel prize [100]. ",
+      "tag": "",
+      "counter_to": "st-179-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179-gen",
+      "text": "The power of not expressing complex ideas is the same for Esperanto as for natural languages, as demonstrated by the amount of original Esperanto literature [99], some of which was nominated for the Nobel prize [100].",
+      "tag": "generated",
+      "counter_to": "st-179",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180",
+      "text": "Many famous books have been translated [101] into Esperanto, which wouldn't have been possible if it didn't express complex ideas well. ",
+      "tag": "",
+      "counter_to": "st-180-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180-gen",
+      "text": "Many famous books have been translated [101] into Esperanto, which would have been possible if it didn't express complex ideas well.",
+      "tag": "generated",
+      "counter_to": "st-180",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181",
+      "text": "There are a very limited number of root words [102] in Esperanto, compared to the hundreds of thousands [103] of words in languages like English. ",
+      "tag": "",
+      "counter_to": "st-181-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181-gen",
+      "text": "There aren't a very limited number of root words [102] in Esperanto, compared to the hundreds of thousands [103] of words in languages like English.",
+      "tag": "generated",
+      "counter_to": "st-181",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182",
+      "text": "Esperanto is proof that even if you develop a \"better\" language, it will probably remain niche. ",
+      "tag": "",
+      "counter_to": "st-182-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182-gen",
+      "text": "Esperanto isn't proof that even if you develop a \"better\" language, it will probably remain niche.",
+      "tag": "generated",
+      "counter_to": "st-182",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183",
+      "text": "Esperanto is already well-established. There are organized speakers of the language in 120+ countries, and the Universala Kongreso [104] gathers, on average, 2000 Esperantists every year. ",
+      "tag": "",
+      "counter_to": "st-183-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183-gen",
+      "text": "Esperanto isn't already well-established. There are organized speakers of the language in 120+ countries, and the Universala Kongreso [104] gathers, on average, 2000 Esperantists every year.",
+      "tag": "generated",
+      "counter_to": "st-183",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184",
+      "text": "This is almost nothing compared to the goal of having an universal world language. ",
+      "tag": "",
+      "counter_to": "st-184-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184-gen",
+      "text": "This isn't almost nothing compared to the goal of having an universal world language.",
+      "tag": "generated",
+      "counter_to": "st-184",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185",
+      "text": "Starting over with a new language isn't going to get humanity closer to the goal either. Either we need to develop and support Esperanto or give up on this project. ",
+      "tag": "",
+      "counter_to": "st-185-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185-gen",
+      "text": "Starting over with a new language is going to get humanity closer to the goal either. Either we need to develop and support Esperanto or give up on this project.",
+      "tag": "generated",
+      "counter_to": "st-185",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186",
+      "text": "Esperanto and other universal languages have remained niche as there is no push from large international institutions such as the UN to implement a constructed universal language. ",
+      "tag": "",
+      "counter_to": "st-186-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186-gen",
+      "text": "Esperanto and other universal languages haven't remained niche as there is no push from large international institutions such as the UN to implement a constructed universal language.",
+      "tag": "generated",
+      "counter_to": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187",
+      "text": "The League of Nations in 1924 unanimously recommended [105] that countries support the language’s development, showing the feasibility of gaining support from a supranational body politic. Yet even with such support, Esperanto failed to catch on. ",
+      "tag": "",
+      "counter_to": "st-187-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187-gen",
+      "text": "The League of Nations in 1924 unanimously didn't recommend [105] that countries support the language’s development, showing the feasibility of gaining support from a supranational body politic. Yet even with such support, Esperanto failed to catch on.",
+      "tag": "generated",
+      "counter_to": "st-187",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188",
+      "text": "The single case of Esperanto is not sufficient evidence that other constructed languages might not be more successful. ",
+      "tag": "",
+      "counter_to": "st-188-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188-gen",
+      "text": "The single case of Esperanto is sufficient evidence that other constructed languages might not be more successful.",
+      "tag": "generated",
+      "counter_to": "st-188",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189",
+      "text": "Despite existing for more than a century, Esperanto only has around a thousand native speakers [106] today. ",
+      "tag": "",
+      "counter_to": "st-189-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189-gen",
+      "text": "Despite existing for more than a century, Esperanto only doesn't have around a thousand native speakers [106] today.",
+      "tag": "generated",
+      "counter_to": "st-189",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190",
+      "text": "Creating a new language other than Esperanto would alienate the Esperanto community [107], who arguably has the most enthusiasm of all for the dispersion of a neutral, global language. ",
+      "tag": "",
+      "counter_to": "st-190-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190-gen",
+      "text": "Not Creating a new language other than Esperanto would alienate the Esperanto community [107], who arguably has the most enthusiasm of all for the dispersion of a neutral, global language.",
+      "tag": "generated",
+      "counter_to": "st-190",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191",
+      "text": "Any claim that one language or language feature is \"better\" than another is completely subjective. ",
+      "tag": "",
+      "counter_to": "st-191-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191-gen",
+      "text": "Any claim that one language or language feature isn't \"better\" than another is completely subjective.",
+      "tag": "generated",
+      "counter_to": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192",
+      "text": "Any attempt to define criteria by which a new, artificial language could be \"better\" than all other languages would necessarily privilege some cultural patterns over others. ",
+      "tag": "",
+      "counter_to": "st-192-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192-gen",
+      "text": "Any attempt to define criteria by which a new, artificial language could be \"better\" than all other languages wouldn't necessarily privilege some cultural patterns over others.",
+      "tag": "generated",
+      "counter_to": "st-192",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193",
+      "text": "It is possible for a language to be objectively better. The main goal of a language is to convey thoughts and feelings. A language can be better or worse at this. ",
+      "tag": "",
+      "counter_to": "st-193-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193-gen",
+      "text": "It doesn't be possible for a language to be objectively better. The main goal of a language is to convey thoughts and feelings. A language can be better or worse at this.",
+      "tag": "generated",
+      "counter_to": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194",
+      "text": "Languages have a variety of design features which objectively impact communicative efficiency, including learning time. ",
+      "tag": "",
+      "counter_to": "st-194-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194-gen",
+      "text": "Languages don't have a variety of design features which objectively impact communicative efficiency, including learning time.",
+      "tag": "generated",
+      "counter_to": "st-194",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195",
+      "text": "Many languages [108], including English [109], have exceptionally irregular spelling systems that make them more difficult to learn. ",
+      "tag": "",
+      "counter_to": "st-195-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195-gen",
+      "text": "Many languages [108], including English [109], don't have exceptionally irregular spelling systems that make them more difficult to learn.",
+      "tag": "generated",
+      "counter_to": "st-195",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196",
+      "text": "Creating a universal language and spreading its use worldwide is a disproportionate effort for something that doesn't represent a real problem. ",
+      "tag": "",
+      "counter_to": "st-196-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196-gen",
+      "text": "Creating a universal language and spreading its use worldwide is a disproportionate effort for something that does represent a real problem.",
+      "tag": "generated",
+      "counter_to": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197",
+      "text": "It doesn't represent a real problem to English speakers, as English is the language of privilege [110]. The vast majority of non-English-speaking global citizens would likely disagree. ",
+      "tag": "",
+      "counter_to": "st-197-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197-gen",
+      "text": "It represents a real problem to English speakers, as English is the language of privilege [110]. The vast majority of non-English-speaking global citizens would likely disagree.",
+      "tag": "generated",
+      "counter_to": "st-197",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198",
+      "text": "Fostering bilingualism through the continued spreading of English worldwide is easier and will preserve diverse cultures and languages better. ",
+      "tag": "",
+      "counter_to": "st-198-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198-gen",
+      "text": "Fostering bilingualism through the continued spreading of English worldwide isn't easier and will preserve diverse cultures and languages better.",
+      "tag": "generated",
+      "counter_to": "st-198",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199",
+      "text": "Many widely spoken languages already overcome language barriers successfully. ",
+      "tag": "",
+      "counter_to": "st-199-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199-gen",
+      "text": "Many widely spoken languages already don't overcome language barriers successfully.",
+      "tag": "generated",
+      "counter_to": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200",
+      "text": "The European Commission’s DG Translation costs 330 million euro per year. [111] Having one global language would allow this money to be spent on better things. ",
+      "tag": "",
+      "counter_to": "st-200-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200-gen",
+      "text": "The European Commission’s DG Translation doesn't cost 330 million euro per year. [111] Having one global language would allow this money to be spent on better things.",
+      "tag": "generated",
+      "counter_to": "st-200",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201",
+      "text": "English is already the dominant global language [112] for international trade and cooperation, as well as research. ",
+      "tag": "",
+      "counter_to": "st-201-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201-gen",
+      "text": "English isn't already the dominant global language [112] for international trade and cooperation, as well as research.",
+      "tag": "generated",
+      "counter_to": "st-201",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202",
+      "text": "People already make the effort of learning languages to communicate with those who don't speak their language. ",
+      "tag": "",
+      "counter_to": "st-202-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202-gen",
+      "text": "People already make the effort of learning languages to communicate with those who dospeak their language.",
+      "tag": "generated",
+      "counter_to": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203",
+      "text": "As language learning is time intensive [113], giving language learners the best return on investment for that time and money is justified. ",
+      "tag": "",
+      "counter_to": "st-203-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203-gen",
+      "text": "As language learning isn't time intensive [113], giving language learners the best return on investment for that time and money is justified.",
+      "tag": "generated",
+      "counter_to": "st-203",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204",
+      "text": "Society is not obligated to compensate people for actions that they undertake voluntarily. ",
+      "tag": "",
+      "counter_to": "st-204-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204-gen",
+      "text": "Society is obligated to compensate people for actions that they undertake voluntarily.",
+      "tag": "generated",
+      "counter_to": "st-204",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205",
+      "text": "This time and effort could be better spent on other activities if everyone spoke the same language. ",
+      "tag": "",
+      "counter_to": "st-205-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205-gen",
+      "text": "This time and effort couldn't be better spent on other activities if everyone spoke the same language.",
+      "tag": "generated",
+      "counter_to": "st-205",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206",
+      "text": "Many languages include a sexist and binary view of gender [114]. A new language could be more equal and allow people to more easily talk about those with non-binary gender. ",
+      "tag": "",
+      "counter_to": "st-206-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206-gen",
+      "text": "Many languages don't include a sexist and binary view of gender [114]. A new language could be more equal and allow people to more easily talk about those with non-binary gender.",
+      "tag": "generated",
+      "counter_to": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207",
+      "text": "Existing languages are finding ways to change their language [115] to be more gender inclusive. ",
+      "tag": "",
+      "counter_to": "st-207-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207-gen",
+      "text": "Existing languages aren't finding ways to change their language [115] to be more gender inclusive.",
+      "tag": "generated",
+      "counter_to": "st-207",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208",
+      "text": "These changes have brought about fierce resistance [116] by language traditionalists. ",
+      "tag": "",
+      "counter_to": "st-208-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208-gen",
+      "text": "These changes haven't brought about fierce resistance [116] by language traditionalists.",
+      "tag": "generated",
+      "counter_to": "st-208",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209",
+      "text": "Sexism is built in [117] to many languages, which can have harmful effects on women in these societies. ",
+      "tag": "",
+      "counter_to": "st-209-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209-gen",
+      "text": "Sexism isn't built in [117] to many languages, which can have harmful effects on women in these societies.",
+      "tag": "generated",
+      "counter_to": "st-209",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210",
+      "text": "A language with an easier writing and spelling system would benefit people with dyslexia and other learning issues. ",
+      "tag": "",
+      "counter_to": "st-210-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210-gen",
+      "text": "A language with an easier writing and spelling system wouldn't benefit people with dyslexia and other learning issues.",
+      "tag": "generated",
+      "counter_to": "st-210",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211",
+      "text": "Dyslexia is found [118] even in languages without alphabets, so it is unlikely that the creation of a new language will significantly benefit these people. ",
+      "tag": "",
+      "counter_to": "st-211-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211-gen",
+      "text": "Dyslexia isn't found [118] even in languages without alphabets, so it is unlikely that the creation of a new language will significantly benefit these people.",
+      "tag": "generated",
+      "counter_to": "st-211",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212",
+      "text": "Dyslexia varies in nature and presentation across speakers of different languages [119], to the point where it almost constitutes a different condition. As such, a singular language would not be able to benefit everyone equally. ",
+      "tag": "",
+      "counter_to": "st-212-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212-gen",
+      "text": "Dyslexia varieses in nature and presentation across speakers of different languages [119], to the point where it almost constitutes a different condition. As such, a singular language would be able to benefit everyone equally.",
+      "tag": "generated",
+      "counter_to": "st-212",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213",
+      "text": "Learning foreign languages [120] can be incredibly challenging for those with dyslexia. A singular global language would remove this barrier for communication. ",
+      "tag": "",
+      "counter_to": "st-213-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213-gen",
+      "text": "Not Learning foreign languages [120] can be incredibly challenging for those with dyslexia. A singular global language would remove this barrier for communication.",
+      "tag": "generated",
+      "counter_to": "st-213",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214",
+      "text": "If we want to have a single global language, it's so much easier to choose an existing language than to construct a new one. ",
+      "tag": "",
+      "counter_to": "st-214-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214-gen",
+      "text": "If we want to have a single global language, it isn't so much easier to choose an existing language than to construct a new one.",
+      "tag": "generated",
+      "counter_to": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215",
+      "text": "The creation of a new language could involve the whole world. This kind of an open source project would allow for the world's various cultures to have a sense of agency over the process and resulting language. ",
+      "tag": "",
+      "counter_to": "st-215-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215-gen",
+      "text": "The creation of a new language couldn't involve the whole world. This kind of an open source project would allow for the world's various cultures to have a sense of agency over the process and resulting language.",
+      "tag": "generated",
+      "counter_to": "st-215",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216",
+      "text": "Choosing an existing language is inherently unfair, as it privileges the existing native speakers. ",
+      "tag": "",
+      "counter_to": "st-216-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216-gen",
+      "text": "Not Choosing an existing language is inherently unfair, as it privileges the existing native speakers.",
+      "tag": "generated",
+      "counter_to": "st-216",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217",
+      "text": "Choosing a widely spoken language like English would limit the number of people who have to learn it and thus the amount of resources involved. ",
+      "tag": "",
+      "counter_to": "st-217-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217-gen",
+      "text": "Not Choosing a widely spoken language like English would limit the number of people who have to learn it and thus the amount of resources involved.",
+      "tag": "generated",
+      "counter_to": "st-217",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218",
+      "text": "There is already a great deal of existing English language instruction infrastructure, expertise, and materials [121] available for use (p 9). ",
+      "tag": "",
+      "counter_to": "st-218-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218-gen",
+      "text": "There isn't already a great deal of existing English language instruction infrastructure, expertise, and materials [121] available for use (p 9).",
+      "tag": "generated",
+      "counter_to": "st-218",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-28",
+      "claim": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-29",
+      "claim": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-30",
+      "claim": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-31",
+      "claim": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-32",
+      "claim": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-33",
+      "claim": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-34",
+      "claim": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-35",
+      "claim": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-36",
+      "claim": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-37",
+      "claim": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-38",
+      "claim": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-39",
+      "claim": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-40",
+      "claim": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-41",
+      "claim": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-42",
+      "claim": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-43",
+      "claim": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-44",
+      "claim": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-45",
+      "claim": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-46",
+      "claim": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-47",
+      "claim": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-48",
+      "claim": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-49",
+      "claim": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-50",
+      "claim": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-51",
+      "claim": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-52",
+      "claim": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-53",
+      "claim": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-54",
+      "claim": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-55",
+      "claim": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-56",
+      "claim": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-57",
+      "claim": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-58",
+      "claim": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-59",
+      "claim": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-60",
+      "claim": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-61",
+      "claim": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-62",
+      "claim": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-63",
+      "claim": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-64",
+      "claim": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-65",
+      "claim": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-66",
+      "claim": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-67",
+      "claim": "st-140",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-68",
+      "claim": "st-142",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-69",
+      "claim": "st-143",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-70",
+      "claim": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-71",
+      "claim": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-72",
+      "claim": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-73",
+      "claim": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-74",
+      "claim": "st-153",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-75",
+      "claim": "st-154",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-76",
+      "claim": "st-158",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-77",
+      "claim": "st-159",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-78",
+      "claim": "st-162",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-79",
+      "claim": "st-164",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-80",
+      "claim": "st-167",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-81",
+      "claim": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-82",
+      "claim": "st-172",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-83",
+      "claim": "st-173",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-84",
+      "claim": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-85",
+      "claim": "st-178",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-86",
+      "claim": "st-179",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-87",
+      "claim": "st-182",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-88",
+      "claim": "st-183",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-89",
+      "claim": "st-184",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-90",
+      "claim": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-91",
+      "claim": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-92",
+      "claim": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-93",
+      "claim": "st-194",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-94",
+      "claim": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-95",
+      "claim": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-96",
+      "claim": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-97",
+      "claim": "st-203",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-98",
+      "claim": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-99",
+      "claim": "st-207",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-100",
+      "claim": "st-210",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-101",
+      "claim": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-102",
+      "claim": "st-217",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-97"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-172"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-78"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-86"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-90"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-62"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-69"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-77"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-76"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-79"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-81"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-83"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-85"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-80"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-82"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-84"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-87"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-89"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-88"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-91"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-95"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-92"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-93"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-94"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-96"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-98"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-108"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-128"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-169"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-99"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-101"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-104"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-107"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-100"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-102"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-103"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-105"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-106"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-109"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-113"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-114"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-117"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-110"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-111"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-112"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-115"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-116"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-118"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-127"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-119"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-121"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-126"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-120"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-122"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-124"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-125"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-123"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-129"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-139"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-140"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-151"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-167"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-130"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-136"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-131"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-132"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-133"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-135"
+    },
+    {
+      "argument": "arg-65",
+      "premise": "st-134"
+    },
+    {
+      "argument": "arg-66",
+      "premise": "st-137"
+    },
+    {
+      "argument": "arg-66",
+      "premise": "st-138"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-141"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-142"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-147"
+    },
+    {
+      "argument": "arg-68",
+      "premise": "st-143"
+    },
+    {
+      "argument": "arg-68",
+      "premise": "st-146"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-144"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-145"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-148"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-150"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-149"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-152"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-153"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-158"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-162"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-154"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-156"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-157"
+    },
+    {
+      "argument": "arg-75",
+      "premise": "st-155"
+    },
+    {
+      "argument": "arg-76",
+      "premise": "st-159"
+    },
+    {
+      "argument": "arg-76",
+      "premise": "st-161"
+    },
+    {
+      "argument": "arg-77",
+      "premise": "st-160"
+    },
+    {
+      "argument": "arg-78",
+      "premise": "st-163"
+    },
+    {
+      "argument": "arg-78",
+      "premise": "st-164"
+    },
+    {
+      "argument": "arg-78",
+      "premise": "st-166"
+    },
+    {
+      "argument": "arg-79",
+      "premise": "st-165"
+    },
+    {
+      "argument": "arg-80",
+      "premise": "st-168"
+    },
+    {
+      "argument": "arg-81",
+      "premise": "st-170"
+    },
+    {
+      "argument": "arg-81",
+      "premise": "st-171"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-173"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-191"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-196"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-206"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-210"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-214"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-174"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-175"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-176"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-178"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-182"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-190"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-177"
+    },
+    {
+      "argument": "arg-85",
+      "premise": "st-179"
+    },
+    {
+      "argument": "arg-85",
+      "premise": "st-181"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-180"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-183"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-186"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-188"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-189"
+    },
+    {
+      "argument": "arg-88",
+      "premise": "st-184"
+    },
+    {
+      "argument": "arg-89",
+      "premise": "st-185"
+    },
+    {
+      "argument": "arg-90",
+      "premise": "st-187"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-192"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-193"
+    },
+    {
+      "argument": "arg-92",
+      "premise": "st-194"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-195"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-197"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-198"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-199"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-202"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-200"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-201"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-203"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-205"
+    },
+    {
+      "argument": "arg-97",
+      "premise": "st-204"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-207"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-209"
+    },
+    {
+      "argument": "arg-99",
+      "premise": "st-208"
+    },
+    {
+      "argument": "arg-100",
+      "premise": "st-211"
+    },
+    {
+      "argument": "arg-100",
+      "premise": "st-212"
+    },
+    {
+      "argument": "arg-100",
+      "premise": "st-213"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-215"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-216"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-217"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-218"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-7",
+      "topic": "Should we have a single global language?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/should-we-have-a-single-global-language-9197"
+    }
+  ]
+}

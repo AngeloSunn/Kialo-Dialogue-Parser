@@ -1,0 +1,840 @@
+Discussion Name:
+Should we have a single global language?
+
+1. Thesis:
+We should have a single global language.
+
+  1.1. Con:
+  A global language would kill diversity of thought and culture.
+
+    1.1.1. Pro:
+    Within a generation of implementation, vast amounts of culture and literature would be completely inaccessible. This would represent a massive and irreparable rupture with history.
+
+      1.1.1.1. Con:
+      Most culture and literature are already inaccessible today to those who only speak one or two of the 7100 existing languages [1].
+
+      1.1.1.2. Pro:
+      Anything that did not get translated into the new global language by the last native speakers of old languages would be lost.
+
+        1.1.1.2.1. Con:
+        Efforts could be made to translate all important works as part of the transition to the new language.
+
+        1.1.1.2.2. Pro:
+        Over time, a single global language would likely increase the number of undecipherable writing systems [2] that our descendants would inherit.
+
+      1.1.1.3. Con:
+      Machine learning will likely one day be able to decipher [3] any languages that have been lost as a result of this shift to a global language.
+
+    1.1.2. Con:
+    The existence of a global language does not necessarily involve the eradication of others.
+
+      1.1.2.1. Pro:
+      The appropriation of English by various societies has allowed them to integrate the language [4] into their culture, but not necessarily at the expense of their native language.
+
+        1.1.2.1.1. Pro:
+        English is a de facto lingua franca [5], yet it is not destroying language diversity. As long there is not something like an "English language supremacy", a global language won't kill others.
+
+          1.1.2.1.1.1. Con:
+          Languages are being lost at a rate of nine per year [6], and the losses are expected to accelerate over the coming century.
+
+      1.1.2.2. Pro:
+      A global language can coexist with other languages as a universal "second language".
+
+        1.1.2.2.1. Pro:
+        To the extent that there is an Esperanto ideology, it explicitly rejects [7] replacing or subduing national languages. On the contrary, it seeks to provide speakers of different languages a neutral ground, so that one national language does not dominate the other.
+
+        1.1.2.2.2. Pro:
+        Similarly, the existing languages could remain as mandatory second languages in their respective countries.
+
+        1.1.2.2.3. Con:
+        Over time, it is possible that people will become too lazy to learn more than one language and default to the global language for convenience.
+
+      1.1.2.3. Con:
+      The past centuries have seen several languages die out [8] as a few dominant languages reduce people's incentive to maintain minority languages.
+
+    1.1.3. Pro:
+    Using different languages teaches people to think in different ways [9]. Using a single global language would harm this diversity of thought.
+
+      1.1.3.1. Pro:
+      This would lead to the homogenisation of society, whereby a single culture would win out over all others.
+
+        1.1.3.1.1. Con:
+        This is a good thing, as diversity in language and culture is divisive.
+
+          1.1.3.1.1.1. Con:
+          Diversity is inevitable but deliberately embracing it prevents it being divisive.
+
+            1.1.3.1.1.1.1. Pro:
+            By being mindful of diversity awareness [10], people can overcome divisive issues and use diversity to their advantage.
+
+          1.1.3.1.1.2. Pro:
+          Language barriers create culture clashes [11].
+
+          1.1.3.1.1.3. Pro:
+          Having a singular culture would likely eliminate harmful cultural practices like female genital mutilation [12] or honor killings [13].
+
+            1.1.3.1.1.3.1. Con:
+            These practices can be eliminated without destroying all cultural diversity.
+
+        1.1.3.1.2. Pro:
+        A language is far more than just a collection of words or sounds to express a message. A language is identity [14], culture [15], and is what makes our world so rich and diverse.
+
+        1.1.3.1.3. Con:
+        Culture is expressed in a myriad of ways - art, dance, architecture - which are not dependent on language.
+
+          1.1.3.1.3.1. Pro:
+          Many forms of visual art are considered a type of universal language [16] themselves.
+
+      1.1.3.2. Pro:
+      Language is used to partition reality [17] into concepts. Different languages provoke different partitionings, which can be more or less suitable to solve thought problems.
+
+      1.1.3.3. Con:
+      Americans, British and Australians speak the same language, yet they have diversity [18] of thought [19] and culture [20].
+
+    1.1.4. Pro:
+    Polyglots have a greater capacity [21] to learn new information and process information in different ways. Having only one language could decrease this function of the brain, which could lead to a lack of innovation and creativity.
+
+      1.1.4.1. Con:
+      One simple global language, easily learned in addition to one's native tongue, would increase the chance of everyone having bilingual brains.
+
+      1.1.4.2. Con:
+      Although computer programming languages do not work exactly the same way as natural languages, they also help maintain [22] these neurological functions. In the future, programming languages will be at least partly responsible for keeping the brain fit.
+
+      1.1.4.3. Con:
+      This assumes the greater capacity to learn new information was caused by knowing the second language. It could equally be the case that the greater capacity caused them to learn the second language, or a third factor that caused both.
+
+      1.1.4.4. Pro:
+      Studies have shown [23] that learning another language may delay the onset of Alzheimer's disease. Eliminating this possibility may result in more Alzheimer's related issues for society.
+
+    1.1.5. Con:
+    A single global language would greatly benefit culture, as it would further encourage people from different cultures to interact and share ideas.
+
+      1.1.5.1. Pro:
+      A equal linguistic footing between cultures would lead to greater equality of opportunity [24] around the world.
+
+        1.1.5.1.1. Pro:
+        A single global language would curb the current advantage [25] of native English speakers in industry, science, academia, etc.
+
+          1.1.5.1.1.1. Pro:
+          Current scientific knowledge is biased [26] towards evidence published in English.
+
+            1.1.5.1.1.1.1. Con:
+            Scientists and academics will still have to cite [27] existing English language research after the implementation of a global language.
+
+        1.1.5.1.2. Con:
+        The earliest adopters of the language would have an advantage over others that could result in lasting disparity.
+
+          1.1.5.1.2.1. Pro:
+          If a global language is taken from an existing language, the original native speakers would have an advantage.
+
+            1.1.5.1.2.1.1. Pro:
+            The global language would likely be built around the grammatical structures of majority languages. Speakers of minority languages would face higher burdens to learning the global language which would make no difference to the status quo.
+
+      1.1.5.2. Pro:
+      A single global language can lead to a deeper understanding between different cultures, facilitating global peace.
+
+        1.1.5.2.1. Pro:
+        Implementation of a global language would require international collaboration and could lead to better interactions between countries, peoples, and groups.
+
+          1.1.5.2.1.1. Pro:
+          Our perspectives, needs, and struggles can be understood by others more clearly instead of getting lost in translation.
+
+          1.1.5.2.1.2. Pro:
+          International students would be able to study abroad without any language barriers.
+
+          1.1.5.2.1.3. Con:
+          It is also likely that negotiations on the manner of implementation could strain relations between various groups.
+
+        1.1.5.2.2. Pro:
+        Empathy between humans happens through communication and requires language [28].
+
+        1.1.5.2.3. Con:
+        A single language would allow hate groups to organize more effectively.
+
+          1.1.5.2.3.1. Pro:
+          Neo-Nazi groups exist in countries around the world [29]. If they all spoke the same language, they could more easily spread their message and coordinate.
+
+  1.2. Pro:
+  A single global language would be beneficial in terms of efficiency.
+
+    1.2.1. Pro:
+    International trade and cooperation would become easier, which would be beneficial for the global economy.
+
+      1.2.1.1. Pro:
+      A single global language spoken in a diversified culture is analogous to a single technological standard [30] that is compatible and understood across different market brands.
+
+        1.2.1.1.1. Pro:
+        Standardization has multiple benefits [31] in terms of efficiency and understanding.
+
+      1.2.1.2. Con:
+      Assuming international cooperation would improve by speaking the same language is a fallacy; nearly all Americans speak the same language, yet they still have disagreements [32].
+
+      1.2.1.3. Con:
+      More international trade could lead to more harmful effects on the environment.
+
+        1.2.1.3.1. Con:
+        If all climate scientists and environmental activists spoke the same language, it is more likely that they could effectively organize ways to combat climate change.
+
+          1.2.1.3.1.1. Con:
+          Climate activists are already overcoming language barriers by voluntarily translating [33] climate-related literature into various languages.
+
+        1.2.1.3.2. Pro:
+        Increasing the effects of globalization [34] is likely to intensify human's negative impacts on the environment.
+
+      1.2.1.4. Pro:
+      International communication will be faster, which means more time to invest in other activities.
+
+        1.2.1.4.1. Pro:
+        Firms could save money on translators and interpreters, instead directing that money elsewhere.
+
+          1.2.1.4.1.1. Con:
+          The universal language would destroy the need for translators, thus leaving hundreds of thousands [35] of people unemployed.
+
+        1.2.1.4.2. Pro:
+        Translation of long documents can take several days [36] and delay progress on projects.
+
+    1.2.2. Pro:
+    With one global language, people will be able to communicate with each other regardless of where they are from.
+
+      1.2.2.1. Pro:
+      A global language would reduce the chance of misinterpretation when solving pressing issues or in emergencies where lives are at stake.
+
+        1.2.2.1.1. Pro:
+        Lives are lost due to translation errors in air traffic control [37], emergency response [38] and medicine [39].
+
+          1.2.2.1.1.1. Con:
+          It is unclear how many lives are lost really due to translation errors. At least the first two examples point rather to imprecise communication, which also occurs within the same languages and even amongst friends [40].
+
+      1.2.2.2. Con:
+      One language would not eliminate potential miscommunication involving specialized jargon, local slang, or culturally specific items.
+
+        1.2.2.2.1. Pro:
+        Many words have different connotations depending on the culture.
+
+          1.2.2.2.1.1. Pro:
+          Several basic words and ideas, such as 'rain [41]' and the colors [42], convey different meanings to different societies, regardless of the language used.
+
+        1.2.2.2.2. Pro:
+        Academics and scientists often need to use niche terminology [43] to describe particular phenomena. This will not go away with the implementation of a globlal language.
+
+      1.2.2.3. Pro:
+      A single global language would improve international travel.
+
+        1.2.2.3.1. Pro:
+        Local people and tourists would be able to talk to each other without impediment, which would make traveling more convenient.
+
+          1.2.2.3.1.1. Pro:
+          Nobody will be really intimidated to ask strangers for help since they will be speaking the same language.
+
+          1.2.2.3.1.2. Con:
+          This could make it easier for local nefarious actors to trick or scam [44] unknowing tourists.
+
+      1.2.2.4. Pro:
+      -> See 1.1.5.2.
+
+    1.2.3. Con:
+    It is not an efficient use of resources to teach everyone in the world the same language, as this would incur massive expenses.
+
+      1.2.3.1. Con:
+      Expensive language learning is already occurring [45]. Introducing a simple-to-learn language like Esperanto would greatly reduce the costs currently spent on teaching other languages.
+
+        1.2.3.1.1. Pro:
+        Some countries like South Korea spend billions of dollars [46] annually to educate their children in English.
+
+      1.2.3.2. Pro:
+      It would cost governments massive amounts of money to pay for the instructors, translators, and materials needed to teach the entire world a new language.
+
+        1.2.3.2.1. Con:
+        This would only be a one-time cost, as after the first generation, people would learn the global language as their mother tongue.
+
+      1.2.3.3. Pro:
+      There are more important and ethical ways to spend money than teaching everyone the same language.
+
+        1.2.3.3.1. Pro:
+        Resources should be spent on reducing poverty or improving healthcare and education before teaching everyone the same language.
+
+      1.2.3.4. Con:
+      This expense could pay for itself in the long run as diverse societies becomes more interconnected.
+
+    1.2.4. Con:
+    Getting all countries/states to change their language/teach a single language would be highly inefficient.
+
+      1.2.4.1. Con:
+      Courses such as TEFL can equip an individual to teach English, which is a notoriously complex language, in just 4 weeks [47]. As such, a global language could be easily implemented within a short duration.
+
+        1.2.4.1.1. Con:
+        Those who take TEFL courses are already familiar with English as a language. As a global language would require individuals to become proficient in the new language, and then teach it, this process would take longer.
+
+      1.2.4.2. Pro:
+      A global language would require introducing a novel language course, while retiring all other language courses for new students. This process would likely take significant time to develop.
+
+    1.2.5. Pro:
+    If people only need to learn one language, we can spend our time on more important activities.
+
+      1.2.5.1. Pro:
+      Studying foreign languages can occupy a significant amount of time throughout one's life.
+
+        1.2.5.1.1. Pro:
+        It can take up to three months [48] for non-native speakers of English to prepare for the TOEFL exam.
+
+        1.2.5.1.2. Pro:
+        Depending on one's mother tongue, it could take up to 2200 hours, or nearly two years, [49] to become fluent in another language.
+
+        1.2.5.1.3. Con:
+        Children who are raised to be bilingual attain the benefits [50] of learning two languages without needing to study.
+
+      1.2.5.2. Con:
+      Some people enjoy learning languages as a hobby [51]. Removing this option would deny some people an activity that is important to them.
+
+        1.2.5.2.1. Pro:
+        Language learning as a hobby has several practical benefits [52].
+
+  1.3. Con:
+  Implementing a single global language is impractical.
+
+    1.3.1. Pro:
+    There is no way to implement this idea without authoritarianism.
+
+      1.3.1.1. Pro:
+      The imposition [53] of a majority language on minority peoples was repeatedly practiced during the colonial period. This created generational trauma that continues to be felt today.
+
+        1.3.1.1.1. Pro:
+        Japan's colonization of Korea included forbidding [54] the teaching of Korean and forcing Koreans to adopt Japanese names. This trauma is still felt today [55].
+
+      1.3.1.2. Con:
+      Social change often occurs without the intervention of authoritarian regimes.
+
+        1.3.1.2.1. Pro:
+        The way the metric system was implemented and adopted [56] shows that totalitarianism is not needed.
+
+        1.3.1.2.2. Pro:
+        The International Organization for Standardization [57] (ISO) has successfully implemented standards for a variety of contexts around the world.
+
+      1.3.1.3. Con:
+      If the language is nice and popular, lots of people will want to learn it without being forced.
+
+        1.3.1.3.1. Con:
+        This isn't something that can be predicted, and therefore it shouldn't be assumed by the planners of a global language.
+
+        1.3.1.3.2. Pro:
+        Few people are forced by their governments to learn English, but people do so voluntarily [58] in order to reap the perceived benefits.
+
+      1.3.1.4. Pro:
+      Forcing people to speak (or not speak) a certain language infringes upon their human rights.
+
+    1.3.2. Pro:
+    Technological advancements would vastly outpace any attempts to implement this globally.
+
+      1.3.2.1. Con:
+      It is better to have language ingrained in our minds rather than be reliant on technology, due to cost, patents, hacking risks [59], and malfunctions.
+
+        1.3.2.1.1. Pro:
+        To reduce the environmental impact [60], we should not employ gadgetry unnecessarily.
+
+        1.3.2.1.2. Con:
+        There are also costs involved with having a language ingrained in our minds.
+
+          1.3.2.1.2.1. Pro:
+          Time spend learning a global language in addition to your mother tongue could have been spent learning something else.
+
+      1.3.2.2. Con:
+      People who do not have access to the technology will not have the same opportunities as a spoken language would allow.
+
+      1.3.2.3. Pro:
+      It is easier to make language technology available and potentially free than it is to adopt a universal language.
+
+        1.3.2.3.1. Pro:
+        Most modern [61] communication [62] occurs on the Internet, where physical distances don't matter and the only thing stopping communication is language.
+
+        1.3.2.3.2. Con:
+        Relying on language technology focuses the power of language in the hands of a few large tech firms, while a global language would be in control of the people.
+
+      1.3.2.4. Pro:
+      Machine learning powered translation [63] is developing so rapidly that this problem will quickly become redundant.
+
+        1.3.2.4.1. Con:
+        There are technical difficulties [64] that machine translation is unable to solve.
+
+          1.3.2.4.1.1. Pro:
+          Translation may be a problem so complex that it cannot be solvable algorithmically in a reasonable time.
+
+            1.3.2.4.1.1.1. Con:
+            This does not seem to be true, given the rapid advancements [65] made in instantaneous translation.
+
+          1.3.2.4.1.2. Pro:
+          Language is constantly changing.
+
+            1.3.2.4.1.2.1. Pro:
+            Every year, hundreds [66] of new entries are added to dictionaries.
+
+              1.3.2.4.1.2.1.1. Con:
+              These entries could easily be incorporated by machine learning language software.
+
+            1.3.2.4.1.2.2. Pro:
+            New slang [67] constantly emerges that invents or redefines words and phrases.
+
+            1.3.2.4.1.2.3. Con:
+            Machine learning language software is capable of adapting to these changes.
+
+          1.3.2.4.1.3. Con:
+          It is likely that these technical difficulties can be overcome with further research and development.
+
+        1.3.2.4.2. Pro:
+        Google Translate has greatly improved [68] since its inception and is now about 90% accurate [69] for most texts.
+
+    1.3.3. Pro:
+    A global language would not succeed due to practical limitations involving the inherent nature of language.
+
+      1.3.3.1. Pro:
+      Words cannot translate perfectly across different populations, due to diversity of lived experience and lexical needs.
+
+        1.3.3.1.1. Pro:
+        There are lots of examples of words only existing in one language.
+
+          1.3.3.1.1.1. Con:
+          The global language could incorporate such words. Lots of English words are already used [70] in other languages for this very reason.
+
+          1.3.3.1.1.2. Con:
+          These words could be recreated in a new, global language.
+
+          1.3.3.1.1.3. Pro:
+          The word 'hiraeth' [71] in Welsh means a longing or nostalgia for someone/something/somewhere. It doesn't have an equivalent in any other language.
+
+            1.3.3.1.1.3.1. Con:
+            There is 'saudade [72]' in Portuguese, which could be equivalent.
+
+          1.3.3.1.1.4. Pro:
+          The Korean word 'nunchi [73]' does not have an equivalent in other languages.
+
+        1.3.3.1.2. Con:
+        A global language could incorporate all culturally unique words into its lexicon.
+
+          1.3.3.1.2.1. Con:
+          There are things that can't be translated [74] into other languages because the cultures are so different. Trying to do so would be inefficient and impractical.
+
+          1.3.3.1.2.2. Pro:
+          Loanwords [75] are already common in languages, and a global language would likely include many of them.
+
+      1.3.3.2. Con:
+      It is easy to predict the failure of anything; this doesn't constitute proof that it will happen.
+
+      1.3.3.3. Pro:
+      Over time, regional varieties of the global language would develop, eventually leading to distinct languages, which would make its original purpose futile.
+
+        1.3.3.3.1. Con:
+        With constant control and education we could minimalize changes, which will lead to small differences but wouldn't make it impossible to understand.
+
+        1.3.3.3.2. Pro:
+        Geographical and social differences are what created different varieties of language in the first place.
+
+          1.3.3.3.2.1. Pro:
+          The wide variety of Indo-European languages [76] likely had one common ancestor [77] that spread and diversified over time and vast distances.
+
+            1.3.3.3.2.1.1. Con:
+            This process took thousands of years, during which time communication [78] between regions was sporadic and unreliable. In a modern, globalized world, shared experiences and instantaneous communication would slow this process.
+
+              1.3.3.3.2.1.1.1. Con:
+              At the same time, there is a generational divide due to this spur of instant communication demonstrated simply due to things such as 1337speech [79] or other forms of internet slang [80].
+
+          1.3.3.3.2.2. Pro:
+          These differences can become even more noticeable if humanity becomes an interplanetary species as well, Terran English could be vastly different than Martian English over enough time.
+
+        1.3.3.3.3. Con:
+        This process would likely take hundreds of years, during which time the benefits of a global language would be realized.
+
+          1.3.3.3.3.1. Pro:
+          Esperanto has been in use for over a century and very little lexical change has occurred.
+
+            1.3.3.3.3.1.1. Con:
+            Esperanto is a niche language with few native speakers [81]. A truly globalized language would evolve more quickly.
+
+          1.3.3.3.3.2. Pro:
+          Some languages, such as Icelandic [82], evolve very slowly, allowing modern day people to connect with their ancestors' writings from more than a thousand years ago.
+
+      1.3.3.4. Pro:
+      Even if humans did create a global language and made it mandatory, not every member of the human race would be able or willing to learn it.
+
+        1.3.3.4.1. Con:
+        This argument pedantically exaggerates what is meant by 'single global language'. If the vast majority of the world’s population speaks it, we should consider the goal achieved.
+
+        1.3.3.4.2. Pro:
+        Not all people would accept the imposition of the new language.
+
+          1.3.3.4.2.1. Pro:
+          Historians and people who are passionate about learning extinct languages would keep the old languages alive.
+
+            1.3.3.4.2.1.1. Con:
+            Attempts to resurrect [83] near-extinct languages as living languages typically fail without significant motive beyond antiquarian interest and even then do not resurrect them as they once were.
+
+          1.3.3.4.2.2. Con:
+          After a few generations, people would naturally agree to learn the new language, as not knowing it would likely limit their educational, economic, and social opportunities.
+
+          1.3.3.4.2.3. Pro:
+          Some people might feel that a new language would impede upon their identity and traditions.
+
+        1.3.3.4.3. Pro:
+        A global language could not be truly universal, as deaf people use sign language, and blind people use braille.
+
+          1.3.3.4.3.1. Con:
+          Deaf and blind people still understand languages like anyone else, they just have different methods of expressing or consuming that language. The same would apply to a global language.
+
+            1.3.3.4.3.1.1. Pro:
+            There is a braille alphabet for different languages, including English [84], Esperanto [85], and Chinese [86]. A braille system could be similarly adopted for any global language.
+
+          1.3.3.4.3.2. Con:
+          The global language could be a sign language. A sign language can be used by blind people also, by using tactile signing.
+
+        1.3.3.4.4. Pro:
+        The creation of a single global language is not possible because it is too difficult to reach every individual with this concept.
+
+          1.3.3.4.4.1. Pro:
+          There is not yet free internet access [87] all over the world and limited resources for travel and the distribution of learning materials.
+
+          1.3.3.4.4.2. Pro:
+          There is a lack of communication between different peoples that will make it impossible to have every individual in the world speak the same language.
+
+            1.3.3.4.4.2.1. Con:
+            Different peoples do not need to talk to each other to implement a global language as long as governments can agree to promote the language within their territories.
+
+          1.3.3.4.4.3. Con:
+          Given enough time, it is possible for everyone to be made familiar with the global language.
+
+      1.3.3.5. Con:
+      The existence of languages like Spanish [88] and English [89] in multiple continents shows that language can be successfully spread and maintained across great distances and times.
+
+        1.3.3.5.1. Pro:
+        Both Spanish [90] and English [91] came to the Americas hundreds of years ago, and yet these languages can still be understood by native speakers around the world, despite varieties in local dialects.
+
+    1.3.4. Con:
+    Many achievements that were previously thought impractical or impossible were realized through concerted effort.
+
+      1.3.4.1. Pro:
+      For thousands of years people believed that traveling to the moon was a fantasy that belonged in the realm of science fiction [92].
+
+      1.3.4.2. Con:
+      There are also countless examples [93] of impractical endeavors that were undertaken, only to fail.
+
+  1.4. Pro:
+  Humans could use the implementation of a global language to construct [94] a better language for everyone.
+
+    1.4.1. Pro:
+    Esperanto [95] is proof that an efficient, global language can be developed.
+
+      1.4.1.1. Pro:
+      Esperanto has 16 grammar rules [96], applied without exception, which makes it more simple.
+
+      1.4.1.2. Pro:
+      Esperanto has an ingenious system for constructing words [97] from essential building blocks, which allows for complexity and rapid expansion of vocabulary.
+
+      1.4.1.3. Pro:
+      Esperanto's vocabulary is based on various existing language groups, making it relatable.
+
+        1.4.1.3.1. Con:
+        Esperanto is only relatable to speakers of European languages, which biases [98] them in favor of Asian or African language speakers.
+
+      1.4.1.4. Con:
+      Esperanto is too basic and doesn't convey complex ideas well.
+
+        1.4.1.4.1. Con:
+        The power of expressing complex ideas is the same for Esperanto as for natural languages, as demonstrated by the amount of original Esperanto literature [99], some of which was nominated for the Nobel prize [100].
+
+          1.4.1.4.1.1. Pro:
+          Many famous books have been translated [101] into Esperanto, which wouldn't have been possible if it didn't express complex ideas well.
+
+        1.4.1.4.2. Pro:
+        There are a very limited number of root words [102] in Esperanto, compared to the hundreds of thousands [103] of words in languages like English.
+
+      1.4.1.5. Con:
+      Esperanto is proof that even if you develop a "better" language, it will probably remain niche.
+
+        1.4.1.5.1. Con:
+        Esperanto is already well-established. There are organized speakers of the language in 120+ countries, and the Universala Kongreso [104] gathers, on average, 2000 Esperantists every year.
+
+          1.4.1.5.1.1. Con:
+          This is almost nothing compared to the goal of having an universal world language.
+
+            1.4.1.5.1.1.1. Con:
+            Starting over with a new language isn't going to get humanity closer to the goal either. Either we need to develop and support Esperanto or give up on this project.
+
+        1.4.1.5.2. Con:
+        Esperanto and other universal languages have remained niche as there is no push from large international institutions such as the UN to implement a constructed universal language.
+
+          1.4.1.5.2.1. Con:
+          The League of Nations in 1924 unanimously recommended [105] that countries support the language’s development, showing the feasibility of gaining support from a supranational body politic. Yet even with such support, Esperanto failed to catch on.
+
+        1.4.1.5.3. Con:
+        The single case of Esperanto is not sufficient evidence that other constructed languages might not be more successful.
+
+        1.4.1.5.4. Pro:
+        Despite existing for more than a century, Esperanto only has around a thousand native speakers [106] today.
+
+      1.4.1.6. Pro:
+      Creating a new language other than Esperanto would alienate the Esperanto community [107], who arguably has the most enthusiasm of all for the dispersion of a neutral, global language.
+
+    1.4.2. Con:
+    Any claim that one language or language feature is "better" than another is completely subjective.
+
+      1.4.2.1. Pro:
+      Any attempt to define criteria by which a new, artificial language could be "better" than all other languages would necessarily privilege some cultural patterns over others.
+
+      1.4.2.2. Con:
+      It is possible for a language to be objectively better. The main goal of a language is to convey thoughts and feelings. A language can be better or worse at this.
+
+        1.4.2.2.1. Pro:
+        Languages have a variety of design features which objectively impact communicative efficiency, including learning time.
+
+          1.4.2.2.1.1. Pro:
+          Many languages [108], including English [109], have exceptionally irregular spelling systems that make them more difficult to learn.
+
+    1.4.3. Con:
+    Creating a universal language and spreading its use worldwide is a disproportionate effort for something that doesn't represent a real problem.
+
+      1.4.3.1. Con:
+      It doesn't represent a real problem to English speakers, as English is the language of privilege [110]. The vast majority of non-English-speaking global citizens would likely disagree.
+
+      1.4.3.2. Pro:
+      Fostering bilingualism through the continued spreading of English worldwide is easier and will preserve diverse cultures and languages better.
+
+      1.4.3.3. Pro:
+      Many widely spoken languages already overcome language barriers successfully.
+
+        1.4.3.3.1. Con:
+        The European Commission’s DG Translation costs 330 million euro per year. [111] Having one global language would allow this money to be spent on better things.
+
+        1.4.3.3.2. Pro:
+        English is already the dominant global language [112] for international trade and cooperation, as well as research.
+
+      1.4.3.4. Con:
+      People already make the effort of learning languages to communicate with those who don't speak their language.
+
+        1.4.3.4.1. Pro:
+        As language learning is time intensive [113], giving language learners the best return on investment for that time and money is justified.
+
+          1.4.3.4.1.1. Con:
+          Society is not obligated to compensate people for actions that they undertake voluntarily.
+
+        1.4.3.4.2. Con:
+        This time and effort could be better spent on other activities if everyone spoke the same language.
+
+    1.4.4. Pro:
+    Many languages include a sexist and binary view of gender [114]. A new language could be more equal and allow people to more easily talk about those with non-binary gender.
+
+      1.4.4.1. Con:
+      Existing languages are finding ways to change their language [115] to be more gender inclusive.
+
+        1.4.4.1.1. Con:
+        These changes have brought about fierce resistance [116] by language traditionalists.
+
+      1.4.4.2. Pro:
+      Sexism is built in [117] to many languages, which can have harmful effects on women in these societies.
+
+    1.4.5. Pro:
+    A language with an easier writing and spelling system would benefit people with dyslexia and other learning issues.
+
+      1.4.5.1. Con:
+      Dyslexia is found [118] even in languages without alphabets, so it is unlikely that the creation of a new language will significantly benefit these people.
+
+      1.4.5.2. Con:
+      Dyslexia varies in nature and presentation across speakers of different languages [119], to the point where it almost constitutes a different condition. As such, a singular language would not be able to benefit everyone equally.
+
+      1.4.5.3. Pro:
+      Learning foreign languages [120] can be incredibly challenging for those with dyslexia. A singular global language would remove this barrier for communication.
+
+    1.4.6. Con:
+    If we want to have a single global language, it's so much easier to choose an existing language than to construct a new one.
+
+      1.4.6.1. Con:
+      The creation of a new language could involve the whole world. This kind of an open source project would allow for the world's various cultures to have a sense of agency over the process and resulting language.
+
+      1.4.6.2. Con:
+      Choosing an existing language is inherently unfair, as it privileges the existing native speakers.
+
+      1.4.6.3. Pro:
+      Choosing a widely spoken language like English would limit the number of people who have to learn it and thus the amount of resources involved.
+
+        1.4.6.3.1. Pro:
+        There is already a great deal of existing English language instruction infrastructure, expertise, and materials [121] available for use (p 9).
+
+Sources:
+[1] https://www.ethnologue.com/guides/how-many-languages
+[2] https://omniglot.com/writing/undeciphered.htm
+[3] https://news.mit.edu/2020/translating-lost-languages-using-machine-learning-1021
+"However, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) recently made a major development in this area: a new system that has been shown to be able to automatically decipher a lost language, without needing advanced knowledge of its relation to other languages."
+[4] https://www.researchgate.net/publication/279298837_A_Global_Language_without_a_Global_Culture_From_Basic_English_to_Global_English
+"Instead of leading to a global culture, English as a global language and tool expresses and constitutes a part of various local cultures which appropriate the use of English according to their own purposes. The majority of people will continue to think in a language other than English, while still being aware of its hegemonic power."
+[5] https://www.ucl.ac.uk/culture-online/ask-expert/your-questions-answered/english-often-considered-de-facto-global-language
+[6] https://languageconservancy.org/language-loss/
+"Right now, 9 languages a year, or one every 40 days, cease to be spoken. By 2080, the rate will rise to 16 languages per year. By the middle of the next century, we will be losing our linguistic heritage at the rate of 26 languages each year—one every two weeks. If we do not tackle the problem of language loss, more than half of all languages will become extinct in the next 100 years."
+[7] https://www.nodo50.org/esperanto/Diverslingveco2en.htm
+"Though its ethos is fundamentally universalistic, it also refers – in the terms in which it is usually expressed – specifically to ethnic and linguistic communities and takes their relevance for granted."
+[8] https://newrepublic.com/article/125501/languages-die
+"There are many reasons why languages die. The reasons are often political, economic or cultural in nature. Speakers of a minority language may, for example, decide that it is better for their children’s future to teach them a language that is tied to economic success. For example, the vast majority of second-generation immigrants to the United States do not speak their parents’ languages fluently. It is economically and culturally more beneficial to speak English."
+[9] https://www.sciencedirect.com/topics/psychology/sapir-whorf-hypothesis
+"The Sapir–Whorf hypothesis, also known as the linguistic relativity hypothesis, refers to the proposal that the particular language one speaks influences the way one thinks about reality."
+[10] https://www.cleverism.com/skills-and-tools/diversity-awareness/
+[11] https://eurac.com/cultural-barriers-and-how-to-overcome-them-in-your-global-company-as-a-global-leader/
+"Not speaking the same language (well) can cause a myriad of misunderstandings and is considered the most crucial barrier in cross-cultural communication.
+
+Verbal communication is important in every context, but the meaning of words can literally get lost in translation. If one person isn’t aware of the exact meaning of a word, it may be misunderstood or misinterpreted by the other person and lead to a conflict of ideas."
+[12] https://en.wikipedia.org/wiki/Female_genital_mutilation
+[13] https://en.wikipedia.org/wiki/Honor_killing#Culture
+[14] https://rampages.us/thyagarajana/2016/04/04/does-language-impact-personal-identity/
+[15] https://www.theatlantic.com/national/archive/2010/07/yes-language-does-shape-culture/340451/
+[16] https://www.turnercarrollgallery.com/art-universal-language-part-1-understanding-visual-art-essential-2/
+[17] https://www.edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think
+[18] https://www.buzzfeed.com/ishabassi/british-australian-culture-similarities-differences
+[19] https://www.huffpost.com/entry/96-differences-between-american-and-british-culture_b_12199986
+[20] https://studyabroad.arcadia.edu/blogs/arcadia-australia/post/australians-v-americans-cultural-differences/
+[21] https://www.sciencedirect.com/science/article/pii/S0093934X14001023
+[22] https://javascript.plainenglish.io/how-programming-affects-your-brain-fedea6b02f85
+[23] https://pubmed.ncbi.nlm.nih.gov/32462636/
+"Results revealed a moderate effect size for the protective effect of bilingualism on age of onset of symptoms of Alzheimer's disease (Cohen's d = 0.32), and weaker evidence that bilingualism prevents the occurrence of disease incidence itself (Cohen's d = 0.10)."
+[24] https://www.britannica.com/topic/equal-opportunity
+[25] https://www.papercup.com/blog/the-status-of-english-language-dominance-in-2021
+[26] https://qz.com/874683/vws-announcement-shows-that-one-language-will-dominate-the-globe/
+[27] https://www.skillsyouneed.com/learn/academic-referencing.html
+[28] http://www.emory.edu/LIVING_LINKS/empathy/faq.html
+[29] https://en.wikipedia.org/wiki/Neo-Nazism#Around_the_world
+[30] https://www.ittoolkit.com/articles/technology-standards
+[31] https://www.ag5.com/benefits-of-standardization-in-manufacturing/
+[32] https://www.pewtrusts.org/en/trust/archive/winter-2021/america-is-exceptional-in-its-political-divide
+[33] https://www.weforum.org/agenda/2022/04/climate-action-in-100-languages/
+"Established in 2019, Climate Cardinals has 8,000 volunteers in 41 countries, translating and sharing information about the need to take action to tackle climate change in more than 100 languages."
+[34] https://online.hbs.edu/blog/post/globalization-effects-on-environment
+[35] https://www.translatemedia.com/us/jobs/how-to-become-a-translator/the-translation-industry/
+"It is estimated that there are around 640,000 translators in the world (source: Translators Association of China (TAC), a quarter of whom are freelancers. Generally, barriers to entry are low, and competition is extremely high."
+[36] https://blog.pangeanic.com/how-many-hours-does-it-take-to-translate-1000-words
+"The general rule of thumb tells us that a professional human translator should be able to translate up to 2000 words a day while upholding quality standards.
+
+If the document is particularly complex, the productivity tends to decrease to around 1500 words. If the topic is simple and particularly familiar to the translator, they can bash out roughly 3000 words."
+[37] https://www.smh.com.au/business/workplace/the-fatal-consequences-of-miscommunication-between-pilots-and-air-traffic-controllers-20160928-grq1d9.html
+[38] http://www.patientprovidercommunication.org/article_1.htm
+[39] http://www.k-international.com/blog/medical-translation-gone-wrong-4-devastating-examples/
+[40] https://upjourney.com/examples-of-miscommunication-between-friends
+[41] https://guardian.ng/life/cultural-symbols-of-the-rain-and-its-companions/
+[42] https://www.shutterstock.com/blog/color-symbolism-and-meanings-around-the-world
+[43] https://www.universityaffairs.ca/career-advice/ask-dr-editor/jargon-can-make-for-good-academic-writing/
+[44] https://www.ricksteves.com/travel-tips/theft-scams/tourist-scams
+[45] https://www.grammarly.com/blog/language-learning-costs/
+"According to a Daily Mail article, there’s one language that costs more than any other to master—Mandarin. In China, a country where many varieties of Chinese are spoken, Mandarin is spoken by almost one billion people. That’s seventy percent of the population! But for a monolingual English speaker, it might cost up to $80,000 to learn this language. One reason it’s so expensive to learn is that its intonation is difficult to master, and thus requires a lot more instruction. According to some estimates, it can take more than two thousand hours to master the vocabulary, tones, and characters."
+[46] https://qz.com/256621/south-koreas-government-wants-kids-to-spend-less-time-and-money-learning-english/
+"South Koreans spent more than 18 trillion won ($18 billion) on private education, a third of that on English alone. On average, a student spends 20,000 hours learning English from primary school through college. Reports have chronicled the extremes some parents will go to have their kids learn the language—in some cases making them watch English TV programs for up to five hours a day. Private English-language tutoring is a lucrative way for expat teachers to take on side jobs at cram schools, or as personal tutors for individual students who want extra help."
+[47] https://www.gooverseas.com/blog/the-go-overseas-guide-to-tefl-certifications
+[48] https://collegedunia.com/exams/toefl/toefl-preparation-time
+"How much time do you need to prepare for TOEFL?
+
+Every section of the TOEFL test evaluates your aptitude for the language and the depth of your overall knowledge.
+
+ If the candidate has a flair for understanding English as a language then it will be comparatively simplified for them to prepare for the exam. The time taken can, therefore, be around a month.
+ If the candidate is familiar with the subject but is alien to the TOEFL exam pattern then it may take them around 1 to 3 months’ time. The TOEFL syllabus along with the breakdown of the time durations."
+[49] https://www.studyandgoabroad.com/meaningful-travel/language-travel/long-does-learn-foreign-language/
+"Category 1 includes languages closely related to English, such as French, Italian, and Spanish. These will take a solid 600 hours to learn, or 6 months, to attain a level of General Professional Proficiency.
+
+A Category 2 language, like German, is slightly more complex and takes an additional 2 months – for a total of 750 hours to attain that same level of proficiency.
+
+Category 3 languages, such as Indonesian and Swahili, possess a moderate level of complexity and require a total of 900 hours, or 9 months, to attain proficiency.
+
+Languages predominant in most Asian countries fall into Category 4, in which each language requires 1100 hours (nearly an entire year) to attain proficiency.
+
+Lastly, Category 5 contains the most complex languages in the world, such as Arabic, Chinese, Japanese, and Korean. These require English speakers to invest 2200 hours, or almost 2 years. That’s twice as long as any category 4 language to attain proficiency!"
+[50] https://unuhi.com/10-benefits-of-being-bilingual/
+[51] https://www.lingohut.com/blog/learning-a-language-as-a-hobby/
+[52] https://www.wyzant.com/blog/11-reasons-learning-a-foreign-language-is-the-perfect-hobby/
+[53] https://www.sapiens.org/unit-4-language-and-colonialism/
+"Colonialism made radical changes to Indigenous forms of governance, trade, material culture, religious practices, and identity.
+These changes took place in many ways, but few would have persisted were it not for the forceful imposition of language, which required colonial subjects to adopt a European language and, frequently, to forget their own."
+[54] https://www.history.com/news/japan-colonization-korea
+"In order to establish control over its new protectorate, the Empire of Japan waged an all-out war on Korean culture.
+
+Schools and universities forbade speaking Korean and emphasized manual labor and loyalty to the Emperor. Public places adopted Japanese, too, and an edict to make films in Japanese soon followed. It also became a crime to teach history from non-approved texts and authorities burned over 200,000 Korean historical documents, essentially wiping out the historical memory of Korea."
+[55] https://en.wikipedia.org/wiki/Anti-Japanese_sentiment_in_Korea
+[56] https://www.bbc.com/travel/article/20180923-how-france-created-the-metric-system
+[57] https://www.iso.org/home.html
+[58] https://www.thoughtco.com/how-many-people-learn-english-globally-1210367
+[59] https://www.webroot.com/us/en/resources/tips-articles/computer-security-threats-hackers
+[60] https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2022/environmental-impact-smartphones.html
+"Deloitte Global predicts that smartphones—the world’s most popular consumer electronics device, expected to have an installed base of 4.5 billion in 20221—will generate 146 million tons of CO2 or equivalent emissions (CO2e) in 2022."
+[61] https://www.statista.com/statistics/456500/daily-number-of-e-mails-worldwide/
+[62] https://www.smseagle.eu/2017/03/06/daily-sms-mobile-statistics/
+[63] https://machinelearningmastery.com/introduction-neural-machine-translation/
+[64] https://www.mcislanguages.com/covid-stories-covid-19-and-the-limits-of-machine-translation/
+"For one, machine translation is limited in its ability to translate literary or nuanced texts. Google and Microsoft tools may understand the linguistic rules and relationships between individual words and even sentences, but they can’t understand subtle nuances between synonyms, or how a metaphor is constructed, or how humor operates. This means that while simple instructional or technical texts may be easily translated with Microsoft or Google, humorous blog posts or irony-laden texts have little chance of surviving a contemporary translation machine."
+[65] https://www.generationunlimited.org/our-work/promising-ideas-innovation/instant-translation
+[66] https://public.oed.com/updates/new-words-list-march-2021/
+[67] https://www.familyeducation.com/teens/newest-teen-slang-trends-2021
+[68] https://www.searchenginepeople.com/blog/10-google-translate-fails.html
+[69] https://www.bureauworks.com/blog/how-accurate-is-google-translate-in-2022/
+"When using Google Translate with technical, simple content suited for a more accurate outcome, accuracy percentages can be close to 90%, requiring only 10% to be edited for a high-quality translation."
+[70] https://www.britishcouncil.org/voices-magazine/english-loan-words-european-languages
+[71] https://www.bbc.com/travel/article/20210214-the-welsh-word-you-cant-translate
+"It combines elements of homesickness, nostalgia and longing. Interlaced, however, is the subtle acknowledgment of an irretrievable loss – a unique blend of place, time and people that can never be recreated. This unreachable nature adds an element of grief, but somehow it is not entirely unwelcome."
+[72] https://amaliahomecollection.com/the-meaning-of-saudade-the-most-portuguese-word/
+"“Saudade” is a untranslatable Portuguese term that refers to the melancholic longing or yearning. A recurring theme in Portuguese and Brazilian literature, “saudade”refers to a sense of loneliness and incompleteness."
+[73] https://www.theguardian.com/lifeandstyle/2019/nov/11/what-is-nunchi-the-korean-secret-to-happiness
+"The word “nunchi” itself roughly translates to “eye-measure”, a sort of sizing-up, not of individuals but of the overall context and atmosphere of a situation. It’s applicable to just about every social setting one can be in, from a wedding to a job interview.
+
+In action, nunchi involves noticing who, in any given context, is speaking, who is listening, who interrupts, who apologizes, who is rolling their eyes. From there, one can make potentially useful assessments about the nature of relationships and hierarchies within a group, the overall mood, and how to behave accordingly."
+[74] https://www.amybucherphd.com/untranslatable-the-magic-of-culture-specific-words/
+[75] https://en.wikipedia.org/wiki/Loanword
+[76] https://en.wikipedia.org/wiki/Indo-European_languages
+[77] https://en.wikipedia.org/wiki/Proto-Indo-European_language
+[78] https://www.wilsonamplifiers.com/blog/a-brief-history-of-long-distance-communication/
+[79] https://www.urbandictionary.com/define.php?term=1337%20speech
+[80] https://www.kaspersky.com/resource-center/preemptive-safety/internet-slang-words
+[81] https://en.wikipedia.org/wiki/Native_Esperanto_speakers
+[82] https://allthingsiceland.com/history-of-the-icelandic-language-a-brief-overview-ep2/
+"Because the Icelandic language has changed so little since the 1300s, modern Icelanders have the privilege of being able to read and understand the ancient text of their ancestors that was written 800 years ago."
+[83] https://en.wikipedia.org/wiki/Language_revitalization
+[84] https://en.wikipedia.org/wiki/English_Braille
+[85] https://en.wikipedia.org/wiki/Esperanto_Braille
+[86] https://en.wikipedia.org/wiki/Mainland_Chinese_Braille
+[87] https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users
+[88] https://en.wikipedia.org/wiki/List_of_countries_where_Spanish_is_an_official_language
+[89] https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_English_is_an_official_language
+[90] https://www.history.com/news/st-augustine-first-american-settlement
+[91] https://en.wikipedia.org/wiki/Jamestown,_Virginia
+[92] https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon
+[93] https://www.popsci.com/gadgets/article/2011-03/archive-gallery-popscis-most-impractical-inventions/
+[94] https://en.wikipedia.org/wiki/Constructed_language
+[95] https://en.wikipedia.org/wiki/Esperanto
+[96] https://en.wikiversity.org/wiki/Esperanto/Grammar_Rules
+[97] https://unravellingmag.com/articles/creating-new-words-in-esperanto/
+[98] https://www.babbel.com/en/magazine/how-many-people-speak-esperanto-and-where-is-it-spoken
+"This is no coincidence, and the European impact on Esperanto can be a weakness, depending on where you live in the world. Because of the strong European influences, people who speak Asian languages are at a distinct disadvantage in learning and speaking Esperanto. Esperanto’s simple rules might make it easier to learn than other languages for an Asian speaker, but it still loses some of its “neutrality” due to this Western bias."
+[99] https://en.wikipedia.org/wiki/Esperanto_literature
+[100] https://www.theguardian.com/news/2006/sep/19/obituaries.readersobituaries
+[101] https://www.amazon.com/Books-Esperanto/s?rh=n%3A283155%2Cp_n_feature_nine_browse-bin%3A3291497011
+[102] http://esperanto-chicago.org/esperanto-common-roots-glossary/
+[103] https://wordcounter.io/blog/how-many-words-are-in-the-english-language/
+[104] https://en.wikipedia.org/wiki/World_Esperanto_Congress
+[105] https://en.wikipedia.org/wiki/History_of_Esperanto
+[106] https://www.npr.org/sections/goatsandsoda/2015/06/13/413968033/esperanto-is-not-dead-can-the-universal-language-make-a-comeback
+"But there are only about 1,000 native speakers, like Linken. Esperanto was his first language — and still the main one he uses with his dad, Greg Kay."
+[107] https://esperanto.net/en/what-we-do/
+[108] https://vividmaps.com/orthographic-depth-of-different-languages/
+"English, French, Danish, Swedish, Arabic, Urdu, Tibetan, Burmese, Thai, Khmer, Lao, Chinese, and Japanese have orthographies that are highly irregular, difficult, and where sounds cannot be predicted from the spelling. These writing systems are more difficult and slow to be learned by kids, who may take years."
+[109] https://blog.esl-languages.com/blog/learn-languages/english-spelling-complicated-irregular/
+[110] https://linguisticpulse.com/2013/06/26/language-privilege-what-it-is-and-why-it-matters/
+[111] http://termcoord.eu/2014/01/translation-in-the-european-union-facts-and-figures-2013/
+[112] https://www.translatemedia.com/translation-blog/english-continue-dominant-global-language/
+[113] https://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html
+[114] https://digest.bps.org.uk/2020/03/11/gender-prejudice-is-more-common-in-languages-with-grammatical-genders/
+[115] https://www.babbel.com/en/magazine/gender-neutral-pronouns
+[116] https://theconversation.com/no-need-to-iel-why-france-is-so-angry-about-a-gender-neutral-pronoun-173304
+[117] https://www.bbc.com/future/article/20210408-the-sexist-words-that-are-harmful-to-women
+[118] https://www.nature.com/articles/news040830-5
+"But Chinese readers must learn the meanings of around 5,000 different characters, each corresponding to a word. Instead of letter-to-sound conversion problems, Chinese dyslexics have difficulties extrapolating from a symbol's shape to its sound and meaning. 
+[...] 
+The finding could also explain the rare cases of people who read normally in one language, but are dyslexic in another. For example, one bilingual boy has reading problems in English, but none in Japanese."
+[119] https://www.sciencedaily.com/releases/2009/10/091012121333.htm
+[120] https://www.bdadyslexia.org.uk/advice/educators/teaching-for-neurodiversity/modern-foreign-languages
+[121] https://www.britishcouncil.org/sites/default/files/english-effect-report-v2.pdf
+"As a result, native-speaker teachers are
+in increasing demand around the world.
+Although there are some 12 million
+English teachers active in the world
+today, this masks a huge global shortage.
+But ways of learning are changing –
+the face-to-face classroom is being
+supplemented by the virtual world,
+broadcast media, and the mobile phone."

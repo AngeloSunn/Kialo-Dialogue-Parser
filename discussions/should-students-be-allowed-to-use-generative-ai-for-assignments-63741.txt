@@ -1,0 +1,104 @@
+Discussion Name:
+Should students be allowed to use generative AI for assignments?
+
+1. Thesis:
+Students should be allowed to use generative AI for assignments.
+
+  1.1. Con:
+  ChatBots may reinforce certain already dominant forms of expression and writing that further marginalize other forms [1].
+
+  1.2. Pro:
+  ChatBots can help marginalized students perform better [2], potentially reducing inequalities in academic achievement.
+
+    1.2.1. Pro:
+    Students with learning disabilities (such as dyslexia) would greatly benefit from generative AI (citation needed).
+
+    1.2.2. Con:
+    But ChatBots can also reinforce already dominant forms of expression and writing and thereby further marginalize other valid forms of expression and writing [3].
+
+  1.3. Con:
+  Students learn less when using assistive technology like ChatBots than they do when learning without such assistive technology (citation needed).
+
+    1.3.1. Con:
+    Chat bots can save time by performing mundane tasks, freeing up students to engage in higher levels of thinking.
+
+      1.3.1.1. Con:
+      Even if chatbots can save time by performing mundane tasks and free students to engage in higher levels of thinking, it alone does not indicate that students will learn more using assistive technology, nor that learning less is better. Thus this claim is irrelevant to its parent.
+
+      1.3.1.2. Pro:
+      Technology has already enabled people to engage in higher forms of reasoning.
+
+        1.3.1.2.1. Pro:
+        For example, digital calculators allowed humans to spend time working on harder tasks or else do calculation faster, speeding up the higher-order tasks that depended on the calculations (citation needed).
+
+  1.4. Pro:
+  We need to prepare students for the employers that already require workers to use assistive AI like ChatBots.
+
+  1.5. Con:
+  Generative AI does a lot of the thinking for the student, undermining the goal of getting students to think for themselves.
+
+    1.5.1. Con:
+    Requiring students to think for themselves would eliminate many (perhaps most) conventional teaching methods that already do most of the thinking for the student: syllabi constrain the scope of what students think about, assigned readings and instructor's lessons do massive amounts of the relevant thinking for students, labs are the result of generations of experiments that students don't complete, etc. Students would need repeated Socratic dialogues with bots to get nearly as much from bots.
+
+    1.5.2. Pro:
+    Because popular generative AI tools like ChatGPT or Google Bard allow their answers to be copied and pasted, students can simply implement the output of generative AI models without thinking critically about it in light of what they are supposed to learn in their classes.
+
+  1.6. Pro:
+  Assignments that can be completed entirely by genAI were always bad.
+
+    1.6.1. Pro:
+    For example, legacy essay assignments were always easy to produce without learning or reflection. Allowing students to use AI for assignments would force educators to account for the (too often ignored) fact that students enjoyed substantial assistance on their assignments (often from other school-sanctioned materials like assigned reading, peers, tutors, and writing centers) long before the popularization of genAI.
+
+    1.6.2. Pro:
+    Education models should be adapted such that the vast majority of students can use generative AI in such a way that they would learn much more efficiently.
+
+  1.7. Pro:
+  Allowing students to use genAI on assignments could enable students to waste less time on soon-to-be automated tasks and more time learning and practicing next-generation skills (such as fact-checking, logic-checking, and prompting genAI tools to produce better human-AI outputs).
+
+    1.7.1. Pro:
+    The newly available time could be utilized for productive endeavors like acquiring a new skill or maintaining family and social connections that would typically be dedicated to homework and assignments.
+
+  1.8. Con:
+  Working with other people or certain sources is sometimes a form of cheating.
+
+    1.8.1. Con:
+    There are different kinds of exams where books are allowed because many educators want to test students' ability to learn and apply new skills (like critical thinking) to novel problems rather than merely test what students can regurgitate from their memory of prior problems. [4]
+
+  1.9. Pro:
+  Enabling students to use generative AI for assignments will encourage the development of the use of technology in schools.
+
+    1.9.1. Pro:
+    With the advancement and incorporation of technology in almost every area of society, it is no surprise that it does so too in the realm of education.
+
+  1.10. Con:
+  Generative LLMs can undermine students' grades by producing false or misleading outputs (such as citations of papers that do not exist), including [5] plain "hallucinations" [6], which would yield low-quality results. Students could get educated on pitfalls of using genAIs [7], and their use could be discouraged (but not prohibited).
+
+  1.11. Con:
+  AI assistants may provide information that discourages its user from more comprehensive evaluation of a topic.
+
+    1.11.1. Con:
+    AI assistants do not create significantly more opportunities to narrow the scope of student inquiry beyond what human educators regularly do — e.g., assigning finite and imperfectly representative material, summarizing background information according to instructor's awareness of it, framing a topic with an anecdote instead of a comprehensive analysis of all the available data.
+
+  1.12. Con:
+  Using generative AI removes students' need to inquire, investigate, and learn while researching.
+
+    1.12.1. Con:
+    If generative AI can pretty consistently solve such problems, humans are not useful for those problems and we should learn about other things to which we would be useful.
+
+    1.12.2. Con:
+    Actually, the opposite can be true: prompting generative AI to produce anything of value requires some competence in writing, reading, editing, inquiring, investigating, and learning — all crucial skills that students may not learn when completing assignments on their own without an always-available interlocutor.
+
+  1.13. Pro:
+  If students can learn from chatbots, and schools' primary goal is learning, then schools should allow students to use chatbots as a learning tool.
+
+    1.13.1. Con:
+    Even if students can learn from chatbots, they may be able to learn more via traditional education if chatbots weren't used (citation needed).
+
+Sources:
+[1] https://blog.apaonline.org/2023/03/30/ableism-and-chatgpt-why-people-fear-it-versus-why-they-should-fear-it/?amp
+[2] https://blog.apaonline.org/2023/03/30/ableism-and-chatgpt-why-people-fear-it-versus-why-they-should-fear-it/?amp
+[3] https://blog.apaonline.org/2023/03/30/ableism-and-chatgpt-why-people-fear-it-versus-why-they-should-fear-it/?amp
+[4] https://www.sciencedirect.com/science/article/abs/pii/S1471595317305486
+[5] https://apnews.com/article/artificial-intelligence-hallucination-chatbots-chatgpt-falsehoods-ac4672c5b06e6f91050aa46ee731bcf4
+[6] https://en.wikipedia.org/wiki/Hallucination_\(artificial_intelligence\)
+[7] https://www.scientificamerican.com/article/we-need-to-focus-on-ais-real-harms-not-imaginary-existential-risks/#

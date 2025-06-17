@@ -1,0 +1,2650 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Technology will end our necessity of working for money. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Technology won't end our necessity of working for money.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Along with all the problems rising up with the current ecological crisis, the lack of resources [1] is one of the most underestimated. There simply aren't enough raw materials to build the enormous quantity of electronic systems that would be required to achieve this goal. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Along with all the problems rising up with the current ecological crisis, the lack of resources [1] is one of the most underestimated. There simply are enough raw materials to build the enormous quantity of electronic systems that would be required to achieve this goal.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "The supply of copper [2] - an essential component in many electronics - is expected to fall short by 270,000 tons in 2023. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "The supply of copper [2] - an essential component in many electronics - isn't expected to fall short by 270,000 tons in 2023.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "The supply available today, limited by what is profitable at current prices and where new mining operations are politically palatable, is a different question from the long-term supply implied by \"there simply aren't enough\". ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "The supply available today, limited by what is profitable at current prices and where new mining operations are politically palatable, is a different question from the long-term supply implied by \"there simply areenough\".",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Comprehensive e-waste recycling [3] of precious metals would mitigate much of the pressure on our limited supply of raw materials. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Comprehensive e-waste recycling [3] of precious metals wouldn't mitigate much of the pressure on our limited supply of raw materials.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "This implies that raw materials like rare earth elements are rare - in fact, they are abundant [4]. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "This implies that raw materials like rare earth elements are rare - in fact, they aren't abundant [4].",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "The economy will adapt and innovate as there will always be tasks that robots cannot perform. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "The economy will adapt and innovate as there will always be tasks that robots can perform.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Even if the economy could be reinvented, there is not the political will to do so. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Even if the economy could be reinvented, there is the political will to do so.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "Reinventing an economy would require long-term fiscal policies and entail at least some short-term costs. However, elected governments have a strong political incentive [5] to prioritise fiscal policies with shorter-term benefits. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "Reinventing an economy wouldn't require long-term fiscal policies and entail at least some short-term costs. However, elected governments have a strong political incentive [5] to prioritise fiscal policies with shorter-term benefits.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "As technology becomes more advanced, the gaps between human and robot capability are lessening. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "As technology becomes more advanced, the gaps between human and robot capability aren't lessening.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "AI has revolutionized customer service [6] by compiling customer information in a manner which would take hours of human time. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "AI hasn't revolutionized customer service [6] by compiling customer information in a manner which would take hours of human time.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Robots will never be able to emulate human emotion or compassion. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Robots will be able to emulate human emotion or compassion.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "There is nothing about the human body or mind that cannot be artificially replicated with enough scientific knowledge. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "There is nothing about the human body or mind that canbe artificially replicated with enough scientific knowledge.",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "It isn't known whether [7] that is possible without biological brain-type tissues and whether it would be feasible in the real world due to constraints like cost effectiveness. Biology could be the only way human-level AGI can be implemented in practice since other ways could be too inefficient and/or would need to incorporate physical elements that in practice can only be implemented via biological ways [8]. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "It is known whether [7] that is possible without biological brain-type tissues and whether it would be feasible in the real world due to constraints like cost effectiveness. Biology could be the only way human-level AGI can be implemented in practice since other ways could be too inefficient and/or would need to incorporate physical elements that in practice can only be implemented via biological ways [8].",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "That there will always be tasks that can't be automated or be made redundant does neither mean they're actually needed, constructive, or desired nor that the quantity is comparable to the initial number of jobs. Having jobs for the sake of having jobs does not make sense in principle and the key number would be the quantity of truly needed constructive jobs. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "That there will always be tasks that cabe automated or be made redundant does neither mean they're actually needed, constructive, or desired nor that the quantity is comparable to the initial number of jobs. Having jobs for the sake of having jobs does not make sense in principle and the key number would be the quantity of truly needed constructive jobs.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "There are jobs where people would not want to be interacting with a robot instead of a person, especially in caring professions, such as in healthcare. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "There are jobs where people would want to be interacting with a robot instead of a person, especially in caring professions, such as in healthcare.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Many parents would be uncomfortable with the idea of childcare being performed by robots instead of other humans for their children to interact with. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Many parents wouldn't be uncomfortable with the idea of childcare being performed by robots instead of other humans for their children to interact with.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Many would be uncomfortable with the idea of palliative care (e.g. nursing homes, hospice care) being performed by a robot instead of humans that can empathise and connect with their patients. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Many wouldn't be uncomfortable with the idea of palliative care (e.g. nursing homes, hospice care) being performed by a robot instead of humans that can empathise and connect with their patients.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "As artificial intelligence (AI) develops, it will likely become more human-like. As such, people will likely grow more comfortable with robots working in caring professions. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "As artificial intelligence (AI) develops, it won't likely become more human-like. As such, people will likely grow more comfortable with robots working in caring professions.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "The Multimodal Turing Test [9] is used by engineers who are attempting to build robots that are perceptually indistinguishable from humans. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "The Multimodal Turing Test [9] isn't used by engineers who are attempting to build robots that are perceptually indistinguishable from humans.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "AI passed [10] the original Turing Test [11] in 2014, suggesting that robots are well on the way to being human-like. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "AI didn't pass [10] the original Turing Test [11] in 2014, suggesting that robots are well on the way to being human-like.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "Some suggest that there will be a unique value [12] to work produced by humans compared to that of robots, keeping alive space for work in art, creation of hand-made products etc. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "Some don't suggest that there will be a unique value [12] to work produced by humans compared to that of robots, keeping alive space for work in art, creation of hand-made products etc.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Research has identified the areas of employment [13] that are most likely to be safe, ranging from therapists to plumbers. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Research hasn't identified the areas of employment [13] that are most likely to be safe, ranging from therapists to plumbers.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Many support services have begun using [14] AI to respond to service users. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Many support services haven't begun using [14] AI to respond to service users.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "Technology ends up creating new jobs [15] for humans, leading to new sectors of work and areas of the economy. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "Technology doesn't end up creating new jobs [15] for humans, leading to new sectors of work and areas of the economy.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "These new jobs or new sectors could require specialist training that will favour young graduates over displaced workers. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "These new jobs or new sectors couldn't require specialist training that will favour young graduates over displaced workers.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Already, 'digital natives [16]' hold an advantage over older employees due to their familiarity with technologies that are increasingly incorporated into the workplace. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Already, 'digital natives [16]' don't hold an advantage over older employees due to their familiarity with technologies that are increasingly incorporated into the workplace.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Re-training is an inevitable part of our futures with the ever increasing uses of technology in our daily lives, and the comparable lack of skills [17] using technology for a huge amount of the population. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Re-training isn't an inevitable part of our futures with the ever increasing uses of technology in our daily lives, and the comparable lack of skills [17] using technology for a huge amount of the population.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "If we want to use technologies for essential services (e.g. only allowing tax payment online) or civic life (e.g. electronic/online voting), offering training or support to meet people's needs will be required in order for them to use the new technologies. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "If we want to use technologies for essential services (e.g. only not allowing tax payment online) or civic life (e.g. electronic/online voting), offering training or support to meet people's needs will be required in order for them to use the new technologies.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "The UK have already launched [18] re-training programmes in sectors at imminent risk of job losses due to automation. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "The UK haven't already launched [18] re-training programmes in sectors at imminent risk of job losses due to automation.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Earlier technology developments [19] also removed the need for certain jobs (i.e. jobs that do not exist anymore today), yet we still have many new/current jobs that require human workers. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Earlier technology developments [19] also removeded the need for certain jobs (i.e. jobs that do exist anymore today), yet we still have many new/current jobs that require human workers.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "Experts claim [20] that this evolution of employment allows us to work on areas and projects that are closer to our areas of interest, increasing our satisfaction in our working lives. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "Experts don't claim [20] that this evolution of employment allows us to work on areas and projects that are closer to our areas of interest, increasing our satisfaction in our working lives.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "The World Economic Forum [21] estimates that while automation will displace 75 million jobs, it will generate 133 million new ones by 2022. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "The World Economic Forum [21] doesn't estimate that while automation will displace 75 million jobs, it will generate 133 million new ones by 2022.",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "The same study [22] suggests the percentage of human work will shift from 71% in 2018 to 48% in 2025. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "The same study [22] doesn't suggest the percentage of human work will shift from 71% in 2018 to 48% in 2025.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "This apparent disparity can be explained if there are more jobs but which require shorter working hours. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "This apparent disparity can't be explained if there are more jobs but which require shorter working hours.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "But still people will work less, thus earn less. Probably this would result in some people having more than one part-time jobs, and some people having none. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "But still people won't work less, thus earn less. Probably this would result in some people having more than one part-time jobs, and some people having none.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "Just because people might work fewer hours does not necessarily mean they will earn less. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "Just because people might work fewer hours does necessarily mean they will earn less.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "If a (new) job pays a higher rate per hour, a person could earn the same weekly earnings (as before) with less hours of work required to make these earnings. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "If a (new) job pays a higher rate per hour, a person couldn't earn the same weekly earnings (as before) with less hours of work required to make these earnings.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "If the work is easier or quicker to do, the value of it will decrease. So will the pay rate. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "If the work isn't easier or quicker to do, the value of it will decrease. So will the pay rate.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "The economy is not flexible enough to adapt and innovate. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "The economy is flexible enough to adapt and innovate.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "Fiscal policies can take decades [23] to yield their intended economic returns. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "Fiscal policies can't take decades [23] to yield their intended economic returns.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "Total factor productivity [24] has stalled for the last 50 years, indicating that governments have failed to re-configure and prepare the economy for the technological era for some time. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "Total factor productivity [24] hasn't stalled for the last 50 years, indicating that governments have failed to re-configure and prepare the economy for the technological era for some time.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "Total factor productivity (TFP) [25] attempts to measure how innovations and improvements improve living standards. If TFP rises, it means that the same number of people, working with the same land and tools, are making more than before. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "Total factor productivity (TFP) [25don't ] attempts to measure how innovations and improvements improve living standards. If TFP rises, it means that the same number of people, working with the same land and tools, are making more than before.",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "Moore's Law [26] states that technological capacity doubles every year. This means that technology can outpace [27] economic policy-making. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "Moore's Law [26] doesn't state that technological capacity doubles every year. This means that technology can outpace [27] economic policy-making.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Many services disappear and many are created from decade to decade. New demands are generated all the time. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Many services don't disappear and many are created from decade to decade. New demands are generated all the time.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "Search engine optimization [28] (SEO) specialists did not exist 10 years ago. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "Search engine optimization [28] (SEO) specialists existed 10 years ago.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "App developers [29] did not exist 10 years ago. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "App developers [29] existed 10 years ago.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "Just because new demands are arising all the time, it does not follow that this is being matched with supply. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "Just because new demands are arising all the time, it does follow that this is being matched with supply.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "The ability for new jobs to really replace outdated jobs relies on both jobs sharing similar skills or type of work. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "The ability for new jobs to really replace outdated jobs doesn't rely on both jobs sharing similar skills or type of work.",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "If a worker was doing an entry-level job that was physically demanding but required few qualifications, it could be very difficult to move to an entirely new type of job (if manual work is covered by automation). ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "If a worker wasn't doing an entry-level job that was physically demanding but required few qualifications, it could be very difficult to move to an entirely new type of job (if manual work is covered by automation).",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "With demand for given jobs ebbing and flowing over time, employers may not feel confident enough to hire new people for them. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "With demand for given jobs ebbing and flowing over time, employers may feel confident enough to hire new people for them.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "In the next decade or two, drone managers [30] will likely be in high demand. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "In the next decade or two, drone managers [30] won't likely be in high demand.",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "People need to work for money to preserve their self-worth. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "People don't need to work for money to preserve their self-worth.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "Many experts have written about the psychological benefits of work on humans and how important it is to preserve [31] this part of our lives. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "Many experts haven't written about the psychological benefits of work on humans and how important it is to preserve [31] this part of our lives.",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "Given our long human history of working, it could cause huge societal upheaval to transition to a society where working is not a core part of our lives. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "Given our long human history of working, it could cause huge societal upheaval to transition to a society where working is a core part of our lives.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "Work is also well-documented for the array of negative effects [32] it has for many workers. Removing the necessity of working could help alleviate these work-related issues. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "Work isn't also well-documented for the array of negative effects [32] it has for many workers. Removing the necessity of working could help alleviate these work-related issues.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "Having a job is closely linked to self-esteem and self-worth [33]. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "Having a job isn't closely linked to self-esteem and self-worth [33].",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "Depression rates [34] among the long-term unemployed are significantly higher than in the employed. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "Depression rates [34] among the long-term unemployed aren't significantly higher than in the employed.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "The long-term unemployed may be depressed more frequently due to financial pressures. These would fall away if technology removes the need for money. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "The long-term unemployed may not be depressed more frequently due to financial pressures. These would fall away if technology removes the need for money.",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "People need to undertake activities (and bear fruits of said activities in some way) to preserve self-worth and reap the psychological benefits, however said fruit does not need to be money. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "People need to undertake activities (and bear fruits of said activities in some way) to preserve self-worth and reap the psychological benefits, however saided fruit does need to be money.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "A number of studies [35] show that healthy self-esteem is based more on internal factors (the skill, feature or mindset making one able to make money, rather than the making of money itself) than on external factors (though some external factors may help building healthy self-esteem). ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "A number of studies [35] don't show that healthy self-esteem is based more on internal factors (the skill, feature or mindset making one able to make money, rather than the making of money itself) than on external factors (though some external factors may help building healthy self-esteem).",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "Society has established an expectation of being paid for one's labour. Therefore, it is unlikely people will work for free. ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "Society hasn't established an expectation of being paid for one's labour. Therefore, it is unlikely people will work for free.",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "Working in order to develop and sustain social status is not strictly a necessity. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "Working in order to develop and sustain social status is strictly a necessity.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "But humans have always been concerned with social status. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "But humans haven't always been concerned with social status.",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "Being concerned about social status and needing social status are still distinct. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "Not Being concerned about social status and needing social status are still distinct.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "Research shows all humans possess a fundamental desire [36] for social status. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "Research doesn't show all humans possess a fundamental desire [36] for social status.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "If humans stop working for money (the only incentive), no one will be able to supply robots for the growing population. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "If humans stop working for money (the only incentive), no one won't be able to supply robots for the growing population.",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "Robots can make robots. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "Robots can't make robots.",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "Shanghai is building a factory [37] in which robots make new robots. ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "Shanghai isn't building a factory [37] in which robots make new robots.",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "Researchers have already developed a robot that can build \"baby\" robots [38] without requiring any human intervention. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "Researchers haven't already developed a robot that can build \"baby\" robots [38] without requiring any human intervention.",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "Everyone can own their own robots and seize the product of their labour. ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "Everyone can't own their own robots and seize the product of their labour.",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "Buying a robot is just making an investment with the hope of receiving dividends, and it's already possible for people to attempt to earn enough money to invest and live off the dividends - this option existing has not eliminated work, or even substantially affected participation in the labour force, so there is no reason it should do so in the future. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "Buying a robot is just making an investment with the hope of receiving dividends, and it's already possible for people to attempt to earn enough money to invest and live off the dividends - this option existing has eliminated work, or even substantially affected participation in the labour force, so there is no reason it should do so in the future.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "The difference between existing investment opportunities and robots is that they offer enormously different return rate opportunities. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "The difference between not existing investment opportunities and robots is that they offer enormously different return rate opportunities.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "Living entirely off of dividends would generally require a very large investment. By contrast, an advanced robot in the future may be comparatively affordable. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "Living entirely off of dividends wouldn't generally require a very large investment. By contrast, an advanced robot in the future may be comparatively affordable.",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "An annual dividend of $50,000 would require an investment of over $1.15 million [39]. ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "An annual dividend of $50,000 wouldn't require an investment of over $1.15 million [39].",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "If these robots offered such high returns and were so affordable, people would buy them up until the price reached equilibrium and they were no longer affordable to ordinary workers. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "If these robots offered such high returns and were so affordable, people would buy them up until the price reached equilibrium and they were longer affordable to ordinary workers.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77",
+      "text": "In such an economic scenario, any other investment opportunity should offer comparatively good return rates by the efficient market hypothesis. ",
+      "tag": "",
+      "counter_to": "st-77-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77-gen",
+      "text": "In such an economic scenario, any other investment opportunity shouldn't offer comparatively good return rates by the efficient market hypothesis.",
+      "tag": "generated",
+      "counter_to": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78",
+      "text": "Very few people are wealthy enough to live off of dividends. Therefore, it is more likely the concept of dividends hasn't eliminated work due to sheer lack of scale than necessarily for anything else. ",
+      "tag": "",
+      "counter_to": "st-78-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78-gen",
+      "text": "Very few people are wealthy enough to live off of dividends. Therefore, it is more likely the concept of dividends has eliminated work due to sheer lack of scale than necessarily for anything else.",
+      "tag": "generated",
+      "counter_to": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79",
+      "text": "-> See 1.5.1.1.1.1. ",
+      "tag": "",
+      "counter_to": "st-79-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79-gen",
+      "text": "-> See 1.5.1.1.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80",
+      "text": "Humans will need money to purchase robots to do their work. Therefore, they will have to work for money. ",
+      "tag": "",
+      "counter_to": "st-80-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80-gen",
+      "text": "Humans won't need money to purchase robots to do their work. Therefore, they will have to work for money.",
+      "tag": "generated",
+      "counter_to": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81",
+      "text": "Once robots are purchased, humans may have no further use for money as the robots may replace the utility provided by having money in the first place. Therefore, there could be a tipping point in which both money and labour become unnecessary. ",
+      "tag": "",
+      "counter_to": "st-81-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81-gen",
+      "text": "Once robots aren't purchased, humans may have no further use for money as the robots may replace the utility provided by having money in the first place. Therefore, there could be a tipping point in which both money and labour become unnecessary.",
+      "tag": "generated",
+      "counter_to": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82",
+      "text": "Robots can end corruption caused by money. With robots, it's possible to take the great aspects of communism and capitalism and make something great. ",
+      "tag": "",
+      "counter_to": "st-82-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82-gen",
+      "text": "Robots can't end corruption caused by money. With robots, it's possible to take the great aspects of communism and capitalism and make something great.",
+      "tag": "generated",
+      "counter_to": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83",
+      "text": "It is not in the robot company's interest to design robots that can be used in perpetuity because there would be no repeat custom. ",
+      "tag": "",
+      "counter_to": "st-83-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83-gen",
+      "text": "It is in the robot company's interest to design robots that can be used in perpetuity because there would be no repeat custom.",
+      "tag": "generated",
+      "counter_to": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84",
+      "text": "Even if you have a free source of labor, that doesn't create the raw materials the robot would need to create food and other goods to live on. ",
+      "tag": "",
+      "counter_to": "st-84-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84-gen",
+      "text": "Even if you have a free source of labor, that creates the raw materials the robot would need to create food and other goods to live on.",
+      "tag": "generated",
+      "counter_to": "st-84",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85",
+      "text": "Technological advancements will ensure a production surplus which can be given to the unemployed to fulfill their needs. ",
+      "tag": "",
+      "counter_to": "st-85-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85-gen",
+      "text": "Technological advancements won't ensure a production surplus which can be given to the unemployed to fulfill their needs.",
+      "tag": "generated",
+      "counter_to": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86",
+      "text": "There is no reason private industry would do this. It would be more profitable to scale back production to maintain normal supply/demand relationship. ",
+      "tag": "",
+      "counter_to": "st-86-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86-gen",
+      "text": "There isn't no reason private industry would do this. It would be more profitable to scale back production to maintain normal supply/demand relationship.",
+      "tag": "generated",
+      "counter_to": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87",
+      "text": "Giving surplus resources to those who are harmed by automation would require re-distributive policies. These tend to be unpopular with the elites who make (or control) the surplus resources. ",
+      "tag": "",
+      "counter_to": "st-87-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87-gen",
+      "text": "Giving surplus resources to those who are harmed by automation wouldn't require re-distributive policies. These tend to be unpopular with the elites who make (or control) the surplus resources.",
+      "tag": "generated",
+      "counter_to": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88",
+      "text": "Automation is not a new arrival. We have already encountered decades of automation [40], yet state-wide protections and provisions remain the exception rather than the norm. ",
+      "tag": "",
+      "counter_to": "st-88-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88-gen",
+      "text": "Automation is a new arrival. We have already encountered decades of automation [40], yet state-wide protections and provisions remain the exception rather than the norm.",
+      "tag": "generated",
+      "counter_to": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89",
+      "text": "Some states have taken pro-active measures to cushion the economic costs to workers due to automation. ",
+      "tag": "",
+      "counter_to": "st-89-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89-gen",
+      "text": "Some states haven't taken pro-active measures to cushion the economic costs to workers due to automation.",
+      "tag": "generated",
+      "counter_to": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90",
+      "text": "-> See 1.2.8.1.2.2. ",
+      "tag": "",
+      "counter_to": "st-90-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90-gen",
+      "text": "-> See 1.2.8.1.2.2. ",
+      "tag": "generated",
+      "counter_to": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91",
+      "text": "In earlier waves of automation, individual towns and regions were heavily impacted by the loss of industry, coining the term 'regional depression [41]' for the slew of knock-on effects caused by significant job losses. ",
+      "tag": "",
+      "counter_to": "st-91-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91-gen",
+      "text": "In earlier waves of automation, individual towns and regions weren't heavily impacted by the loss of industry, coining the term 'regional depression [41]' for the slew of knock-on effects caused by significant job losses.",
+      "tag": "generated",
+      "counter_to": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92",
+      "text": "The fact that so many effects were allowed to occur and that these regions were not helped to recover (or survive) shows the gaps in our welfare systems that will not be able to support future waves of automation. ",
+      "tag": "",
+      "counter_to": "st-92-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92-gen",
+      "text": "The fact that so many effects were allowed to occur and that these regions were helped to recover (or survive) shows the gaps in our welfare systems that will not be able to support future waves of automation.",
+      "tag": "generated",
+      "counter_to": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93",
+      "text": "Economists estimate [42] that automation from 1993-2003 replaced three workers with every fully automated machine, causing a rise in unemployment and a decrease in wages. ",
+      "tag": "",
+      "counter_to": "st-93-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93-gen",
+      "text": "Economists don't estimate [42] that automation from 1993-2003 replaced three workers with every fully automated machine, causing a rise in unemployment and a decrease in wages.",
+      "tag": "generated",
+      "counter_to": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94",
+      "text": "Without significant redistribution of wealth, many experts fear that automation will continue to increase wealth inequality [43]. ",
+      "tag": "",
+      "counter_to": "st-94-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94-gen",
+      "text": "Without significant redistribution of wealth, many experts don't fear that automation will continue to increase wealth inequality [43].",
+      "tag": "generated",
+      "counter_to": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95",
+      "text": "History [44] has shown that ignoring the needs of technology-displaced workers, a large group of the population, can create large-scale demonstrations and violence. Politicians would be incentivised to ensure this does not happen. ",
+      "tag": "",
+      "counter_to": "st-95-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95-gen",
+      "text": "History [44] has shown that ignoring the needs of technology-displaced workers, a large group of the population, can create large-scale demonstrations and violence. Politicians would be incentivised to ensure this does happen.",
+      "tag": "generated",
+      "counter_to": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96",
+      "text": "Theorists such as Keynes and Marx predicted [45] that automation would allow a reworking of our politics and economies to facilitate a system which does not rely on earnings to cover our basic needs. ",
+      "tag": "",
+      "counter_to": "st-96-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96-gen",
+      "text": "Theorists such as Keynes and Marx predicteded [45] that automation would allow a reworking of our politics and economies to facilitate a system which does rely on earnings to cover our basic needs.",
+      "tag": "generated",
+      "counter_to": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97",
+      "text": "Critics [46] point out that these predictions have not matched what has occurred thus far, with employment instability and wealth divides occurring instead of shorter work weeks or state provisions. ",
+      "tag": "",
+      "counter_to": "st-97-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97-gen",
+      "text": "Critics [46] point out that these predictions have matched what has occurred thus far, with employment instability and wealth divides occurring instead of shorter work weeks or state provisions.",
+      "tag": "generated",
+      "counter_to": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98",
+      "text": "Broader developments in society will end our necessity of working for money, not the adoption of novel technologies. ",
+      "tag": "",
+      "counter_to": "st-98-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98-gen",
+      "text": "Broader developments in society will end our necessity of working for money, the adoption of novel technologies.",
+      "tag": "generated",
+      "counter_to": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99",
+      "text": "Few strictly necessary jobs will exist after technology is sufficiently developed. ",
+      "tag": "",
+      "counter_to": "st-99-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99-gen",
+      "text": "Few strictly necessary jobs won't exist after technology is sufficiently developed.",
+      "tag": "generated",
+      "counter_to": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100",
+      "text": "Experts predict [47] 1 in 4 people's jobs are at high risk of automation (with an additional 36% at medium risk). ",
+      "tag": "",
+      "counter_to": "st-100-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100-gen",
+      "text": "Experts predict [47] 1 in 4 people's jobs aren't at high risk of automation (with an additional 36% at medium risk).",
+      "tag": "generated",
+      "counter_to": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101",
+      "text": "Millions of manufacturing jobs are predicted [48] to be replaced by automation by 2030. ",
+      "tag": "",
+      "counter_to": "st-101-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101-gen",
+      "text": "Millions of manufacturing jobs aren't predicted [48] to be replaced by automation by 2030.",
+      "tag": "generated",
+      "counter_to": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102",
+      "text": "The World Economic Forum estimates that while automation will displace 75 million jobs, it will generate 133 million new ones [49] by 2022. ",
+      "tag": "",
+      "counter_to": "st-102-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102-gen",
+      "text": "The World Economic Forum doesn't estimate that while automation will displace 75 million jobs, it will generate 133 million new ones [49] by 2022.",
+      "tag": "generated",
+      "counter_to": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103",
+      "text": "-> See 1.2.8.3. ",
+      "tag": "",
+      "counter_to": "st-103-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103-gen",
+      "text": "-> See 1.2.8.3. ",
+      "tag": "generated",
+      "counter_to": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104",
+      "text": "-> See 1.2.8.2. ",
+      "tag": "",
+      "counter_to": "st-104-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104-gen",
+      "text": "-> See 1.2.8.2. ",
+      "tag": "generated",
+      "counter_to": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105",
+      "text": "Self-driving cars could entirely remove the need for any jobs involving human drivers [50] (public transport workers, taxis, deliveries etc.) ",
+      "tag": "",
+      "counter_to": "st-105-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105-gen",
+      "text": "Self-driving cars couldn't entirely remove the need for any jobs involving human drivers [50] (public transport workers, taxis, deliveries etc.)",
+      "tag": "generated",
+      "counter_to": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106",
+      "text": "Automation in retail and service industries [51] could remove the majority of jobs in these industries (e.g. a skeleton crew managing a large supermarket with self check-out machines). ",
+      "tag": "",
+      "counter_to": "st-106-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106-gen",
+      "text": "Automation in retail and service industries [51] couldn't remove the majority of jobs in these industries (e.g. a skeleton crew managing a large supermarket with self check-out machines).",
+      "tag": "generated",
+      "counter_to": "st-106",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107",
+      "text": "-> See 1.2.8. ",
+      "tag": "",
+      "counter_to": "st-107-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107-gen",
+      "text": "-> See 1.2.8. ",
+      "tag": "generated",
+      "counter_to": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108",
+      "text": "Robots will be able to replace jobs that humans do not wish to do. ",
+      "tag": "",
+      "counter_to": "st-108-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108-gen",
+      "text": "Robots will be able to replace jobs that humans do wish to do.",
+      "tag": "generated",
+      "counter_to": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109",
+      "text": "Automation of warfare [52] has allowed less human cost to wars. Further automation in this area would increasingly protect military from human costs (death and injury) of protecting their country. ",
+      "tag": "",
+      "counter_to": "st-109-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109-gen",
+      "text": "Automation of warfare [52] hasn't allowed less human cost to wars. Further automation in this area would increasingly protect military from human costs (death and injury) of protecting their country.",
+      "tag": "generated",
+      "counter_to": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110",
+      "text": "Almost 50% [53] of companies expect that automation will lead to at least some reduction in full-time staff by 2022. ",
+      "tag": "",
+      "counter_to": "st-110-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110-gen",
+      "text": "Almost 50% [53] of companies don't expect that automation will lead to at least some reduction in full-time staff by 2022.",
+      "tag": "generated",
+      "counter_to": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111",
+      "text": "Human society already produces more than the strictly necessary and still people have to work. ",
+      "tag": "",
+      "counter_to": "st-111-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111-gen",
+      "text": "Human society already doesn't produce more than the strictly necessary and still people have to work.",
+      "tag": "generated",
+      "counter_to": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112",
+      "text": "Fashion brands [54] produce more than they can sell. ",
+      "tag": "",
+      "counter_to": "st-112-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112-gen",
+      "text": "Fashion brands [54] don't produce more than they can sell.",
+      "tag": "generated",
+      "counter_to": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113",
+      "text": "In 2018, Burberry [55] burnt its unsold clothes, accessories, and perfumes. ",
+      "tag": "",
+      "counter_to": "st-113-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113-gen",
+      "text": "In 2018, Burberry [55] didn't burn its unsold clothes, accessories, and perfumes.",
+      "tag": "generated",
+      "counter_to": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114",
+      "text": "Collectively, fashion brands destroy billions of dollars worth [56] of merchandise. ",
+      "tag": "",
+      "counter_to": "st-114-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114-gen",
+      "text": "Collectively, fashion brands don't destroy billions of dollars worth [56] of merchandise.",
+      "tag": "generated",
+      "counter_to": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115",
+      "text": "The need to continue working is not related to wealth and the availability of resources, but the lack of distribution of said resources. ",
+      "tag": "",
+      "counter_to": "st-115-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115-gen",
+      "text": "The need to continue working is related to wealth and the availability of resources, but the lack of distribution of said resources.",
+      "tag": "generated",
+      "counter_to": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116",
+      "text": "Humans produce more than enough [57] food to feed the global population, suggesting that many workers in food production are working when they are surplus to global requirements. ",
+      "tag": "",
+      "counter_to": "st-116-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116-gen",
+      "text": "Humans don't produce more than enough [57] food to feed the global population, suggesting that many workers in food production are working when they are surplus to global requirements.",
+      "tag": "generated",
+      "counter_to": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117",
+      "text": "History shows that as productivity has increased, working hours have decreased [58]. This indicates that one day productivity could be so optimised that people no longer have to work at all. ",
+      "tag": "",
+      "counter_to": "st-117-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117-gen",
+      "text": "History showses that as productivity has increased, working hours have decreased [58]. This indicates that one day productivity could be so optimised that people longer have to work at all.",
+      "tag": "generated",
+      "counter_to": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118",
+      "text": "The product of robot labour is going to be held by the companies that created the robots, thus people not owning robots will have to struggle to find new ways of earning money. ",
+      "tag": "",
+      "counter_to": "st-118-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118-gen",
+      "text": "The product of robot labour is going to be held by the companies that created the robots, thus people owning robots will have to struggle to find new ways of earning money.",
+      "tag": "generated",
+      "counter_to": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119",
+      "text": "If there are multiple robot companies, then they will have to compete against one another in the market by offering better terms to consumers, such as giving them greater ownership over the products of their robot's labour. ",
+      "tag": "",
+      "counter_to": "st-119-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119-gen",
+      "text": "If there are multiple robot companies, then they won't have to compete against one another in the market by offering better terms to consumers, such as giving them greater ownership over the products of their robot's labour.",
+      "tag": "generated",
+      "counter_to": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120",
+      "text": "Companies trying to compete with each other in the market do not do so by giving stuff away for free, which is what \"giving [consumers] greater ownership over the products of the robots' labour\" equates to. ",
+      "tag": "",
+      "counter_to": "st-120-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120-gen",
+      "text": "Companies trying to compete with each other in the market do do so by giving stuff away for free, which is what \"giving [consumers] greater ownership over the products of the robots' labour\" equates to.",
+      "tag": "generated",
+      "counter_to": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121",
+      "text": "A consumer who can actually afford to buy a robot will have 100% ownership over the products of its labour; \"ownership over the products of [the company]'s robots' labour\" is thus an offering to those who can't afford to buy anything from the robot company; giving stuff to those people is not competition, but charity. ",
+      "tag": "",
+      "counter_to": "st-121-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121-gen",
+      "text": "A consumer who can actually afford to buy a robot will have 100% ownership over the products of its labour; \"ownership over the products of [the company]'s robots' labour\" is thus an offering to those who ca afford to buy anything from the robot company; giving stuff to those people is not competition, but charity.",
+      "tag": "generated",
+      "counter_to": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122",
+      "text": "Even if there are multiple robot companies, revolutionary technology like this is a seller's market; those who want robots vastly outnumber those who produce them. ",
+      "tag": "",
+      "counter_to": "st-122-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122-gen",
+      "text": "Even if there are multiple robot companies, revolutionary technology like this isn't a seller's market; those who want robots vastly outnumber those who produce them.",
+      "tag": "generated",
+      "counter_to": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123",
+      "text": "Some mechanisms [59] already exist, such as profit-sharing programs and employee stock-ownership plans, to avoid this happening. ",
+      "tag": "",
+      "counter_to": "st-123-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123-gen",
+      "text": "Some mechanisms [59] already don't exist, such as profit-sharing programs and employee stock-ownership plans, to avoid this happening.",
+      "tag": "generated",
+      "counter_to": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124",
+      "text": "-> See 1.6.2.1.4. ",
+      "tag": "",
+      "counter_to": "st-124-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124-gen",
+      "text": "-> See 1.6.2.1.4. ",
+      "tag": "generated",
+      "counter_to": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125",
+      "text": "This would create an undesirable and unfair degree of monopolisation, which governments would likely forbid. ",
+      "tag": "",
+      "counter_to": "st-125-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125-gen",
+      "text": "This wouldn't create an undesirable and unfair degree of monopolisation, which governments would likely forbid.",
+      "tag": "generated",
+      "counter_to": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126",
+      "text": "US antitrust law [60] already prohibits monopolisation. ",
+      "tag": "",
+      "counter_to": "st-126-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126-gen",
+      "text": "US antitrust law [60] already doesn't prohibit monopolisation.",
+      "tag": "generated",
+      "counter_to": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127",
+      "text": "EU competition law [61] already forbids companies from abusing their dominant position in the market. ",
+      "tag": "",
+      "counter_to": "st-127-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127-gen",
+      "text": "EU competition law [61] already doesn't forbid companies from abusing their dominant position in the market.",
+      "tag": "generated",
+      "counter_to": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128",
+      "text": "Using corporate taxation to fairly redistribute profits could align corporate accountability with societal objectives. ",
+      "tag": "",
+      "counter_to": "st-128-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128-gen",
+      "text": "Using corporate taxation to fairly redistribute profits couldn't align corporate accountability with societal objectives.",
+      "tag": "generated",
+      "counter_to": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129",
+      "text": "Technology will not cause any of these policy proposals to be implemented - if they are implemented, it will be due to social change which could just as plausiby happen today. ",
+      "tag": "",
+      "counter_to": "st-129-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129-gen",
+      "text": "Technology will cause any of these policy proposals to be implemented - if they are implemented, it will be due to social change which could just as plausiby happen today.",
+      "tag": "generated",
+      "counter_to": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130",
+      "text": "Corporations would simply shutter themselves and distribute assets to shareholders rather than work toward their own demise. ",
+      "tag": "",
+      "counter_to": "st-130-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130-gen",
+      "text": "Corporations wouldn't simply shutter themselves and distribute assets to shareholders rather than work toward their own demise.",
+      "tag": "generated",
+      "counter_to": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131",
+      "text": "Profits generated by AI and robotics could be used to fund a Universal Basic Income (UBI). ",
+      "tag": "",
+      "counter_to": "st-131-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131-gen",
+      "text": "Profits generated by AI and robotics couldn't be used to fund a Universal Basic Income (UBI).",
+      "tag": "generated",
+      "counter_to": "st-131",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-28",
+      "claim": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-29",
+      "claim": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-30",
+      "claim": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-31",
+      "claim": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-32",
+      "claim": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-33",
+      "claim": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-34",
+      "claim": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-35",
+      "claim": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-36",
+      "claim": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-37",
+      "claim": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-38",
+      "claim": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-39",
+      "claim": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-40",
+      "claim": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-41",
+      "claim": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-42",
+      "claim": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-43",
+      "claim": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-44",
+      "claim": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-45",
+      "claim": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-46",
+      "claim": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-47",
+      "claim": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-48",
+      "claim": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-49",
+      "claim": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-50",
+      "claim": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-51",
+      "claim": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-52",
+      "claim": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-53",
+      "claim": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-54",
+      "claim": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-55",
+      "claim": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-56",
+      "claim": "st-128",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-85"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-98"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-99"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-111"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-118"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-128"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-62"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-69"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-80"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-84"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-78"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-77"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-76"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-79"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-81"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-82"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-83"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-86"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-87"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-96"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-88"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-95"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-89"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-91"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-93"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-94"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-90"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-92"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-97"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-100"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-104"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-105"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-106"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-107"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-108"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-110"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-101"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-103"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-102"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-109"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-112"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-115"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-116"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-117"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-113"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-114"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-119"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-123"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-124"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-125"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-120"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-122"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-121"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-126"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-127"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-129"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-130"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-131"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-15",
+      "topic": "Will technology end our necessity of working for money?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/will-technology-end-our-necessity-of-working-for-money-34088"
+    }
+  ]
+}

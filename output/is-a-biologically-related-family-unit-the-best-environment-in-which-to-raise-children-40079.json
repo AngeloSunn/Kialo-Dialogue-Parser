@@ -1,0 +1,381 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "A biologically related family unit is the best environment in which to raise children. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "A biologically None relate family unit is the best environment in which to raise children.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Having the state or community involved/take a larger role would lower rates of abuse and neglect ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Having the state or community involved/take a larger role wouldn't lower rates of abuse and neglect",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "Limited taxpayer money is likely to be unnecessarily spent on raising children. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "Limited taxpayer money isn't likely to be unnecessarily spent on raising children.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Children's well-being and development is just as necessary as education, parks, infrastructure, and other taxpayer-funded services. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Children's well-being and development isn't just as necessary as education, parks, infrastructure, and other taxpayer-funded services.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Even though it might be just as necessary, children's well-being and development can be managed by parents. However, in the absence of government funding, there is no other actor to provide essential state services to people dependent on them. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Even though it might be just as necessary, children's well-being and development can be None manage by parents. However, in the absence of government funding, there is no other actor to provide essential state services to people dependent on them.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "Passage of culture and tradition from one generation to the next ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "Passage of culture and tradition from one generation to the next ",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "It is better for individuals to create their own cultures and traditions around things that they personally relate to. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "It isn't better for individuals to create their own cultures and traditions around things that they personally relate to.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Provides the most stability for the child/children ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Doesn't provide the most stability for the child/children",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "Financial stability is more important than family structure for healthy development. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "Financial stability isn't more important than family structure for healthy development.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "Financial stability allows families to access basic necessities [1] and survive. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "Financial stability doesn't allow families to access basic necessities [1] and survive.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "Research [2] has shown that there is a link between poor financial conditions and mental health concerns. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "Research [2] hasn't shown that there is a link between poor financial conditions and mental health concerns.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "In a survey, \"money was the source of marital tensions for 84% of respondents [3]\". ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "In a survey, \"money wasn't the source of marital tensions for 84% of respondents [3]\".",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "Parents can pass along prejudices, discriminatory attitudes, maladaptive behaviors, and patterns of abuse to their children ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "Parents can't pass along prejudices, discriminatory attitudes, maladaptive behaviors, and patterns of abuse to their children",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "Humans are bound to develop stereotypes and biases [4]. If children are going to be raised in any environment with other people, they are likely to develop them as well. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "Humans aren't bound to develop stereotypes and biases [4]. If children are going to be raised in any environment with other people, they are likely to develop them as well.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Individuals/couples raising children can make highly misinformed decisions that can be harmful to children's development ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Individuals/couples not raising children can make highly misinformed decisions that can be harmful to children's development",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "This problem is not specific to a biologically related family but could be present in any family unit. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "This problem is specific to a biologically related family but could be present in any family unit.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Adoptive or homosexual parents unrelated to the child are equally effective in terms of parenting ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Adoptive or homosexual parents unrelated to the child aren't equally effective in terms of parenting",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Evolutionary/biological imperative to pass on genes is only present in family units that are related by blood ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Evolutionary/biological imperative to not pass on genes is only present in family units that are related by blood",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-15",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-16"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-18",
+      "topic": "Is a biologically related family unit the best environment in which to raise children?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/is-a-biologically-related-family-unit-the-best-environment-in-which-to-raise-children-40079"
+    }
+  ]
+}

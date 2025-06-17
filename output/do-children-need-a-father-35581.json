@@ -1,0 +1,1220 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Children need a father. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Children don't need a father.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Children from fatherless homes are more likely to become criminals. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Children from fatherless homes aren't more likely to become criminals.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "85% [1] of imprisoned youths grew up in a fatherless home. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "85% [1] of imprisoned youths didn't grow up in a fatherless home.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "19.7 million [2] children grow up in fatherless homes in the US and there are just 48,000 [3] youths in correctional facilities. As such, only a tiny minority of youths who grow up in fatherless homes end up in prison. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "19.7 million [2] children don't grow up in fatherless homes in the US and there are just 48,000 [3] youths in correctional facilities. As such, only a tiny minority of youths who grow up in fatherless homes end up in prison.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "There are a number of confounding variables that may better explain the apparent relationship between youth incarceration and growing up in a fatherless home. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "There aren't a number of confounding variables that may better explain the apparent relationship between youth incarceration and growing up in a fatherless home.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "Many racial minorities [4] are overrepresented in juvenile facilities. These racial minorities are also more likely [5] to grow up in fatherless homes. Therefore, the over-representation of youths brought up by single-mothers in detention facilities may be attributable to racial bias and discrimination in the US criminal justice system instead. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "Many racial minorities [4] aren't overrepresented in juvenile facilities. These racial minorities are also more likely [5] to grow up in fatherless homes. Therefore, the over-representation of youths brought up by single-mothers in detention facilities may be attributable to racial bias and discrimination in the US criminal justice system instead.",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "It is unclear whether fatherlessness causes this dysfunction or whether they lacked two stable parents. Determining this would require a control group of those raised by two stable mothers. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "It isn't unclear whether fatherlessness causes this dysfunction or whether they lacked two stable parents. Determining this would require a control group of those raised by two stable mothers.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "80% [6] of rapists with anger problems are from fatherless households. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "80% [6] of rapists with anger problems aren't from fatherless households.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "The correlation between these two is not necessarily cause - result. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "The correlation between these two is necessarily cause - result.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "This research doesn't actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "This research does actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "In the US, children from father-absent homes are four times more likely [7] to live in poverty. Poverty is often linked [8] to crime. Therefore, the over-representation of children from father-absent homes in the criminal justice system may be merely coincidental. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "In the US, children from father-absent homes aren't four times more likely [7] to live in poverty. Poverty is often linked [8] to crime. Therefore, the over-representation of children from father-absent homes in the criminal justice system may be merely coincidental.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Any stable two parent family functions well, even without a father. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Any stable two parent family functions well, even without a father. ",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "Research [9] strongly indicates that regular two parent families are advantageous for children [2] [10] ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "Research [9] strongly indicates that regular two parent families aren't advantageous for children [2] [10]",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "The children of lesbians [11] have no more behavioral or emotional problems than a representative sample of kids their age from 'regular' parents. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "The children of lesbians [11] don't have no more behavioral or emotional problems than a representative sample of kids their age from 'regular' parents.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "There's still not much research on two parent families with two women, so it's possible some of the benefits could be had without a father. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "There's still much research on two parent families with two women, so it's possible some of the benefits could be had without a father.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "Committed spouses or partners model a loving, caring, and supportive relationship. This teaches children what healthy relationships [12] look like. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "Committed spouses or partners don't model a loving, caring, and supportive relationship. This teaches children what healthy relationships [12] look like.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "A mother could do the same job a father could do. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "A mother couldn't do the same job a father could do.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Mothers can earn money and provide for their children. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Mothers can't earn money and provide for their children.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "Fathers tend to take a backseat [13] to mothers in terms of their daily contribution to the emotional, social, and academic growth of their children. The majority of their contribution is thus confined to the financial sphere. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "Fathers don't tend to take a backseat [13] to mothers in terms of their daily contribution to the emotional, social, and academic growth of their children. The majority of their contribution is thus confined to the financial sphere.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "In a nuclear family, the parents' roles are often differentiated. Mothers traditionally do most of the care work, while fathers take other roles, such as organizing trips of sports activities. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "In a nuclear family, the parents' roles aren't often differentiated. Mothers traditionally do most of the care work, while fathers take other roles, such as organizing trips of sports activities.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "Many single mothers are burdened with all the financial pressures of parenthood. As such, they may not have enough time or energy to provide children with consistent emotional support because of the hours they work. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "Many single mothers are burdened with all the financial pressures of parenthood. As such, they may have enough time or energy to provide children with consistent emotional support because of the hours they work.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "This might in itself be a source of inspiration for children, keeping them motivated to financially achieve in life. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "This mightn't in itself be a source of inspiration for children, keeping them motivated to financially achieve in life.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Because children will be able to see how strained their mothers are, they may be less likely to talk to them about their problems for fear of burdening them even more. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Because children won't be able to see how strained their mothers are, they may be less likely to talk to them about their problems for fear of burdening them even more.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Daughters of working mothers are more likely to be employed as adults and earn higher incomes [14] than those whose mothers were not employed. This suggests working mothers may inspire their daughters to pursue well-paid jobs. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Daughters of working mothers are more likely to be employed as adults and earn higher incomes [14] than those whose mothers were employed. This suggests working mothers may inspire their daughters to pursue well-paid jobs.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "Two recent studies [15] show that women offer the same amount of emotional support to their children, regardless of what their home and work demands are. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "Two recent studies [15] don't show that women offer the same amount of emotional support to their children, regardless of what their home and work demands are.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "Mothers can offer children all the emotional support they need. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "Mothers can't offer children all the emotional support they need.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Growing up in a fatherless household has adverse health outcomes for children. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Growing up in a fatherless household hasn't adverse health outcomes for children.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Children who are fatherless are five [16] times more likely to have experienced physical abuse and emotional maltreatment. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Children who are fatherless aren't five [16] times more likely to have experienced physical abuse and emotional maltreatment.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "Fatherless children tend to experience more [17] chronic pain, asthma, headaches and stomach aches. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "Fatherless children don't tend to experience more [17] chronic pain, asthma, headaches and stomach aches.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "Fatherless children tend to have poor mental health. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "Fatherless children don't tend to have poor mental health.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Teenage girls living with a single parent, such as a single mother, experience higher rates of depression [18]. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Teenage girls not living with a single parent, such as a single mother, experience higher rates of depression [18].",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "63% [19] of youth suicides are from fatherless homes. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "63% [19] of youth suicides aren't from fatherless homes.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "This research doesn't actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "This research does actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Substance abuse is common among children from fatherless households. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Substance abuse isn't common among children from fatherless households.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "Children who are fatherless tend to [20] smoke more and drink alcohol. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "Children who are fatherless tend to [20] don't smoke more and drink alcohol.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "75% [21] of juveniles in substance abuse centers are from fatherless homes. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "75% [21] of juveniles in substance abuse centers aren't from fatherless homes.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "This research doesn't actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "This research does actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "Children raised by single mothers have higher rates of substance abuse [22] compared to those raised by both biological parents. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "Children raised by single mothers don't have higher rates of substance abuse [22] compared to those raised by both biological parents.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "The difference is only one percentage point [23]. Therefore, the difference is not that significant. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "The difference is only one percentage point [23]. Therefore, the difference is that significant.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "Children from father-absent homes are more likely to be obese [24]. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "Children from father-absent homes aren't more likely to be obese [24].",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "Fatherless children experience poorer sexual health [25]. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "Fatherless children don't experience poorer sexual health [25].",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "90% [26] of runaway children are from fatherless homes. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "90% [26] of runaway children aren't from fatherless homes.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Homelessness leaves children food and shelter insecure. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Homelessness doesn't leave children food and shelter insecure.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "Children mostly run away to escape abuse, suggesting that children from fatherless homes are considerably more likely to be abused. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "Children mostly don't run away to escape abuse, suggesting that children from fatherless homes are considerably more likely to be abused.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "80% of girls [27] who run away from home report having been physically and/or sexually abused. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "80% of girls [27] who run away from home report having been physically and/or sexually None abuse.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "70% of children [28] who have run away from home at least once say that they felt like their physical well-being was at risk. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "70% of children [28] who have run away from home at least once don't say that they felt like their physical well-being was at risk.",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "Mothers play a more important role than fathers in helping children become well-adjusted [29]. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "Mothers don't play a more important role than fathers in helping children become well-adjusted [29].",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "Adolescents who feel supported by their mothers are much more likely to score well on measures of social competence, sympathy, and self-worth [30]. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "Adolescents who feel supported by their mothers aren't much more likely to score well on measures of social competence, sympathy, and self-worth [30].",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "Daughters with absent fathers often struggle to develop and maintain healthy relationships [31]. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "Daughters with absent fathers often don't struggle to develop and maintain healthy relationships [31].",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "The referrenced articled does not seem to reinforce this conclusion. It highlights different parental roles and implies that fathers could alter these roles by behavior change. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "The referrenced articled does seem to reinforce this conclusion. It highlights different parental roles and implies that fathers could alter these roles by behavior change.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "There is a correlation between having a father around and lower aggression [32]. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "There isn't a correlation between having a father around and lower aggression [32].",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "Children from fatherless households do worse at school. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "Children from fatherless households don't do worse at school.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "The rise of single-parent households in the US [33] has not had any serious negative consequences for children’s school achievement. (p. 1) ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "The rise of single-parent households in the US [33] has had any serious negative consequences for children’s school achievement. (p. 1)",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "Children who have a good relationship with their father perform better in IQ tests [34] by age 3. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "Children who have a good relationship with their father don't perform better in IQ tests [34] by age 3.",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "71% [35] of high school dropouts are from fatherless households. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "71% [35] of high school dropouts aren't from fatherless households.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "-> See 1.1.2.1. ",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "This research doesn't actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "This research does actually speak to the questions of whether or not children need both a mother and a father at home. It simply compares heterosexual two-parent families with single parents. Same-sex parents (two mothers in this case) are left out of the equation.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "Two-year-olds with supportive fathers have superior cognitive capability [36] than those who are fatherless or who have unsupportive fathers. ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "Two-year-olds with supportive fathers don't have superior cognitive capability [36] than those who are fatherless or who have unsupportive fathers.",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-58",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-60"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-16",
+      "topic": "Do children need a father?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/do-children-need-a-father-35581"
+    }
+  ]
+}

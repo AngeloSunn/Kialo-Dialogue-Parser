@@ -1,0 +1,961 @@
+Discussion Name:
+Are video learning courses a good learning format?
+
+1. Thesis:
+Video learning courses are a good learning format.
+
+  1.1. Con:
+  Video learning courses make it difficult for students to receive proper guidance from their instructors.
+
+    1.1.1. Con:
+    This motion never suggested that videos would be the only learning format available. Teachers can still pick up where the videos left off and elaborate when necessary.
+
+    1.1.2. Pro:
+    Video learning courses do not give constructive feedback necessary for students to properly understand their progression in the course.
+
+      1.1.2.1. Pro:
+      The platform Accelerate [1] has 4 question "quizzes" that disallow the user to make a mistake.
+
+        1.1.2.1.1. Pro:
+        Accelerate also does not provide many recent external sources for users to research, leading to many falling behind
+
+          1.1.2.1.1.1. Con:
+          The user can be of blame for this, as they should be able to find their own source
+
+            1.1.2.1.1.1.1. Con:
+            Sometimes there are only unreliable sources a user can learn from, such as many sites paying to be on the 1st page and be non-credible
+
+          1.1.2.1.1.2. Pro:
+          The sources that are provided tend to also be taken down, especially with flash-based simulations.
+
+        1.1.2.1.2. Con:
+        An issue with one specific platform does not discredit the various video learning course platforms available.
+
+    1.1.3. Con:
+    If a student gets stuck while watching a prerecorded video, they can ask a question via a chat function or emailing the instructor.
+
+      1.1.3.1. Con:
+      Many students in the UK have had little contact with their teachers [2] even though learning was expected to take place remotely after the outbreak of COVID-19.
+
+    1.1.4. Pro:
+    In a live classroom, teachers are able to rephrase and give examples that may better explain a problem. This is beneficial for the student.
+
+    1.1.5. Con:
+    Thanks to zoom.us [3] teachers can have live classrooms online.
+
+      1.1.5.1. Con:
+      Numerous student users do not prefer to use Zoom [4].
+
+        1.1.5.1.1. Pro:
+        The application' video meeting system happens to be so laggy, that it often cuts out audio for multiple moments at a time [5].
+
+        1.1.5.1.2. Pro:
+        The lag from Zoom can end up kicking users from important meetings for latency.
+
+      1.1.5.2. Con:
+      During live streams, students may be more hesitant to ask their teachers to go over things they do not understand more than once, when compared to a more familiar classroom environment
+
+        1.1.5.2.1. Con:
+        Zoom does provide a feature for users to record their meeting.
+
+          1.1.5.2.1.1. Con:
+          This feature is included in a premium program that costs too much to pay for just that feature.
+
+            1.1.5.2.1.1.1. Con:
+            People can use free recording programs such as OBS (Open Broadcasting System) [6] to record the meeting.
+
+      1.1.5.3. Con:
+      A lot of users reported that Zoom eats up their ram [7], which can be harmful to students that may have older computers. [1] [8]
+
+      1.1.5.4. Con:
+      Not all students have access to the necessary bandwidth required to access a livestream, this is especially bad for students living in rural areas.
+
+        1.1.5.4.1. Pro:
+        Venezuela has the absolute worst internet connections on Earth [9], so much so that even downloading the average video would take ~17.9 minutes, thus making it not viable for any video learning course.
+
+    1.1.6. Pro:
+    Video learning lacks a degee of interaction which obstructs learning efficiency.
+
+      1.1.6.1. Pro:
+      Fields like physical science require physical interaction with an environment. If a student living in an urban environment had an assignment that required them to go to a natural environment to gather samples, this assignment may keep them behind.
+
+    1.1.7. Con:
+    There can be conventional lessons where remaining questions and difficulties are resolved (hybrid learning [10]). Moreover, these issues can be utilized as data to improve the information attached to videos (e.g. searchable FAQs) or the videos (e.g. making them clearer).
+
+    1.1.8. Pro:
+    Video learning courses may not be as good in helping students understand solutions to exercises if such are included in these.
+
+      1.1.8.1. Con:
+      -> See 1.1.7.
+
+      1.1.8.2. Pro:
+      They are less dynamic where teachers can adapt to what solutions students came up with and also answer their questions, or adjust their solution explanations, and so on.
+
+      1.1.8.3. Con:
+      In cases of homework and learning before exams there are similar problems. Attached solutions are often not elaborate and not well-explained. Digitization would improve such issues, not make them worse.
+
+  1.2. Con:
+  Video learning courses are a form of passive learning that don't encourage critical thinking.
+
+    1.2.1. Con:
+    The extent of passive learning in videos depends on the content of the video and not the video itself.
+
+      1.2.1.1. Pro:
+      Some videos may have interactive content, such as small exercises.
+
+        1.2.1.1.1. Pro:
+        Videos made to teach young children may encourage them to count, spell, or sing along with what they see.
+
+        1.2.1.1.2. Con:
+        This is not commonly the case, in notable courses (World History, Art History, etc.) established for Edgenuity, exercises are not provided.
+
+    1.2.2. Pro:
+    More information may be retained [11] while reading since it is an active learning process. Video watching is a passive learning process.
+
+      1.2.2.1. Con:
+      Watching to one talk about Language Arts is not as informative as reading.
+
+      1.2.2.2. Con:
+      Videos show actionable steps in detail, unlike manuals, making them easier to follow and repeat.
+
+        1.2.2.2.1. Pro:
+        The Ikea manuals are too complicated for somebody to put together, namely the shelves. Videos will be more helpful.
+
+          1.2.2.2.1.1. Pro:
+          Ikea manuals [12] are notorious for being void of text, leaving many to struggle with putting the most simple-looking pieces together.
+
+        1.2.2.2.2. Pro:
+        Some Arduino block kits [13] are very plain in detail.
+
+    1.2.3. Con:
+    Depending on the topic, passive learning can be a good thing.
+
+      1.2.3.1. Pro:
+      Passively listening to foreign languages [14] can help the brain understand them better over time.
+
+      1.2.3.2. Con:
+      Active recall tends to be a more successful learning style [15] than passive learning methods.
+
+        1.2.3.2.1. Con:
+        Active recall can be implemented with watching videos. After watching a video, an individual can try and answer a number of questions on the video.
+
+          1.2.3.2.1.1. Con:
+          Though sites do it often, the info is not fully retained by the user for long enough.
+
+            1.2.3.2.1.1.1. Con:
+            Those similar sites provide a tab where the user can take notes of the video.
+
+            1.2.3.2.1.1.2. Con:
+            The user could just not be paying attention.
+
+      1.2.3.3. Con:
+      Passive learning does not encourage critical thinking, which many students need to use during this era.
+
+    1.2.4. Pro:
+    When watching videos, many people merely pay attention to the visuals rather than focusing on the learning content.
+
+    1.2.5. Con:
+    Critical thinking isn't necessary for all subjects.
+
+      1.2.5.1. Pro:
+      A video may simply convey information without the need for problem-solving.
+
+      1.2.5.2. Con:
+      One needs to critically think when it comes to the more important subjects such as math, science, and language arts while other subjects are less demanding.
+
+    1.2.6. Con:
+    A lot of meeting software like Zoom Or Adobe connects have chat rooms so the teacher can ask questions to students
+
+    1.2.7. Con:
+    If they are a good learning format does not imply that they would be a good exclusive learning format or that it would be good to largely learn through lecture videos. They can only be a relatively small but important component of learning or at least not the only type of learning.
+
+    1.2.8. Pro:
+    Watching videos may allow a person to replicate what they see, but not troubleshoot any problems that arise.
+
+  1.3. Con:
+  Video learning courses require self-discipline, which many students struggle with (pg 20 [16]).
+
+    1.3.1. Pro:
+    Students with ADHD struggle [17] with remote learning courses, which typically includes video content.
+
+      1.3.1.1. Pro:
+      These courses are usually partaken of in an environment in which the user feels most comfortable; therefore, the amount of distractions is increased and thus the temptation is stronger, whereas physical learning environments often (purposefully) lack these distractions.
+
+  1.4. Pro:
+  Video learning courses accommodate a variety of learning styles and abilities.
+
+    1.4.1. Pro:
+    With video learning courses, the student benefits from watching lessons rather than reading them.
+
+      1.4.1.1. Con:
+      People can therefore learn from images rather than videos.
+
+        1.4.1.1.1. Con:
+        Images are just a single frame and therefore, cannot show how to completely implement the instructions.
+
+      1.4.1.2. Pro:
+      Visual data is substantially easier [18] for the human brain to process than text.
+
+      1.4.1.3. Pro:
+      A significant [19] portion of the population are visual learners, so videos are a good format for them.
+
+        1.4.1.3.1. Pro:
+        Videos with sound can also cater to the 30% of the population who are auditory learners [20].
+
+        1.4.1.3.2. Con:
+        People prefer to learn in different ways.
+
+          1.4.1.3.2.1. Pro:
+          People have different types of memory [21]. This impacts their preferred learning style. For example, some people have a hearing memory and some people remember things more visually and video brings those two together very well.
+
+            1.4.1.3.2.1.1. Con:
+            Even if people are more suited to visual learning, they should improve those styles of learning they are less good at, in order to develop a more well rounded skillset.
+
+            1.4.1.3.2.1.2. Con:
+            "Some people have x memory" implies completely distinct modules, which is not the case. In humans the visual center is far larger than the other senses, and new neurons are primarily born in the olfactory bulb and hippocampus (important role in spatial navigation).
+
+    1.4.2. Pro:
+    Video courses working well for more independent learners.
+
+      1.4.2.1. Pro:
+      Independent learners can be self-starters, not needing one-on-one instruction [22] in order to complete assignments. Video courses are a good learning format for these individuals.
+
+        1.4.2.1.1. Con:
+        A lecture often offers the opportunity [23] for attendees to ask clarifying questions.
+
+          1.4.2.1.1.1. Pro:
+          With a lecture, answers can be given in real time. The attendee doesn't have to wait to receive it.
+
+    1.4.3. Pro:
+    Video learning are helpful for slower learners.
+
+      1.4.3.1. Pro:
+      Online video courses are typically self-paced, giving the learner the option of going as fast or as slow as needed.
+
+        1.4.3.1.1. Con:
+        Some video course formats make the user feel rushed if they are behind on their lessons. This is discouraging to the user.
+
+        1.4.3.1.2. Pro:
+        Any particular course can be repeated multiple times and at the student's personal pace which is not possible in a class.
+
+          1.4.3.1.2.1. Pro:
+          Video learning allows you to go back on something you weren’t listening to, because you weren’t focused.
+
+            1.4.3.1.2.1.1. Con:
+            Sites like VirtualNerd [24] provide students with the ability to go back over information if they need to.
+
+            1.4.3.1.2.1.2. Con:
+            Those sites may also discourage looking at the videos again.
+
+          1.4.3.1.2.2. Con:
+          This can prove to be a negative influence on a student's record.
+
+    1.4.4. Pro:
+    Some people can focus and memorize better when alone and not sitting in a room full of people or having to listen to a physical person talking instead of to a controllable video.
+
+    1.4.5. Pro:
+    Many students prefer [25] to not have any audiovisual lessons (mainly referring to conventional physical-classroom ones) – when social aspects are not considered and the alternatives are well-designed – and can learn better just with e.g. texts and/or audio. Having video lessons available but not required may better be possible with video lessons.
+
+      1.4.5.1. Con:
+      This may also better enable or facilitate students to skip lessons altogether.
+
+        1.4.5.1.1. Con:
+        This problem can be mitigated in various ways such as having brief alternated multiple-choice questions after chapters that verify if the student has indeed learned the contents.
+
+      1.4.5.2. Con:
+      In many cases, they do not know which learning styles fit them best because students in nearly all cases never get to systematically/scientifically test these to appropriately personalize their learning.
+
+        1.4.5.2.1. Pro:
+        Even if they know which learning styles tend to be most efficient for them, they may still need audiovisual lessons for the required level of understanding and hence excluding or skipping them may reduce the quality of their education/grades and/or increase the time required – for example because they decide in hindsight to also have the audiovisual lesson after they already learned through other/alternative means.
+
+      1.4.5.3. Pro:
+      People could choose from which of the available learning styles or media suits them best.
+
+  1.5. Pro:
+  Video learning courses are more convenient for students and teachers and have unique advantages.
+
+    1.5.1. Pro:
+    Video learning courses are a less restrictive form of learning than some traditional methods.
+
+      1.5.1.1. Pro:
+      Traditional learning occurs at designated hours. Learning through video can take place at any time.
+
+        1.5.1.1.1. Pro:
+        Lectures in universities tend to follow a timetable [26].
+
+        1.5.1.1.2. Con:
+        Having classes at designated hours helps students stay disciplined.
+
+      1.5.1.2. Con:
+      Students doing online classes are often separated from other fellow students and educators, making it difficult for the teacher to know what the student may be doing at the moment.
+
+      1.5.1.3. Con:
+      Teachers won't know what students are doing, if they are all separated, such as now.
+
+        1.5.1.3.1. Con:
+        This sometimes is not the case, sites such as Grammarly and Odysseyware have been proven to track the progress of the students and sometimes how active they are within their sites.
+
+      1.5.1.4. Con:
+      Not all the time can teachers take control. For example in MS Teams sometimes some people mess around, leading to teachers getting frustrated.
+
+      1.5.1.5. Pro:
+      With video learning courses, students can be location-independent.
+
+        1.5.1.5.1. Pro:
+        Video learning courses allow students in more isolated living situations a chance to learn.
+
+          1.5.1.5.1.1. Pro:
+          A number of video learning platforms help educate people living in impoverished and remote areas.
+
+            1.5.1.5.1.1.1. Pro:
+            Impartus [27] aims to improve literacy in rural communities in Asia.
+
+            1.5.1.5.1.1.2. Pro:
+            Online video courses [28] at Lumacha Primary School in Gansu, China help students whose families cannot afford to send them to better-equipped schools.
+
+          1.5.1.5.1.2. Con:
+          A lecture encourages intellectual discussion while a video is more likely to be watched isolated from others.
+
+            1.5.1.5.1.2.1. Con:
+            Students can arrange to have discussions with one another after watching videos individually.
+
+            1.5.1.5.1.2.2. Pro:
+            -> See 1.4.2.1.1.
+
+          1.5.1.5.1.3. Pro:
+          In comparison to text, videos may help some people feel like they aren't alone.
+
+            1.5.1.5.1.3.1. Pro:
+            A video can help the learner to feel like they are physically present at the lecture.
+
+          1.5.1.5.1.4. Con:
+          Sometimes those videos have limited access or can't provide a backup for those to analyze. This can be especially hard when a student has to use a live lecture and can't record the lecture to analyze multiple times.
+
+          1.5.1.5.1.5. Con:
+          They are not similar. A video is a static, unchanging presentation of information. A lecturer can get visual or auditory feedback and change adjust their lecture on the fly.
+
+        1.5.1.5.2. Pro:
+        Traditional learning methods take place in a location such as a classroom or lecture hall. In contrast, learning through video can occur in a number of locations.
+
+          1.5.1.5.2.1. Pro:
+          During a crisis situation where the majority of schools are closed [29] (like the Covid-19 outbreak), remote video learning can help ensure that education continues.
+
+        1.5.1.5.3. Pro:
+        With video learning courses, students will be able to get more rest since they won't have to wake up earlier to travel to school.
+
+          1.5.1.5.3.1. Con:
+          Video courses may still require the student to be awake and present during normal class hours.
+
+        1.5.1.5.4. Pro:
+        Video learning courses are beneficial to students who are physically incapable of traveling to an in-person class.
+
+          1.5.1.5.4.1. Pro:
+          Students with physical disabilities can still attend class with video courses.
+
+    1.5.2. Pro:
+    During the Covid-19 pandemic, virtual classrooms [30] allowed the school year to continue remotely around the world.
+
+    1.5.3. Pro:
+    Teachers can turn to public information sources such as YouTube or Facebook to teach a concept.
+
+      1.5.3.1. Con:
+      Teachers can still use these sites in a classroom setting.
+
+    1.5.4. Pro:
+    A systemic review shows that in comparison to traditional text methods, video enhances [31] student learning.
+
+    1.5.5. Pro:
+    Unlike for conventional lessons, one can easily pause, skip a few seconds back or rewatch.
+
+    1.5.6. Pro:
+    With video lessons, it is unlikely for teachers to have students copy what they write on blackboards which may usually obstruct students from paying attention and learn efficiently. Hence, video lessons are more convenient and time-saving for most students.
+
+      1.5.6.1. Pro:
+      Additional information such as answers to questions students previously had about something said at a specific moment or in a specific chapter and so on can be attached to the video at the time-stamp. They can also be searchable.
+
+      1.5.6.2. Pro:
+      With video lessons, teachers would be required to just hand students the handouts that they would have written on the blackboard or have students simply print it.
+
+      1.5.6.3. Con:
+      There are other ways such could happen, such as requiring teachers to do so or to give students the option for that.
+
+      1.5.6.4. Con:
+      Some students may learn better when writing everything, not just brief notes, down themselves during lessons (not just during learning in the form of cheatsheets/summaries and exercises).
+
+  1.6. Con:
+  Video learning courses can be difficult to follow.
+
+    1.6.1. Con:
+    Videos allow the viewer to make connections between ideas that otherwise may get lost in text format.
+
+      1.6.1.1. Pro:
+      Demonstrative lessons, such as science experiments, may work better when there is a viewable instructor guiding the student rather than text instructions.
+
+        1.6.1.1.1. Pro:
+        Those visual instructions also assist users in experiments if necessary materials are unavailable.
+
+      1.6.1.2. Con:
+      Text format is straight forward and cannot be miscommunicated by a third party, such as an instructor on a video.
+
+        1.6.1.2.1. Con:
+        When reading text, tone is harder to detect.
+
+          1.6.1.2.1.1. Con:
+          Tone isn't necessary for learning a new skill or subject, as the content is typically informational.
+
+    1.6.2. Pro:
+    There are many technical and educational challenges to video learning courses that aren't present with other learning formats.
+
+      1.6.2.1. Pro:
+      -> See 1.1.
+
+      1.6.2.2. Pro:
+      The video may be low quality making it hard for the student to understand.
+
+        1.6.2.2.1. Pro:
+        Videos can have technical glitches that distort the lesson, making it difficult to for students to completely comprehend.
+
+          1.6.2.2.1.1. Con:
+          If the video is equipped with a feature to slow down the speed or rewind, then this problem can be avoided.
+
+            1.6.2.2.1.1.1. Con:
+            Some programs have this feature disabled and require that you install an extension to speed-up or slow-down the content.
+
+              1.6.2.2.1.1.1.1. Con:
+              This is a problem with the specific program, not video format in general.
+
+            1.6.2.2.1.1.2. Pro:
+            -> See 1.4.3.1.
+
+          1.6.2.2.1.2. Pro:
+          If people feel the video is leaving them behind, then they may become frustrated and disengage from the rest of it.
+
+      1.6.2.3. Con:
+      Technical and educational challenges are not exclusive to video learning courses; every learning format has its obstacles.
+
+  1.7. Pro:
+  Video courses can advance and democratize the field of education.
+
+    1.7.1. Pro:
+    -> See discussion #35761: Virtual Classrooms are the future of learning.
+
+    1.7.2. Pro:
+    -> See 1.5.4.
+
+    1.7.3. Con:
+    In order to access video courses a computer and internet connection is needed. Not all students have access to this [32].
+
+      1.7.3.1. Con:
+      With such distance learning [33], poorer countries can have not only high-quality teachers through online lessons but also would not need to pay for the school attendance or for traveling to school.
+
+        1.7.3.1.1. Con:
+        This is highly dependent on infrastructure being provided for internet, many locations in places such as Africa still have poor internet infrastructure [34] and thus likely cannot reliably access these resources.
+
+          1.7.3.1.1.1. Pro:
+          The same rings true in the United States, where many civilians are trapped with overpaying for poor internet because only 1, maybe 2 providers are available [35]. [1] [36]
+
+            1.7.3.1.1.1.1. Con:
+            They may be overpaying and subject to unacceptable corporate monopoly power uses, but they still do have [37] some form of sufficient Internet access.
+
+          1.7.3.1.1.2. Con:
+          Meshnets [38] could enable them to access the Internet or contents from a local node without more expensive forms of infrastructure. In some developed countries like in Germany [39], Toronto [40] and Catalonia [41], there already are freely accessible networks albeit it currently (this could be changed) still needs some technical skills and security may be lower without a VPN. A router is often required. A little top-down support may be needed for expansion, saving lives during disasters [42] and educational purposes.
+
+          1.7.3.1.1.3. Con:
+          Even in sub-Saharan Africa ~30% [43] have some form of Internet access. Hence people who do not have access could be granted to go to somebody registered who has or similar.
+
+          1.7.3.1.1.4. Con:
+          Internet access isn't really needed as the videos could get distributed in the form of video files, for example from a local person who has Internet, by physically sending an USB drive/stick or otherwise. Internet access would only be needed for the most comprehensive and dynamic variants of this.
+
+            1.7.3.1.1.4.1. Con:
+            This leads to distribution problems forming for this media.
+
+              1.7.3.1.1.4.1.1. Pro:
+              Various countries like Brazil have immense trade tariffs [44], making accessing most media next to impossible [45] if it was manufactured outside of the country.
+
+              1.7.3.1.1.4.1.2. Pro:
+              Most devices that are manufactured now do not contain disc drives [46], making it difficult for individuals to run the cheapest way to physically distribute media.
+
+                1.7.3.1.1.4.1.2.1. Con:
+                The cheapest way are cheap USB sticks, not DVDs or CDs.
+
+                  1.7.3.1.1.4.1.2.1.1. Con:
+                  Media being distributed via USB drives is often a rare sight [47], no logistics are even set up to reliably distribute media via USB, mostly due to the higher cost to manufacture flash drives [48].
+
+                    1.7.3.1.1.4.1.2.1.1.1. Con:
+                    It would get distributed via federal program, organizations, or individuals which is not really related to the level of logistics and manufacturing.
+
+                      1.7.3.1.1.4.1.2.1.1.1.1. Con:
+                      Again, this kind of distribution is too costly, which is why not even a federal program would invest in such an initiative.
+
+                        1.7.3.1.1.4.1.2.1.1.1.1.1. Con:
+                        The claim did not say it would be entirely free of any cost, only that can be low-cost and that even if not, the costs likely would still be lower than pay for conventional teachers.
+
+                        1.7.3.1.1.4.1.2.1.1.1.1.2. Con:
+                        This, if it applies at all, would only apply to the poorest 10% of the world. This debate is not just about the poorest of the poor.
+
+                        1.7.3.1.1.4.1.2.1.1.1.1.3. Con:
+                        If this problem applies, the cost issue is not with the USB drives, and quite possibly also not with their distribution, but with a) properly setting up the educational system (lessons selection, exercises, grading, etc) and b) laptops or tablets.
+
+                  1.7.3.1.1.4.1.2.1.2. Pro:
+                  They are rewritable and do not require disc drives. Other lessons or entirely different content can be written on it over and over many times [49].
+
+                    1.7.3.1.1.4.1.2.1.2.1. Con:
+                    Disc media does not need to rely upon the storage medium needing to be modified though. As seen from physical releases for other media on CD, data can be saved locally while the data on the disc can just be read.
+
+              1.7.3.1.1.4.1.3. Pro:
+              -> See 1.7.3.1.1.4.1.2.1.1.
+
+              1.7.3.1.1.4.1.4. Con:
+              These problems are not large and are smaller than the challenges of alternatives such as setting up a school with conventional teachers and good-quality lessons. For example, a drone or an organization's person traveling via road/rail transport could drop one USB drive in a village which is then passed through the village to copy over the files by a contact person.
+
+                1.7.3.1.1.4.1.4.1. Con:
+                This, again, requires proper investment. It is likely that having a singular drive being distributed across a whole village could lead to undesired effects, most notably theft and/or the loss of files on the drive.
+
+                  1.7.3.1.1.4.1.4.1.1. Con:
+                  -> See 1.7.3.1.1.4.1.2.1.1.1.1.1.
+
+                  1.7.3.1.1.4.1.4.1.2. Con:
+                  A person can walk through the village, copy over the files while giving some brief guidance and then move to the next student's place.
+
+                  1.7.3.1.1.4.1.4.1.3. Con:
+                  The students would hand over the USB drive for example after scanning a QR code so people can know where the USB drive currently is and who lost it who would then need to pay for it.
+
+                1.7.3.1.1.4.1.4.2. Con:
+                Many computers don't have a whole lot of storage. It would be reasonable that people may not want to have to store the media on their device due to how much storage this would consume.
+
+                  1.7.3.1.1.4.1.4.2.1. Con:
+                  This is getting unreasonable. As of 2023, even some of the oldest laptops (or tablets; smartphones have small screens) in some of the poorest countries still have more than 20GB of free storage which would already be enough.
+
+            1.7.3.1.1.4.2. Con:
+            Any USB drives being distributed would likely be the cheapest possible, and cheap drives tend to have poor lifespans and are prone to file corruption [50].
+
+              1.7.3.1.1.4.2.1. Con:
+              Even for the cheapest ones 5 years are likely and 10 years not unlikely [51], while just 3 years may be sufficiently long for it to be not just the cheapest but also a good option.
+
+              1.7.3.1.1.4.2.2. Con:
+              The source itself says "In theory, most USB flash drives should be able to last for 10 and even more years, but the lifespan of a USB flash drive could be influenced by the following factors [...]".
+
+          1.7.3.1.1.5. Con:
+          This may affect some countries and regions, but not most of what is referred to with poorer countries here.
+
+        1.7.3.1.2. Pro:
+        They only need an Internet connection and the device to watch the videos on (preferably a large screen). Many courses are free and those that aren't could be made available to them for free or be created anew and so on.
+
+      1.7.3.2. Con:
+      They could be provided for those who don't as such can be cheaper than the expenses for the respective teacher(s) or their work-time.
+
+      1.7.3.3. Con:
+      Many of those also do not have access to conventional traditional schools with teachers.
+
+    1.7.4. Pro:
+    There are open source platforms schools all over the world can use freely and develop further. The most notable of which likely is the purpose-built virtual classroom and videoconferencing software, BigBlueButton [52].
+
+      1.7.4.1. Pro:
+      Using free and open source software reduces costs and raises accessibility.
+
+      1.7.4.2. Pro:
+      Using open source enables standardization and interoperability by which many types of software can integrate or share with each other. They can be combined – for example by integrating BigBlueButton into another school platform.
+
+      1.7.4.3. Pro:
+      If many educational institutions all over the world use the same software, they can work together efficiently to quickly solve any problems, make the software the best there is, and propose and develop further features or extensions and variants of the software. This can also greatly reduce labor requirements and hence costs.
+
+      1.7.4.4. Pro:
+      -> See discussion #15628: Open source software is better and more secure.
+
+      1.7.4.5. Pro:
+      This enables states' sovereignty as they do not depend on a company (or multiple thereof) for their public educational institutions. They have more control, less risks for privacy intrusions, and more customizability and decision-making freedoms.
+
+    1.7.5. Pro:
+    Videos are helpful to those who cannot read.
+
+      1.7.5.1. Con:
+      Even if videos can help those who cannot read, so can a number of other techniques [53]. Therefore, this does not differentiate video learning as a particularly strong learning format.
+
+      1.7.5.2. Pro:
+      Videos can help children learn basic principles like math, reading, and spelling.
+
+        1.7.5.2.1. Pro:
+        Shows such as 'Sesame Street [54]' are just as beneficial to children learning basic principles, as is preschool.
+
+        1.7.5.2.2. Con:
+        Many subjects, with math being the exception, require a level of interaction in order to learn the material. Videos do not allow for this.
+
+          1.7.5.2.2.1. Pro:
+          Language arts requires students to sometimes interact with their instructor in order to learn certain elements.
+
+          1.7.5.2.2.2. Pro:
+          Science, or more specifically, biology, requires students to conduct experiments to learn in that subject, something that online education fails to do.
+
+            1.7.5.2.2.2.1. Con:
+            There are programs, like Accelerate's Smart Science' [55] that offer students ways to view experiments being conducted.
+
+              1.7.5.2.2.2.1.1. Con:
+              Viewing an experiment does not provide a way to measure a student's ability to perform the experiment.
+
+                1.7.5.2.2.2.1.1.1. Pro:
+                Sites such as Coursehero encourage students to copy work in numerous fields, like biology.
+
+  1.8. Pro:
+  Many people can learn beneficial skills from video learning courses.
+
+    1.8.1. Pro:
+    Videos are an effective way [56] to learn a new language.
+
+      1.8.1.1. Pro:
+      Videos allow the learner's to put an image to words.
+
+      1.8.1.2. Pro:
+      Watching movies [57] with subtitles are an effective way to learn a new language.
+
+        1.8.1.2.1. Pro:
+        The learner can hear the person speak, see the words, as well as see how the word is spoken. This combines multiple senses, instead of one.
+
+      1.8.1.3. Pro:
+      Successful programs like Rosetta Stone [58] use videos to teach a new language.
+
+      1.8.1.4. Con:
+      Videos are unlikely to improve language speaking skills given that they typically only offer one-way communication to viewers.
+
+        1.8.1.4.1. Con:
+        A 2017 study [59] found that students' speaking exam results improve after watching language videos. (p. 255)
+
+          1.8.1.4.1.1. Con:
+          This study involved just 20 participants [60] of which only 10 were in the treatment group. Therefore, it may not be reliable. (p. 259)
+
+        1.8.1.4.2. Con:
+        When integrated [61] into a classroom setting, language videos improve speaking skills.
+
+        1.8.1.4.3. Con:
+        Languages videos indirectly improve speaking skills by increasing the self-esteem [62] of students so that they feel less anxious about doing so. (p. 22)
+
+      1.8.1.5. Con:
+      Native speakers in a video may speak too fast for beginners just learning.
+
+        1.8.1.5.1. Pro:
+        Subtitles may appear too quick for the learner to read and connect what they are reading and hearing.
+
+          1.8.1.5.1.1. Con:
+          The video's quality is dependent upon the creator.
+
+        1.8.1.5.2. Con:
+        Videos can be repeated and slowed down [63] to resolve the issue of native speakers speaking too fast for beginners.
+
+    1.8.2. Con:
+    Many people can learn skills through reading or attending one-on-one workshops as well.
+
+      1.8.2.1. Pro:
+      Some skills require hands-on instruction. Videos are not helpful for learning in this case.
+
+    1.8.3. Con:
+    Watching a video that teaches you an activity that is meant to be learned physically, like biking or swiming, are not functional alternatives.
+
+      1.8.3.1. Con:
+      There are many skills were this isn't the case or much less so.
+
+      1.8.3.2. Con:
+      For cases that need physical practical experiential learning, people could apply blended learning [64] where they put what they learned via videos into practice, can ask questions, and so on.
+
+    1.8.4. Pro:
+    This is beneficial for those who cannot take classes in person.
+
+      1.8.4.1. Pro:
+      Video courses, such as Edgenuity [65], are helpful for those who home school.
+
+        1.8.4.1.1. Con:
+        The videos within the program are very poor in detail and are very plain to watch, as described by many students that use the platform [66].
+
+        1.8.4.1.2. Pro:
+        Video courses are available for grades K-12 so children can learn from the comfort of their own home until college.
+
+        1.8.4.1.3. Con:
+        Some of the instructors might ramble on about stuff or might have an unpleasing voice.
+
+        1.8.4.1.4. Con:
+        The content on there has unnecessary intro and review videos that are just a waste of time
+
+        1.8.4.1.5. Con:
+        Edgenuity instructors, for example, often stray away from the topic.
+
+    1.8.5. Pro:
+    Many experts post free public [67] videos on social media to teach skills.
+
+      1.8.5.1. Pro:
+      Many people learn practical skills from watching YouTube.
+
+        1.8.5.1.1. Pro:
+        YouTube has become one of the most preferred tools for learning (p.14 [68]).
+
+        1.8.5.1.2. Pro:
+        A good source of legal information (and legal teaching) is Ian Corzine, a media lawyer that posts his content on youtube [69]
+
+    1.8.6. Pro:
+    A study proposes [70] that people can learn the useful life-saving skills of basic life support via video lessons – complemented [71] with face-to-face teaching – which are currently not included in school curricula in most or nearly all countries of the world.
+
+    1.8.7. Pro:
+    There are manual skills, such as trades work or sewing, that requires visual learning. Videos are the best format for this, if in-person demos are not available.
+
+  1.9. Con:
+  Video learning courses increase issues with refreshing one's self with information.
+
+    1.9.1. Pro:
+    Often videos are incredibly long, provided estimates for completing instruction segments in Edgenuity take at least 30 minutes to at least an hour to accomplish initially.
+
+      1.9.1.1. Con:
+      This could be sped up by simply reading through the transcripts to refresh content.
+
+        1.9.1.1.1. Con:
+        This completely negates the fact that in the video lectures, visual content is not commonly included in these transcripts, which may harm those attempting to refresh themselves in fields like Math or Art.
+
+      1.9.1.2. Con:
+      Conventional lessons or lectures are also incredibly long, and usually much longer than 30 minutes. A common school day in European countries is from 8 AM to 1 PM with two breaks and one or a few days with afternoon school, which on average nearly entirely consists of conventional lectures.
+
+    1.9.2. Pro:
+    Some platforms do not allow exercises to be repeated in instruction segments, negating any proper practice for important assessments such as tests or exams.
+
+      1.9.2.1. Con:
+      This is an issue of those platforms or the educational policy, not this particular format or method of learning.
+
+    1.9.3. Con:
+    -> See 1.5.5.
+
+    1.9.4. Con:
+    -> See 1.5.6.2.
+
+    1.9.5. Con:
+    In some cases there are and in all cases there could be transcripts of the video which one could search to quickly jump to the relevant part of the video, which is not possible with conventional lectures.
+
+  1.10. Pro:
+  There are major shortages of teachers in many countries – from developed ones to third-world countries – and increased or increasing the use of video lessons can be a solution to this problem.
+
+    1.10.1. Pro:
+    With hybrid learning [72], less teachers can teach more students and moreover do so more efficiently as they can use the digital system data or otherwise make use of or benefit from such.
+
+      1.10.1.1. Pro:
+      For example what have been 10 hours of schools could become 8 hours of video lessons and 2 hours of highly efficient, and possibly smaller-class size, conventional lessons – this would enable one teacher to be ~5 times as efficient.
+
+        1.10.1.1.1. Con:
+        This efficiency in teaching can lead to a deficiency in grading, as more documents have to be glossed over to be properly graded, this can in-turn end up with disastrous results [73]. [1] [74] [2] [75]
+
+    1.10.2. Pro:
+    -> See 1.7.3.1.
+
+  1.11. Con:
+  Video lessons are difficult to keep as adaptable or adapted, flexible and up-to-date as conventional lessons.
+
+    1.11.1. Pro:
+    It's difficult to change parts of it such as adding in a subsegment about a recent development that makes the contents more relevant to the students or altering a few words to adjust to newer information and so on.
+
+    1.11.2. Con:
+    Many conventional lessons are also difficult to keep up-to-date, such as the complex price of textbooks.
+
+  1.12. Con:
+  Education is not only about the contents learned but also about socialization, building a social life, fun, and more. Depending on the extent to which video lessons are used, such aspects or benefits would be reduced.
+
+    1.12.1. Con:
+    -> See 1.10.1.
+
+    1.12.2. Con:
+    Alternatives designed for such purposes could be set up instead of having these benefits largely only as side-effects.
+
+      1.12.2.1. Con:
+      It is nicer to socialize and meet other people while engaged in tasks such as attending school, attending classes/lectures or learning rather than for the purpose of e.g. socialization. Many sports activities, for example, are not highly social and are usually engaged in only in addition not as substitute(s) for the social aspects of education systems.
+
+    1.12.3. Con:
+    It may or could benefit rather than obstruct socialization to have large digital elements integrated in education despite of less time spent with fewer people in traditional physical educational facilities.
+
+  1.13. Pro:
+  If one can choose the video lessons, this has several advantages over mandated conventional lessons or learning of conventional curricula, even if these are slightly modular, by local predetermined teachers.
+
+    1.13.1. Pro:
+    In MOOCs [76], one can often choose video lessons from some of the best-level teachers of the world on that subject which have very unusual expertise and/or high capabilities to make the right things easily understandable.
+
+      1.13.1.1. Pro:
+      For example, some may be professors in renowned universities or known for their high impact and expertise in a scientific field or for their product development successes. Depending on the subject, there can be a significant number of video lessons to choose from.
+
+    1.13.2. Pro:
+    Many subjects are not taught in conventional settings but via video lessons, especially 21st century skills [77] and knowledge such as modern software development or sustainability matters.
+
+    1.13.3. Con:
+    It is difficult to determine which video lessons are best for one's purpose, current level of skills or knowledge, and so on. For example, ratings do not necessarily reflect course quality.
+
+  1.14. Pro:
+  Videos are a more entertaining way to learn.
+
+    1.14.1. Pro:
+    Learning capacity improves [78] when the learning process is enjoyable. (p. 1)
+
+      1.14.1.1. Pro:
+      When an employee's work is more fun, their information retention and skills increase by up to 40% [79].
+
+    1.14.2. Con:
+    This can only apply to videos that are created to be entertaining.
+
+      1.14.2.1. Pro:
+      Some videos are only informational without any entertaining features.
+
+      1.14.2.2. Con:
+      Entertainment from videos actually make users to focus more often, this is namely true from teenage students.
+
+    1.14.3. Con:
+    Some people may find reading books a more entertaining way to learn than by watching videos.
+
+    1.14.4. Pro:
+    Generation Z prefers videos [80] to printed materials for learning.
+
+      1.14.4.1. Pro:
+      -> See 1.8.5.1.1.
+
+    1.14.5. Pro:
+    Reading text is a very monotonous process. Videos, on the other hand, provide more visual interest.
+
+      1.14.5.1. Pro:
+      Videos include movement and color which can be more interesting than reading black text on a white page.
+
+    1.14.6. Con:
+    Watching video lectures that one has to focus on can be or usually is less entertaining than sitting alongside classmates in physical room.
+
+    1.14.7. Con:
+    Video learning courses can be boring.
+
+      1.14.7.1. Con:
+      People should have the freedom to choose how they learn.
+
+      1.14.7.2. Pro:
+      It may be difficult for teachers to relate to their students through video, which can make students disinterested in the subject matter.
+
+        1.14.7.2.1. Con:
+        Students in the chat can just tell the teacher that they do not understand.
+
+          1.14.7.2.1.1. Con:
+          Sometimes, an educator not trained with the format (like with Zoom), could disable that feature.
+
+          1.14.7.2.1.2. Con:
+          Sometimes, it can be quite difficult to explain the error, on either end nonetheless.
+
+      1.14.7.3. Con:
+      In some scenarios, those videos can be easy to understand and also be slightly entertaining.
+
+      1.14.7.4. Con:
+      This is an issue with the subject matter, not the video itself.
+
+        1.14.7.4.1. Pro:
+        History requires many details. A video with great detail upon everything can be boring.
+
+          1.14.7.4.1.1. Con:
+          The topic of history has its own channel [81], meaning there are people who enjoy and likely learn from it.
+
+        1.14.7.4.2. Con:
+        An instructor can be quite dull with how they get information across, which could be not remembered by a student.
+
+      1.14.7.5. Pro:
+      Some people just can't entertain the viewer.
+
+      1.14.7.6. Con:
+      What is considered boring is subjective to the learning, and therefore cannot be applied to videos as a whole.
+
+      1.14.7.7. Pro:
+      Some videos are of an instructor talking. Not having a chance of picture can be monotonous.
+
+    1.14.8. Con:
+    Entertainment isn't necessary for learning.
+
+      1.14.8.1. Pro:
+      Entertainment can distract from the idea/concept being taught.
+
+      1.14.8.2. Con:
+      Entertainment makes learning fun, an important [82] aspect for students.
+
+        1.14.8.2.1. Pro:
+        The entertainment value of the video affects the student's attention span, either making them want to focus or not.
+
+          1.14.8.2.1.1. Pro:
+          The attention span of a student towards a video greatly can affect their grade level, if a video is not entertaining enough, a student will not focus.
+
+        1.14.8.2.2. Pro:
+        Entertainment also allows for students to actually focus upon the topic more clearly.
+
+Sources:
+[1] https://accelerate.education/
+[2] https://www.theguardian.com/education/2020/jun/15/2m-children-in-uk-have-done-almost-no-school-work-in-lockdown
+[3] https://zoom.us/
+[4] https://www.newsweek.com/google-zoom-classroom-students-schools-closed-coronavirus-china-1493309
+[5] https://support.zoom.us/hc/en-us/articles/204484835-My-Audio-is-Not-Working-on-iOS-or-Android
+[6] https://obsproject.com/
+[7] https://www.reddit.com/r/Zoom/comments/gi98yh/serious_lag_during_every_meeting/
+[8] https://www.reddit.com/r/Zoom/comments/g047wy/zoom_lagging_with_good_internet/
+[9] https://www.simoptions.com/countries-with-the-best-and-worst-internet-in-the-world/
+[10] https://en.wikipedia.org/wiki/Blended_learning
+[11] https://www.writoscope.com/reading/reading-vs-watching-videos-which-one-works-better/
+[12] https://www.transformingthenation.com.au/why-is-ikea-furniture-so-hard-to-assemble/
+[13] https://www.arduino.cc/
+[14] http://becomingapolyglotblog.blogspot.com/2010/08/passive-listening-to-learn-languages.html
+[15] https://getatomi.com/staffroom/what-is-active-recall-and-how-effective-is-it/
+[16] https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2924&context=dissertations
+[17] https://www.npr.org/sections/health-shots/2020/09/01/907995034/remote-learnings-distractions-put-extra-pressure-on-students-with-adhd
+[18] http://www.t-sciences.com/news/humans-process-visual-data-better
+[19] https://www.inc.com/molly-reynolds/how-to-spot-visual-auditory-and-kinesthetic-learni.html
+[20] https://www.inc.com/molly-reynolds/how-to-spot-visual-auditory-and-kinesthetic-learni.html
+[21] https://www.healthline.com/health/echoic-memory
+[22] https://www.bestcollegesonline.org/faq/is-online-college-a-good-choice-for-students-who-like-to-learn-independently/
+[23] https://www.ru.nl/lecturers/education/teaching-guiding/teaching-methods/question-answer-lectures/
+[24] http://virtualnerd.com/
+[25] https://www.science.org/content/article/lectures-arent-just-boring-theyre-ineffective-too-study-finds
+[26] https://www.city.ac.uk/about/campus-map/timetabling-rooms
+[27] https://www.forbes.com/sites/chynes/2016/10/26/this-startup-is-using-video-to-bring-quality-education-to-indias-masses/#43c4b05de298
+[28] https://www.prnewswire.com/news-releases/online-courses-benefit-children-in-poor-areas-300621558.html
+[29] https://en.unesco.org/covid19/educationresponse
+[30] https://theconversation.com/how-creative-use-of-technology-may-have-helped-save-schooling-during-the-pandemic-146488
+[31] https://www.aera.net/Newsroom/Video-Improves-Learning-in-Higher-Education-A-Systematic-Review
+"Adding video to existing teaching led to strong learning benefits (g = 0.80). Although results may be subject to some experimental and publication biases, they suggest that videos are unlikely to be detrimental and usually improve student learning."
+[32] https://www.unicef.org/press-releases/two-thirds-worlds-school-age-children-have-no-internet-access-home-new-unicef-itu
+[33] https://en.wikipedia.org/wiki/Distance_education
+[34] https://spectrum.ieee.org/how-bad-is-africas-internet
+[35] https://www.theverge.com/2022/11/17/23460070/internet-bill-broadband-survey-data-consumer-reports-cost
+[36] https://www.pewtrusts.org/en/research-and-analysis/articles/2020/05/29/whos-not-online-in-america-today
+[37] https://ourworldindata.org/technological-change
+[38] https://en.wikipedia.org/wiki/Wireless_mesh_network
+[39] https://en.wikipedia.org/wiki/Freifunk
+[40] https://www.vice.com/en/article/4xa3zq/toronto-gets-its-own-free-encrypted-mesh-network-CRTC-meshnet
+[41] https://en.wikipedia.org/wiki/Guifi.net
+[42] https://en.wikipedia.org/wiki/Disaster_response#Communications
+[43] https://ourworldindata.org/technological-change
+[44] https://ustr.gov/sites/default/files/2013%20NTE%20Brazil%20Final.pdf#:~:text=Brazil%E2%80%99s%20average%20bound%20tariff%20rate%20in%20the%20WTO,tariff%20rate%20for%20agricultural%20products%20is%2055%20percent.
+[45] https://www.escapistmagazine.com/a-nation-of-pirates/
+[46] https://www.alphr.com/new-pcs-dvd-blu-ray-drives-more/
+[47] https://forums.anandtech.com/threads/why-arent-movies-distributed-via-usb-instead-of-blu-ray-dvd.2452680/
+[48] https://electronics.costhelper.com/memory-stick.html
+[49] https://www.flashbay.com/blog/usb-life-expectancy
+[50] https://www.partitionwizard.com/disk-recovery/how-long-does-a-usb-drive-last.html
+[51] https://www.howtogeek.com/887618/how-long-do-usb-thumb-drives-hold-data/
+[52] https://bigbluebutton.org/#
+[53] https://www.theclassroomkey.com/2018/02/how-to-teach-child-to-read-ultimate-guide.html
+[54] https://www.washingtonpost.com/business/economy/sesame-street-and-its-surprisingly-powerful-effects-on-how-children-learn/2015/06/07/59c73fe4-095c-11e5-9e39-0db921c47b93_story.html
+[55] https://www.smartscience.online/virtual-science-labs
+[56] https://www.fluentu.com/blog/learn-language-video/
+[57] https://www.fluentu.com/blog/language-listening/
+[58] https://www.rosettastone.com/k12/resources/k12-videos/
+[59] https://files.eric.ed.gov/fulltext/ED579085.pdf
+[60] https://files.eric.ed.gov/fulltext/ED579085.pdf
+[61] http://www.jallr.com/~jallrir/index.php/JALLR/article/view/971
+[62] http://www.researchersworld.com/vol10/issue1/Paper_03.pdf
+[63] https://www.kapwing.com/tools/change-video-speed
+[64] https://en.wikipedia.org/wiki/Blended_learning
+[65] https://www.edgenuity.com/
+[66] https://www.sitejabber.com/reviews/learn.education2020.com
+[67] https://www.businessinsider.com/top-attorneys-and-law-firms-that-work-with-creators-influencers-2021-5
+[68] https://www.pearson.com/content/dam/one-dot-com/one-dot-com/global/Files/news/news-annoucements/2018/The-Next-Generation-of-Learners_final.pdf
+[69] https://www.youtube.com/user/IanCorzine
+[70] https://doi.org/10.1161%2FCIR.0000000000001128
+"Several theoretical training options such as lectures, video sessions, pamphlets, or face-to-face teaching are suitable to be combined with practical BLS training."
+[71] https://en.wikipedia.org/wiki/Blended_learning
+[72] https://en.wikipedia.org/wiki/Blended_learning
+[73] https://www.k12dive.com/news/turnitin-false-positives-AI-detector/652221/
+[74] https://www.wsj.com/articles/when-the-bot-that-grades-your-kids-schoolwork-earns-an-f-11605618000
+[75] https://interestingengineering.com/innovation/students-crack-ai-auto-grading-algorithms-for-better-grades
+[76] https://en.wikipedia.org/wiki/Massive_open_online_course
+[77] https://en.wikipedia.org/wiki/21st_century_skills
+[78] https://www.psychologytoday.com/files/attachments/4141/the-neuroscience-joyful-education-judy-willis-md.pdf
+[79] https://www.forbes.com/sites/forbesagencycouncil/2017/12/12/can-training-games-improve-our-memory/#5a0e4dda2078
+[80] https://www.edweek.org/ew/articles/2018/09/12/why-generation-z-learners-prefer-youtube-lessons.html
+[81] https://www.history.com/shows/life-after-people
+[82] https://www.growthengineering.co.uk/why-fun-in-learning-is-important/

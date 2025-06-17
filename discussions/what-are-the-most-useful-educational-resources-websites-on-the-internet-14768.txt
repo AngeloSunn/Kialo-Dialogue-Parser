@@ -1,0 +1,837 @@
+Discussion Name:
+What are the most useful educational resources websites on the Internet?
+
+1. Question:
+What are the most important websites for self-education and research?
+
+  1.1. Thesis:
+  Facebook
+
+    1.1.1. Con:
+    Facebook draws users away from much better discussion and debate tools like Kialo, reddit, and most forums.
+
+    1.1.2. Pro:
+    It keeps people in touch.
+
+    1.1.3. Con:
+    There is great controversy regarding its use of users' data.
+
+    1.1.4. Pro:
+    If the number of users is considered the criteria for whether it is worth knowing of, Facebook is probably one of the most used social networks and sites in the world.
+
+      1.1.4.1. Pro:
+      "As of the first quarter of 2018, Facebook had 2.19 billion monthly active users."statista.com [1]
+
+  1.2. Thesis:
+  School of Life
+
+    1.2.1. Pro:
+    The SoL is all about developing emotional intelligence. "We address such issues as how to find fulfilling work, how to master the art of relationships, how to understand one’s past, how to achieve calm and how better to understand, and where necessary change, the world. We are seeking more emotionally intelligent kinds of:
+    Relationships
+    Work
+    Leisure
+    Culture"
+
+    1.2.2. Pro:
+    SoL provides valuable advice how to find satisfaction in an incomplete or imperfect life.
+
+  1.3. Thesis:
+  FutureLearn
+
+    1.3.1. Pro:
+    An easy way to learn at a high level with experts and fellow interested parties.
+
+  1.4. Thesis:
+  nLab [2]
+
+  1.5. Thesis:
+  Coursera [3].
+
+    1.5.1. Pro:
+    They currently offer around 85 free certificate courses, which is very useful for those keen to learn more.
+
+  1.6. Thesis:
+  Kialo.com
+
+    1.6.1. Pro:
+    A great tool for good debate and logical discussion
+
+    1.6.2. Pro:
+    Rather than repeat the same debate like in reddit's Change My View, Kialo's debates are usually just added to by interested persons.
+
+      1.6.2.1. Pro:
+      Kialo's hierarchical structure offers users someplace to contribute to a debate.
+
+      1.6.2.2. Pro:
+      Kialo's debates are easy understand and get into. This discourages fatigue / overload and encourages getting into an existing debate.
+
+      1.6.2.3. Pro:
+      Continued growth and polish of existing debates feels like lots of work and an accomplishment and dissuades users from starting duplicates.
+
+    1.6.3. Pro:
+    Kialo's hierarchical structure of claims encourages what would otherwise be smaller debates to be claims inside of one bigger debate.
+
+    1.6.4. Pro:
+    Kialo's tools encourage growing and polishing debates, making them continually better.
+
+    1.6.5. Pro:
+    Kialo can act as the first and main source on an issue. It's like a Wikipedia for controversial topics.
+
+      1.6.5.1. Pro:
+      Kialo will eliminate dishonest persuading. Those who want to know the truth will come here.
+
+        1.6.5.1.1. Pro:
+        Kialo is likely to reduce the use of fallacies and false evidence to support arguments.
+
+    1.6.6. Pro:
+    Kialo is among the best Twitter/X alternatives. [4]
+
+    1.6.7. Con:
+    It is not well indexed on search engines like Google or DuckDuckGo. This is one reason why contributing to debates as of 2024 is not necessarily efficient use of time and why they often miss key arguments and views.
+
+    1.6.8. Con:
+    It is not free and open source software. [5]
+
+    1.6.9. Con:
+    -> See discussion #63570: Kialo will remain fairly unknown and there's nothing people can do that can substantially change that
+
+    1.6.10. Con:
+    There are no quality indicators or third-place discussions about a debate which means certain views or arguments could have been excluded in it, there could be bias when it comes to framing/phrasing/structuring, and one can't distinguish debates according to their overall quality which could also consider whether or not good-quality sources have been used if available, how well claims have been written, and so on.
+
+    1.6.11. Pro:
+    Debates can go on for long durations, slowly improving over time.
+
+    1.6.12. Pro:
+    Kialo encourages the debate between opposite positions, trying to fight the problem of social networks' echo chambers [6].
+
+      1.6.12.1. Con:
+      Moderators can shut down views if they so choose.
+
+    1.6.13. Con:
+    Kialo has little data relative to some of the largest sites.
+
+      1.6.13.1. Pro:
+      It has only few modularity features and those are not used much and when they are they require high permissions. One could embed or link subdebates about a certain question at the place(s) where it's relevant at another debate rather than duplicating the discussion there or missing arguments while the other debate remains unknown.
+
+      1.6.13.2. Con:
+      This can be remedied with growth.
+
+    1.6.14. Con:
+    Some of the debates on Kialo are unclear and difficult to follow.
+
+    1.6.15. Con:
+    As of 2024, debates can turn stale if their admins are inactive or don't accept new valid claims.
+
+  1.7. Thesis:
+  alternativeto.net.
+
+    1.7.1. Pro:
+    It is a directory of apps and sites originally made to find alternatives to an app. This directory can aid in making more people aware of the existence of alternatives to apps they are already familiar with.
+
+    1.7.2. Pro:
+    It allows people to find free open source alternatives.
+
+  1.8. Thesis:
+  Learn to Lucid Dream [7].
+
+  1.9. Thesis:
+  Waitbutwhy.com [8]
+
+    1.9.1. Pro:
+    This blog is easy to read.
+
+    1.9.2. Pro:
+    The blog is contains humorous content.
+
+    1.9.3. Pro:
+    The blog is informative and contains wise content.
+
+  1.10. Thesis:
+  Everything Connects. [9]
+
+    1.10.1. Pro:
+    The mission of Everything Connects is to inspire you, educate you, and empower you to make a difference in your life, for all life, and for the ecological foundations of life.
+
+  1.11. Thesis:
+  opensourceecology.org [10]
+
+    1.11.1. Pro:
+    Open Source Ecology is an effort to enable anyone to build basic tools and resources necessary to live independently and in a sustainable way, by providing open source DIY instructions.
+
+  1.12. Thesis:
+  Websites that list other useful websites
+
+    1.12.1. Pro:
+    https://freelearninglist.org/ [11]
+
+    1.12.2. Con:
+    Only few of those websites are developed collaboratively, making good use of collective intelligence and reasoning.
+
+    1.12.3. Pro:
+    The /r/InternetIsBeautiful subreddit [12]
+
+  1.13. Thesis:
+  DuckDuckGo search [13]
+
+    1.13.1. Pro:
+    DuckDuckGo [14] better [15] respects and protects privacy [16] and has search results that are usually as good as Google's. While it does not offer a search engine for studies, Google Scholar is not part of Google search either.
+
+      1.13.1.1. Con:
+      It's News feature is not on-par with Google and does not include some news articles.
+
+      1.13.1.2. Con:
+      It does not allow searching through Books like Google does based on its Google Books project.
+
+        1.13.1.2.1. Con:
+        In the future, it may become possible to not rely on Google Books for searching books and to instead use the full-text search for book contents on Anna's Archive that is planned or under development [17].
+
+      1.13.1.3. Pro:
+      The company donates relatively large sums [18] to important and partly neglected projects that work to improve digital privacy and security.
+
+    1.13.2. Pro:
+    -> See 1.13.1.3.
+
+  1.14. Thesis:
+  Wikimedia Commons [19]
+
+    1.14.1. Pro:
+    It has the largest well-structured collection of free media files organized using categories, usually to very precise and high resolution levels, being structured for collective intelligence.
+
+      1.14.1.1. Pro:
+      Query tools such as petscan and the built-in search engine can also be used to find precisely want would like to find.
+
+    1.14.2. Pro:
+    It is transparent and open. Decisions, debates, policies, uploads and changes are transparent and everyone is free to constructively contribute.
+
+    1.14.3. Con:
+    Since it only hosts free media files, many files are missing there and it has quite small numbers of files in many domains. If a specific image is needed or one is not limited by costs or license, one often has better success using Google Image search, reddit, stock image websites, and so on than when directly using that site.
+
+    1.14.4. Pro:
+    It is well-integrated into the Wikimedia system, making its media files usable on Wikipedias and file-uses being attached to images and so on.
+
+    1.14.5. Con:
+    It does not include relatively many educational media such as datagraphics, explanatory videos, and so on.
+
+  1.15. Thesis:
+  Wikipedia
+
+    1.15.1. Con:
+    Since Wikipedia pages can be written by anyone [20], they are susceptible to bias and unreliable sourcing.
+
+      1.15.1.1. Con:
+      These are then reviewed, verified, and removed if found to be inaccurate or spurious.
+
+      1.15.1.2. Con:
+      Pages that can't be written anyone by default are also susceptible to that. The openness rather allows fixing any biases and problematic sourcing.
+
+    1.15.2. Pro:
+    -> See discussion #34335: Wikipedia is a reliable source of information.
+
+    1.15.3. Con:
+    Too few scientists and experts are contributing, leaving a large burden of work on volunteers, including relatively low-expertise people.
+
+      1.15.3.1. Pro:
+      -> See discussion #28756: Should scientists contribute to Wikipedia within their broader area of research?
+
+      1.15.3.2. Pro:
+      This problem often results in very outdated articles on scientific subjects.
+
+    1.15.4. Con:
+    There [21] have [22] been [23] large-scale campaigns or paid editing to modify important articles, usually for political or marketing purposes. It can be hard to detect and correct such.
+
+      1.15.4.1. Con:
+      These are usually quickly reverted or detected and adequately changed.
+
+    1.15.5. Con:
+    For a few subjects or articles, small numbers of editors inappropriately stonewall constructive contributions or revert and delete content in conflict with Wikipedia policies such as neutrality. The gatekeeping can be problematic.
+
+      1.15.5.1. Con:
+      Since Wikipedia is an open collaborative platform, such problems can be corrected if more people would participate.
+
+      1.15.5.2. Con:
+      When it comes to deletions of articles, "EverybodyWiki" often still contains the deleted articles. Moreover, often they could be recreated at a later point when there are more reliable sources available.
+
+    1.15.6. Pro:
+    Each article has transparent citations so for further research and can use these to find more detailed or possibly more reliable information. Wikipedia itself is not necessarily the source of information but a place to get a rough summary, an outline, and a few sources to get started.
+
+    1.15.7. Pro:
+    The content is licensed under an open content CCBY-SA license that allows everyone to reuse and modify it.
+
+    1.15.8. Pro:
+    The website uses exclusively free and open source software which is better [24] and allows developers to help with extending it with scripts and code changes.
+
+    1.15.9. Con:
+    It does not or barely feature interactive charts.
+
+      1.15.9.1. Con:
+      It may soon be possible to integrated OWID [25] charts and maps into Wikipedia articles using the OWID gadget [26] that is being tested in a few smaller Wikipedias as of 2024.
+
+    1.15.10. Con:
+    Only the English-language Wikipedia [27] is fairly [28] up-to-date, high-quality, well-maintained, and [29] comprehensive [30].
+
+    1.15.11. Pro:
+    Wikipedia is a great source of freely accessible and mostly reliable information on a huge variety of topics.
+
+      1.15.11.1. Pro:
+      Wikipedia currently has [31] more than 52 million articles in more than 300 languages.
+
+        1.15.11.1.1. Con:
+        Articles on Wikipedias other than English-language Wikipedia are [32] often missing, have much lower depth, or are out-of-date.
+
+      1.15.11.2. Pro:
+      It is of relatively good quality and has extensive coverage of medial and health-related subjects [33] for which it is increasingly being used.
+
+  1.16. Thesis:
+  Google Scholar [34]
+
+    1.16.1. Pro:
+    It is the largest free-to-use full-text search engine for academic studies. Of other free academic search engines, OpenAlex doesn't index nearly as many studies and PubMed only contains medical studies.
+
+  1.17. Thesis:
+  Anna's Archive [35]
+
+    1.17.1. Pro:
+    -> See 1.13.1.2.1.
+
+    1.17.2. Pro:
+    It is humanity's largest ever library of books as well as of academic papers.
+
+    1.17.3. Pro:
+    It is a non-profit and seems to sustain itself based on donations [36].
+
+    1.17.4. Pro:
+    It's rare to find recent academic papers on Sci-Hub but these can often be found on Anna's Archive. Sci-Hub has paused uploading of new papers which is why AA's SciDB will continue [37] from there.
+
+    1.17.5. Pro:
+    One can search books, comics [38], academic papers, and more all in one UI. It integrated Library Genesis (the largest shadow library of books before AA), Z-Library, Sci-Hub, and other major digital text download platforms.
+
+    1.17.6. Pro:
+    It is decentralized and makes use of technologies like IPFS [39] and torrenting to ensure resilience.
+
+    1.17.7. Con:
+    It is not legal.
+
+      1.17.7.1. Con:
+      -> See discussion #27658: Paywalls around academic publications slow scientific progress.
+
+      1.17.7.2. Con:
+      -> See discussion #44009: Scientific studies should be available free of charge.
+
+      1.17.7.3. Con:
+      Many things throughout human history have not been legal at some point, eventually it will be legal and it should be legal already.
+
+        1.17.7.3.1. Pro:
+        -> See discussion #11289: Digital piracy is good.
+
+      1.17.7.4. Con:
+      When it comes to books and financial revenue from them, people still want to have printed books even when they can download the digital versions, which is of special value to online writers and researchers who only need to read a small part of the book or validate its contents.
+
+    1.17.8. Con:
+    It is blocked for some users [40] without VPNs or Tor.
+
+    1.17.9. Pro:
+    It has gained widespread support, such as an endorsement [41] by the CEO of the Open Knowledge Foundation and many Internet users, and has an active community, with over 20k subreddit subscribers, and active [42] software development.
+
+    1.17.10. Pro:
+    It is open source [43].
+
+    1.17.11. Pro:
+    There are many mirrors for every item and downloads are fast and without long wait times, ads, or other annoyances.
+
+    1.17.12. Con:
+    As of 2024, it still does not include many academic papers and many books in languages other than English.
+
+    1.17.13. Pro:
+    Unlike other shadow libraries, it has a search engine that enables searching for and discovering items and that search engine is working well.
+
+    1.17.14. Con:
+    It is a bit unclear which file access data is stored, which of it is or will be available, and it displays a number of recently downloaded items.
+
+  1.18. Thesis:
+  show.ing.me [44]
+
+    1.18.1. Pro:
+    As the foundations of technology disintegrate in this old web, so does our heritage as digital pioneers. Building the computer anew is the subject matter at this website.
+
+  1.19. Thesis:
+  The StackExchange Q&A sites [45]
+
+    1.19.1. Pro:
+    These sites all use a standardized format that makes it easy to use the site and to find relevant questions, such as via topic tags beneath questions.
+
+    1.19.2. Pro:
+    These sites are compatible with each other so when there is a related question on another one of these sites, it could be linked in the sidebar.
+
+    1.19.3. Pro:
+    All the content is licensed under the open content license CC-BY-SA [46]. This allows re-use, supports knowledge sharing and enabled data-dumps.
+
+    1.19.4. Pro:
+    They are well indexed on search engines like DuckDuckGo and Google which makes contributions to these sites valuable and efficient.
+
+      1.19.4.1. Con:
+      This likely is not the case for some smaller StackExchange sites except when search engine results have been personalized or the query closely matches the question.
+
+    1.19.5. Pro:
+    The UI is modern and user-friendly.
+
+    1.19.6. Pro:
+    Posts can be edited by other users and moderation is done by community members.
+
+    1.19.7. Pro:
+    The sites include elements of gamification, motivating users and enabling feedback and reputation scores.
+
+    1.19.8. Con:
+    Many questions have no answer or no good answer or have been marked as solved even when the answer is insufficient.
+
+    1.19.9. Con:
+    It is not free and open source software. [47]
+
+  1.20. Thesis:
+  Internet Archive​ [48]
+
+    1.20.1. Pro:
+    It is the biggest digital library.
+
+      1.20.1.1. Con:
+      Anna's Archive [49] is the biggest digital library. Internet Archive is only the largest legal one whose pages are indexed by search engines.
+
+    1.20.2. Pro:
+    With its Wayback Machine it allows people to access past versions of websites, including websites that have gone offline or had their contents removed.
+
+  1.21. Thesis:
+  Google search [50].
+
+    1.21.1. Pro:
+    Google is the most used [51] search engine by far, which suggests it is of the highest quality.
+
+      1.21.1.1. Con:
+      This may not necessarily indicate higher quality, but rather a global shift [52] towards the use of mobile phones - the search engine of which is usually Google [53] - for internet access.
+
+    1.21.2. Con:
+    Advertisers usually benefit from an under informed consumer. Google depends on advertising so it can never be as good as technology allows.
+
+    1.21.3. Con:
+    -> See 1.13.1.
+
+    1.21.4. Pro:
+    Google search provides you with quick and easy access to all sorts of information, including the ability to discover other useful websites.
+
+      1.21.4.1. Pro:
+      Some of the websites you can more easily access specific content your searching for are Wikipedia and Kialo, meaning that those sources of information are able to have a larger impact and are more easily accessible thanks to google.
+
+    1.21.5. Pro:
+    It includes the best way to full-text search for news articles and books with Google News and Google Books respectively.
+
+    1.21.6. Con:
+    It can heavily personalize search results [54] which can, and likely usually does, affect results negatively.
+
+      1.21.6.1. Con:
+      Some users like such personalization and miss ways to personalize the search results at Google alternatives.
+
+  1.22. Thesis:
+  ScienceOpen.com [55]
+
+    1.22.1. Con:
+    It doesn't have much capacity for full-text search throughout the studies which works much better on Google Scholar.
+
+    1.22.2. Pro:
+    It is one of few publicly available free sites to scan for recent studies using filters or search terms.
+
+  1.23. Thesis:
+  archive.today [56]
+
+    1.23.1. Pro:
+    It is an alternative to the Wayback Machine of Internet Archive [57] and allows users to see past versions of websites, including of websites that have gone offline or had their contents removed.
+
+    1.23.2. Pro:
+    It is very useful to access paywalled texts and usually works better than the Google webcache for that purpose.
+
+  1.24. Thesis:
+  Our World in Data [58]
+
+    1.24.1. Con:
+    The data it contains is often misleading, flawed, or framed in misleading ways.
+
+      1.24.1.1. Pro:
+      When this is the case, it can't be pointed out by others as can be done on collaborative sites like Wikipedia. There are no notes attached that point out identified or potential issues, especially no collaboratively developed ones.
+
+      1.24.1.2. Pro:
+      The data can be flawed at the source and this can't be pointed out, usually isn't contextualized, and being visualized in an OWID chart may give readers a false sense of reliability.
+
+      1.24.1.3. Pro:
+      There are many examples for this issue.
+
+        1.24.1.3.1. Pro:
+        The chart "Cumulative displaced plastic waste as a result of Chinese import ban [59]" doesn't [60] show that not exporting waste (to China or any other country) and proper local waste management is an option and has a few further issues.
+
+        1.24.1.3.2. Pro:
+        The chart in "Is organic really better for the environment than conventional agriculture? [61]", even when assuming the underlying data is correct, doesn't [62] consider impacts on soil and insects and has a few further issues.
+
+        1.24.1.3.3. Pro:
+        The chart "What are the safest and cleanest sources of energy? [63]" only shows deaths from accidents & air pollution and greenhouse gas emissions which is misleading [64] since the issue with nuclear power is risks for future deaths from nuclear weapons, the high economic costs of accidents, long-term waste storage issues, and high economic cost compared to renewables where the transition to sustainability is slowed down.
+
+      1.24.1.4. Pro:
+      Its chart are often oversimplified and/or frame things as indicators of progress that are not actually indicators of progress.
+
+        1.24.1.4.1. Pro:
+        There are countless charts about GDP [65] which is not a good measure of progress and few or no similar comparisons using better measures of progress.
+
+    1.24.2. Pro:
+    It contains interactive updated charts and maps on a large number of subjects.
+
+    1.24.3. Pro:
+    Its contents are licensed under an open content CCBY license that allows re-use. It also uses free software that makes re-use possible.
+
+    1.24.4. Pro:
+    It actively contributes to more available open data such as by [66] campaigning for the International Energy Agency to make the data it collects from national governments publicly available.
+
+    1.24.5. Pro:
+    It is often streamlined around major problems such as poverty, diseases, hunger, climate change, wars, and existential risks and also allows accessible tracking of nonmonetary [67] progress metrics such as disability-adjusted years of life lost [68] or average lifespan [69]. This aids and facilitates problem-solving in societies.
+
+  1.25. Thesis:
+  TED (Technology, Education and Design) website
+
+    1.25.1. Pro:
+    TED talks are free and accessible to all: over 2,600 [70] TED Talks were available on the website as of January 2018.
+
+    1.25.2. Pro:
+    There are many TED-affiliated projects and events [71] of which the talks are live streamed or uploaded to the website and cater to specific, often underrepresented, demographics, such as TEDYouth or TEDWomen.
+
+      1.25.2.1. Pro:
+      In 2011, TED began a program called "TEDx in a Box" [72], which is intended to enable people in developing countries to hold TEDx events.
+
+    1.25.3. Con:
+    TED has been accused of censoring its content [73], calling into question its image as a provider of freely expressive and diverse content.
+
+    1.25.4. Con:
+    Most of its recent talks are shallow and seem to not be much more than marketing campaigns.
+
+      1.25.4.1. Pro:
+      Many talks are hype [74], presenting greenwashing-type of views, or are essentially vacuous partly-harmful nice-sounding talking points [75].
+
+    1.25.5. Con:
+    Watching videos of talks is, at least usually, not a good way to get educated on anything or research anything.
+
+    1.25.6. Pro:
+    A fascinating range of talks by experts on this site offers almost any person a fresh or complimentary perspective to the world
+
+  1.26. Thesis:
+  Twitter
+
+    1.26.1. Con:
+    Posts that one has already seen can show up multiple times in one's feeds.
+
+    1.26.2. Con:
+    The fraction of posts that is truly interesting and useful is low.
+
+      1.26.2.1. Pro:
+      This means it tends to usually be a waste of time rather than being a useful resource or educational website.
+
+    1.26.3. Con:
+    There are a lot of trolls and low-substance posts.
+
+    1.26.4. Con:
+    The site is an instance of fast social where everything has to be happening in the now, be about ongoing/upcoming or very recent things, and discussions last only a day or so.
+
+    1.26.5. Con:
+    The site rewards making many posts rather than few [76] highly useful ones such as only posting once per month that doesn't contribute to overwhelming feeds of followers.
+
+    1.26.6. Con:
+    The site engages in semi-censorship [77] where posts are effectively hidden without any explanation or credible rationale and without the user getting informed about it. They are hidden at the bottom of comments where one has to click Show more.
+
+    1.26.7. Con:
+    -> See discussion #58092: Elon Musk's takeover of Twitter/X is good for the general public.
+
+    1.26.8. Pro:
+    The site has a lot of users and therefore a large audience as well as a lot of content.
+
+  1.27. Thesis:
+  Reddit
+
+    1.27.1. Pro:
+    Reddit community wikis [78] are better tutorials and introductions to topics than tutorials that can be found through a Google search.
+
+    1.27.2. Pro:
+    It has a lot of users and because of that a large audience for own posts as well as a large number of posts where it's more likely one may find things of interest.
+
+    1.27.3. Pro:
+    There are a lot of subreddits for all kinds of topics.
+
+    1.27.4. Con:
+    The dark mode UI is hardly usable since it is too dark.
+
+    1.27.5. Con:
+    It can't really be used on mobile without using a mobile app and more so since the API controversy one has to use the official app.
+
+    1.27.6. Con:
+    There are large 'hivemind [79]' problems [80] of [81] echo chambers and filter bubbles as well as biased moderation. Moderators can usually arbitrarily remove any posts they don't like, especially if the posts are slightly outside the small box of what's normal in the subreddit.
+
+      1.27.6.1. Con:
+      Despite of this, there are diverse users on reddit and these can try to comment and post across subreddits even if each have their own dogmas and biases.
+
+      1.27.6.2. Pro:
+      Moderators can also ban users from their subreddit. For such actions as well as for removing posts, no explanations need to be given and no rule of the site or subreddit needs to have been violated.
+
+    1.27.7. Pro:
+    There is a lot of information for which there are not yet good sources such as information about which dosages of chemicals people are using in certain ways and their experiences which is better to look up than trying a random dose or not having any insights into the real-world experiences of people.
+
+    1.27.8. Con:
+    In April 2023, the site started to charge for its API, which caused a large upheaval [82] among site users and moderators and forced multiple third-party mobile apps to shut down. Many subreddits participated in a blackout and many users are still very discontent.
+
+    1.27.9. Pro:
+    Reddit is among the best Twitter/X alternatives. [83]
+
+    1.27.10. Pro:
+    It is a good way for finding crowdsourced information and the site benefits from the diversity of expertise and knowledge of its users. For example, there are many posts about studies on the site which often have insightful feedback comments from users.
+
+      1.27.10.1. Pro:
+      The Altmetrics badge at scientific papers online include links to all reddit posts that directly link to the study which one can use to quickly find feedback, including critical review-like comments, on any particular study.
+
+        1.27.10.1.1. Con:
+        Very often users only posted a news report about the study but not the study itself on reddit. These posts don't show up there.
+
+        1.27.10.1.2. Con:
+        Users often don't post about even very large subreddits, or upvote irrelevant minor studies while big truly notable ones get drowned, or post to inappropriate or very small subreddits rather than subreddits like r/Science or r/EverythingScience.
+
+    1.27.11. Pro:
+    On many subreddits, users can ask questions to respective experts such as on /r/AskScience.
+
+    1.27.12. Pro:
+    Its threads are usually well indexed in search engines.
+
+  1.28. Thesis:
+  www.khanacademy.org
+
+  1.29. Thesis:
+  Department of Defense DTIC Discover.dtic.mil [84] Defense Technology Information Center
+
+    1.29.1. Con:
+    The site asks permission to record audio. you can deny the permission but it still makes me wonder if they are like Google and record everything anyways
+
+    1.29.2. Pro:
+    Excellent reputation.Department of Defense technical library information center.
+
+    1.29.3. Pro:
+    Find studies and reports that you can't find anywhere else on the internet
+
+    1.29.4. Pro:
+    They also have a large number of older studies and reports that aren't normally found. Historical documents.
+
+    1.29.5. Pro:
+    High quality, thorough documents.Technical. if you want to know what your country has been up to notably the United States of America look it up here so that you know what they know. Unclassified or declassified documents.
+
+    1.29.6. Con:
+    There's no classified information. Only unclassified and declassified and redacted
+
+  1.30. Thesis:
+  Examine.com [85]
+
+    1.30.1. Con:
+    Most of its data is not free.
+
+    1.30.2. Pro:
+    It can provide useful overviews on supplements such as showing which dosages have been used in or were reported as effective studies for any given supplement.
+
+    1.30.3. Con:
+    Some of its data is outdated, misleading, problematic or missing key information.
+
+      1.30.3.1. Pro:
+      The page on Niacin (vitamin B3) [86] for example does not include information on this study [87] indicating [88] risks of supplementation at the common dosages.
+
+      1.30.3.2. Pro:
+      Its pages on chocolate [89] are misleading, in particular by not considering caloric and fat intake.
+
+  1.31. Thesis:
+  Snopes [90]
+
+  1.32. Thesis:
+  OpenAlex [91]
+
+    1.32.1. Pro:
+    One of the largest [92] search engine for scientific studies [93]. Unlike Google Scholar and ScienceOpen it has far more well-working filters such as the license filter.
+
+    1.32.2. Con:
+    The semantic topics aren't accurate and some data for filters may also be inaccurate.
+
+    1.32.3. Con:
+    Far fewer studies are indexed compared to Google Scholar but that seems to be changing.
+
+  1.33. Thesis:
+  Know Your Meme [94]
+
+  1.34. Thesis:
+  Urban Dictionary [95]
+
+  1.35. Thesis:
+  Standard [96]
+
+  1.36. Thesis:
+  seneca [97]
+
+  1.37. Thesis:
+  RSA (Royal Society of Arts)
+
+    1.37.1. Pro:
+    "The mission of the RSA (Royal Society for the encouragement of Arts, Manufactures and Commerce) is to enrich society through ideas and action."thersa.org [98]
+
+  1.38. Thesis:
+  Youtube
+
+    1.38.1. Con:
+    YouTube is so addictive, that it might actually be better not to know it, in order to avoid spending too much time binge watching videos.
+
+      1.38.1.1. Pro:
+      Youtube never stops suggesting worthless time sinks even if user downvotes or reports them.
+
+      1.38.1.2. Con:
+      A person who knows exactly what they want to watch or research on Youtube and knows how much time they have set aside for it will be much less likely to 'binge watch'.
+
+        1.38.1.2.1. Con:
+        Going to youtube for an instructional video then causes environment to include all sorts of distractions in the sidebar. Just the suggestion of so much entertainment a click away will test the will of the user, tempting them waste a lot of time on watching videos.
+
+    1.38.2. Con:
+    Youtube does not respect copyrights as much as competitors such as Vimeo or Facebook [99]. Youtube Copyright controversies [100].
+
+    1.38.3. Con:
+    Though youtube is practically the common carrier, most companies and not-for-profit organizations use Vimeo to host their videos. EX1 [101]
+
+    1.38.4. Con:
+    There are a lot of ads, including video interruptions.
+
+    1.38.5. Con:
+    Courses on Youtube are often of lower quality than those on dedicated online course websites.
+
+    1.38.6. Pro:
+    Youtube provides a great alternative source of information for those who struggle to learn through reading.
+
+      1.38.6.1. Pro:
+      Seeing visual explanations is a more clear way of putting something which would otherwise be explained in theory, into action. This makes it easier to make practical use of the lessons learned on Youtube.
+
+    1.38.7. Pro:
+    Used for uploading and posting videos- this has been used as a tool for entertainment, education, politics and for many other purposes as well
+
+Sources:
+[1] https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/
+[2] https://ncatlab.org/nlab/show/HomePage
+[3] https://www.coursera.org/
+[4] https://www.kialo.com/kialo-61048.4
+[5] https://www.kialo.com/should-kialo-become-free-and-open-source-software-65742
+[6] https://en.wikipedia.org/wiki/Echo_chamber_\(media\)
+[7] http://www.world-of-lucid-dreaming.com/#whatisaluciddream
+[8] https://waitbutwhy.com/
+[9] http://www.everythingconnects.org/
+[10] https://www.opensourceecology.org/
+[11] https://freelearninglist.org/
+[12] https://www.reddit.com/r/InternetIsBeautiful/top/?t=year
+[13] https://duckduckgo.com/
+[14] https://duckduckgo.com/
+[15] https://www.cnet.com/tech/services-and-software/duckduckgo-what-to-know-about-google-searchs-privacy-focused-rival/
+[16] https://en.wikipedia.org/wiki/DuckDuckGo#Privacy
+[17] https://annas-software.org/AnnaArchivist/annas-archive/-/issues/59
+[18] https://en.wikipedia.org/wiki/DuckDuckGo#Business_model
+[19] https://commons.wikimedia.org/wiki/Main_Page
+[20] https://en.wikipedia.org/wiki/Wikipedia:About
+[21] https://www.theatlantic.com/business/archive/2015/08/wikipedia-editors-for-pay/393926/
+[22] https://theconversation.com/paid-editors-on-wikipedia-should-you-be-worried-30527
+[23] https://www.digitaltrends.com/web/wikipedia-pr-spam/
+[24] https://www.kialo.com/open-source-software-is-better-15628
+[25] https://www.kialo.com/our-world-in-data-14768.390
+[26] https://meta.wikimedia.org/wiki/OWID_Gadget
+[27] https://en.wikipedia.org/wiki/English_Wikipedia
+[28] https://joe.cat/images/papers/knowledge-accelorator.pdf
+"Wikipedia has identified as a key challenge that it is losing core editors faster than it can attract and grow
+new ones. As these core editors are disproportionately responsible for not only producing content but also for creating a structure for peripheral contributions, their departure is particularly difficult to handle."
+[29] https://dl.acm.org/doi/10.1145/3614419.3644007
+"English Wikipedia can be considered the baseline as it hosts the WikiProject. Interestingly, in terms of article size, even the most extensive language editions only cover about one-third of [climate change] articles, e.g. Arabic, French, Spanish, and German Wikipedia, ranging between 35%"
+[30] https://undark.org/2021/08/12/wikipedia-has-a-language-problem-heres-how-to-fix-it/
+[31] https://en.wikipedia.org/wiki/Wikipedia:About
+[32] https://undark.org/2021/08/12/wikipedia-has-a-language-problem-heres-how-to-fix-it/
+[33] https://www.cbsnews.com/news/the-rise-of-wikipedia-as-a-source-of-medical-information/
+[34] https://scholar.google.com/
+[35] https://en.wikipedia.org/wiki/Anna's_Archive
+[36] https://annas-archive.org/donate
+[37] https://annas-archive.org/scidb
+[38] https://annas-blog.org/backed-up-the-worlds-largest-comics-shadow-lib.html
+[39] https://annas-blog.org/help-seed-zlibrary-on-ipfs.html
+[40] https://goodereader.com/blog/digital-library-news/major-shadow-libraries-annas-archive-and-libgen-blocked-following-court-order
+[41] https://www.reddit.com/r/Annas_Archive/comments/160gaol/an_endorsement_by_the_ceo_of_the_open_knowledge/
+[42] https://annas-software.org/AnnaArchivist/annas-archive
+[43] https://www.kialo.com/open-source-software-is-better-15628
+[44] http://show.ing.me/
+[45] https://stackexchange.com/sites
+[46] https://stackoverflow.com/help/licensing
+[47] https://meta.stackoverflow.com/questions/313483/is-stack-overflow-open-source
+[48] http://archive.org
+[49] https://www.kialo.com/annas-archive-14768.245
+[50] https://en.wikipedia.org/wiki/Google_Search
+[51] https://www.searchenginejournal.com/googles-share-search-ad-market-projected-grow-80-2019/#close
+[52] https://www.broadbandsearch.net/blog/mobile-desktop-internet-usage-statistics
+[53] https://www.searchenginejournal.com/googles-share-search-ad-market-projected-grow-80-2019/#close
+[54] https://www.theverge.com/2018/12/4/18124718/google-search-results-personalized-unique-duckduckgo-filter-bubble
+[55] https://www.scienceopen.com/
+[56] https://en.wikipedia.org/wiki/Archive.today
+[57] https://www.kialo.com/with-its-wayback-machine-it-allows-people-to-access-past-versions-of-websites-including-websites-that-have-gone-offline-14768.374
+[58] https://ourworldindata.org/
+[59] https://ourworldindata.org/grapher/displaced-plastic-chinese-import-ban
+[60] https://commons.wikimedia.org/wiki/File_talk:Cumulative_displaced_plastic_waste_as_a_result_of_Chinese_import_ban,_OWID.svg#Misleading_or_incomplete
+[61] https://ourworldindata.org/is-organic-agriculture-better-for-the-environment
+[62] https://commons.wikimedia.org/wiki/File_talk:Organic-vs.-Conventional-Impacts-FINAL-01-768x556.png#Misleading_or_incomplete
+[63] https://ourworldindata.org/cheap-renewables-growth
+[64] https://commons.wikimedia.org/wiki/File_talk:5-Bar-chart-%E2%80%93-What-is-the-safest-form-of-energy.png#Does_not_show_costs_of_nuclear_disasters_under_safety
+[65] https://commons.wikimedia.org/w/index.php?search=our+world+in+data+gdp&title=Special:MediaSearch&go=Go&type=image&sort=recency
+[66] https://media.nature.com/original/magazine-assets/d41586-021-02691-4/d41586-021-02691-4.pdf
+[67] https://commons.wikimedia.org/wiki/Category:Nonmonetary_progress_metrics
+[68] https://ourworldindata.org/burden-of-disease
+[69] https://ourworldindata.org/life-expectancy
+[70] https://en.wikipedia.org/wiki/TED_\(conference\)
+[71] https://en.wikipedia.org/wiki/TED_\(conference\)#Related_projects_and_events
+[72] https://blog.ted.com/packable-philanthropy-donate-a-tedx-in-a-box/
+[73] https://townsendcenter.berkeley.edu/blog/curating-or-censoring-ted-controversy-and-digital-humanities
+[74] https://www.youtube.com/watch?v=KKNCiRWd_j0
+[75] https://www.youtube.com/watch?v=TkpyR9VBwTs
+[76] https://blog.hootsuite.com/twitter-algorithm/
+"10 tips for working with the Twitter algorithm
+1. Maintain an active Twitter presence
+
+Twitter is a lot of things, but one thing it isn’t is precious. You should obviously think before you tweet, but don’t overthink it. If you’ve got an idea for a post, just do it. Either it’ll work, or it will flop, and the timeline will keep moving.
+
+Hootsuite generally recommends posting at least 1-2 times per day and a maximum of 3-5 times per day (with multiple Tweets in a thread counting as one post). That’s the best way to keep your followers engaged.
+
+It’s also important to stay in the algorithm’s good graces. If you only tweet once a week, it’s highly unlikely that you’re going to be pushed to the Home Tweets page."
+[77] https://en.wikipedia.org/wiki/Censorship_of_Twitter#Semi-censorship
+[78] https://old.reddit.com/r/bikecommuting/wiki/index
+[79] https://www.popularmechanics.com/science/health/a9335/upvotes-downvotes-and-the-science-of-the-reddit-hivemind-15784871/
+"The Hivemind
+
+Reddit is occasionally chastised, even from the inside, for sameness in opinions and groupthink. Astrophysicist Neil deGrasse Tyson and comedian Louis C.K. are beloved almost beyond criticism, and many traditionally liberal political and social views dominate conversations. While the researchers are the first to quantify this up/downvoting online herding effect, it may not come as a surprise to many redditors—on the site, the tendency to groupthink is commonly referred to on the site as the hivemind.
+
+"Twenty-five percent sounds about right," says Erik Martin, the general manager of Reddit. "It doesn't surprise me that comments that get a positive vote have that momentum. There are certainly some aspects of an echo chamber.""
+[80] https://www.inverse.com/article/13915-reddit-s-new-block-function-could-stop-trolls-and-free-speech-at-the-same-time
+"Still, there’s no question that the new function will only increase Reddit’s “hivemind” phenomenon, which by simple nature of the upvote/ downvote mechanism governs most of the site’s content.
+
+This trend is particularly pronounced on smaller subreddits, as one user pointed out. User Donnadre assumed that a “cartel of active users” could “groupthink to death” points of view that don’t fit the popular point of view. It’ll be interesting to see how this function pans out on the site. As the administrators noticed, there’s always a risk of abuse. For users who are being harassed, the changes will be instantaneous, but we may have to wait a little longer to see the effects that cognitive dissonance and filter bubbles play on the site’s overall discourse."
+[81] https://www.researchgate.net/publication/284186822_Participatory_Culture_Community_and_Play_Learning_from_Reddit
+"The “bubble” that my informant mentions is one that many redditors happily exist inside—even while threads decry the “echo chamber” or “hivemind” nature of many of the site’s conversations. It is not unsurprising, then, that experimental research on sites with similar downvoting/upvoting mechanics as reddit demonstrates that social inﬂuence plays a key role in how postings are received. 
+And yet redditors remain a news-consuming bunch: 62% of them get news from the site (…).
+However, the notion that reddit is entirely without gatekeepers is untrue—or at least the reality is more complicated. Moderators have a great deal of power over the kind of content that appears in their subreddits. They can set explicit rules regarding sources, tone, or content of submissions and com-
+ments. Yes, anyone can create his/her own subreddit, but actually creating one that gains subscribers and visibility is tricky."
+[82] https://en.wikipedia.org/wiki/2023_Reddit_API_controversy
+[83] https://www.kialo.com/reddit-61048.6
+[84] http://Discover.dtic.mil
+[85] https://examine.com/
+[86] https://examine.com/supplements/vitamin-b3/
+[87] https://www.nature.com/articles/s41591-023-02793-8
+[88] https://www.nbcnews.com/health/heart-health/high-levels-niacin-may-increase-heart-disease-risk-know-b-vitamin-rcna139249
+[89] https://examine.com/articles/chocolate-and-all-of-its-benefits/
+[90] https://www.snopes.com/
+[91] https://openalex.org/
+[92] https://www.nature.com/articles/d41586-022-00138-y
+[93] https://en.wikipedia.org/wiki/OpenAlex
+[94] https://knowyourmeme.com/
+[95] https://www.urbandictionary.com/
+[96] https://standard.tv/
+[97] https://www.senecalearning.com/
+[98] https://www.thersa.org/about-us
+[99] https://www.antevenio.com/usa/facebooks-video-copyright-how-to-prevent-your-video-from-being-used-without-permission/
+[100] https://en.wikipedia.org/wiki/YouTube#Copyrighted_material
+[101] https://quantifiedself.com/show-and-tell/?project=1104

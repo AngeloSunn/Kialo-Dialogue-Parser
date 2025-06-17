@@ -1,0 +1,3981 @@
+digraph tree {
+    "1 [st-1]
+Television is bad for people.";
+    "1.1 [st-2]
+TV is a vital outlet for the arts and
+creative human expression.";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums.";
+    "1.1.1.1 [st-4]
+People should be incentivized to visit
+museums and read books, not find
+justification for their habit of
+watching poor quality TV programming.";
+    "1.1.1.2 [st-5]
+The number of people reading books and
+visiting museums [2] around the world
+has been falling (p. 4 [3]).";
+    "1.1.1.3 [st-6]
+TV allows people to watch films they may
+have missed or would be unable to afford
+to see at the cinema.";
+    "1.1.1.3.1 [st-7]
+For people of a lower economic status,
+watching television is the only way they
+can enjoy the same movies as those who
+can afford to see them at the movie
+theater. Thus, TV is a social good.";
+    "1.1.1.3.1.1 [st-8]
+The price of cinema tickets vary from
+country to country [4], and can be
+incredibly affordable [5] in some
+places.";
+    "1.1.1.3.1.1.1 [st-9]
+Some movie theater chains give discounts
+for kids [6] and young people, senior
+citizens [7], members of the military
+[8], and essential workers [9].";
+    "1.1.1.3.1.1.2 [st-10]
+In countries like Mali, a single cinema
+ticket can cost 59% of the average
+weekly wage [10].";
+    "1.1.1.3.1.1.3 [st-11]
+Theater promotions and cinema
+subscription services [11] can drive
+down the price of cinema tickets, making
+them even more affordable.";
+    "1.1.1.3.2 [st-12]
+Most films are only released to be shown
+on TV or streaming long after [12] they
+are released in cinema.";
+    "1.1.1.3.2.1 [st-13]
+Not everyone has the time to watch
+movies as soon as they hit theaters.
+Some might prefer the flexibility of
+watching the movie at a later date.";
+    "1.1.1.3.2.2 [st-14]
+New blockbuster movies are increasingly
+seeing early or simultaneous streaming
+releases [13].";
+    "1.1.1.3.3 [st-15]
+The diverse offering of shows available
+on TV and streaming services [14] allows
+people to access a variety of content
+they wouldn't have access to otherwise.";
+    "1.1.1.3.3.1 [st-16]
+Streaming services tend to have dynamic
+and restrictive catalogues. Netflix has
+around [15] 6,000 shows and movies,
+while IMDB is approaching five million
+[16] entries, meaning that only 0.12% of
+movies IMDB has indexed are available on
+Netflix.";
+    "1.1.1.4 [st-17]
+Impoverished people who struggle to
+afford [17] cable television are left
+with just the local channels and few
+options for entertainment.";
+    "1.1.1.4.1 [st-18]
+Local channels are often biased and
+choose to present certain pieces of news
+while ignoring others.";
+    "1.1.1.4.1.1 [st-19]
+Most people in the US trust local news
+more than national sources, and believe
+they are less ideologically biased [18].";
+    "1.1.1.4.1.2 [st-20]
+Local news channels are more likely to
+encounter funding issues [19] than large
+national news outlets, and are thus more
+susceptible to bribery or economic
+biases.";
+    "1.1.1.4.1.3 [st-21]
+People are watching less live TV [20]
+than ever before. With plummeting
+viewership, these channels may no longer
+exist in the future.";
+    "1.1.1.4.2 [st-22]
+TV piracy [21] is accessible, on the
+rise and unlikely to lead to any severe
+consequences. If someone cannot afford
+TV, then they can easily pirate it.";
+    "1.1.1.4.2.1 [st-23]
+Many channels, especially those showing
+live sports, are illegally mirrored
+online [22] and available for free.";
+    "1.1.1.4.2.2 [st-24]
+Pirate networks are frequently targeted
+and shut down [23] by international
+government investigations.";
+    "1.1.1.4.2.3 [st-25]
+In poorer regions, one cable subscriber
+can share their access [24] with entire
+neighborhoods.";
+    "1.1.1.4.2.4 [st-26]
+Suggesting theft of intellectual
+property is hardly a reasonable
+substitute for paying for cable.";
+    "1.1.1.4.3 [st-27]
+People are only able to physically watch
+one TV channel at a time. While people
+without cable have fewer options, they
+are still able to access some form of
+programming.";
+    "1.1.1.4.3.1 [st-28]
+The variety and diversity of channels
+available is the issue, not how many can
+be watched at once.";
+    "1.1.1.4.3.2 [st-29]
+Many countries have national
+broadcasters, like the BBC [25], which
+can be accessed without an expensive
+cable subscription.";
+    "1.1.1.4.3.3 [st-30]
+Picture-in-Picture [26] allows people to
+watch multiple channels at once.";
+    "1.1.1.4.3.3.1 [st-31]
+PiP, despite once being a popular
+feature, has been made obsolete [27] by
+newer technology.";
+    "1.1.1.5 [st-32]
+There are 122 million homes [28] in the
+US with a TV. Having a means of
+consuming art in their home makes it far
+more accessible in general.";
+    "1.1.1.6 [st-33]
+TV requires that a household have
+consistent and cheap power, as TVs
+consume a lot of electricity [29].";
+    "1.1.1.6.1 [st-34]
+Many developing countries have
+load-shedding [30] or power outages
+[31], which might interrupt people's
+viewing to the point where the TV would
+be useless.";
+    "1.1.1.6.2 [st-35]
+TVs can be run using external generators
+[32], which are not reliant on national
+power grids.";
+    "1.1.1.6.2.1 [st-36]
+Most people cannot afford external
+generators—they are generally more
+expensive [33] to run than electricity
+from the power grid.";
+    "1.1.1.6.3 [st-37]
+Electricity rates in some developing
+countries are capped, meaning they have
+less of an impact on the operational
+costs of owning a TV (p. 4 [34]).";
+    "1.1.1.7 [st-38]
+Many people in the global south and
+developing nations worldwide have access
+to TV sets [35].";
+    "1.1.1.7.1 [st-39]
+Cable can be costly, especially in
+developing countries like the
+Philippines. Cable plans can cost US$35
+[36] per month, yet the minimum wage is
+as low as US$7.50 per day [37].";
+    "1.1.2 [st-40]
+TV series can explore deep and
+significant philosophical and artistic
+themes.";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer.";
+    "1.1.2.1.1 [st-42]
+Most TV shows are mindless and serve as
+an escape [39] from the problems and
+issues most people face on a daily
+basis.";
+    "1.1.2.1.2 [st-43]
+Philosophical and artistic merit can be
+gleaned from nearly anything [40] one
+does in life.";
+    "1.1.2.1.3 [st-44]
+Viewers may want to relax by watching
+simple, entertaining programs which they
+do not need to intellectually engage
+with [41].";
+    "1.1.2.1.3.1 [st-45]
+Using one's brain is a natural and
+beneficial part of life; it can
+deteriorate [42] if not used regularly.";
+    "1.1.2.1.4 [st-46]
+Characters in popular sitcoms [43] have
+been known to become stupider as the
+series progresses and the script quality
+deteriorates.";
+    "1.1.2.1.5 [st-47]
+The majority of world's most popular TV
+shows [44] do not explore significant
+philosophical or artistic themes.";
+    "1.1.2.1.6 [st-48]
+A number of TV channels [45] have
+intentionally dumbed down their content.";
+    "1.1.2.2 [st-49]
+The critically-acclaimed TV anime, Neon
+Genesis Evangelion, explores themes of
+individuality, consciousness, freedom,
+choice, and responsibility [46]. Such
+heavy and complex themes are common in
+other art forms.";
+    "1.1.2.3 [st-50]
+Black Mirror uses TV as a medium to
+critique technology and modern society
+[47]. This is a common theme in more
+traditional forms of art [48].";
+    "1.1.2.4 [st-51]
+Nearly one-third of UK adults [49]
+believe that TV programming gets worse
+every year.";
+    "1.1.2.4.1 [st-52]
+Public perception does not equate to
+fact; people could become biased by
+others' opinions.";
+    "1.1.2.4.2 [st-53]
+People might be exposed to poorer
+quality shows more often without the
+overall quality of shows decreasing.";
+    "1.1.3 [st-54]
+TV is only an outlet for the creative
+expression of a small number of writers,
+directors, and producers. TV viewers are
+merely consumers.";
+    "1.1.3.1 [st-55]
+Public-access TV [50] allows the average
+citizen to create and air their own
+creative works.";
+    "1.1.3.2 [st-56]
+The Writers' Guild of America (WGA) only
+has 20,000 members [51] and fewer than
+5,000 [52] of them earned money from
+their screenplays in 2016.";
+    "1.1.4 [st-57]
+Theater, school plays, and other live
+arts are also outlets [53] for creative
+expression.";
+    "1.1.4.1 [st-58]
+Theater is more accessible than TV in
+terms of both participation and
+consumption.";
+    "1.1.4.1.1 [st-59]
+Public theater, such as Shakespeare in
+the park [54], is often viewable free of
+charge.";
+    "1.1.4.2 [st-60]
+Live arts are restrictive and
+unavailable most of the time. TV
+programming is always available, day and
+night.";
+    "1.1.4.2.1 [st-61]
+Many adult entertainment centers are
+open most hours when many other plays
+and live arts performances are over.";
+    "1.2 [st-62]
+TV has a negative impact on health.";
+    "1.2.1 [st-63]
+Watching TV from the safety of one's
+home keeps people out of trouble and
+protects them from a variety of public
+dangers.";
+    "1.2.1.1 [st-64]
+People can also involve themselves in
+potentially dangerous activities while
+watching TV, such as smoking marijuana
+[55].";
+    "1.2.1.2 [st-65]
+Social isolation can cause loneliness,
+cognitive decline, and depression [56].";
+    "1.2.1.3 [st-66]
+People who stayed at home watching TV
+during the pandemic kept themselves safe
+[57] and improved their relationships
+with their families.";
+    "1.2.1.3.1 [st-67]
+Nearly four-in-five households [58]
+increased their TV consumption, which
+literally helped save lives [59].";
+    "1.2.1.3.2 [st-68]
+There was a marked rise in domestic
+violence [60] during the pandemic,
+indicating that many people, especially
+women, were not kept safe.";
+    "1.2.1.3.3 [st-69]
+People staying home could have been, and
+likely were, doing other activities [61]
+than watching TV.";
+    "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62].";
+    "1.2.2.1 [st-71]
+The fan community around Star Trek has
+been described as good-willed and
+dizzyingly diverse [63], creating an
+undeniably positive environment.";
+    "1.2.2.1.1 [st-72]
+Even positive fan communities like Star
+Trek have an issue with extreme toxicity
+[64].";
+    "1.2.2.2 [st-73]
+Some TV show communities can be toxic,
+engaging in bullying and other
+antisocial behavior [65].";
+    "1.2.2.2.1 [st-74]
+Star Wars fan culture has been described
+as toxic [66], sexist, and
+closed-minded.";
+    "1.2.2.2.2 [st-75]
+A man was beaten up in Hong Kong for
+spoiling the end [67] of Avengers:
+Endgame.";
+    "1.2.2.3 [st-76]
+The Doctor Who TV series has cultivated
+a large and loyal fanbase [68], which
+has lead to the development of multiple
+fan projects [69] and zines.";
+    "1.2.2.4 [st-77]
+Shows like Game of Thrones [70]
+encouraged fan discussion and theory
+through their episodic nature, resulting
+in millions of fans flooding online
+communities with speculation about what
+would happen in the next episode.";
+    "1.2.2.4.1 [st-78]
+Even after the finale of the TV show,
+fan communities for the show and book
+series remain active [71] in multiple
+languages.";
+    "1.2.2.4.2 [st-79]
+The obsession over Game of Thrones
+likely led to a decrease in productivity
+and social interaction as fans spent too
+much time [72] pouring over articles and
+expounding upon theories.";
+    "1.2.2.5 [st-80]
+If people were to spend less time [73]
+watching TV, they would have more free
+time to pursue more constructive
+hobbies, or to play sports.";
+    "1.2.2.5.1 [st-81]
+People could opt to instead engage with
+similarly unhealthy practices, such as
+playing video games or scrolling through
+social media on their phone.";
+    "1.2.3 [st-82]
+TV causes physical health problems.";
+    "1.2.3.1 [st-83]
+Increased television viewing has a minor
+association [74] with shorter sleep
+duration.";
+    "1.2.3.1.1 [st-84]
+A lack of sleep can increase the risk of
+high blood pressure, diabetes, and heart
+issues [75], demonstrating that
+increased TV viewing is bad for one's
+health.";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77].";
+    "1.2.3.2.1 [st-86]
+Watching excessive amounts of TV can
+lower sperm count [78].";
+    "1.2.3.2.1.1 [st-87]
+For men that do not desire [79] to have
+children, a lower sperm count is not a
+relevant concern.";
+    "1.2.3.2.2 [st-88]
+Prolonged TV watching is associated [80]
+with higher colorectal cancer-specific
+mortality, independent of leisure-time
+physical activity, among colorectal
+cancer patients.";
+    "1.2.3.2.2.1 [st-89]
+There are a number of other activities
+and behaviors [81] which are equally or
+more likely to cause colorectal cancers.";
+    "1.2.3.2.3 [st-90]
+People who watch more than two hours a
+day of TV have an increased risk of many
+diseases and reduced lifespan [82].";
+    "1.2.3.2.3.1 [st-91]
+Excessive hours of sitting to watch TV
+has been linked to an increased risk of
+dying from inflammatory diseases like
+Alzheimer’s and diabetes, according to
+an Australian study [83].";
+    "1.2.3.2.4 [st-92]
+Reading is a sedentary activity, yet not
+labeled as a negative activity. As such,
+TV should be considered an adjacent
+category.";
+    "1.2.3.2.4.1 [st-93]
+Reading books has proven to have
+positive effects [84] on the development
+of children [85], brain function, and
+overall health, whereas watching TV has
+notable negative lifestyle effects [86].";
+    "1.2.3.2.4.2 [st-94]
+Reading has a number of associated
+physical and mental harms [87],
+similarly to watching TV.";
+    "1.2.3.2.5 [st-95]
+Sitting down for significant periods of
+time to watch television may increase
+the risk of dying from a pulmonary
+embolism [88].";
+    "1.2.3.2.6 [st-96]
+TV viewers do not need to be seated
+while watching TV. They can perform
+exercises [89] or use exercise
+equipment, like a treadmill [90].";
+    "1.2.3.2.6.1 [st-97]
+Very few people exercise while watching
+TV; Americans in particular spend
+significantly more time watching TV than
+exercising [91] in general.";
+    "1.2.3.2.7 [st-98]
+Couches and recliners, common seats used
+for watching television, are designed
+for unhealthy sedentary behaviors [92].";
+    "1.2.3.3 [st-99]
+Watching excessive amounts of TV is
+likely correlated with health problems;
+in moderation, it presents no such
+harms.";
+    "1.2.3.3.1 [st-100]
+Health risks can occur after two hours
+[93] of watching TV. The average
+American watches more than five hours a
+day [94].";
+    "1.2.3.3.2 [st-101]
+In order for TV use to be deemed
+excessive [95], one must watch more than
+3.5 hours of TV per day. It is likely
+that many people watch less than this.";
+    "1.2.3.4 [st-102]
+Most TV programs are designed to
+encourage unhealthy watching habits.";
+    "1.2.3.4.1 [st-103]
+TV streaming services encourage
+binge-watching by automatically playing
+[96] the next episode [97] of a series.";
+    "1.2.3.4.2 [st-104]
+Twenty-four-hour news channels compete
+for viewership by sensationalizing [98]
+news stories, which can end up causing
+anxiety and stress among viewers.";
+    "1.2.3.5 [st-105]
+Compared to other addictions, like
+cigarettes or alcohol, watching
+television is not as harmful.";
+    "1.2.3.5.1 [st-106]
+Television sets are built with harmful
+chemicals [99], the exposure to which
+could cause severe health problems.";
+    "1.2.3.5.2 [st-107]
+Smoking directly causes a number of
+ailments such as cancer, diabetes, heart
+disease, and bronchitis [100], as well
+as increasing the risk of a number of
+diseases.";
+    "1.2.3.5.3 [st-108]
+Abusing alcohol damages many internal
+organs, as well as increasing risk
+factors for heart attacks and stroke
+[101].";
+    "1.2.3.5.4 [st-109]
+Prolonged TV watching increases the risk
+of diabetes and especially heart disease
+[102], which is more deadly [103] than
+all forms of cancer combined.";
+    "1.2.4 [st-110]
+TV viewership is harmful to the physical
+and mental health of children.";
+    "1.2.4.1 [st-111]
+The physical health of children
+deteriorates when they watch excessive
+amounts of TV.";
+    "1.2.4.1.1 [st-112]
+Kids who watch a lot of television may
+build less bone [104] during critical
+years and be more vulnerable to
+osteoporosis and bone breaks later in
+life as a result.";
+    "1.2.4.1.2 [st-113]
+A recent study [105] linked kids' TV
+habits with higher cholesterol and worse
+health outcomes, suggesting that two or
+more hours of daily viewing may produce
+heart problems later in life.";
+    "1.2.4.1.3 [st-114]
+Parents are recommended [106] to limit
+their children to one to two hours of
+high-quality programming each day to
+protect them from negative influences or
+outcomes.";
+    "1.2.4.1.3.1 [st-115]
+Children who spend many hours a day
+glued to the TV may be harming their
+ability to concentrate [107] and focus
+on tasks in school.";
+    "1.2.4.1.3.2 [st-116]
+Excessive hours spent watching
+television in a child's youth may be
+related [108] to an increased risk of
+antisocial [109] behaviour later in
+life.";
+    "1.2.4.1.4 [st-117]
+Diet and exercise [110] are the most
+important factors in raising healthy
+children; TV is not detrimental if
+children are active and eat well.";
+    "1.2.4.1.4.1 [st-118]
+A study [111] found that the more hours
+spent watching television, the more
+likely children were to be both fatter
+and less physically active. Notedly,
+kindergartners who watched more than
+three hours of TV per day were nearly
+50% more likely [112] to be obese.";
+    "1.2.4.2 [st-119]
+TV lowers [113] the self-esteem of most
+children.";
+    "1.2.4.2.1 [st-120]
+TV decreases the self-esteem [114] of
+white girls, Black girls, and Black
+boys.";
+    "1.2.4.3 [st-121]
+TV programs can foster and encourage
+good behaviour in children.";
+    "1.2.4.3.1 [st-122]
+TV can encourage [115] reading in
+children.";
+    "1.2.4.3.1.1 [st-123]
+Shows like 'Reading Rainbow' [116]
+introduced children to books and stories
+they may otherwise miss.";
+    "1.2.4.3.1.1.1 [st-124]
+Introducing children to the concept of
+reading books does not necessarily
+incentivize them to read on their own.";
+    "1.2.4.3.1.2 [st-125]
+The British Council developed a list of
+eight common methods of encouraging
+children to read [117]; watching TV to
+incentivize the practice of reading was
+not mentioned.";
+    "1.2.4.3.2 [st-126]
+Preschool children displayed less
+aggression and more empathy [118]
+towards others when their exposure to
+aggressive television shows were
+limited, and their exposure to
+educational programming was increased.";
+    "1.2.4.3.3 [st-127]
+When TV characters demonstrate
+social-emotional skills, children can
+learn from them. Television shows that
+depict sharing, getting along with
+others, or rejecting stereotypes can
+improve those skills in children [119].";
+    "1.2.4.3.4 [st-128]
+The negative effects [120] of TV on
+children far outweigh the positive
+effects.";
+    "1.2.4.4 [st-129]
+Many activities are age-restricted [121]
+to protect the health of children;
+television is no different.";
+    "1.2.4.4.1 [st-130]
+The TV rating system exists to prevent
+children from consuming inappropriate
+content on TV (p. 2 [122]).";
+    "1.2.4.4.1.1 [st-131]
+Broadcasters in some countries abide by
+a watershed [123], banning the airing of
+content deemed child-inappropriate
+before a certain time at night.";
+    "1.2.4.4.1.2 [st-132]
+TV ratings systems have fundamental
+flaws [124] that prevent parents from
+making informed decisions on what their
+children watch.";
+    "1.2.4.4.1.2.1 [st-133]
+G-rated prime-time TV is nearly
+non-existent [125], and the lines
+between TV-PG and TV-14 categories are
+blurred [126].";
+    "1.2.4.4.1.2.2 [st-134]
+Shows rated TV-14 have as many
+depictions of smoking and drinking [127]
+as TV-MA programming, making it
+difficult for parents to prevent their
+children being exposed to this content.";
+    "1.2.4.4.1.2.3 [st-135]
+TV ratings systems are merely
+guidelines, and cannot be expected to
+replace the individual judgement of
+parents.";
+    "1.2.4.4.2 [st-136]
+It is the responsibility of parents to
+manage a child's TV usage and behaviour
+in order to limit any negative physical
+and mental effects.";
+    "1.2.5 [st-137]
+TV has harmful psychological effects.";
+    "1.2.5.1 [st-138]
+Watching excessive [128] amounts of TV
+is primarily a form of escapism [129]
+from the pressures and stresses of daily
+life, suggesting that TV can actually be
+psychologically beneficial.";
+    "1.2.5.1.1 [st-139]
+Watching television relieves loneliness
+by providing the same sort of emotional
+support [130] as spending time with real
+people.";
+    "1.2.5.1.2 [st-140]
+Researchers [131] say that the social
+surrogacy provided by TV programs is a
+poor substitution for human-to-human
+experience.";
+    "1.2.5.2 [st-141]
+TV promotes drug use and abuse.";
+    "1.2.5.2.1 [st-142]
+Movies & shows glorifying substance
+abuse lifestyle like Narcos [132],
+Breaking Bad [133] and The Wolf of Wall
+Street [134] are widely known, while
+there is little attention for the actual
+damages of the opioid crisis and the
+drug trade.";
+    "1.2.5.2.2 [st-143]
+TV has often been used to broadcast
+[135] the dangers of drug abuse,
+portraying [136] drug use in a negative
+light.";
+    "1.2.5.2.3 [st-144]
+The causes of adolescent substance use
+are multifactorial, but the media can
+play a key role [137].";
+    "1.2.5.2.3.1 [st-145]
+Portrayals of alcohol [138] in films and
+TV advertisements have an immediate
+effect on the amount of alcohol that
+people drink.";
+    "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes.";
+    "1.2.5.3.1 [st-147]
+Many TV shows perpetuate [140] the
+'angry African American' stereotype.";
+    "1.2.5.3.2 [st-148]
+Some shows can reinforce [141] the idea
+that masculine traits are more
+acceptable than feminine traits.";
+    "1.2.5.3.3 [st-149]
+Any form of media or communication can
+be used to perpetuate harmful
+stereotypes. The issue lies with the
+society that tolerates such stereotypes,
+not the media which they are portrayed
+in.";
+    "1.2.5.3.4 [st-150]
+Popular networks, such as the BBC, rely
+heavily [142] on the use of stereotypes
+when portraying gay people, and often
+make them the subject of derisive jokes
+(p. 8 [143], p. 11 [144]).";
+    "1.2.5.3.5 [st-151]
+Television shows can bring people
+together and break down barriers by
+striking down stereotypes through
+authentic portrayals of genuine people.";
+    "1.2.5.3.5.1 [st-152]
+With the number of spinoffs and rebooted
+shows [145] on TV nowadays, they are
+more likely to cling onto false
+narratives that increase their ratings.";
+    "1.2.5.3.5.2 [st-153]
+When immigrants, especially undocumented
+workers, were realistically portrayed on
+TV, anti-immigrant sentiments fell
+[146].";
+    "1.2.5.3.5.3 [st-154]
+In a watershed moment on one of the most
+famous episodes of Mister Rogers'
+Neighborhood, Mr. Rodgers invited a
+Black police officer to share the same
+pool, even washing Officer Clemmons'
+feet, forever changing [147] the way
+Black men were portrayed on TV at that
+time.";
+    "1.2.5.4 [st-155]
+TV has been known to be addictive [148].";
+    "1.2.5.4.1 [st-156]
+Nearly anything can be addictive [149];
+the problem is people's ability to
+control their own consumption, not a
+problem with the object of their
+consumption.";
+    "1.2.5.4.2 [st-157]
+TV provides an emotional escape [150]
+from negative feelings. As a result,
+people become addicted to the relief of
+these emotions while watching TV.";
+    "1.2.5.4.3 [st-158]
+Binge-watching is an impulsive [151]
+behavior; the brain reacts in a similar
+manner to other addictions [152], such
+as drugs and alcohol.";
+    "1.2.5.4.3.1 [st-159]
+Binge-watching provides viewers [153]
+with a sense of community by bonding
+with others over a shared interest in
+the same TV shows.";
+    "1.2.5.4.3.2 [st-160]
+Addiction born out of escapism can lead
+to a decline in self compassion [154],
+which is harmful to the addict's life.";
+    "1.2.5.4.4 [st-161]
+Netflix, credited for inventing
+binge-watching [155], pushes shows onto
+people without self-control without
+their explicit consent by automatically
+playing the next episode of a TV show.";
+    "1.2.5.5 [st-162]
+Only if people take it seriously enough
+to conflate its inherently-mediated (ie,
+vicarious) [156] experiences with their
+own unmediated (ie, direct) personal
+ones.";
+    "1.2.6 [st-163]
+Watching sporting events or art shows
+might encourage people to pursue these
+activities, ultimately bettering their
+health [157].";
+    "1.2.6.1 [st-164]
+Bob Ross and 'The Joy of Painting [158]'
+TV show encouraged millions of people
+[159] to pick up painting as a hobby,
+helping them relieve stress and improve
+their cognitive abilities [160].";
+    "1.2.6.2 [st-165]
+Major televised sporting events increase
+the number of people signing up to play
+sports [161].";
+    "1.2.6.2.1 [st-166]
+Many televised pro sports encourage
+physical activity [162] and host camps
+and events to get children outside to
+play.";
+    "1.2.6.2.2 [st-167]
+The 2023 Women's World Cup inspired
+young girls, and older women alike, to
+pursue an interest in football [163].";
+    "1.2.6.2.3 [st-168]
+Watching run-of-the-mill daily sporting
+matches on television is not correlated
+[164] with an increase in physical
+activity, suggesting that people who
+watch sport are not physically active.";
+    "1.2.6.3 [st-169]
+People who are very interested in sports
+will likely pursue the sport both in
+person and on TV, making the overall
+amount of time they watch TV unlikely to
+go down.";
+    "1.3 [st-170]
+TV can be an educational tool.";
+    "1.3.1 [st-171]
+TV can only be educational if one is
+deliberately tuned into an educational
+program.";
+    "1.3.1.1 [st-172]
+One can learn from any number of shows;
+the program does not need to be
+explicitly educational for people to
+learn.";
+    "1.3.1.1.1 [st-173]
+Subtle lessons displayed in some
+programming options might not be
+understood by everyone watching,
+lessening their value.";
+    "1.3.1.1.2 [st-174]
+Movies like The Godfather educate
+viewers about how mafias operate and
+serve as a warning about violence being
+a counterproductive tool [165] to
+achieve one's desired ends.";
+    "1.3.1.1.3 [st-175]
+Many TV shows have incidental
+educational value [166], which can help
+to educate viewers without being the
+main focus of the program.";
+    "1.3.1.2 [st-176]
+With the popularity of more entertaining
+and instantly gratifying channels
+displaying sports [167], movies or
+reality TV [168], there is little to
+convince viewers to watch educational
+content.";
+    "1.3.1.2.1 [st-177]
+Watching sports [169] on TV can teach
+strategy, competitiveness, and teamwork.";
+    "1.3.2 [st-178]
+Fictional programmes have higher ratings
+[170], thereby reducing the incentive to
+produce educational ones.";
+    "1.3.2.1 [st-179]
+TV shows can be both entertaining and
+educational, such as Sesame Street
+[171].";
+    "1.3.2.1.1 [st-180]
+Sesame Street is one of the best TV
+shows of all time, continuing to win
+awards [172] more than 50 years after it
+started. The remainder of TV programming
+cannot possibly live up to such a high
+standard.";
+    "1.3.2.1.2 [st-181]
+Infotainment is an entire genre of
+television that intends to present
+information in an entertaining way
+[173].";
+    "1.3.2.2 [st-182]
+There are important incentives to
+produce educational content besides
+ratings or money. Documentaries can be
+used to generate awareness for an issue
+[174] and merely provide the good of
+education.";
+    "1.3.2.3 [st-183]
+Production budgets for TV shows can be
+upwards of millions of dollars per hour
+[175]. With such large investments,
+producers aim to create programs with
+high ratings to ensure a return.";
+    "1.3.2.4 [st-184]
+Channels that were formerly
+predominantly education-focused in the
+past, such as Discovery, have now
+pivoted to focus on reality TV [176].";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs.";
+    "1.3.3.1 [st-186]
+The internet [177] is becoming a bigger
+source of news and information.";
+    "1.3.3.1.1 [st-187]
+Between one- and three-quarters [178] of
+people around the world get their news
+from social media.";
+    "1.3.3.1.2 [st-188]
+Distrust of social media is rampant;
+approximately one-third of US adults
+[179] never get their news from social
+media.";
+    "1.3.3.2 [st-189]
+With just six corporations owning 90% of
+the media [180] in the US, it is highly
+unlikely television will broadcast an
+unbiased and full spectrum of
+information.";
+    "1.3.3.2.1 [st-190]
+In the US, 40% of local news channels
+[181] are owned by Sinclair
+Broadcasting; they have used their power
+to push political agendas in the past.";
+    "1.3.3.3 [st-191]
+Many news networks broadcast 24-hour
+news programming [182], providing people
+with access to immediate reporting and
+commentary on events, oftentimes as they
+unfold at any time of the day or night.";
+    "1.3.3.4 [st-192]
+Multiple studies suggest that watching
+TV can lead to beneficial educational
+outcomes.";
+    "1.3.3.4.1 [st-193]
+Watching high-quality television dramas
+can increase our ability to read other
+people's emotions [183].";
+    "1.3.3.4.1.1 [st-194]
+People reading literature is at least
+equally, if not more, able to help them
+increase empathy [184]. TV is far from
+essential in this regard.";
+    "1.3.3.4.2 [st-195]
+Children who watched TV three or more
+hours per day were three months ahead
+[185] of those who watched less than one
+hour per day.";
+    "1.3.3.4.3 [st-196]
+A combination of visual and verbal [186]
+information on television is an
+effective learning tool.";
+    "1.3.3.4.4 [st-197]
+Children who watch more than two hours
+of television a day, especially those
+with a TV in their own rooms [187],
+scored significantly lower on
+standardized tests than their
+counterparts.";
+    "1.3.3.4.4.1 [st-198]
+The same research study found that there
+was no consistent negative association
+between test scores and hours spent
+watching TV [188].";
+    "1.3.3.4.4.1.1 [st-199]
+Test scores are not a useful form [189]
+of demonstrating educational
+achievement.";
+    "1.3.3.5 [st-200]
+Not only does the media help form and
+promote [190] feelings of national
+pride, but it also acts as a way for
+citizens of other nations to experience
+other countries and cultures.";
+    "1.3.3.5.1 [st-201]
+TV shows and movies help spread cultural
+values.";
+    "1.3.3.5.2 [st-202]
+Over-dependence on foreign production
+[191] (e.g in third world countries) is
+a form of cultural domination.";
+    "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor.";
+    "1.3.3.6.1 [st-204]
+Many programmes are described as
+documentaries even though they are
+fictional [193].";
+    "1.3.3.6.2 [st-205]
+TV decreases the intelligence of
+viewers.";
+    "1.3.3.6.2.1 [st-206]
+The more time spent watching television
+during childhood and adolescence, the
+less likely [194] people are to finish
+school with qualifications or attain a
+university degree.";
+    "1.3.3.6.2.2 [st-207]
+Oftentimes, the people who watch the
+most TV have impaired mental abilities
+[195].";
+    "1.3.3.6.2.3 [st-208]
+TV impairs language skills in children.";
+    "1.3.3.6.2.3.1 [st-209]
+When children watch TV, it impairs their
+language acquisition because it tends to
+displace opportunities [196] for live
+conversation time between them and
+adults.";
+    "1.3.3.6.2.3.2 [st-210]
+TV has been shown to negatively affect
+the frontopolar area [197] of the brain,
+impacting the verbal abilities of
+children.";
+    "1.3.3.6.2.3.3 [st-211]
+People in non-English-speaking countries
+watch American sitcoms [198] with
+subtitles to learn English [199].";
+    "1.3.3.6.2.3.3.1 [st-212]
+American sitcoms are often broadcast
+abroad with the audio dubbed over [200],
+lessening their usefulness as a resource
+for learning English.";
+    "1.3.3.6.2.3.3.2 [st-213]
+The popularity of American sitcoms
+contributes to the Americanization [201]
+of the English language, which could
+erase smaller English dialects, such as
+Scottish English [202] and
+Hiberno-English (p. 57 [203]).";
+    "1.3.3.6.2.4 [st-214]
+Throughout history, people have claimed
+that different pastimes and new
+technology is contributing to a decline
+in intelligence. This does not mean that
+it is the case.";
+    "1.3.3.6.2.4.1 [st-215]
+Plato argued that writing would cause
+people to have no memories, and make
+people stupider [204].";
+    "1.3.3.6.2.4.2 [st-216]
+Some have argued that ubiquitous access
+to calculators [205] is killing the
+ability for people to do math in their
+heads.";
+    "1.3.3.6.2.4.3 [st-217]
+Technology tends to help simplify
+processes, freeing up brainpower [206]
+for people to achieve greater heights
+and further advance technology.";
+    "1.3.3.6.3 [st-218]
+TV executives want dramas to be dumbed
+down [207] with simplistic storylines in
+order to cater to passive watchers.";
+    "1.3.3.6.4 [st-219]
+The cited article [208] acknowledges the
+high-quality educational [209] content
+that is available outside of the BBC
+network.";
+    "1.3.3.6.5 [st-220]
+TV shows throughout Europe are becoming
+less informative and more sensational, a
+European watchdog has found [210].";
+    "1.3.4 [st-221]
+TV can inspire inventions and stimulate
+technological progress.";
+    "1.3.4.1 [st-222]
+Shows like Shark Tank can stimulate
+innovation [211] by inspiring viewers
+into developing new technologies.";
+    "1.3.4.1.1 [st-223]
+Kids watching Shark Tank [212] may be
+inspired to open a business of their
+own.";
+    "1.3.4.1.2 [st-224]
+Innovation and capital investment
+existed long [213] before television and
+shows like Shark Tank or Dragons' Den.";
+    "1.3.4.2 [st-225]
+TV rots the brain [214]; people who
+watch significant amounts of TV are
+unlikely to be the next inspirational
+figure, found a company, or spur
+technological innovation.";
+    "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology.";
+    "1.3.5.1 [st-227]
+Science shows like Beakman's World [215]
+inspire children to get interested in
+science by teaching them facts and
+concepts that they might otherwise find
+boring or intimidating.";
+    "1.3.5.2 [st-228]
+President Obama thanked the cast of
+Mythbusters [216] for inspiring young
+people to pursue the sciences.";
+    "1.3.5.3 [st-229]
+TV has a detrimental effect on grades
+[217], making an interest in science or
+technology meaningless without the
+grades to further pursue these fields.";
+    "1.3.5.4 [st-230]
+Many science-related TV shows are
+unrealistic [218] and could cause people
+to dedicate their lives to a career that
+was inaccurately portrayed on TV.";
+    "1.3.5.4.1 [st-231]
+Shows began to hire scientific advisors
+[219] in the 1970s to make their
+productions more accurate and
+believable, inspiring a new generation
+of scientists.";
+    "1.3.5.5 [st-232]
+Girls who grew up watching the X-Files
+were more likely to pursue a career in
+STEM fields, a phenomenon known as the
+Scully Effect [220].";
+    "1.3.6 [st-233]
+TV being educational is not necessarily
+beneficial or positive.";
+    "1.4 [st-234]
+TV worsens a number of societal ills.";
+    "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful.";
+    "1.4.1.1 [st-236]
+The stereotypes used in advertising
+display gender discrimination.";
+    "1.4.1.1.1 [st-237]
+The UK banned [221] gender stereotyping
+in adverts in 2019—other countries are
+sure to follow.";
+    "1.4.1.1.2 [st-238]
+Women are less likely to be given
+speaking roles [222] in advertisements
+and are rarely shown in positions of
+authority (p. 5 [223]).";
+    "1.4.1.1.3 [st-239]
+Women are more likely to be portrayed in
+a domestic environment [224] in
+advertisements.";
+    "1.4.1.2 [st-240]
+Alcohol and tobacco advertisements have
+a negative effect on public health as
+they promote consumption of these
+hazardous products (p. 1 [225]).";
+    "1.4.1.2.1 [st-241]
+Harm reduction [226] advertisements are
+used to downplay the risk of tobacco
+products.";
+    "1.4.1.2.2 [st-242]
+Some countries, such as Ireland, have
+strict laws prohibiting tobacco
+companies from advertising [227] on
+television in order to prevent the
+negative public health effects of such
+advertisements.";
+    "1.4.1.3 [st-243]
+Some TVs and most DVRs have the option
+to block, filter, fast-forward, or skip
+[228] TV ads.";
+    "1.4.1.4 [st-244]
+Advertisements are a common aspect [229]
+of modern life, present in newspapers,
+cinemas, and on billboards; regardless
+of the medium, they pose the same risks.";
+    "1.4.1.5 [st-245]
+With more intelligent styles of
+programming comes more intelligent
+advertisements, as they are dependent on
+the channel [230] and specific show
+airing.";
+    "1.4.2 [st-246]
+TV sexualizes people.";
+    "1.4.2.1 [st-247]
+All forms of media, including painting
+and sculpture [231], have been accused
+of sexualizing people. It is a greater
+reflection of humanity than the means by
+which sexualization occurs.";
+    "1.4.2.2 [st-248]
+Heavy television viewers [232] have more
+permissive views regarding sex,
+abortions, and homosexuality.";
+    "1.4.2.3 [st-249]
+Television shows tend to portray [233]
+stereotypical sexual roles, setting
+young people up with unrealistic
+expectations later in life.";
+    "1.4.2.3.1 [st-250]
+Pornography is far more dangerous [234]
+in this manner—many places have already
+banned it as a result, while TV has not
+suffered the same fate.";
+    "1.4.2.4 [st-251]
+Exposure to sex on television has been
+linked [235] with sexual initiation at a
+younger age.";
+    "1.4.2.4.1 [st-252]
+Teens who watch programs that contain a
+lot of sexual content are twice as
+likely [236] to be involved in a
+pregnancy.";
+    "1.4.2.4.1.1 [st-253]
+Teen pregnancy is influenced by a
+variety of factors [237], including the
+pregnancy-related behavior of adults
+around them and poverty.";
+    "1.4.3 [st-254]
+Smart TVs threaten people's privacy.";
+    "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238].";
+    "1.4.3.1.1 [st-256]
+Older TVs are less energy efficient
+[239] and have poor resolutions compared
+to newer models.";
+    "1.4.3.1.2 [st-257]
+TVs undergo a high degree of
+depreciation [240], allowing people to
+buy high-quality older premium models at
+the same price as modern sets of lower
+quality.";
+    "1.4.3.1.3 [st-258]
+Most of the 'cable' providers in the
+Netherlands provide TV via internet
+connection [241], so one cannot really
+go without a smart TV.";
+    "1.4.3.1.4 [st-259]
+A regular TV with a plug-in streaming
+device [242] would be a reasonable
+solution to prevent spying.";
+    "1.4.3.1.4.1 [st-260]
+With the exception of Apple TV and
+Nvidia Shield TV, most streaming players
+spy on their users [243].";
+    "1.4.3.1.4.1.1 [st-261]
+Roku, one of the most popular streaming
+devices, collects massive amounts of
+data [244] and could be used to spy on
+consumers just as easily as a smart TV.";
+    "1.4.3.1.4.2 [st-262]
+The need to purchase and install an
+additional device is not an ideal
+solution for people on a budget.";
+    "1.4.3.1.4.2.1 [st-263]
+Most add-on streaming devices are
+inexpensive [245] and affordable to
+people on a budget.";
+    "1.4.3.1.4.3 [st-264]
+Most people [246] use plug-in external
+streaming devices with their TV,
+regardless of whether or not it has
+smart capabilities.";
+    "1.4.3.1.5 [st-265]
+In order to keep up with the latest
+upgrades in quality people will probably
+be forced to buy [247] a newer smart TV,
+regardless.";
+    "1.4.3.2 [st-266]
+The CIA allegedly [248] hacked Samsung
+Smart TVs.";
+    "1.4.3.3 [st-267]
+There are ways [249] to prevent a smart
+TV from spying on you.";
+    "1.4.3.3.1 [st-268]
+People shouldn't have to take active
+steps to avoid being spied on by their
+electrical devices.";
+    "1.4.3.4 [st-269]
+Vizio [250] used 11 million televisions
+to spy on its customers.";
+    "1.4.3.4.1 [st-270]
+Vizio went so far as to retrofit old
+devices with spyware via a remote
+update, without getting their customer's
+consent [251].";
+    "1.4.3.4.2 [st-271]
+Vizio [252] stated it used this capacity
+to best serve its customers.";
+    "1.4.3.5 [st-272]
+Samsung has issued a personal privacy
+statement, warning people not to discuss
+personal information around Smart TVs
+[253].";
+    "1.4.4 [st-273]
+TV shows and movies often draw attention
+to complex social problems.";
+    "1.4.4.1 [st-274]
+'Guess who's coming to dinner? [254]'
+portrated inter-racial marriage at a
+time when such unions were
+controversial.";
+    "1.4.4.2 [st-275]
+Movies like Kramer vs. Kramer [255] and
+Mrs. Doubtfire [256] challenge
+traditional gender norms, giving
+audiences a new lens through which to
+see the world.";
+    "1.4.4.3 [st-276]
+TV is incredibly unrepresentative of
+real demographics and diversity [257],
+ultimately harming social movements.";
+    "1.4.4.4 [st-277]
+TV is responsible for eroding moral
+values in society.";
+    "1.4.4.4.1 [st-278]
+The American public believes that
+watching television erodes religious
+principles, honesty, and reliability
+[258].";
+    "1.4.4.4.1.1 [st-279]
+Secular commentators also described
+controversial shows, such as Little
+Britain, as 'offensive trash [259]'
+which featured blackface, and mocked
+women, the disabled, and homosexuals.";
+    "1.4.4.4.1.2 [st-280]
+Religious principles are no longer the
+means of measurement of social moral
+standards.";
+    "1.4.4.4.2 [st-281]
+Heavy television viewers, those who view
+for four hours or more per evening
+[260], are less committed to moral
+values like empathy and honesty.";
+    "1.4.4.4.3 [st-282]
+TV shows can be used to explore, teach,
+and strengthen moral philosophies [261].";
+    "1.4.4.4.3.1 [st-283]
+Kids' TV shows are particularly adept at
+teaching moral lessons [262] to
+children.";
+    "1.4.4.4.3.1.1 [st-284]
+The moral lessons taught to children by
+TV shows may need additional
+reinforcement and explanation [263] from
+adults, suggesting that TV might not be
+the best medium for the transmission of
+these messages.";
+    "1.4.5 [st-285]
+TV shows and movies often pay homage to
+people who have made sacrifices for
+others. In doing so, they promote
+empathy, compassion, and altruism.";
+    "1.4.5.1 [st-286]
+TV shows and movies consistently
+misrepresent [264] people from history,
+doing them a disservice by promoting
+misinformation and occasionally,
+outright lies.";
+    "1.4.5.1.1 [st-287]
+Many movies are full of historical
+inaccuracies [265] which alter the
+course of history to fit the version
+told by the director and screenplay
+writers.";
+    "1.4.5.2 [st-288]
+Many of the stories told on TV and in
+movies are true stories that were nearly
+forgotten to history [266].";
+    "1.4.5.2.1 [st-289]
+Books, newspapers, magazines, and print
+media in general are equally, or better,
+able to cover millions of amazing
+stories which were nearly lost to
+history.";
+    "1.4.5.2.2 [st-290]
+The scene at the end of The Titanic with
+the couple cuddling in bed as the water
+rises around them is based on the true
+story [267] of an old wealthy couple who
+gave up their lifeboat so that others
+might live.";
+    "1.4.5.2.3 [st-291]
+Some of the best war movies, such as
+Schindler's List, Hacksaw Ridge, and
+Dunkirk, are true stories. Many
+audiences learned some nearly-forgotten
+history [268] from these films.";
+    "1.4.6 [st-292]
+TV brings people together.";
+    "1.4.6.1 [st-293]
+Families often use TV as a means to come
+together and build up their
+relationships.";
+    "1.4.6.1.1 [st-294]
+Expanded screen size and enhanced TV
+technologies have helped bring families
+back together [269] in the living room,
+instead of being off in separate rooms.";
+    "1.4.6.1.1.1 [st-295]
+A group of people watching the same TV
+consume the same programming at the same
+time. This facilitates discussion and
+live reaction/interaction between each
+viewer.";
+    "1.4.6.1.1.1.1 [st-296]
+Unlike theater, people can pause or
+speak over the TV without interfering
+with the performance, facilitating
+discussion or commentary throughout the
+show or movie without taking away from
+the action.";
+    "1.4.6.1.2 [st-297]
+Sitting down together in front of the TV
+was regarded as the best way of catching
+up by more than half of families [270].
+A further 12% claimed it was the only
+time they were ever together in one
+room.";
+    "1.4.6.1.3 [st-298]
+A group of people watching TV merely
+brings them together physically; without
+interacting with one another, there is
+no value added in simply being near
+someone else.";
+    "1.4.6.1.3.1 [st-299]
+Parents having physical contact with
+their children can bring them closer
+together [271].";
+    "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation.";
+    "1.4.6.2.1 [st-301]
+The act of watching TV makes people more
+passive [275] and accepting of
+authority.";
+    "1.4.6.2.2 [st-302]
+Subliminal messaging on TV is often used
+to sell products, which can often times
+be harmful, such as energy drinks and
+alcohol [276].";
+    "1.4.6.2.2.1 [st-303]
+Subliminal messaging does not impact
+everyone [277] in the same way; most
+people are oblivious to it.";
+    "1.4.6.2.2.2 [st-304]
+Subliminal messaging [278] has been a
+part of Coca-Cola and many other
+corporations' advertising campaigns.";
+    "1.4.6.2.3 [st-305]
+More than 91 million viewers in Brazil,
+the equivalent of the audience for the
+Super Bowl, tune into just one channel
+[279] every night; the owner of the
+network can exert a significant amount
+of control over what those people see.";
+    "1.4.6.2.4 [st-306]
+Claims of media bias are generally
+overblown [280].";
+    "1.4.6.2.4.1 [st-307]
+Watching a variety of channels, content,
+and news sources can help someone avoid
+getting stuck in an information bubble.";
+    "1.4.6.2.4.2 [st-308]
+The CIA has a history [281] of
+influencing public opinion through the
+media, for instance with Operation
+Mockingbird [282].";
+    "1.4.6.2.5 [st-309]
+This is not a failure of TV, but rather
+a failure of people to apply critical
+thinking [283] to their media
+consumption.";
+    "1.4.6.3 [st-310]
+For some couples with busy personal and
+professional lives, watching TV is the
+only time they spend together.";
+    "1.4.6.3.1 [st-311]
+The biggest cause of fights [284] for
+couples is over who controls the remote;
+changing the channel even led a man to
+kill his wife [285].";
+    "1.4.6.3.2 [st-312]
+Cuddling on the couch while watching TV
+is important for bonding and
+relationship building [286].";
+    "1.4.6.3.3 [st-313]
+One quarter of couples are unable to
+agree on which show to watch and
+separate themselves to watch TV in
+different rooms [287].";
+    "1.4.6.3.3.1 [st-314]
+Half of all couples [288] sit on the
+same couch and watch TV together.";
+    "1.4.6.3.4 [st-315]
+Couples who watch TV together have
+stronger relationships [289].";
+    "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression.";
+    "1.4.7.1 [st-317]
+The widespread coverage of war,
+violence, murder, economic crisis, etc.,
+on TV has negative effects on the
+collective consciousness [292].";
+    "1.4.7.2 [st-318]
+As TV watching is so ubiquitous [293],
+finding a control group against which to
+test the causal link between TV and
+violence is quite difficult.";
+    "1.4.7.2.1 [st-319]
+Young people watch far less TV [294]
+compared to older people—they could be
+used as a control group in a study.";
+    "1.4.7.2.2 [st-320]
+Many countries require television users
+to pay a TV license fee [295]. Those who
+do not pay this fee could be established
+as a control group, as they likely do
+not have a television.";
+    "1.4.7.2.2.1 [st-321]
+Tens of thousands of people opt not to
+pay [296] for their license, yet
+continue to watch and consume TV.";
+    "1.4.7.2.3 [st-322]
+People who don't watch TV would likely
+be excluded from any potential study
+based on factor, like illiteracy or
+poverty level, that mark them as
+distinct from other participants.";
+    "1.4.7.3 [st-323]
+Many things such as sporting events
+[297], alcohol [298], and marriage [299]
+can lead to increased violence and
+aggression, however they are not
+condemned as inherently bad.";
+    "1.4.7.4 [st-324]
+Violent Turkish TV shows [300] have been
+blamed for increased violence against
+women.";
+    "1.4.7.5 [st-325]
+The aggression displayed on some reality
+shows [301] can cause an increase in
+aggression in viewers, to a higher
+extent than exposure to violent media,
+including crime dramas.";
+    "1 [st-1]
+Television is bad for people." -> "1.1 [st-2]
+TV is a vital outlet for the arts and
+creative human expression.";
+    "1 [st-1]
+Television is bad for people." -> "1.2 [st-62]
+TV has a negative impact on health.";
+    "1 [st-1]
+Television is bad for people." -> "1.3 [st-170]
+TV can be an educational tool.";
+    "1 [st-1]
+Television is bad for people." -> "1.4 [st-234]
+TV worsens a number of societal ills.";
+    "1.1 [st-2]
+TV is a vital outlet for the arts and
+creative human expression." -> "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums.";
+    "1.1 [st-2]
+TV is a vital outlet for the arts and
+creative human expression." -> "1.1.2 [st-40]
+TV series can explore deep and
+significant philosophical and artistic
+themes.";
+    "1.1 [st-2]
+TV is a vital outlet for the arts and
+creative human expression." -> "1.1.3 [st-54]
+TV is only an outlet for the creative
+expression of a small number of writers,
+directors, and producers. TV viewers are
+merely consumers.";
+    "1.1 [st-2]
+TV is a vital outlet for the arts and
+creative human expression." -> "1.1.4 [st-57]
+Theater, school plays, and other live
+arts are also outlets [53] for creative
+expression.";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.1 [st-4]
+People should be incentivized to visit
+museums and read books, not find
+justification for their habit of
+watching poor quality TV programming.";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.2 [st-5]
+The number of people reading books and
+visiting museums [2] around the world
+has been falling (p. 4 [3]).";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.3 [st-6]
+TV allows people to watch films they may
+have missed or would be unable to afford
+to see at the cinema.";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.4 [st-17]
+Impoverished people who struggle to
+afford [17] cable television are left
+with just the local channels and few
+options for entertainment.";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.5 [st-32]
+There are 122 million homes [28] in the
+US with a TV. Having a means of
+consuming art in their home makes it far
+more accessible in general.";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.6 [st-33]
+TV requires that a household have
+consistent and cheap power, as TVs
+consume a lot of electricity [29].";
+    "1.1.1 [st-3]
+TV might be the only exposure [1] to the
+arts for many people, assuming they do
+not read books or visit museums." -> "1.1.1.7 [st-38]
+Many people in the global south and
+developing nations worldwide have access
+to TV sets [35].";
+    "1.1.1.3 [st-6]
+TV allows people to watch films they may
+have missed or would be unable to afford
+to see at the cinema." -> "1.1.1.3.1 [st-7]
+For people of a lower economic status,
+watching television is the only way they
+can enjoy the same movies as those who
+can afford to see them at the movie
+theater. Thus, TV is a social good.";
+    "1.1.1.3 [st-6]
+TV allows people to watch films they may
+have missed or would be unable to afford
+to see at the cinema." -> "1.1.1.3.2 [st-12]
+Most films are only released to be shown
+on TV or streaming long after [12] they
+are released in cinema.";
+    "1.1.1.3 [st-6]
+TV allows people to watch films they may
+have missed or would be unable to afford
+to see at the cinema." -> "1.1.1.3.3 [st-15]
+The diverse offering of shows available
+on TV and streaming services [14] allows
+people to access a variety of content
+they wouldn't have access to otherwise.";
+    "1.1.1.3.1 [st-7]
+For people of a lower economic status,
+watching television is the only way they
+can enjoy the same movies as those who
+can afford to see them at the movie
+theater. Thus, TV is a social good." -> "1.1.1.3.1.1 [st-8]
+The price of cinema tickets vary from
+country to country [4], and can be
+incredibly affordable [5] in some
+places.";
+    "1.1.1.3.1.1 [st-8]
+The price of cinema tickets vary from
+country to country [4], and can be
+incredibly affordable [5] in some
+places." -> "1.1.1.3.1.1.1 [st-9]
+Some movie theater chains give discounts
+for kids [6] and young people, senior
+citizens [7], members of the military
+[8], and essential workers [9].";
+    "1.1.1.3.1.1 [st-8]
+The price of cinema tickets vary from
+country to country [4], and can be
+incredibly affordable [5] in some
+places." -> "1.1.1.3.1.1.2 [st-10]
+In countries like Mali, a single cinema
+ticket can cost 59% of the average
+weekly wage [10].";
+    "1.1.1.3.1.1 [st-8]
+The price of cinema tickets vary from
+country to country [4], and can be
+incredibly affordable [5] in some
+places." -> "1.1.1.3.1.1.3 [st-11]
+Theater promotions and cinema
+subscription services [11] can drive
+down the price of cinema tickets, making
+them even more affordable.";
+    "1.1.1.3.2 [st-12]
+Most films are only released to be shown
+on TV or streaming long after [12] they
+are released in cinema." -> "1.1.1.3.2.1 [st-13]
+Not everyone has the time to watch
+movies as soon as they hit theaters.
+Some might prefer the flexibility of
+watching the movie at a later date.";
+    "1.1.1.3.2 [st-12]
+Most films are only released to be shown
+on TV or streaming long after [12] they
+are released in cinema." -> "1.1.1.3.2.2 [st-14]
+New blockbuster movies are increasingly
+seeing early or simultaneous streaming
+releases [13].";
+    "1.1.1.3.3 [st-15]
+The diverse offering of shows available
+on TV and streaming services [14] allows
+people to access a variety of content
+they wouldn't have access to otherwise." -> "1.1.1.3.3.1 [st-16]
+Streaming services tend to have dynamic
+and restrictive catalogues. Netflix has
+around [15] 6,000 shows and movies,
+while IMDB is approaching five million
+[16] entries, meaning that only 0.12% of
+movies IMDB has indexed are available on
+Netflix.";
+    "1.1.1.4 [st-17]
+Impoverished people who struggle to
+afford [17] cable television are left
+with just the local channels and few
+options for entertainment." -> "1.1.1.4.1 [st-18]
+Local channels are often biased and
+choose to present certain pieces of news
+while ignoring others.";
+    "1.1.1.4 [st-17]
+Impoverished people who struggle to
+afford [17] cable television are left
+with just the local channels and few
+options for entertainment." -> "1.1.1.4.2 [st-22]
+TV piracy [21] is accessible, on the
+rise and unlikely to lead to any severe
+consequences. If someone cannot afford
+TV, then they can easily pirate it.";
+    "1.1.1.4 [st-17]
+Impoverished people who struggle to
+afford [17] cable television are left
+with just the local channels and few
+options for entertainment." -> "1.1.1.4.3 [st-27]
+People are only able to physically watch
+one TV channel at a time. While people
+without cable have fewer options, they
+are still able to access some form of
+programming.";
+    "1.1.1.4.1 [st-18]
+Local channels are often biased and
+choose to present certain pieces of news
+while ignoring others." -> "1.1.1.4.1.1 [st-19]
+Most people in the US trust local news
+more than national sources, and believe
+they are less ideologically biased [18].";
+    "1.1.1.4.1 [st-18]
+Local channels are often biased and
+choose to present certain pieces of news
+while ignoring others." -> "1.1.1.4.1.2 [st-20]
+Local news channels are more likely to
+encounter funding issues [19] than large
+national news outlets, and are thus more
+susceptible to bribery or economic
+biases.";
+    "1.1.1.4.1 [st-18]
+Local channels are often biased and
+choose to present certain pieces of news
+while ignoring others." -> "1.1.1.4.1.3 [st-21]
+People are watching less live TV [20]
+than ever before. With plummeting
+viewership, these channels may no longer
+exist in the future.";
+    "1.1.1.4.2 [st-22]
+TV piracy [21] is accessible, on the
+rise and unlikely to lead to any severe
+consequences. If someone cannot afford
+TV, then they can easily pirate it." -> "1.1.1.4.2.1 [st-23]
+Many channels, especially those showing
+live sports, are illegally mirrored
+online [22] and available for free.";
+    "1.1.1.4.2 [st-22]
+TV piracy [21] is accessible, on the
+rise and unlikely to lead to any severe
+consequences. If someone cannot afford
+TV, then they can easily pirate it." -> "1.1.1.4.2.2 [st-24]
+Pirate networks are frequently targeted
+and shut down [23] by international
+government investigations.";
+    "1.1.1.4.2 [st-22]
+TV piracy [21] is accessible, on the
+rise and unlikely to lead to any severe
+consequences. If someone cannot afford
+TV, then they can easily pirate it." -> "1.1.1.4.2.3 [st-25]
+In poorer regions, one cable subscriber
+can share their access [24] with entire
+neighborhoods.";
+    "1.1.1.4.2 [st-22]
+TV piracy [21] is accessible, on the
+rise and unlikely to lead to any severe
+consequences. If someone cannot afford
+TV, then they can easily pirate it." -> "1.1.1.4.2.4 [st-26]
+Suggesting theft of intellectual
+property is hardly a reasonable
+substitute for paying for cable.";
+    "1.1.1.4.3 [st-27]
+People are only able to physically watch
+one TV channel at a time. While people
+without cable have fewer options, they
+are still able to access some form of
+programming." -> "1.1.1.4.3.1 [st-28]
+The variety and diversity of channels
+available is the issue, not how many can
+be watched at once.";
+    "1.1.1.4.3 [st-27]
+People are only able to physically watch
+one TV channel at a time. While people
+without cable have fewer options, they
+are still able to access some form of
+programming." -> "1.1.1.4.3.2 [st-29]
+Many countries have national
+broadcasters, like the BBC [25], which
+can be accessed without an expensive
+cable subscription.";
+    "1.1.1.4.3 [st-27]
+People are only able to physically watch
+one TV channel at a time. While people
+without cable have fewer options, they
+are still able to access some form of
+programming." -> "1.1.1.4.3.3 [st-30]
+Picture-in-Picture [26] allows people to
+watch multiple channels at once.";
+    "1.1.1.4.3.3 [st-30]
+Picture-in-Picture [26] allows people to
+watch multiple channels at once." -> "1.1.1.4.3.3.1 [st-31]
+PiP, despite once being a popular
+feature, has been made obsolete [27] by
+newer technology.";
+    "1.1.1.6 [st-33]
+TV requires that a household have
+consistent and cheap power, as TVs
+consume a lot of electricity [29]." -> "1.1.1.6.1 [st-34]
+Many developing countries have
+load-shedding [30] or power outages
+[31], which might interrupt people's
+viewing to the point where the TV would
+be useless.";
+    "1.1.1.6 [st-33]
+TV requires that a household have
+consistent and cheap power, as TVs
+consume a lot of electricity [29]." -> "1.1.1.6.2 [st-35]
+TVs can be run using external generators
+[32], which are not reliant on national
+power grids.";
+    "1.1.1.6 [st-33]
+TV requires that a household have
+consistent and cheap power, as TVs
+consume a lot of electricity [29]." -> "1.1.1.6.3 [st-37]
+Electricity rates in some developing
+countries are capped, meaning they have
+less of an impact on the operational
+costs of owning a TV (p. 4 [34]).";
+    "1.1.1.6.2 [st-35]
+TVs can be run using external generators
+[32], which are not reliant on national
+power grids." -> "1.1.1.6.2.1 [st-36]
+Most people cannot afford external
+generators—they are generally more
+expensive [33] to run than electricity
+from the power grid.";
+    "1.1.1.7 [st-38]
+Many people in the global south and
+developing nations worldwide have access
+to TV sets [35]." -> "1.1.1.7.1 [st-39]
+Cable can be costly, especially in
+developing countries like the
+Philippines. Cable plans can cost US$35
+[36] per month, yet the minimum wage is
+as low as US$7.50 per day [37].";
+    "1.1.2 [st-40]
+TV series can explore deep and
+significant philosophical and artistic
+themes." -> "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer.";
+    "1.1.2 [st-40]
+TV series can explore deep and
+significant philosophical and artistic
+themes." -> "1.1.2.2 [st-49]
+The critically-acclaimed TV anime, Neon
+Genesis Evangelion, explores themes of
+individuality, consciousness, freedom,
+choice, and responsibility [46]. Such
+heavy and complex themes are common in
+other art forms.";
+    "1.1.2 [st-40]
+TV series can explore deep and
+significant philosophical and artistic
+themes." -> "1.1.2.3 [st-50]
+Black Mirror uses TV as a medium to
+critique technology and modern society
+[47]. This is a common theme in more
+traditional forms of art [48].";
+    "1.1.2 [st-40]
+TV series can explore deep and
+significant philosophical and artistic
+themes." -> "1.1.2.4 [st-51]
+Nearly one-third of UK adults [49]
+believe that TV programming gets worse
+every year.";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer." -> "1.1.2.1.1 [st-42]
+Most TV shows are mindless and serve as
+an escape [39] from the problems and
+issues most people face on a daily
+basis.";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer." -> "1.1.2.1.2 [st-43]
+Philosophical and artistic merit can be
+gleaned from nearly anything [40] one
+does in life.";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer." -> "1.1.2.1.3 [st-44]
+Viewers may want to relax by watching
+simple, entertaining programs which they
+do not need to intellectually engage
+with [41].";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer." -> "1.1.2.1.4 [st-46]
+Characters in popular sitcoms [43] have
+been known to become stupider as the
+series progresses and the script quality
+deteriorates.";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer." -> "1.1.2.1.5 [st-47]
+The majority of world's most popular TV
+shows [44] do not explore significant
+philosophical or artistic themes.";
+    "1.1.2.1 [st-41]
+The content of many TV shows is mindless
+[38], which is harmful to the viewer." -> "1.1.2.1.6 [st-48]
+A number of TV channels [45] have
+intentionally dumbed down their content.";
+    "1.1.2.1.3 [st-44]
+Viewers may want to relax by watching
+simple, entertaining programs which they
+do not need to intellectually engage
+with [41]." -> "1.1.2.1.3.1 [st-45]
+Using one's brain is a natural and
+beneficial part of life; it can
+deteriorate [42] if not used regularly.";
+    "1.1.2.4 [st-51]
+Nearly one-third of UK adults [49]
+believe that TV programming gets worse
+every year." -> "1.1.2.4.1 [st-52]
+Public perception does not equate to
+fact; people could become biased by
+others' opinions.";
+    "1.1.2.4 [st-51]
+Nearly one-third of UK adults [49]
+believe that TV programming gets worse
+every year." -> "1.1.2.4.2 [st-53]
+People might be exposed to poorer
+quality shows more often without the
+overall quality of shows decreasing.";
+    "1.1.3 [st-54]
+TV is only an outlet for the creative
+expression of a small number of writers,
+directors, and producers. TV viewers are
+merely consumers." -> "1.1.3.1 [st-55]
+Public-access TV [50] allows the average
+citizen to create and air their own
+creative works.";
+    "1.1.3 [st-54]
+TV is only an outlet for the creative
+expression of a small number of writers,
+directors, and producers. TV viewers are
+merely consumers." -> "1.1.3.2 [st-56]
+The Writers' Guild of America (WGA) only
+has 20,000 members [51] and fewer than
+5,000 [52] of them earned money from
+their screenplays in 2016.";
+    "1.1.4 [st-57]
+Theater, school plays, and other live
+arts are also outlets [53] for creative
+expression." -> "1.1.4.1 [st-58]
+Theater is more accessible than TV in
+terms of both participation and
+consumption.";
+    "1.1.4 [st-57]
+Theater, school plays, and other live
+arts are also outlets [53] for creative
+expression." -> "1.1.4.2 [st-60]
+Live arts are restrictive and
+unavailable most of the time. TV
+programming is always available, day and
+night.";
+    "1.1.4.1 [st-58]
+Theater is more accessible than TV in
+terms of both participation and
+consumption." -> "1.1.4.1.1 [st-59]
+Public theater, such as Shakespeare in
+the park [54], is often viewable free of
+charge.";
+    "1.1.4.2 [st-60]
+Live arts are restrictive and
+unavailable most of the time. TV
+programming is always available, day and
+night." -> "1.1.4.2.1 [st-61]
+Many adult entertainment centers are
+open most hours when many other plays
+and live arts performances are over.";
+    "1.2 [st-62]
+TV has a negative impact on health." -> "1.2.1 [st-63]
+Watching TV from the safety of one's
+home keeps people out of trouble and
+protects them from a variety of public
+dangers.";
+    "1.2 [st-62]
+TV has a negative impact on health." -> "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62].";
+    "1.2 [st-62]
+TV has a negative impact on health." -> "1.2.3 [st-82]
+TV causes physical health problems.";
+    "1.2 [st-62]
+TV has a negative impact on health." -> "1.2.4 [st-110]
+TV viewership is harmful to the physical
+and mental health of children.";
+    "1.2 [st-62]
+TV has a negative impact on health." -> "1.2.5 [st-137]
+TV has harmful psychological effects.";
+    "1.2 [st-62]
+TV has a negative impact on health." -> "1.2.6 [st-163]
+Watching sporting events or art shows
+might encourage people to pursue these
+activities, ultimately bettering their
+health [157].";
+    "1.2.1 [st-63]
+Watching TV from the safety of one's
+home keeps people out of trouble and
+protects them from a variety of public
+dangers." -> "1.2.1.1 [st-64]
+People can also involve themselves in
+potentially dangerous activities while
+watching TV, such as smoking marijuana
+[55].";
+    "1.2.1 [st-63]
+Watching TV from the safety of one's
+home keeps people out of trouble and
+protects them from a variety of public
+dangers." -> "1.2.1.2 [st-65]
+Social isolation can cause loneliness,
+cognitive decline, and depression [56].";
+    "1.2.1 [st-63]
+Watching TV from the safety of one's
+home keeps people out of trouble and
+protects them from a variety of public
+dangers." -> "1.2.1.3 [st-66]
+People who stayed at home watching TV
+during the pandemic kept themselves safe
+[57] and improved their relationships
+with their families.";
+    "1.2.1.3 [st-66]
+People who stayed at home watching TV
+during the pandemic kept themselves safe
+[57] and improved their relationships
+with their families." -> "1.2.1.3.1 [st-67]
+Nearly four-in-five households [58]
+increased their TV consumption, which
+literally helped save lives [59].";
+    "1.2.1.3 [st-66]
+People who stayed at home watching TV
+during the pandemic kept themselves safe
+[57] and improved their relationships
+with their families." -> "1.2.1.3.2 [st-68]
+There was a marked rise in domestic
+violence [60] during the pandemic,
+indicating that many people, especially
+women, were not kept safe.";
+    "1.2.1.3 [st-66]
+People who stayed at home watching TV
+during the pandemic kept themselves safe
+[57] and improved their relationships
+with their families." -> "1.2.1.3.3 [st-69]
+People staying home could have been, and
+likely were, doing other activities [61]
+than watching TV.";
+    "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62]." -> "1.2.2.1 [st-71]
+The fan community around Star Trek has
+been described as good-willed and
+dizzyingly diverse [63], creating an
+undeniably positive environment.";
+    "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62]." -> "1.2.2.2 [st-73]
+Some TV show communities can be toxic,
+engaging in bullying and other
+antisocial behavior [65].";
+    "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62]." -> "1.2.2.3 [st-76]
+The Doctor Who TV series has cultivated
+a large and loyal fanbase [68], which
+has lead to the development of multiple
+fan projects [69] and zines.";
+    "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62]." -> "1.2.2.4 [st-77]
+Shows like Game of Thrones [70]
+encouraged fan discussion and theory
+through their episodic nature, resulting
+in millions of fans flooding online
+communities with speculation about what
+would happen in the next episode.";
+    "1.2.2 [st-70]
+People can come together and form
+positive communities around their
+favorite television shows, improving
+mental health [62]." -> "1.2.2.5 [st-80]
+If people were to spend less time [73]
+watching TV, they would have more free
+time to pursue more constructive
+hobbies, or to play sports.";
+    "1.2.2.1 [st-71]
+The fan community around Star Trek has
+been described as good-willed and
+dizzyingly diverse [63], creating an
+undeniably positive environment." -> "1.2.2.1.1 [st-72]
+Even positive fan communities like Star
+Trek have an issue with extreme toxicity
+[64].";
+    "1.2.2.2 [st-73]
+Some TV show communities can be toxic,
+engaging in bullying and other
+antisocial behavior [65]." -> "1.2.2.2.1 [st-74]
+Star Wars fan culture has been described
+as toxic [66], sexist, and
+closed-minded.";
+    "1.2.2.2 [st-73]
+Some TV show communities can be toxic,
+engaging in bullying and other
+antisocial behavior [65]." -> "1.2.2.2.2 [st-75]
+A man was beaten up in Hong Kong for
+spoiling the end [67] of Avengers:
+Endgame.";
+    "1.2.2.4 [st-77]
+Shows like Game of Thrones [70]
+encouraged fan discussion and theory
+through their episodic nature, resulting
+in millions of fans flooding online
+communities with speculation about what
+would happen in the next episode." -> "1.2.2.4.1 [st-78]
+Even after the finale of the TV show,
+fan communities for the show and book
+series remain active [71] in multiple
+languages.";
+    "1.2.2.4 [st-77]
+Shows like Game of Thrones [70]
+encouraged fan discussion and theory
+through their episodic nature, resulting
+in millions of fans flooding online
+communities with speculation about what
+would happen in the next episode." -> "1.2.2.4.2 [st-79]
+The obsession over Game of Thrones
+likely led to a decrease in productivity
+and social interaction as fans spent too
+much time [72] pouring over articles and
+expounding upon theories.";
+    "1.2.2.5 [st-80]
+If people were to spend less time [73]
+watching TV, they would have more free
+time to pursue more constructive
+hobbies, or to play sports." -> "1.2.2.5.1 [st-81]
+People could opt to instead engage with
+similarly unhealthy practices, such as
+playing video games or scrolling through
+social media on their phone.";
+    "1.2.3 [st-82]
+TV causes physical health problems." -> "1.2.3.1 [st-83]
+Increased television viewing has a minor
+association [74] with shorter sleep
+duration.";
+    "1.2.3 [st-82]
+TV causes physical health problems." -> "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77].";
+    "1.2.3 [st-82]
+TV causes physical health problems." -> "1.2.3.3 [st-99]
+Watching excessive amounts of TV is
+likely correlated with health problems;
+in moderation, it presents no such
+harms.";
+    "1.2.3 [st-82]
+TV causes physical health problems." -> "1.2.3.4 [st-102]
+Most TV programs are designed to
+encourage unhealthy watching habits.";
+    "1.2.3 [st-82]
+TV causes physical health problems." -> "1.2.3.5 [st-105]
+Compared to other addictions, like
+cigarettes or alcohol, watching
+television is not as harmful.";
+    "1.2.3.1 [st-83]
+Increased television viewing has a minor
+association [74] with shorter sleep
+duration." -> "1.2.3.1.1 [st-84]
+A lack of sleep can increase the risk of
+high blood pressure, diabetes, and heart
+issues [75], demonstrating that
+increased TV viewing is bad for one's
+health.";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.1 [st-86]
+Watching excessive amounts of TV can
+lower sperm count [78].";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.2 [st-88]
+Prolonged TV watching is associated [80]
+with higher colorectal cancer-specific
+mortality, independent of leisure-time
+physical activity, among colorectal
+cancer patients.";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.3 [st-90]
+People who watch more than two hours a
+day of TV have an increased risk of many
+diseases and reduced lifespan [82].";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.4 [st-92]
+Reading is a sedentary activity, yet not
+labeled as a negative activity. As such,
+TV should be considered an adjacent
+category.";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.5 [st-95]
+Sitting down for significant periods of
+time to watch television may increase
+the risk of dying from a pulmonary
+embolism [88].";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.6 [st-96]
+TV viewers do not need to be seated
+while watching TV. They can perform
+exercises [89] or use exercise
+equipment, like a treadmill [90].";
+    "1.2.3.2 [st-85]
+TV can encourage sedentary behavior
+[76], which can lead to health issues
+[77]." -> "1.2.3.2.7 [st-98]
+Couches and recliners, common seats used
+for watching television, are designed
+for unhealthy sedentary behaviors [92].";
+    "1.2.3.2.1 [st-86]
+Watching excessive amounts of TV can
+lower sperm count [78]." -> "1.2.3.2.1.1 [st-87]
+For men that do not desire [79] to have
+children, a lower sperm count is not a
+relevant concern.";
+    "1.2.3.2.2 [st-88]
+Prolonged TV watching is associated [80]
+with higher colorectal cancer-specific
+mortality, independent of leisure-time
+physical activity, among colorectal
+cancer patients." -> "1.2.3.2.2.1 [st-89]
+There are a number of other activities
+and behaviors [81] which are equally or
+more likely to cause colorectal cancers.";
+    "1.2.3.2.3 [st-90]
+People who watch more than two hours a
+day of TV have an increased risk of many
+diseases and reduced lifespan [82]." -> "1.2.3.2.3.1 [st-91]
+Excessive hours of sitting to watch TV
+has been linked to an increased risk of
+dying from inflammatory diseases like
+Alzheimer’s and diabetes, according to
+an Australian study [83].";
+    "1.2.3.2.4 [st-92]
+Reading is a sedentary activity, yet not
+labeled as a negative activity. As such,
+TV should be considered an adjacent
+category." -> "1.2.3.2.4.1 [st-93]
+Reading books has proven to have
+positive effects [84] on the development
+of children [85], brain function, and
+overall health, whereas watching TV has
+notable negative lifestyle effects [86].";
+    "1.2.3.2.4 [st-92]
+Reading is a sedentary activity, yet not
+labeled as a negative activity. As such,
+TV should be considered an adjacent
+category." -> "1.2.3.2.4.2 [st-94]
+Reading has a number of associated
+physical and mental harms [87],
+similarly to watching TV.";
+    "1.2.3.2.6 [st-96]
+TV viewers do not need to be seated
+while watching TV. They can perform
+exercises [89] or use exercise
+equipment, like a treadmill [90]." -> "1.2.3.2.6.1 [st-97]
+Very few people exercise while watching
+TV; Americans in particular spend
+significantly more time watching TV than
+exercising [91] in general.";
+    "1.2.3.3 [st-99]
+Watching excessive amounts of TV is
+likely correlated with health problems;
+in moderation, it presents no such
+harms." -> "1.2.3.3.1 [st-100]
+Health risks can occur after two hours
+[93] of watching TV. The average
+American watches more than five hours a
+day [94].";
+    "1.2.3.3 [st-99]
+Watching excessive amounts of TV is
+likely correlated with health problems;
+in moderation, it presents no such
+harms." -> "1.2.3.3.2 [st-101]
+In order for TV use to be deemed
+excessive [95], one must watch more than
+3.5 hours of TV per day. It is likely
+that many people watch less than this.";
+    "1.2.3.4 [st-102]
+Most TV programs are designed to
+encourage unhealthy watching habits." -> "1.2.3.4.1 [st-103]
+TV streaming services encourage
+binge-watching by automatically playing
+[96] the next episode [97] of a series.";
+    "1.2.3.4 [st-102]
+Most TV programs are designed to
+encourage unhealthy watching habits." -> "1.2.3.4.2 [st-104]
+Twenty-four-hour news channels compete
+for viewership by sensationalizing [98]
+news stories, which can end up causing
+anxiety and stress among viewers.";
+    "1.2.3.5 [st-105]
+Compared to other addictions, like
+cigarettes or alcohol, watching
+television is not as harmful." -> "1.2.3.5.1 [st-106]
+Television sets are built with harmful
+chemicals [99], the exposure to which
+could cause severe health problems.";
+    "1.2.3.5 [st-105]
+Compared to other addictions, like
+cigarettes or alcohol, watching
+television is not as harmful." -> "1.2.3.5.2 [st-107]
+Smoking directly causes a number of
+ailments such as cancer, diabetes, heart
+disease, and bronchitis [100], as well
+as increasing the risk of a number of
+diseases.";
+    "1.2.3.5 [st-105]
+Compared to other addictions, like
+cigarettes or alcohol, watching
+television is not as harmful." -> "1.2.3.5.3 [st-108]
+Abusing alcohol damages many internal
+organs, as well as increasing risk
+factors for heart attacks and stroke
+[101].";
+    "1.2.3.5 [st-105]
+Compared to other addictions, like
+cigarettes or alcohol, watching
+television is not as harmful." -> "1.2.3.5.4 [st-109]
+Prolonged TV watching increases the risk
+of diabetes and especially heart disease
+[102], which is more deadly [103] than
+all forms of cancer combined.";
+    "1.2.4 [st-110]
+TV viewership is harmful to the physical
+and mental health of children." -> "1.2.4.1 [st-111]
+The physical health of children
+deteriorates when they watch excessive
+amounts of TV.";
+    "1.2.4 [st-110]
+TV viewership is harmful to the physical
+and mental health of children." -> "1.2.4.2 [st-119]
+TV lowers [113] the self-esteem of most
+children.";
+    "1.2.4 [st-110]
+TV viewership is harmful to the physical
+and mental health of children." -> "1.2.4.3 [st-121]
+TV programs can foster and encourage
+good behaviour in children.";
+    "1.2.4 [st-110]
+TV viewership is harmful to the physical
+and mental health of children." -> "1.2.4.4 [st-129]
+Many activities are age-restricted [121]
+to protect the health of children;
+television is no different.";
+    "1.2.4.1 [st-111]
+The physical health of children
+deteriorates when they watch excessive
+amounts of TV." -> "1.2.4.1.1 [st-112]
+Kids who watch a lot of television may
+build less bone [104] during critical
+years and be more vulnerable to
+osteoporosis and bone breaks later in
+life as a result.";
+    "1.2.4.1 [st-111]
+The physical health of children
+deteriorates when they watch excessive
+amounts of TV." -> "1.2.4.1.2 [st-113]
+A recent study [105] linked kids' TV
+habits with higher cholesterol and worse
+health outcomes, suggesting that two or
+more hours of daily viewing may produce
+heart problems later in life.";
+    "1.2.4.1 [st-111]
+The physical health of children
+deteriorates when they watch excessive
+amounts of TV." -> "1.2.4.1.3 [st-114]
+Parents are recommended [106] to limit
+their children to one to two hours of
+high-quality programming each day to
+protect them from negative influences or
+outcomes.";
+    "1.2.4.1 [st-111]
+The physical health of children
+deteriorates when they watch excessive
+amounts of TV." -> "1.2.4.1.4 [st-117]
+Diet and exercise [110] are the most
+important factors in raising healthy
+children; TV is not detrimental if
+children are active and eat well.";
+    "1.2.4.1.3 [st-114]
+Parents are recommended [106] to limit
+their children to one to two hours of
+high-quality programming each day to
+protect them from negative influences or
+outcomes." -> "1.2.4.1.3.1 [st-115]
+Children who spend many hours a day
+glued to the TV may be harming their
+ability to concentrate [107] and focus
+on tasks in school.";
+    "1.2.4.1.3 [st-114]
+Parents are recommended [106] to limit
+their children to one to two hours of
+high-quality programming each day to
+protect them from negative influences or
+outcomes." -> "1.2.4.1.3.2 [st-116]
+Excessive hours spent watching
+television in a child's youth may be
+related [108] to an increased risk of
+antisocial [109] behaviour later in
+life.";
+    "1.2.4.1.4 [st-117]
+Diet and exercise [110] are the most
+important factors in raising healthy
+children; TV is not detrimental if
+children are active and eat well." -> "1.2.4.1.4.1 [st-118]
+A study [111] found that the more hours
+spent watching television, the more
+likely children were to be both fatter
+and less physically active. Notedly,
+kindergartners who watched more than
+three hours of TV per day were nearly
+50% more likely [112] to be obese.";
+    "1.2.4.2 [st-119]
+TV lowers [113] the self-esteem of most
+children." -> "1.2.4.2.1 [st-120]
+TV decreases the self-esteem [114] of
+white girls, Black girls, and Black
+boys.";
+    "1.2.4.3 [st-121]
+TV programs can foster and encourage
+good behaviour in children." -> "1.2.4.3.1 [st-122]
+TV can encourage [115] reading in
+children.";
+    "1.2.4.3 [st-121]
+TV programs can foster and encourage
+good behaviour in children." -> "1.2.4.3.2 [st-126]
+Preschool children displayed less
+aggression and more empathy [118]
+towards others when their exposure to
+aggressive television shows were
+limited, and their exposure to
+educational programming was increased.";
+    "1.2.4.3 [st-121]
+TV programs can foster and encourage
+good behaviour in children." -> "1.2.4.3.3 [st-127]
+When TV characters demonstrate
+social-emotional skills, children can
+learn from them. Television shows that
+depict sharing, getting along with
+others, or rejecting stereotypes can
+improve those skills in children [119].";
+    "1.2.4.3 [st-121]
+TV programs can foster and encourage
+good behaviour in children." -> "1.2.4.3.4 [st-128]
+The negative effects [120] of TV on
+children far outweigh the positive
+effects.";
+    "1.2.4.3.1 [st-122]
+TV can encourage [115] reading in
+children." -> "1.2.4.3.1.1 [st-123]
+Shows like 'Reading Rainbow' [116]
+introduced children to books and stories
+they may otherwise miss.";
+    "1.2.4.3.1 [st-122]
+TV can encourage [115] reading in
+children." -> "1.2.4.3.1.2 [st-125]
+The British Council developed a list of
+eight common methods of encouraging
+children to read [117]; watching TV to
+incentivize the practice of reading was
+not mentioned.";
+    "1.2.4.3.1.1 [st-123]
+Shows like 'Reading Rainbow' [116]
+introduced children to books and stories
+they may otherwise miss." -> "1.2.4.3.1.1.1 [st-124]
+Introducing children to the concept of
+reading books does not necessarily
+incentivize them to read on their own.";
+    "1.2.4.4 [st-129]
+Many activities are age-restricted [121]
+to protect the health of children;
+television is no different." -> "1.2.4.4.1 [st-130]
+The TV rating system exists to prevent
+children from consuming inappropriate
+content on TV (p. 2 [122]).";
+    "1.2.4.4 [st-129]
+Many activities are age-restricted [121]
+to protect the health of children;
+television is no different." -> "1.2.4.4.2 [st-136]
+It is the responsibility of parents to
+manage a child's TV usage and behaviour
+in order to limit any negative physical
+and mental effects.";
+    "1.2.4.4.1 [st-130]
+The TV rating system exists to prevent
+children from consuming inappropriate
+content on TV (p. 2 [122])." -> "1.2.4.4.1.1 [st-131]
+Broadcasters in some countries abide by
+a watershed [123], banning the airing of
+content deemed child-inappropriate
+before a certain time at night.";
+    "1.2.4.4.1 [st-130]
+The TV rating system exists to prevent
+children from consuming inappropriate
+content on TV (p. 2 [122])." -> "1.2.4.4.1.2 [st-132]
+TV ratings systems have fundamental
+flaws [124] that prevent parents from
+making informed decisions on what their
+children watch.";
+    "1.2.4.4.1.2 [st-132]
+TV ratings systems have fundamental
+flaws [124] that prevent parents from
+making informed decisions on what their
+children watch." -> "1.2.4.4.1.2.1 [st-133]
+G-rated prime-time TV is nearly
+non-existent [125], and the lines
+between TV-PG and TV-14 categories are
+blurred [126].";
+    "1.2.4.4.1.2 [st-132]
+TV ratings systems have fundamental
+flaws [124] that prevent parents from
+making informed decisions on what their
+children watch." -> "1.2.4.4.1.2.2 [st-134]
+Shows rated TV-14 have as many
+depictions of smoking and drinking [127]
+as TV-MA programming, making it
+difficult for parents to prevent their
+children being exposed to this content.";
+    "1.2.4.4.1.2 [st-132]
+TV ratings systems have fundamental
+flaws [124] that prevent parents from
+making informed decisions on what their
+children watch." -> "1.2.4.4.1.2.3 [st-135]
+TV ratings systems are merely
+guidelines, and cannot be expected to
+replace the individual judgement of
+parents.";
+    "1.2.5 [st-137]
+TV has harmful psychological effects." -> "1.2.5.1 [st-138]
+Watching excessive [128] amounts of TV
+is primarily a form of escapism [129]
+from the pressures and stresses of daily
+life, suggesting that TV can actually be
+psychologically beneficial.";
+    "1.2.5 [st-137]
+TV has harmful psychological effects." -> "1.2.5.2 [st-141]
+TV promotes drug use and abuse.";
+    "1.2.5 [st-137]
+TV has harmful psychological effects." -> "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes.";
+    "1.2.5 [st-137]
+TV has harmful psychological effects." -> "1.2.5.4 [st-155]
+TV has been known to be addictive [148].";
+    "1.2.5 [st-137]
+TV has harmful psychological effects." -> "1.2.5.5 [st-162]
+Only if people take it seriously enough
+to conflate its inherently-mediated (ie,
+vicarious) [156] experiences with their
+own unmediated (ie, direct) personal
+ones.";
+    "1.2.5.1 [st-138]
+Watching excessive [128] amounts of TV
+is primarily a form of escapism [129]
+from the pressures and stresses of daily
+life, suggesting that TV can actually be
+psychologically beneficial." -> "1.2.5.1.1 [st-139]
+Watching television relieves loneliness
+by providing the same sort of emotional
+support [130] as spending time with real
+people.";
+    "1.2.5.1 [st-138]
+Watching excessive [128] amounts of TV
+is primarily a form of escapism [129]
+from the pressures and stresses of daily
+life, suggesting that TV can actually be
+psychologically beneficial." -> "1.2.5.1.2 [st-140]
+Researchers [131] say that the social
+surrogacy provided by TV programs is a
+poor substitution for human-to-human
+experience.";
+    "1.2.5.2 [st-141]
+TV promotes drug use and abuse." -> "1.2.5.2.1 [st-142]
+Movies & shows glorifying substance
+abuse lifestyle like Narcos [132],
+Breaking Bad [133] and The Wolf of Wall
+Street [134] are widely known, while
+there is little attention for the actual
+damages of the opioid crisis and the
+drug trade.";
+    "1.2.5.2 [st-141]
+TV promotes drug use and abuse." -> "1.2.5.2.2 [st-143]
+TV has often been used to broadcast
+[135] the dangers of drug abuse,
+portraying [136] drug use in a negative
+light.";
+    "1.2.5.2 [st-141]
+TV promotes drug use and abuse." -> "1.2.5.2.3 [st-144]
+The causes of adolescent substance use
+are multifactorial, but the media can
+play a key role [137].";
+    "1.2.5.2.3 [st-144]
+The causes of adolescent substance use
+are multifactorial, but the media can
+play a key role [137]." -> "1.2.5.2.3.1 [st-145]
+Portrayals of alcohol [138] in films and
+TV advertisements have an immediate
+effect on the amount of alcohol that
+people drink.";
+    "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes." -> "1.2.5.3.1 [st-147]
+Many TV shows perpetuate [140] the
+'angry African American' stereotype.";
+    "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes." -> "1.2.5.3.2 [st-148]
+Some shows can reinforce [141] the idea
+that masculine traits are more
+acceptable than feminine traits.";
+    "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes." -> "1.2.5.3.3 [st-149]
+Any form of media or communication can
+be used to perpetuate harmful
+stereotypes. The issue lies with the
+society that tolerates such stereotypes,
+not the media which they are portrayed
+in.";
+    "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes." -> "1.2.5.3.4 [st-150]
+Popular networks, such as the BBC, rely
+heavily [142] on the use of stereotypes
+when portraying gay people, and often
+make them the subject of derisive jokes
+(p. 8 [143], p. 11 [144]).";
+    "1.2.5.3 [st-146]
+Television can create division with
+shows [139] that perpetuate false
+stereotypes." -> "1.2.5.3.5 [st-151]
+Television shows can bring people
+together and break down barriers by
+striking down stereotypes through
+authentic portrayals of genuine people.";
+    "1.2.5.3.5 [st-151]
+Television shows can bring people
+together and break down barriers by
+striking down stereotypes through
+authentic portrayals of genuine people." -> "1.2.5.3.5.1 [st-152]
+With the number of spinoffs and rebooted
+shows [145] on TV nowadays, they are
+more likely to cling onto false
+narratives that increase their ratings.";
+    "1.2.5.3.5 [st-151]
+Television shows can bring people
+together and break down barriers by
+striking down stereotypes through
+authentic portrayals of genuine people." -> "1.2.5.3.5.2 [st-153]
+When immigrants, especially undocumented
+workers, were realistically portrayed on
+TV, anti-immigrant sentiments fell
+[146].";
+    "1.2.5.3.5 [st-151]
+Television shows can bring people
+together and break down barriers by
+striking down stereotypes through
+authentic portrayals of genuine people." -> "1.2.5.3.5.3 [st-154]
+In a watershed moment on one of the most
+famous episodes of Mister Rogers'
+Neighborhood, Mr. Rodgers invited a
+Black police officer to share the same
+pool, even washing Officer Clemmons'
+feet, forever changing [147] the way
+Black men were portrayed on TV at that
+time.";
+    "1.2.5.4 [st-155]
+TV has been known to be addictive [148]." -> "1.2.5.4.1 [st-156]
+Nearly anything can be addictive [149];
+the problem is people's ability to
+control their own consumption, not a
+problem with the object of their
+consumption.";
+    "1.2.5.4 [st-155]
+TV has been known to be addictive [148]." -> "1.2.5.4.2 [st-157]
+TV provides an emotional escape [150]
+from negative feelings. As a result,
+people become addicted to the relief of
+these emotions while watching TV.";
+    "1.2.5.4 [st-155]
+TV has been known to be addictive [148]." -> "1.2.5.4.3 [st-158]
+Binge-watching is an impulsive [151]
+behavior; the brain reacts in a similar
+manner to other addictions [152], such
+as drugs and alcohol.";
+    "1.2.5.4 [st-155]
+TV has been known to be addictive [148]." -> "1.2.5.4.4 [st-161]
+Netflix, credited for inventing
+binge-watching [155], pushes shows onto
+people without self-control without
+their explicit consent by automatically
+playing the next episode of a TV show.";
+    "1.2.5.4.3 [st-158]
+Binge-watching is an impulsive [151]
+behavior; the brain reacts in a similar
+manner to other addictions [152], such
+as drugs and alcohol." -> "1.2.5.4.3.1 [st-159]
+Binge-watching provides viewers [153]
+with a sense of community by bonding
+with others over a shared interest in
+the same TV shows.";
+    "1.2.5.4.3 [st-158]
+Binge-watching is an impulsive [151]
+behavior; the brain reacts in a similar
+manner to other addictions [152], such
+as drugs and alcohol." -> "1.2.5.4.3.2 [st-160]
+Addiction born out of escapism can lead
+to a decline in self compassion [154],
+which is harmful to the addict's life.";
+    "1.2.6 [st-163]
+Watching sporting events or art shows
+might encourage people to pursue these
+activities, ultimately bettering their
+health [157]." -> "1.2.6.1 [st-164]
+Bob Ross and 'The Joy of Painting [158]'
+TV show encouraged millions of people
+[159] to pick up painting as a hobby,
+helping them relieve stress and improve
+their cognitive abilities [160].";
+    "1.2.6 [st-163]
+Watching sporting events or art shows
+might encourage people to pursue these
+activities, ultimately bettering their
+health [157]." -> "1.2.6.2 [st-165]
+Major televised sporting events increase
+the number of people signing up to play
+sports [161].";
+    "1.2.6 [st-163]
+Watching sporting events or art shows
+might encourage people to pursue these
+activities, ultimately bettering their
+health [157]." -> "1.2.6.3 [st-169]
+People who are very interested in sports
+will likely pursue the sport both in
+person and on TV, making the overall
+amount of time they watch TV unlikely to
+go down.";
+    "1.2.6.2 [st-165]
+Major televised sporting events increase
+the number of people signing up to play
+sports [161]." -> "1.2.6.2.1 [st-166]
+Many televised pro sports encourage
+physical activity [162] and host camps
+and events to get children outside to
+play.";
+    "1.2.6.2 [st-165]
+Major televised sporting events increase
+the number of people signing up to play
+sports [161]." -> "1.2.6.2.2 [st-167]
+The 2023 Women's World Cup inspired
+young girls, and older women alike, to
+pursue an interest in football [163].";
+    "1.2.6.2 [st-165]
+Major televised sporting events increase
+the number of people signing up to play
+sports [161]." -> "1.2.6.2.3 [st-168]
+Watching run-of-the-mill daily sporting
+matches on television is not correlated
+[164] with an increase in physical
+activity, suggesting that people who
+watch sport are not physically active.";
+    "1.3 [st-170]
+TV can be an educational tool." -> "1.3.1 [st-171]
+TV can only be educational if one is
+deliberately tuned into an educational
+program.";
+    "1.3 [st-170]
+TV can be an educational tool." -> "1.3.2 [st-178]
+Fictional programmes have higher ratings
+[170], thereby reducing the incentive to
+produce educational ones.";
+    "1.3 [st-170]
+TV can be an educational tool." -> "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs.";
+    "1.3 [st-170]
+TV can be an educational tool." -> "1.3.4 [st-221]
+TV can inspire inventions and stimulate
+technological progress.";
+    "1.3 [st-170]
+TV can be an educational tool." -> "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology.";
+    "1.3 [st-170]
+TV can be an educational tool." -> "1.3.6 [st-233]
+TV being educational is not necessarily
+beneficial or positive.";
+    "1.3.1 [st-171]
+TV can only be educational if one is
+deliberately tuned into an educational
+program." -> "1.3.1.1 [st-172]
+One can learn from any number of shows;
+the program does not need to be
+explicitly educational for people to
+learn.";
+    "1.3.1 [st-171]
+TV can only be educational if one is
+deliberately tuned into an educational
+program." -> "1.3.1.2 [st-176]
+With the popularity of more entertaining
+and instantly gratifying channels
+displaying sports [167], movies or
+reality TV [168], there is little to
+convince viewers to watch educational
+content.";
+    "1.3.1.1 [st-172]
+One can learn from any number of shows;
+the program does not need to be
+explicitly educational for people to
+learn." -> "1.3.1.1.1 [st-173]
+Subtle lessons displayed in some
+programming options might not be
+understood by everyone watching,
+lessening their value.";
+    "1.3.1.1 [st-172]
+One can learn from any number of shows;
+the program does not need to be
+explicitly educational for people to
+learn." -> "1.3.1.1.2 [st-174]
+Movies like The Godfather educate
+viewers about how mafias operate and
+serve as a warning about violence being
+a counterproductive tool [165] to
+achieve one's desired ends.";
+    "1.3.1.1 [st-172]
+One can learn from any number of shows;
+the program does not need to be
+explicitly educational for people to
+learn." -> "1.3.1.1.3 [st-175]
+Many TV shows have incidental
+educational value [166], which can help
+to educate viewers without being the
+main focus of the program.";
+    "1.3.1.2 [st-176]
+With the popularity of more entertaining
+and instantly gratifying channels
+displaying sports [167], movies or
+reality TV [168], there is little to
+convince viewers to watch educational
+content." -> "1.3.1.2.1 [st-177]
+Watching sports [169] on TV can teach
+strategy, competitiveness, and teamwork.";
+    "1.3.2 [st-178]
+Fictional programmes have higher ratings
+[170], thereby reducing the incentive to
+produce educational ones." -> "1.3.2.1 [st-179]
+TV shows can be both entertaining and
+educational, such as Sesame Street
+[171].";
+    "1.3.2 [st-178]
+Fictional programmes have higher ratings
+[170], thereby reducing the incentive to
+produce educational ones." -> "1.3.2.2 [st-182]
+There are important incentives to
+produce educational content besides
+ratings or money. Documentaries can be
+used to generate awareness for an issue
+[174] and merely provide the good of
+education.";
+    "1.3.2 [st-178]
+Fictional programmes have higher ratings
+[170], thereby reducing the incentive to
+produce educational ones." -> "1.3.2.3 [st-183]
+Production budgets for TV shows can be
+upwards of millions of dollars per hour
+[175]. With such large investments,
+producers aim to create programs with
+high ratings to ensure a return.";
+    "1.3.2 [st-178]
+Fictional programmes have higher ratings
+[170], thereby reducing the incentive to
+produce educational ones." -> "1.3.2.4 [st-184]
+Channels that were formerly
+predominantly education-focused in the
+past, such as Discovery, have now
+pivoted to focus on reality TV [176].";
+    "1.3.2.1 [st-179]
+TV shows can be both entertaining and
+educational, such as Sesame Street
+[171]." -> "1.3.2.1.1 [st-180]
+Sesame Street is one of the best TV
+shows of all time, continuing to win
+awards [172] more than 50 years after it
+started. The remainder of TV programming
+cannot possibly live up to such a high
+standard.";
+    "1.3.2.1 [st-179]
+TV shows can be both entertaining and
+educational, such as Sesame Street
+[171]." -> "1.3.2.1.2 [st-181]
+Infotainment is an entire genre of
+television that intends to present
+information in an entertaining way
+[173].";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs." -> "1.3.3.1 [st-186]
+The internet [177] is becoming a bigger
+source of news and information.";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs." -> "1.3.3.2 [st-189]
+With just six corporations owning 90% of
+the media [180] in the US, it is highly
+unlikely television will broadcast an
+unbiased and full spectrum of
+information.";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs." -> "1.3.3.3 [st-191]
+Many news networks broadcast 24-hour
+news programming [182], providing people
+with access to immediate reporting and
+commentary on events, oftentimes as they
+unfold at any time of the day or night.";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs." -> "1.3.3.4 [st-192]
+Multiple studies suggest that watching
+TV can lead to beneficial educational
+outcomes.";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs." -> "1.3.3.5 [st-200]
+Not only does the media help form and
+promote [190] feelings of national
+pride, but it also acts as a way for
+citizens of other nations to experience
+other countries and cultures.";
+    "1.3.3 [st-185]
+TV offers an important means of
+acquiring information on news and
+current affairs." -> "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor.";
+    "1.3.3.1 [st-186]
+The internet [177] is becoming a bigger
+source of news and information." -> "1.3.3.1.1 [st-187]
+Between one- and three-quarters [178] of
+people around the world get their news
+from social media.";
+    "1.3.3.1 [st-186]
+The internet [177] is becoming a bigger
+source of news and information." -> "1.3.3.1.2 [st-188]
+Distrust of social media is rampant;
+approximately one-third of US adults
+[179] never get their news from social
+media.";
+    "1.3.3.2 [st-189]
+With just six corporations owning 90% of
+the media [180] in the US, it is highly
+unlikely television will broadcast an
+unbiased and full spectrum of
+information." -> "1.3.3.2.1 [st-190]
+In the US, 40% of local news channels
+[181] are owned by Sinclair
+Broadcasting; they have used their power
+to push political agendas in the past.";
+    "1.3.3.4 [st-192]
+Multiple studies suggest that watching
+TV can lead to beneficial educational
+outcomes." -> "1.3.3.4.1 [st-193]
+Watching high-quality television dramas
+can increase our ability to read other
+people's emotions [183].";
+    "1.3.3.4 [st-192]
+Multiple studies suggest that watching
+TV can lead to beneficial educational
+outcomes." -> "1.3.3.4.2 [st-195]
+Children who watched TV three or more
+hours per day were three months ahead
+[185] of those who watched less than one
+hour per day.";
+    "1.3.3.4 [st-192]
+Multiple studies suggest that watching
+TV can lead to beneficial educational
+outcomes." -> "1.3.3.4.3 [st-196]
+A combination of visual and verbal [186]
+information on television is an
+effective learning tool.";
+    "1.3.3.4 [st-192]
+Multiple studies suggest that watching
+TV can lead to beneficial educational
+outcomes." -> "1.3.3.4.4 [st-197]
+Children who watch more than two hours
+of television a day, especially those
+with a TV in their own rooms [187],
+scored significantly lower on
+standardized tests than their
+counterparts.";
+    "1.3.3.4.1 [st-193]
+Watching high-quality television dramas
+can increase our ability to read other
+people's emotions [183]." -> "1.3.3.4.1.1 [st-194]
+People reading literature is at least
+equally, if not more, able to help them
+increase empathy [184]. TV is far from
+essential in this regard.";
+    "1.3.3.4.4 [st-197]
+Children who watch more than two hours
+of television a day, especially those
+with a TV in their own rooms [187],
+scored significantly lower on
+standardized tests than their
+counterparts." -> "1.3.3.4.4.1 [st-198]
+The same research study found that there
+was no consistent negative association
+between test scores and hours spent
+watching TV [188].";
+    "1.3.3.4.4.1 [st-198]
+The same research study found that there
+was no consistent negative association
+between test scores and hours spent
+watching TV [188]." -> "1.3.3.4.4.1.1 [st-199]
+Test scores are not a useful form [189]
+of demonstrating educational
+achievement.";
+    "1.3.3.5 [st-200]
+Not only does the media help form and
+promote [190] feelings of national
+pride, but it also acts as a way for
+citizens of other nations to experience
+other countries and cultures." -> "1.3.3.5.1 [st-201]
+TV shows and movies help spread cultural
+values.";
+    "1.3.3.5 [st-200]
+Not only does the media help form and
+promote [190] feelings of national
+pride, but it also acts as a way for
+citizens of other nations to experience
+other countries and cultures." -> "1.3.3.5.2 [st-202]
+Over-dependence on foreign production
+[191] (e.g in third world countries) is
+a form of cultural domination.";
+    "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor." -> "1.3.3.6.1 [st-204]
+Many programmes are described as
+documentaries even though they are
+fictional [193].";
+    "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor." -> "1.3.3.6.2 [st-205]
+TV decreases the intelligence of
+viewers.";
+    "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor." -> "1.3.3.6.3 [st-218]
+TV executives want dramas to be dumbed
+down [207] with simplistic storylines in
+order to cater to passive watchers.";
+    "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor." -> "1.3.3.6.4 [st-219]
+The cited article [208] acknowledges the
+high-quality educational [209] content
+that is available outside of the BBC
+network.";
+    "1.3.3.6 [st-203]
+Many viewers [192] think the educational
+quality of TV shows is generally poor." -> "1.3.3.6.5 [st-220]
+TV shows throughout Europe are becoming
+less informative and more sensational, a
+European watchdog has found [210].";
+    "1.3.3.6.2 [st-205]
+TV decreases the intelligence of
+viewers." -> "1.3.3.6.2.1 [st-206]
+The more time spent watching television
+during childhood and adolescence, the
+less likely [194] people are to finish
+school with qualifications or attain a
+university degree.";
+    "1.3.3.6.2 [st-205]
+TV decreases the intelligence of
+viewers." -> "1.3.3.6.2.2 [st-207]
+Oftentimes, the people who watch the
+most TV have impaired mental abilities
+[195].";
+    "1.3.3.6.2 [st-205]
+TV decreases the intelligence of
+viewers." -> "1.3.3.6.2.3 [st-208]
+TV impairs language skills in children.";
+    "1.3.3.6.2 [st-205]
+TV decreases the intelligence of
+viewers." -> "1.3.3.6.2.4 [st-214]
+Throughout history, people have claimed
+that different pastimes and new
+technology is contributing to a decline
+in intelligence. This does not mean that
+it is the case.";
+    "1.3.3.6.2.3 [st-208]
+TV impairs language skills in children." -> "1.3.3.6.2.3.1 [st-209]
+When children watch TV, it impairs their
+language acquisition because it tends to
+displace opportunities [196] for live
+conversation time between them and
+adults.";
+    "1.3.3.6.2.3 [st-208]
+TV impairs language skills in children." -> "1.3.3.6.2.3.2 [st-210]
+TV has been shown to negatively affect
+the frontopolar area [197] of the brain,
+impacting the verbal abilities of
+children.";
+    "1.3.3.6.2.3 [st-208]
+TV impairs language skills in children." -> "1.3.3.6.2.3.3 [st-211]
+People in non-English-speaking countries
+watch American sitcoms [198] with
+subtitles to learn English [199].";
+    "1.3.3.6.2.3.3 [st-211]
+People in non-English-speaking countries
+watch American sitcoms [198] with
+subtitles to learn English [199]." -> "1.3.3.6.2.3.3.1 [st-212]
+American sitcoms are often broadcast
+abroad with the audio dubbed over [200],
+lessening their usefulness as a resource
+for learning English.";
+    "1.3.3.6.2.3.3 [st-211]
+People in non-English-speaking countries
+watch American sitcoms [198] with
+subtitles to learn English [199]." -> "1.3.3.6.2.3.3.2 [st-213]
+The popularity of American sitcoms
+contributes to the Americanization [201]
+of the English language, which could
+erase smaller English dialects, such as
+Scottish English [202] and
+Hiberno-English (p. 57 [203]).";
+    "1.3.3.6.2.4 [st-214]
+Throughout history, people have claimed
+that different pastimes and new
+technology is contributing to a decline
+in intelligence. This does not mean that
+it is the case." -> "1.3.3.6.2.4.1 [st-215]
+Plato argued that writing would cause
+people to have no memories, and make
+people stupider [204].";
+    "1.3.3.6.2.4 [st-214]
+Throughout history, people have claimed
+that different pastimes and new
+technology is contributing to a decline
+in intelligence. This does not mean that
+it is the case." -> "1.3.3.6.2.4.2 [st-216]
+Some have argued that ubiquitous access
+to calculators [205] is killing the
+ability for people to do math in their
+heads.";
+    "1.3.3.6.2.4 [st-214]
+Throughout history, people have claimed
+that different pastimes and new
+technology is contributing to a decline
+in intelligence. This does not mean that
+it is the case." -> "1.3.3.6.2.4.3 [st-217]
+Technology tends to help simplify
+processes, freeing up brainpower [206]
+for people to achieve greater heights
+and further advance technology.";
+    "1.3.4 [st-221]
+TV can inspire inventions and stimulate
+technological progress." -> "1.3.4.1 [st-222]
+Shows like Shark Tank can stimulate
+innovation [211] by inspiring viewers
+into developing new technologies.";
+    "1.3.4 [st-221]
+TV can inspire inventions and stimulate
+technological progress." -> "1.3.4.2 [st-225]
+TV rots the brain [214]; people who
+watch significant amounts of TV are
+unlikely to be the next inspirational
+figure, found a company, or spur
+technological innovation.";
+    "1.3.4.1 [st-222]
+Shows like Shark Tank can stimulate
+innovation [211] by inspiring viewers
+into developing new technologies." -> "1.3.4.1.1 [st-223]
+Kids watching Shark Tank [212] may be
+inspired to open a business of their
+own.";
+    "1.3.4.1 [st-222]
+Shows like Shark Tank can stimulate
+innovation [211] by inspiring viewers
+into developing new technologies." -> "1.3.4.1.2 [st-224]
+Innovation and capital investment
+existed long [213] before television and
+shows like Shark Tank or Dragons' Den.";
+    "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology." -> "1.3.5.1 [st-227]
+Science shows like Beakman's World [215]
+inspire children to get interested in
+science by teaching them facts and
+concepts that they might otherwise find
+boring or intimidating.";
+    "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology." -> "1.3.5.2 [st-228]
+President Obama thanked the cast of
+Mythbusters [216] for inspiring young
+people to pursue the sciences.";
+    "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology." -> "1.3.5.3 [st-229]
+TV has a detrimental effect on grades
+[217], making an interest in science or
+technology meaningless without the
+grades to further pursue these fields.";
+    "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology." -> "1.3.5.4 [st-230]
+Many science-related TV shows are
+unrealistic [218] and could cause people
+to dedicate their lives to a career that
+was inaccurately portrayed on TV.";
+    "1.3.5 [st-226]
+TV shows can inspire children to pursue
+an interest in science and technology." -> "1.3.5.5 [st-232]
+Girls who grew up watching the X-Files
+were more likely to pursue a career in
+STEM fields, a phenomenon known as the
+Scully Effect [220].";
+    "1.3.5.4 [st-230]
+Many science-related TV shows are
+unrealistic [218] and could cause people
+to dedicate their lives to a career that
+was inaccurately portrayed on TV." -> "1.3.5.4.1 [st-231]
+Shows began to hire scientific advisors
+[219] in the 1970s to make their
+productions more accurate and
+believable, inspiring a new generation
+of scientists.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.2 [st-246]
+TV sexualizes people.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.3 [st-254]
+Smart TVs threaten people's privacy.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.4 [st-273]
+TV shows and movies often draw attention
+to complex social problems.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.5 [st-285]
+TV shows and movies often pay homage to
+people who have made sacrifices for
+others. In doing so, they promote
+empathy, compassion, and altruism.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.6 [st-292]
+TV brings people together.";
+    "1.4 [st-234]
+TV worsens a number of societal ills." -> "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression.";
+    "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful." -> "1.4.1.1 [st-236]
+The stereotypes used in advertising
+display gender discrimination.";
+    "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful." -> "1.4.1.2 [st-240]
+Alcohol and tobacco advertisements have
+a negative effect on public health as
+they promote consumption of these
+hazardous products (p. 1 [225]).";
+    "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful." -> "1.4.1.3 [st-243]
+Some TVs and most DVRs have the option
+to block, filter, fast-forward, or skip
+[228] TV ads.";
+    "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful." -> "1.4.1.4 [st-244]
+Advertisements are a common aspect [229]
+of modern life, present in newspapers,
+cinemas, and on billboards; regardless
+of the medium, they pose the same risks.";
+    "1.4.1 [st-235]
+Most people are exposed to
+advertisements regardless of the show
+quality; these are often manipulative
+and harmful." -> "1.4.1.5 [st-245]
+With more intelligent styles of
+programming comes more intelligent
+advertisements, as they are dependent on
+the channel [230] and specific show
+airing.";
+    "1.4.1.1 [st-236]
+The stereotypes used in advertising
+display gender discrimination." -> "1.4.1.1.1 [st-237]
+The UK banned [221] gender stereotyping
+in adverts in 2019—other countries are
+sure to follow.";
+    "1.4.1.1 [st-236]
+The stereotypes used in advertising
+display gender discrimination." -> "1.4.1.1.2 [st-238]
+Women are less likely to be given
+speaking roles [222] in advertisements
+and are rarely shown in positions of
+authority (p. 5 [223]).";
+    "1.4.1.1 [st-236]
+The stereotypes used in advertising
+display gender discrimination." -> "1.4.1.1.3 [st-239]
+Women are more likely to be portrayed in
+a domestic environment [224] in
+advertisements.";
+    "1.4.1.2 [st-240]
+Alcohol and tobacco advertisements have
+a negative effect on public health as
+they promote consumption of these
+hazardous products (p. 1 [225])." -> "1.4.1.2.1 [st-241]
+Harm reduction [226] advertisements are
+used to downplay the risk of tobacco
+products.";
+    "1.4.1.2 [st-240]
+Alcohol and tobacco advertisements have
+a negative effect on public health as
+they promote consumption of these
+hazardous products (p. 1 [225])." -> "1.4.1.2.2 [st-242]
+Some countries, such as Ireland, have
+strict laws prohibiting tobacco
+companies from advertising [227] on
+television in order to prevent the
+negative public health effects of such
+advertisements.";
+    "1.4.2 [st-246]
+TV sexualizes people." -> "1.4.2.1 [st-247]
+All forms of media, including painting
+and sculpture [231], have been accused
+of sexualizing people. It is a greater
+reflection of humanity than the means by
+which sexualization occurs.";
+    "1.4.2 [st-246]
+TV sexualizes people." -> "1.4.2.2 [st-248]
+Heavy television viewers [232] have more
+permissive views regarding sex,
+abortions, and homosexuality.";
+    "1.4.2 [st-246]
+TV sexualizes people." -> "1.4.2.3 [st-249]
+Television shows tend to portray [233]
+stereotypical sexual roles, setting
+young people up with unrealistic
+expectations later in life.";
+    "1.4.2 [st-246]
+TV sexualizes people." -> "1.4.2.4 [st-251]
+Exposure to sex on television has been
+linked [235] with sexual initiation at a
+younger age.";
+    "1.4.2.3 [st-249]
+Television shows tend to portray [233]
+stereotypical sexual roles, setting
+young people up with unrealistic
+expectations later in life." -> "1.4.2.3.1 [st-250]
+Pornography is far more dangerous [234]
+in this manner—many places have already
+banned it as a result, while TV has not
+suffered the same fate.";
+    "1.4.2.4 [st-251]
+Exposure to sex on television has been
+linked [235] with sexual initiation at a
+younger age." -> "1.4.2.4.1 [st-252]
+Teens who watch programs that contain a
+lot of sexual content are twice as
+likely [236] to be involved in a
+pregnancy.";
+    "1.4.2.4.1 [st-252]
+Teens who watch programs that contain a
+lot of sexual content are twice as
+likely [236] to be involved in a
+pregnancy." -> "1.4.2.4.1.1 [st-253]
+Teen pregnancy is influenced by a
+variety of factors [237], including the
+pregnancy-related behavior of adults
+around them and poverty.";
+    "1.4.3 [st-254]
+Smart TVs threaten people's privacy." -> "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238].";
+    "1.4.3 [st-254]
+Smart TVs threaten people's privacy." -> "1.4.3.2 [st-266]
+The CIA allegedly [248] hacked Samsung
+Smart TVs.";
+    "1.4.3 [st-254]
+Smart TVs threaten people's privacy." -> "1.4.3.3 [st-267]
+There are ways [249] to prevent a smart
+TV from spying on you.";
+    "1.4.3 [st-254]
+Smart TVs threaten people's privacy." -> "1.4.3.4 [st-269]
+Vizio [250] used 11 million televisions
+to spy on its customers.";
+    "1.4.3 [st-254]
+Smart TVs threaten people's privacy." -> "1.4.3.5 [st-272]
+Samsung has issued a personal privacy
+statement, warning people not to discuss
+personal information around Smart TVs
+[253].";
+    "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238]." -> "1.4.3.1.1 [st-256]
+Older TVs are less energy efficient
+[239] and have poor resolutions compared
+to newer models.";
+    "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238]." -> "1.4.3.1.2 [st-257]
+TVs undergo a high degree of
+depreciation [240], allowing people to
+buy high-quality older premium models at
+the same price as modern sets of lower
+quality.";
+    "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238]." -> "1.4.3.1.3 [st-258]
+Most of the 'cable' providers in the
+Netherlands provide TV via internet
+connection [241], so one cannot really
+go without a smart TV.";
+    "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238]." -> "1.4.3.1.4 [st-259]
+A regular TV with a plug-in streaming
+device [242] would be a reasonable
+solution to prevent spying.";
+    "1.4.3.1 [st-255]
+People could opt to use an older tube or
+flat-screen TV without internet
+connectivity and newer technologies,
+rather than a smart TV [238]." -> "1.4.3.1.5 [st-265]
+In order to keep up with the latest
+upgrades in quality people will probably
+be forced to buy [247] a newer smart TV,
+regardless.";
+    "1.4.3.1.4 [st-259]
+A regular TV with a plug-in streaming
+device [242] would be a reasonable
+solution to prevent spying." -> "1.4.3.1.4.1 [st-260]
+With the exception of Apple TV and
+Nvidia Shield TV, most streaming players
+spy on their users [243].";
+    "1.4.3.1.4 [st-259]
+A regular TV with a plug-in streaming
+device [242] would be a reasonable
+solution to prevent spying." -> "1.4.3.1.4.2 [st-262]
+The need to purchase and install an
+additional device is not an ideal
+solution for people on a budget.";
+    "1.4.3.1.4 [st-259]
+A regular TV with a plug-in streaming
+device [242] would be a reasonable
+solution to prevent spying." -> "1.4.3.1.4.3 [st-264]
+Most people [246] use plug-in external
+streaming devices with their TV,
+regardless of whether or not it has
+smart capabilities.";
+    "1.4.3.1.4.1 [st-260]
+With the exception of Apple TV and
+Nvidia Shield TV, most streaming players
+spy on their users [243]." -> "1.4.3.1.4.1.1 [st-261]
+Roku, one of the most popular streaming
+devices, collects massive amounts of
+data [244] and could be used to spy on
+consumers just as easily as a smart TV.";
+    "1.4.3.1.4.2 [st-262]
+The need to purchase and install an
+additional device is not an ideal
+solution for people on a budget." -> "1.4.3.1.4.2.1 [st-263]
+Most add-on streaming devices are
+inexpensive [245] and affordable to
+people on a budget.";
+    "1.4.3.3 [st-267]
+There are ways [249] to prevent a smart
+TV from spying on you." -> "1.4.3.3.1 [st-268]
+People shouldn't have to take active
+steps to avoid being spied on by their
+electrical devices.";
+    "1.4.3.4 [st-269]
+Vizio [250] used 11 million televisions
+to spy on its customers." -> "1.4.3.4.1 [st-270]
+Vizio went so far as to retrofit old
+devices with spyware via a remote
+update, without getting their customer's
+consent [251].";
+    "1.4.3.4 [st-269]
+Vizio [250] used 11 million televisions
+to spy on its customers." -> "1.4.3.4.2 [st-271]
+Vizio [252] stated it used this capacity
+to best serve its customers.";
+    "1.4.4 [st-273]
+TV shows and movies often draw attention
+to complex social problems." -> "1.4.4.1 [st-274]
+'Guess who's coming to dinner? [254]'
+portrated inter-racial marriage at a
+time when such unions were
+controversial.";
+    "1.4.4 [st-273]
+TV shows and movies often draw attention
+to complex social problems." -> "1.4.4.2 [st-275]
+Movies like Kramer vs. Kramer [255] and
+Mrs. Doubtfire [256] challenge
+traditional gender norms, giving
+audiences a new lens through which to
+see the world.";
+    "1.4.4 [st-273]
+TV shows and movies often draw attention
+to complex social problems." -> "1.4.4.3 [st-276]
+TV is incredibly unrepresentative of
+real demographics and diversity [257],
+ultimately harming social movements.";
+    "1.4.4 [st-273]
+TV shows and movies often draw attention
+to complex social problems." -> "1.4.4.4 [st-277]
+TV is responsible for eroding moral
+values in society.";
+    "1.4.4.4 [st-277]
+TV is responsible for eroding moral
+values in society." -> "1.4.4.4.1 [st-278]
+The American public believes that
+watching television erodes religious
+principles, honesty, and reliability
+[258].";
+    "1.4.4.4 [st-277]
+TV is responsible for eroding moral
+values in society." -> "1.4.4.4.2 [st-281]
+Heavy television viewers, those who view
+for four hours or more per evening
+[260], are less committed to moral
+values like empathy and honesty.";
+    "1.4.4.4 [st-277]
+TV is responsible for eroding moral
+values in society." -> "1.4.4.4.3 [st-282]
+TV shows can be used to explore, teach,
+and strengthen moral philosophies [261].";
+    "1.4.4.4.1 [st-278]
+The American public believes that
+watching television erodes religious
+principles, honesty, and reliability
+[258]." -> "1.4.4.4.1.1 [st-279]
+Secular commentators also described
+controversial shows, such as Little
+Britain, as 'offensive trash [259]'
+which featured blackface, and mocked
+women, the disabled, and homosexuals.";
+    "1.4.4.4.1 [st-278]
+The American public believes that
+watching television erodes religious
+principles, honesty, and reliability
+[258]." -> "1.4.4.4.1.2 [st-280]
+Religious principles are no longer the
+means of measurement of social moral
+standards.";
+    "1.4.4.4.3 [st-282]
+TV shows can be used to explore, teach,
+and strengthen moral philosophies [261]." -> "1.4.4.4.3.1 [st-283]
+Kids' TV shows are particularly adept at
+teaching moral lessons [262] to
+children.";
+    "1.4.4.4.3.1 [st-283]
+Kids' TV shows are particularly adept at
+teaching moral lessons [262] to
+children." -> "1.4.4.4.3.1.1 [st-284]
+The moral lessons taught to children by
+TV shows may need additional
+reinforcement and explanation [263] from
+adults, suggesting that TV might not be
+the best medium for the transmission of
+these messages.";
+    "1.4.5 [st-285]
+TV shows and movies often pay homage to
+people who have made sacrifices for
+others. In doing so, they promote
+empathy, compassion, and altruism." -> "1.4.5.1 [st-286]
+TV shows and movies consistently
+misrepresent [264] people from history,
+doing them a disservice by promoting
+misinformation and occasionally,
+outright lies.";
+    "1.4.5 [st-285]
+TV shows and movies often pay homage to
+people who have made sacrifices for
+others. In doing so, they promote
+empathy, compassion, and altruism." -> "1.4.5.2 [st-288]
+Many of the stories told on TV and in
+movies are true stories that were nearly
+forgotten to history [266].";
+    "1.4.5.1 [st-286]
+TV shows and movies consistently
+misrepresent [264] people from history,
+doing them a disservice by promoting
+misinformation and occasionally,
+outright lies." -> "1.4.5.1.1 [st-287]
+Many movies are full of historical
+inaccuracies [265] which alter the
+course of history to fit the version
+told by the director and screenplay
+writers.";
+    "1.4.5.2 [st-288]
+Many of the stories told on TV and in
+movies are true stories that were nearly
+forgotten to history [266]." -> "1.4.5.2.1 [st-289]
+Books, newspapers, magazines, and print
+media in general are equally, or better,
+able to cover millions of amazing
+stories which were nearly lost to
+history.";
+    "1.4.5.2 [st-288]
+Many of the stories told on TV and in
+movies are true stories that were nearly
+forgotten to history [266]." -> "1.4.5.2.2 [st-290]
+The scene at the end of The Titanic with
+the couple cuddling in bed as the water
+rises around them is based on the true
+story [267] of an old wealthy couple who
+gave up their lifeboat so that others
+might live.";
+    "1.4.5.2 [st-288]
+Many of the stories told on TV and in
+movies are true stories that were nearly
+forgotten to history [266]." -> "1.4.5.2.3 [st-291]
+Some of the best war movies, such as
+Schindler's List, Hacksaw Ridge, and
+Dunkirk, are true stories. Many
+audiences learned some nearly-forgotten
+history [268] from these films.";
+    "1.4.6 [st-292]
+TV brings people together." -> "1.4.6.1 [st-293]
+Families often use TV as a means to come
+together and build up their
+relationships.";
+    "1.4.6 [st-292]
+TV brings people together." -> "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation.";
+    "1.4.6 [st-292]
+TV brings people together." -> "1.4.6.3 [st-310]
+For some couples with busy personal and
+professional lives, watching TV is the
+only time they spend together.";
+    "1.4.6.1 [st-293]
+Families often use TV as a means to come
+together and build up their
+relationships." -> "1.4.6.1.1 [st-294]
+Expanded screen size and enhanced TV
+technologies have helped bring families
+back together [269] in the living room,
+instead of being off in separate rooms.";
+    "1.4.6.1 [st-293]
+Families often use TV as a means to come
+together and build up their
+relationships." -> "1.4.6.1.2 [st-297]
+Sitting down together in front of the TV
+was regarded as the best way of catching
+up by more than half of families [270].
+A further 12% claimed it was the only
+time they were ever together in one
+room.";
+    "1.4.6.1 [st-293]
+Families often use TV as a means to come
+together and build up their
+relationships." -> "1.4.6.1.3 [st-298]
+A group of people watching TV merely
+brings them together physically; without
+interacting with one another, there is
+no value added in simply being near
+someone else.";
+    "1.4.6.1.1 [st-294]
+Expanded screen size and enhanced TV
+technologies have helped bring families
+back together [269] in the living room,
+instead of being off in separate rooms." -> "1.4.6.1.1.1 [st-295]
+A group of people watching the same TV
+consume the same programming at the same
+time. This facilitates discussion and
+live reaction/interaction between each
+viewer.";
+    "1.4.6.1.1.1 [st-295]
+A group of people watching the same TV
+consume the same programming at the same
+time. This facilitates discussion and
+live reaction/interaction between each
+viewer." -> "1.4.6.1.1.1.1 [st-296]
+Unlike theater, people can pause or
+speak over the TV without interfering
+with the performance, facilitating
+discussion or commentary throughout the
+show or movie without taking away from
+the action.";
+    "1.4.6.1.3 [st-298]
+A group of people watching TV merely
+brings them together physically; without
+interacting with one another, there is
+no value added in simply being near
+someone else." -> "1.4.6.1.3.1 [st-299]
+Parents having physical contact with
+their children can bring them closer
+together [271].";
+    "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation." -> "1.4.6.2.1 [st-301]
+The act of watching TV makes people more
+passive [275] and accepting of
+authority.";
+    "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation." -> "1.4.6.2.2 [st-302]
+Subliminal messaging on TV is often used
+to sell products, which can often times
+be harmful, such as energy drinks and
+alcohol [276].";
+    "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation." -> "1.4.6.2.3 [st-305]
+More than 91 million viewers in Brazil,
+the equivalent of the audience for the
+Super Bowl, tune into just one channel
+[279] every night; the owner of the
+network can exert a significant amount
+of control over what those people see.";
+    "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation." -> "1.4.6.2.4 [st-306]
+Claims of media bias are generally
+overblown [280].";
+    "1.4.6.2 [st-300]
+TV can be used to influence [272] people
+with biased information [273] and
+prevent them from escaping from their
+information silos [274]. This worsens
+political polarisation." -> "1.4.6.2.5 [st-309]
+This is not a failure of TV, but rather
+a failure of people to apply critical
+thinking [283] to their media
+consumption.";
+    "1.4.6.2.2 [st-302]
+Subliminal messaging on TV is often used
+to sell products, which can often times
+be harmful, such as energy drinks and
+alcohol [276]." -> "1.4.6.2.2.1 [st-303]
+Subliminal messaging does not impact
+everyone [277] in the same way; most
+people are oblivious to it.";
+    "1.4.6.2.2 [st-302]
+Subliminal messaging on TV is often used
+to sell products, which can often times
+be harmful, such as energy drinks and
+alcohol [276]." -> "1.4.6.2.2.2 [st-304]
+Subliminal messaging [278] has been a
+part of Coca-Cola and many other
+corporations' advertising campaigns.";
+    "1.4.6.2.4 [st-306]
+Claims of media bias are generally
+overblown [280]." -> "1.4.6.2.4.1 [st-307]
+Watching a variety of channels, content,
+and news sources can help someone avoid
+getting stuck in an information bubble.";
+    "1.4.6.2.4 [st-306]
+Claims of media bias are generally
+overblown [280]." -> "1.4.6.2.4.2 [st-308]
+The CIA has a history [281] of
+influencing public opinion through the
+media, for instance with Operation
+Mockingbird [282].";
+    "1.4.6.3 [st-310]
+For some couples with busy personal and
+professional lives, watching TV is the
+only time they spend together." -> "1.4.6.3.1 [st-311]
+The biggest cause of fights [284] for
+couples is over who controls the remote;
+changing the channel even led a man to
+kill his wife [285].";
+    "1.4.6.3 [st-310]
+For some couples with busy personal and
+professional lives, watching TV is the
+only time they spend together." -> "1.4.6.3.2 [st-312]
+Cuddling on the couch while watching TV
+is important for bonding and
+relationship building [286].";
+    "1.4.6.3 [st-310]
+For some couples with busy personal and
+professional lives, watching TV is the
+only time they spend together." -> "1.4.6.3.3 [st-313]
+One quarter of couples are unable to
+agree on which show to watch and
+separate themselves to watch TV in
+different rooms [287].";
+    "1.4.6.3 [st-310]
+For some couples with busy personal and
+professional lives, watching TV is the
+only time they spend together." -> "1.4.6.3.4 [st-315]
+Couples who watch TV together have
+stronger relationships [289].";
+    "1.4.6.3.3 [st-313]
+One quarter of couples are unable to
+agree on which show to watch and
+separate themselves to watch TV in
+different rooms [287]." -> "1.4.6.3.3.1 [st-314]
+Half of all couples [288] sit on the
+same couch and watch TV together.";
+    "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression." -> "1.4.7.1 [st-317]
+The widespread coverage of war,
+violence, murder, economic crisis, etc.,
+on TV has negative effects on the
+collective consciousness [292].";
+    "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression." -> "1.4.7.2 [st-318]
+As TV watching is so ubiquitous [293],
+finding a control group against which to
+test the causal link between TV and
+violence is quite difficult.";
+    "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression." -> "1.4.7.3 [st-323]
+Many things such as sporting events
+[297], alcohol [298], and marriage [299]
+can lead to increased violence and
+aggression, however they are not
+condemned as inherently bad.";
+    "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression." -> "1.4.7.4 [st-324]
+Violent Turkish TV shows [300] have been
+blamed for increased violence against
+women.";
+    "1.4.7 [st-316]
+Violence on TV [290] is blamed for
+causing viewers to imitate violence and
+leads to an increase [291] in real-world
+violence and aggression." -> "1.4.7.5 [st-325]
+The aggression displayed on some reality
+shows [301] can cause an increase in
+aggression in viewers, to a higher
+extent than exposure to violent media,
+including crime dramas.";
+    "1.4.7.2 [st-318]
+As TV watching is so ubiquitous [293],
+finding a control group against which to
+test the causal link between TV and
+violence is quite difficult." -> "1.4.7.2.1 [st-319]
+Young people watch far less TV [294]
+compared to older people—they could be
+used as a control group in a study.";
+    "1.4.7.2 [st-318]
+As TV watching is so ubiquitous [293],
+finding a control group against which to
+test the causal link between TV and
+violence is quite difficult." -> "1.4.7.2.2 [st-320]
+Many countries require television users
+to pay a TV license fee [295]. Those who
+do not pay this fee could be established
+as a control group, as they likely do
+not have a television.";
+    "1.4.7.2 [st-318]
+As TV watching is so ubiquitous [293],
+finding a control group against which to
+test the causal link between TV and
+violence is quite difficult." -> "1.4.7.2.3 [st-322]
+People who don't watch TV would likely
+be excluded from any potential study
+based on factor, like illiteracy or
+poverty level, that mark them as
+distinct from other participants.";
+    "1.4.7.2.2 [st-320]
+Many countries require television users
+to pay a TV license fee [295]. Those who
+do not pay this fee could be established
+as a control group, as they likely do
+not have a television." -> "1.4.7.2.2.1 [st-321]
+Tens of thousands of people opt not to
+pay [296] for their license, yet
+continue to watch and consume TV.";
+}

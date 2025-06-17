@@ -1,0 +1,462 @@
+Discussion Name:
+Will technology end our necessity of working for money?
+
+1. Thesis:
+Technology will end our necessity of working for money.
+
+  1.1. Con:
+  Along with all the problems rising up with the current ecological crisis, the lack of resources [1] is one of the most underestimated. There simply aren't enough raw materials to build the enormous quantity of electronic systems that would be required to achieve this goal.
+
+    1.1.1. Pro:
+    The supply of copper [2] - an essential component in many electronics - is expected to fall short by 270,000 tons in 2023.
+
+      1.1.1.1. Con:
+      The supply available today, limited by what is profitable at current prices and where new mining operations are politically palatable, is a different question from the long-term supply implied by "there simply aren't enough".
+
+    1.1.2. Con:
+    Comprehensive e-waste recycling [3] of precious metals would mitigate much of the pressure on our limited supply of raw materials.
+
+    1.1.3. Con:
+    This implies that raw materials like rare earth elements are rare - in fact, they are abundant [4].
+
+  1.2. Con:
+  The economy will adapt and innovate as there will always be tasks that robots cannot perform.
+
+    1.2.1. Con:
+    Even if the economy could be reinvented, there is not the political will to do so.
+
+      1.2.1.1. Pro:
+      Reinventing an economy would require long-term fiscal policies and entail at least some short-term costs. However, elected governments have a strong political incentive [5] to prioritise fiscal policies with shorter-term benefits.
+
+    1.2.2. Con:
+    As technology becomes more advanced, the gaps between human and robot capability are lessening.
+
+      1.2.2.1. Pro:
+      AI has revolutionized customer service [6] by compiling customer information in a manner which would take hours of human time.
+
+      1.2.2.2. Con:
+      Robots will never be able to emulate human emotion or compassion.
+
+    1.2.3. Con:
+    There is nothing about the human body or mind that cannot be artificially replicated with enough scientific knowledge.
+
+      1.2.3.1. Con:
+      It isn't known whether [7] that is possible without biological brain-type tissues and whether it would be feasible in the real world due to constraints like cost effectiveness. Biology could be the only way human-level AGI can be implemented in practice since other ways could be too inefficient and/or would need to incorporate physical elements that in practice can only be implemented via biological ways [8].
+
+    1.2.4. Con:
+    That there will always be tasks that can't be automated or be made redundant does neither mean they're actually needed, constructive, or desired nor that the quantity is comparable to the initial number of jobs. Having jobs for the sake of having jobs does not make sense in principle and the key number would be the quantity of truly needed constructive jobs.
+
+    1.2.5. Pro:
+    There are jobs where people would not want to be interacting with a robot instead of a person, especially in caring professions, such as in healthcare.
+
+      1.2.5.1. Pro:
+      Many parents would be uncomfortable with the idea of childcare being performed by robots instead of other humans for their children to interact with.
+
+      1.2.5.2. Pro:
+      Many would be uncomfortable with the idea of palliative care (e.g. nursing homes, hospice care) being performed by a robot instead of humans that can empathise and connect with their patients.
+
+      1.2.5.3. Con:
+      As artificial intelligence (AI) develops, it will likely become more human-like. As such, people will likely grow more comfortable with robots working in caring professions.
+
+        1.2.5.3.1. Pro:
+        The Multimodal Turing Test [9] is used by engineers who are attempting to build robots that are perceptually indistinguishable from humans.
+
+        1.2.5.3.2. Pro:
+        AI passed [10] the original Turing Test [11] in 2014, suggesting that robots are well on the way to being human-like.
+
+    1.2.6. Pro:
+    Some suggest that there will be a unique value [12] to work produced by humans compared to that of robots, keeping alive space for work in art, creation of hand-made products etc.
+
+    1.2.7. Pro:
+    Research has identified the areas of employment [13] that are most likely to be safe, ranging from therapists to plumbers.
+
+      1.2.7.1. Con:
+      Many support services have begun using [14] AI to respond to service users.
+
+    1.2.8. Pro:
+    Technology ends up creating new jobs [15] for humans, leading to new sectors of work and areas of the economy.
+
+      1.2.8.1. Con:
+      These new jobs or new sectors could require specialist training that will favour young graduates over displaced workers.
+
+        1.2.8.1.1. Pro:
+        Already, 'digital natives [16]' hold an advantage over older employees due to their familiarity with technologies that are increasingly incorporated into the workplace.
+
+        1.2.8.1.2. Con:
+        Re-training is an inevitable part of our futures with the ever increasing uses of technology in our daily lives, and the comparable lack of skills [17] using technology for a huge amount of the population.
+
+          1.2.8.1.2.1. Pro:
+          If we want to use technologies for essential services (e.g. only allowing tax payment online) or civic life (e.g. electronic/online voting), offering training or support to meet people's needs will be required in order for them to use the new technologies.
+
+          1.2.8.1.2.2. Pro:
+          The UK have already launched [18] re-training programmes in sectors at imminent risk of job losses due to automation.
+
+      1.2.8.2. Pro:
+      Earlier technology developments [19] also removed the need for certain jobs (i.e. jobs that do not exist anymore today), yet we still have many new/current jobs that require human workers.
+
+        1.2.8.2.1. Pro:
+        Experts claim [20] that this evolution of employment allows us to work on areas and projects that are closer to our areas of interest, increasing our satisfaction in our working lives.
+
+      1.2.8.3. Pro:
+      The World Economic Forum [21] estimates that while automation will displace 75 million jobs, it will generate 133 million new ones by 2022.
+
+        1.2.8.3.1. Con:
+        The same study [22] suggests the percentage of human work will shift from 71% in 2018 to 48% in 2025.
+
+          1.2.8.3.1.1. Con:
+          This apparent disparity can be explained if there are more jobs but which require shorter working hours.
+
+            1.2.8.3.1.1.1. Con:
+            But still people will work less, thus earn less. Probably this would result in some people having more than one part-time jobs, and some people having none.
+
+              1.2.8.3.1.1.1.1. Con:
+              Just because people might work fewer hours does not necessarily mean they will earn less.
+
+                1.2.8.3.1.1.1.1.1. Pro:
+                If a (new) job pays a higher rate per hour, a person could earn the same weekly earnings (as before) with less hours of work required to make these earnings.
+
+                  1.2.8.3.1.1.1.1.1.1. Con:
+                  If the work is easier or quicker to do, the value of it will decrease. So will the pay rate.
+
+    1.2.9. Con:
+    The economy is not flexible enough to adapt and innovate.
+
+      1.2.9.1. Pro:
+      Fiscal policies can take decades [23] to yield their intended economic returns.
+
+      1.2.9.2. Pro:
+      Total factor productivity [24] has stalled for the last 50 years, indicating that governments have failed to re-configure and prepare the economy for the technological era for some time.
+
+        1.2.9.2.1. Pro:
+        Total factor productivity (TFP) [25] attempts to measure how innovations and improvements improve living standards. If TFP rises, it means that the same number of people, working with the same land and tools, are making more than before.
+
+      1.2.9.3. Pro:
+      Moore's Law [26] states that technological capacity doubles every year. This means that technology can outpace [27] economic policy-making.
+
+      1.2.9.4. Con:
+      Many services disappear and many are created from decade to decade. New demands are generated all the time.
+
+        1.2.9.4.1. Pro:
+        Search engine optimization [28] (SEO) specialists did not exist 10 years ago.
+
+        1.2.9.4.2. Pro:
+        App developers [29] did not exist 10 years ago.
+
+        1.2.9.4.3. Con:
+        Just because new demands are arising all the time, it does not follow that this is being matched with supply.
+
+          1.2.9.4.3.1. Pro:
+          The ability for new jobs to really replace outdated jobs relies on both jobs sharing similar skills or type of work.
+
+            1.2.9.4.3.1.1. Pro:
+            If a worker was doing an entry-level job that was physically demanding but required few qualifications, it could be very difficult to move to an entirely new type of job (if manual work is covered by automation).
+
+          1.2.9.4.3.2. Pro:
+          With demand for given jobs ebbing and flowing over time, employers may not feel confident enough to hire new people for them.
+
+        1.2.9.4.4. Pro:
+        In the next decade or two, drone managers [30] will likely be in high demand.
+
+  1.3. Con:
+  People need to work for money to preserve their self-worth.
+
+    1.3.1. Pro:
+    Many experts have written about the psychological benefits of work on humans and how important it is to preserve [31] this part of our lives.
+
+      1.3.1.1. Pro:
+      Given our long human history of working, it could cause huge societal upheaval to transition to a society where working is not a core part of our lives.
+
+      1.3.1.2. Con:
+      Work is also well-documented for the array of negative effects [32] it has for many workers. Removing the necessity of working could help alleviate these work-related issues.
+
+      1.3.1.3. Pro:
+      Having a job is closely linked to self-esteem and self-worth [33].
+
+      1.3.1.4. Pro:
+      Depression rates [34] among the long-term unemployed are significantly higher than in the employed.
+
+        1.3.1.4.1. Con:
+        The long-term unemployed may be depressed more frequently due to financial pressures. These would fall away if technology removes the need for money.
+
+    1.3.2. Con:
+    People need to undertake activities (and bear fruits of said activities in some way) to preserve self-worth and reap the psychological benefits, however said fruit does not need to be money.
+
+    1.3.3. Con:
+    A number of studies [35] show that healthy self-esteem is based more on internal factors (the skill, feature or mindset making one able to make money, rather than the making of money itself) than on external factors (though some external factors may help building healthy self-esteem).
+
+    1.3.4. Pro:
+    Society has established an expectation of being paid for one's labour. Therefore, it is unlikely people will work for free.
+
+    1.3.5. Con:
+    Working in order to develop and sustain social status is not strictly a necessity.
+
+      1.3.5.1. Con:
+      But humans have always been concerned with social status.
+
+        1.3.5.1.1. Con:
+        Being concerned about social status and needing social status are still distinct.
+
+        1.3.5.1.2. Pro:
+        Research shows all humans possess a fundamental desire [36] for social status.
+
+  1.4. Con:
+  If humans stop working for money (the only incentive), no one will be able to supply robots for the growing population.
+
+    1.4.1. Con:
+    Robots can make robots.
+
+      1.4.1.1. Pro:
+      Shanghai is building a factory [37] in which robots make new robots.
+
+      1.4.1.2. Pro:
+      Researchers have already developed a robot that can build "baby" robots [38] without requiring any human intervention.
+
+  1.5. Pro:
+  Everyone can own their own robots and seize the product of their labour.
+
+    1.5.1. Con:
+    Buying a robot is just making an investment with the hope of receiving dividends, and it's already possible for people to attempt to earn enough money to invest and live off the dividends - this option existing has not eliminated work, or even substantially affected participation in the labour force, so there is no reason it should do so in the future.
+
+      1.5.1.1. Con:
+      The difference between existing investment opportunities and robots is that they offer enormously different return rate opportunities.
+
+        1.5.1.1.1. Pro:
+        Living entirely off of dividends would generally require a very large investment. By contrast, an advanced robot in the future may be comparatively affordable.
+
+          1.5.1.1.1.1. Pro:
+          An annual dividend of $50,000 would require an investment of over $1.15 million [39].
+
+          1.5.1.1.1.2. Con:
+          If these robots offered such high returns and were so affordable, people would buy them up until the price reached equilibrium and they were no longer affordable to ordinary workers.
+
+        1.5.1.1.2. Con:
+        In such an economic scenario, any other investment opportunity should offer comparatively good return rates by the efficient market hypothesis.
+
+      1.5.1.2. Con:
+      Very few people are wealthy enough to live off of dividends. Therefore, it is more likely the concept of dividends hasn't eliminated work due to sheer lack of scale than necessarily for anything else.
+
+        1.5.1.2.1. Pro:
+        -> See 1.5.1.1.1.1.
+
+    1.5.2. Con:
+    Humans will need money to purchase robots to do their work. Therefore, they will have to work for money.
+
+      1.5.2.1. Con:
+      Once robots are purchased, humans may have no further use for money as the robots may replace the utility provided by having money in the first place. Therefore, there could be a tipping point in which both money and labour become unnecessary.
+
+        1.5.2.1.1. Pro:
+        Robots can end corruption caused by money. With robots, it's possible to take the great aspects of communism and capitalism and make something great.
+
+        1.5.2.1.2. Con:
+        It is not in the robot company's interest to design robots that can be used in perpetuity because there would be no repeat custom.
+
+    1.5.3. Con:
+    Even if you have a free source of labor, that doesn't create the raw materials the robot would need to create food and other goods to live on.
+
+  1.6. Pro:
+  Technological advancements will ensure a production surplus which can be given to the unemployed to fulfill their needs.
+
+    1.6.1. Con:
+    There is no reason private industry would do this. It would be more profitable to scale back production to maintain normal supply/demand relationship.
+
+    1.6.2. Con:
+    Giving surplus resources to those who are harmed by automation would require re-distributive policies. These tend to be unpopular with the elites who make (or control) the surplus resources.
+
+      1.6.2.1. Pro:
+      Automation is not a new arrival. We have already encountered decades of automation [40], yet state-wide protections and provisions remain the exception rather than the norm.
+
+        1.6.2.1.1. Con:
+        Some states have taken pro-active measures to cushion the economic costs to workers due to automation.
+
+          1.6.2.1.1.1. Pro:
+          -> See 1.2.8.1.2.2.
+
+        1.6.2.1.2. Pro:
+        In earlier waves of automation, individual towns and regions were heavily impacted by the loss of industry, coining the term 'regional depression [41]' for the slew of knock-on effects caused by significant job losses.
+
+          1.6.2.1.2.1. Pro:
+          The fact that so many effects were allowed to occur and that these regions were not helped to recover (or survive) shows the gaps in our welfare systems that will not be able to support future waves of automation.
+
+        1.6.2.1.3. Pro:
+        Economists estimate [42] that automation from 1993-2003 replaced three workers with every fully automated machine, causing a rise in unemployment and a decrease in wages.
+
+        1.6.2.1.4. Pro:
+        Without significant redistribution of wealth, many experts fear that automation will continue to increase wealth inequality [43].
+
+      1.6.2.2. Con:
+      History [44] has shown that ignoring the needs of technology-displaced workers, a large group of the population, can create large-scale demonstrations and violence. Politicians would be incentivised to ensure this does not happen.
+
+    1.6.3. Pro:
+    Theorists such as Keynes and Marx predicted [45] that automation would allow a reworking of our politics and economies to facilitate a system which does not rely on earnings to cover our basic needs.
+
+      1.6.3.1. Con:
+      Critics [46] point out that these predictions have not matched what has occurred thus far, with employment instability and wealth divides occurring instead of shorter work weeks or state provisions.
+
+  1.7. Con:
+  Broader developments in society will end our necessity of working for money, not the adoption of novel technologies.
+
+  1.8. Pro:
+  Few strictly necessary jobs will exist after technology is sufficiently developed.
+
+    1.8.1. Pro:
+    Experts predict [47] 1 in 4 people's jobs are at high risk of automation (with an additional 36% at medium risk).
+
+      1.8.1.1. Pro:
+      Millions of manufacturing jobs are predicted [48] to be replaced by automation by 2030.
+
+        1.8.1.1.1. Con:
+        The World Economic Forum estimates that while automation will displace 75 million jobs, it will generate 133 million new ones [49] by 2022.
+
+      1.8.1.2. Con:
+      -> See 1.2.8.3.
+
+    1.8.2. Con:
+    -> See 1.2.8.2.
+
+    1.8.3. Pro:
+    Self-driving cars could entirely remove the need for any jobs involving human drivers [50] (public transport workers, taxis, deliveries etc.)
+
+    1.8.4. Pro:
+    Automation in retail and service industries [51] could remove the majority of jobs in these industries (e.g. a skeleton crew managing a large supermarket with self check-out machines).
+
+    1.8.5. Con:
+    -> See 1.2.8.
+
+    1.8.6. Pro:
+    Robots will be able to replace jobs that humans do not wish to do.
+
+      1.8.6.1. Pro:
+      Automation of warfare [52] has allowed less human cost to wars. Further automation in this area would increasingly protect military from human costs (death and injury) of protecting their country.
+
+    1.8.7. Pro:
+    Almost 50% [53] of companies expect that automation will lead to at least some reduction in full-time staff by 2022.
+
+  1.9. Con:
+  Human society already produces more than the strictly necessary and still people have to work.
+
+    1.9.1. Pro:
+    Fashion brands [54] produce more than they can sell.
+
+      1.9.1.1. Pro:
+      In 2018, Burberry [55] burnt its unsold clothes, accessories, and perfumes.
+
+      1.9.1.2. Pro:
+      Collectively, fashion brands destroy billions of dollars worth [56] of merchandise.
+
+    1.9.2. Con:
+    The need to continue working is not related to wealth and the availability of resources, but the lack of distribution of said resources.
+
+    1.9.3. Pro:
+    Humans produce more than enough [57] food to feed the global population, suggesting that many workers in food production are working when they are surplus to global requirements.
+
+    1.9.4. Con:
+    History shows that as productivity has increased, working hours have decreased [58]. This indicates that one day productivity could be so optimised that people no longer have to work at all.
+
+  1.10. Con:
+  The product of robot labour is going to be held by the companies that created the robots, thus people not owning robots will have to struggle to find new ways of earning money.
+
+    1.10.1. Con:
+    If there are multiple robot companies, then they will have to compete against one another in the market by offering better terms to consumers, such as giving them greater ownership over the products of their robot's labour.
+
+      1.10.1.1. Con:
+      Companies trying to compete with each other in the market do not do so by giving stuff away for free, which is what "giving [consumers] greater ownership over the products of the robots' labour" equates to.
+
+        1.10.1.1.1. Pro:
+        A consumer who can actually afford to buy a robot will have 100% ownership over the products of its labour; "ownership over the products of [the company]'s robots' labour" is thus an offering to those who can't afford to buy anything from the robot company; giving stuff to those people is not competition, but charity.
+
+      1.10.1.2. Con:
+      Even if there are multiple robot companies, revolutionary technology like this is a seller's market; those who want robots vastly outnumber those who produce them.
+
+    1.10.2. Con:
+    Some mechanisms [59] already exist, such as profit-sharing programs and employee stock-ownership plans, to avoid this happening.
+
+    1.10.3. Pro:
+    -> See 1.6.2.1.4.
+
+    1.10.4. Con:
+    This would create an undesirable and unfair degree of monopolisation, which governments would likely forbid.
+
+      1.10.4.1. Pro:
+      US antitrust law [60] already prohibits monopolisation.
+
+      1.10.4.2. Pro:
+      EU competition law [61] already forbids companies from abusing their dominant position in the market.
+
+  1.11. Pro:
+  Using corporate taxation to fairly redistribute profits could align corporate accountability with societal objectives.
+
+    1.11.1. Con:
+    Technology will not cause any of these policy proposals to be implemented - if they are implemented, it will be due to social change which could just as plausiby happen today.
+
+    1.11.2. Con:
+    Corporations would simply shutter themselves and distribute assets to shareholders rather than work toward their own demise.
+
+    1.11.3. Pro:
+    Profits generated by AI and robotics could be used to fund a Universal Basic Income (UBI).
+
+Sources:
+[1] https://www.automotivelogistics.media/materials-handling/running-out-of-juice-will-demand-for-battery-materials-outstrip-supply/38647.article
+[2] https://www.automotivelogistics.media/materials-handling/running-out-of-juice-will-demand-for-battery-materials-outstrip-supply/38647.article
+[3] https://www.thebalancesmb.com/electronic-devices-source-of-metals-for-recyclers-2877986
+[4] https://www.theverge.com/2018/4/17/17246444/rare-earth-metals-discovery-japan-china-monopoly
+[5] https://www.imf.org/external/pubs/ft/fandd/2015/12/gupta.htm
+[6] https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/22/15-ways-to-leverage-ai-in-customer-service/
+"From gathering data to speech recognition and message response times, AI can enhance the customer experience in nearly every way when it's applied correctly."
+[7] https://www.kialo.com/the-human-brain-is-a-biological-machine-and-can-therefore-be-understood-and-emulated-like-any-machine-in-brain-emulation-27150.49
+[8] https://www.technologyreview.com/2013/02/18/180012/the-brain-is-not-computable/
+"But Nicolelis is in a camp that thinks that human consciousness (and if you believe in it, the soul) simply can’t be replicated in silicon. That’s because its most important features are the result of unpredictable, nonlinear interactions among billions of cells, Nicolelis says.
+
+“You can’t predict whether the stock market will go up or down because you can’t compute it,” he says. “You could have all the computer chips ever in the world and you won’t create a consciousness.”"
+[9] https://futurism.com/the-byte/scientists-invented-new-turing-test
+[10] https://futurism.com/the-byte/scientists-invented-new-turing-test
+[11] https://searchenterpriseai.techtarget.com/definition/Turing-test
+[12] https://www.theguardian.com/science/political-science/2017/oct/01/will-robots-bring-about-the-end-of-work
+[13] https://www.theguardian.com/us-news/2017/jun/26/jobs-future-automation-robots-skills-creative-health
+[14] https://www.theguardian.com/lifeandstyle/shortcuts/2019/jan/02/woebots-ai-counselling-future-therapy-mental-health
+[15] https://www.pewresearch.org/internet/2014/08/06/future-of-jobs/
+[16] https://www.figarodigital.co.uk/article/prioritise-digital-natives-hiring-digital-marketing-roles/
+[17] https://www.theguardian.com/politics/2016/jun/13/uk-adults-computer-basic-digital-knowhow
+[18] https://www.siliconrepublic.com/careers/uk-national-retraining-scheme
+[19] https://home.bt.com/tech-gadgets/future-tech/9-jobs-overtaken-by-robots-11364003046052
+[20] https://www.entrepreneur.com/article/272212
+[21] https://www.forbes.com/sites/amitchowdhry/2018/09/18/artificial-intelligence-to-create-58-million-new-jobs-by-2022-says-report/#3471d0f44d4b
+[22] http://reports.weforum.org/future-of-jobs-2018/
+[23] https://fivethirtyeight.com/features/a-presidents-economic-decisions-matter-eventually/
+[24] https://www.vox.com/a/new-economy-future/technology-productivity
+[25] https://www.vox.com/a/new-economy-future/technology-productivity
+[26] https://www.britannica.com/technology/Moores-law
+[27] https://eandt.theiet.org/content/articles/2018/11/will-robots-take-all-our-jobs-unlikely-says-economist-andrew-scott/
+[28] https://www.masterstudies.com/article/eight-jobs-that-didnt-exist-ten-years-ago/
+[29] https://www.masterstudies.com/article/eight-jobs-that-didnt-exist-ten-years-ago/
+[30] https://www.monster.com/career-advice/article/cool-future-jobs
+[31] https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
+[32] https://www.hse.gov.uk/statistics/causdis/stress.pdf
+[33] https://www.bayaudenterprises.org/social-enterprises/the-link-between-employment-and-self-esteem/
+[34] https://news.gallup.com/poll/171044/depression-rates-higher-among-long-term-unemployed.aspx
+[35] https://www.apa.org/monitor/dec02/selfesteem
+[36] https://www.sciencedaily.com/releases/2015/05/150506094925.htm
+[37] https://www.digitaltrends.com/cool-tech/robots-to-make-robots-at-one-of-the-worlds-most-advanced-facilities/
+[38] https://www.bbc.co.uk/news/av/science-environment-33868728/robots-that-build-baby-robots
+[39] https://www.youngadultmoney.com/how-much-money-would-you-need-to-live-off-dividends-free-download/
+[40] https://home.bt.com/tech-gadgets/future-tech/9-jobs-overtaken-by-robots-11364003046052
+[41] https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
+[42] https://www.theatlantic.com/business/archive/2017/03/work-automation/521364/
+[43] https://www.forbes.com/sites/forbesbooksauthors/2019/11/01/how-technology-adds-urgency-to-calls-to-redistribute-societys-wealth/#32ee62d32a6b
+[44] https://www.smithsonianmag.com/innovation/when-robots-take-jobs-remember-luddites-180961423/
+[45] https://theconversation.com/automation-robots-and-the-end-of-work-myth-89619
+[46] https://theconversation.com/automation-robots-and-the-end-of-work-myth-89619
+[47] https://www.businessnewsdaily.com/15273-jobs-not-replaceable-by-robots.html
+[48] https://www.bbc.com/news/business-48760799
+[49] https://www.forbes.com/sites/gilpress/2019/07/15/is-ai-going-to-be-a-jobs-killer-new-reports-about-the-future-of-work/#4da2396afb24
+[50] https://fortune.com/2019/01/10/automation-replace-jobs/
+[51] https://www.computerhope.com/issues/ch001799.htm
+[52] https://www.tecarticles.com/robots-take-our-jobs-away/
+[53] http://reports.weforum.org/future-of-jobs-2018/key-findings/
+[54] https://www.bbc.co.uk/news/world-44968561
+[55] https://www.bbc.co.uk/news/business-44885983
+[56] https://www.vox.com/the-goods/2018/9/17/17852294/fashion-brands-burning-merchandise-burberry-nike-h-and-m
+[57] https://medium.com/\@jeremyerdman/we-produce-enough-food-to-feed-10-billion-people-so-why-does-hunger-still-exist-8086d2657539
+[58] https://ourworldindata.org/working-hours
+[59] https://www.technologyreview.com/s/538401/who-will-own-the-robots/
+[60] https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/antitrust-laws
+[61] https://ec.europa.eu/competition/antitrust/overview_en.html

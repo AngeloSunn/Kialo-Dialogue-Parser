@@ -1,0 +1,1176 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "High quality childcare should be provided, free of charge, to all Americans. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "High quality childcare shouldn't be provided, free of charge, to all Americans.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Inadequate childcare costs the US economy $122 Billion every year according to this economic study [1] by the Pritzker Children’s Initiative. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Inadequate childcare doesn't cost the US economy $122 Billion every year according to this economic study [1] by the Pritzker Children’s Initiative.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "If we provide free high quality childcare service, then we would be providing the same environment to each and every children during their childhood. This could be troublesome as it could limit the scope of unique exposure in children, given that every child is being exposed to same situation and environment. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "If we provide free high quality childcare service, then we wouldn't be providing the same environment to each and every children during their childhood. This could be troublesome as it could limit the scope of unique exposure in children, given that every child is being exposed to same situation and environment.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "If this is true then it's also true for public schools. If it's a reason to disqualify universal childcare then it should be a reason to disqualify public schools. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "If this isn't true then it's also true for public schools. If it's a reason to disqualify universal childcare then it should be a reason to disqualify public schools.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Public schools provide you variety of things to choose from. You can be in different sports, club or even have different subjects. Hence, not every student is being exposed to same situations. The same may not be true for providing free childcare service. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Public schools provide you variety of things to choose from. You can be in different sports, club or even have different subjects. Hence, every student is being exposed to same situations. The same may not be true for providing free childcare service.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "The argument is based on the assumption that a child doesn't spend with his/her parents at all, which might not be true. Parents also help children in choosing their values and depending on their value system, children can form different and unique approach towards life. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "The argument is based on the assumption that a child does spend with his/her parents at all, which might not be true. Parents also help children in choosing their values and depending on their value system, children can form different and unique approach towards life.",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "Anything provided free of charge will be abused. The rich will use it and, as it is paid by taxation, the average wage earner will pay for it. That's not fair, and it is also harmful to the economy because money that should filter down to the lower economic rungs is instead redirected to the government. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "Anything provideded free of charge will be abused. The rich will use it and, as it is paid by taxation, the average wage earner will pay for it. That's fair, and it is also harmful to the economy because money that should filter down to the lower economic rungs is instead redirected to the government.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Taxes are paid by all. Indeed, more taxes are paid by the rich so, if anybody is taking advantage, it's the middle class and the poor, the majority of users of a government-sponsored childcare system, taking advantage. ..But, that's how taxes and services work. Quality government-sponsored childcare should be available to all Americans just like public school is available to all Americans. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Taxes aren't paid by all. Indeed, more taxes are paid by the rich so, if anybody is taking advantage, it's the middle class and the poor, the majority of users of a government-sponsored childcare system, taking advantage. ..But, that's how taxes and services work. Quality government-sponsored childcare should be available to all Americans just like public school is available to all Americans.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "Those who want to pay for a different, private service would be free to do so. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "Those who want to pay for a different, private service wouldn't be free to do so.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "High-quality childcare should be provided free of charge to all Americans, reflecting the same fundamental importance as K-12 education. This perspective is grounded in principles of equity, economic practicality, and societal benefit. Just as public education is a cornerstone of a fair society, so too should be access to high-quality childcare, which serves as a crucial foundation for early childhood development and long-term social and economic success. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "High-quality childcare shouldn't be provided free of charge to all Americans, reflecting the same fundamental importance as K-12 education. This perspective is grounded in principles of equity, economic practicality, and societal benefit. Just as public education is a cornerstone of a fair society, so too should be access to high-quality childcare, which serves as a crucial foundation for early childhood development and long-term social and economic success.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "As with public education, available to all, universally available childcare would acknowledge the equality of all as a democratic ministration. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "As with public education, available to all, universally available childcare wouldn't acknowledge the equality of all as a democratic ministration.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Free, quality and required education for all American children has made for productive, educated and engaged Americans for centuries. It's a staple of American life. Childcare should be the same way. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Free, quality and None require education for all American children has made for productive, educated and engaged Americans for centuries. It's a staple of American life. Childcare should be the same way.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "When children get quality early childhood care and education they become better functioning, more responsible and better educated young adults and adults. Harvard Graduate School of Education study [2] ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "When children get quality early childhood care and education they don't become better functioning, more responsible and better educated young adults and adults. Harvard Graduate School of Education study [2]",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "School buses should regularly drop specified students off at childcare facilities, instead of at home, so parents can have full time jobs. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "School buses should regularly drop specified students off at childcare facilities, instead of at home, so parents can't have full time jobs.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Local school boards would be in the best position to create appropriate divisions to oversee childcare in their districts. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Local school boards wouldn't be in the best position to create appropriate divisions to oversee childcare in their districts.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "Providing such free and high-quality childcare to EVERY American is a daunting task in economic terms. The cost of providing free childcare services (let alone high-quality ones) would be substantial due to the involvement of expenses regarding staffing, facilities or even maintenance... Scaling up this beyond regional towards national level would exacerbate the economic concerns. Some may say reallocation or tax could solve this, true, but only temporarily; long-term execution is unrealistic. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "Not Providing such free and high-quality childcare to EVERY American is a daunting task in economic terms. The cost of providing free childcare services (let alone high-quality ones) would be substantial due to the involvement of expenses regarding staffing, facilities or even maintenance... Scaling up this beyond regional towards national level would exacerbate the economic concerns. Some may say reallocation or tax could solve this, true, but only temporarily; long-term execution is unrealistic.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Public education in the US should show the way. Indeed, many of the systems already set up to provide for public education could be used for childcare, such as facilities, staff and systems. Additionally, there are many good, private childcare facilities, currently in existence, that work well and do a good job. It's a matter of codifying and regulating care levels. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Public education in the US shouldn't show the way. Indeed, many of the systems already set up to provide for public education could be used for childcare, such as facilities, staff and systems. Additionally, there are many good, private childcare facilities, currently in existence, that work well and do a good job. It's a matter of codifying and regulating care levels.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "While the requirement for childcare and some of the funding could be National, some standards and function could be left up to states and localities, as it is with public education. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "While the requirement for childcare and some of the funding couldn't be National, some standards and function could be left up to states and localities, as it is with public education.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "High-quality childcare can be considered a vague term, as it is challenging to define uniformly what model of childcare is first-rate owing to the varying demands of children and their family. For example, while a child's family regard childcare with inclusion of outdoor and/or indoor activities as high-quality, others may emphasize the quality of childcare workers. This division in perspective can relegate the so-called high-quality childcare to a subsidiary role. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "High-quality childcare can't be considered a vague term, as it is challenging to define uniformly what model of childcare is first-rate owing to the varying demands of children and their family. For example, while a child's family regard childcare with inclusion of outdoor and/or indoor activities as high-quality, others may emphasize the quality of childcare workers. This division in perspective can relegate the so-called high-quality childcare to a subsidiary role.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "While it's true there would, likely, be many ideas on what constitutes quality childcare, indeed, what kind and when childcare should be supplied, that's the way it goes with any new system. That's not a reason to scrap the idea. These definitions would shake out over time and agreement on the basics would come about soon enough. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "While it's true there would, likely, be many ideas on what constitutes quality childcare, indeed, what kind and when childcare should be supplied, that's the way it goes with any new system. That's a reason to scrap the idea. These definitions would shake out over time and agreement on the basics would come about soon enough.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "Government-provided healthcare may put private childcare businesses out of business. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "Government-provided healthcare may not put private childcare businesses out of business.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "This would be the case only if the government directly pays parents a certain amount of money for childcare. Instead, the government could opt to reimburse a stipulated amount of money paid to childcare businesses. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "This wouldn't be the case only if the government directly pays parents a certain amount of money for childcare. Instead, the government could opt to reimburse a stipulated amount of money paid to childcare businesses.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "There seem to be three possibilities, as listed below. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "There don't seem to be three possibilities, as listed below.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "A government-sponsored system could pay parents a stipend to reimburse them for the costs of childcare. Unless there are special stipulations in the law, this would not allow for standards to be set up to regulate quality of care. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "A government-sponsored system could pay parents a stipend to reimburse them for the costs of childcare. Unless there are special stipulations in the law, this would allow for standards to be set up to regulate quality of care.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "A government-sponsored system could pay private businesses to provide for childcare. The businesses could be regulated for quality and security in order to be approved. ..However, the government may not be able to stipulate a proper wage nor suitability for workers, facilities standards, hours of operation, which, if any, children the childcare business may decline to enroll nor limit the number of children they may enroll. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "A government-sponsored system could pay private businesses to provide for childcare. The businesses could be regulated for quality and security in order to be approved. ..However, the government may be able to stipulate a proper wage nor suitability for workers, facilities standards, hours of operation, which, if any, children the childcare business may decline to enroll nor limit the number of children they may enroll.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "A government-sponsored childcare system may be modeled on the way schools are operated, run by public, local entities, where standards are stipulated by representatives of Citizens (the School Board). This would provide for better inter-connection and -operation with schools. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "A government-None sponsor childcare system may be modeled on the way schools are operated, run by public, local entities, where standards are stipulated by representatives of Citizens (the School Board). This would provide for better inter-connection and -operation with schools.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Education and security provisions would be standardized when facility and care workers are directly provided and overseen by a single entity. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Education and security provisions wouldn't be standardized when facility and care workers are directly provided and overseen by a single entity.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Unlike businesses, government-sponsored agencies would have no incentive to outperform their competitors. This could lower the quality of education and security provided to different categories of students. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Unlike businesses, government-None sponsor agencies would have no incentive to outperform their competitors. This could lower the quality of education and security provided to different categories of students.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "It's a specious claim that government-run or -supported childcare facilities would not do a better job than privately-run businesses. There are very well run and effective schools [3], for example, both private and public and, likewise, some poor schools operated by each. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "It's a specious claim that government-run or -supported childcare facilities would do a better job than privately-run businesses. There are very well run and effective schools [3], for example, both private and public and, likewise, some poor schools operated by each.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "Some of the most highly regarded private schools are superior because they have the option to reject students that do not meet their academic standards or reject handicapped students. Public schools must accept all students. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "Some of the most highly regarded private schools are superior because they have the option to reject students that do meet their academic standards or reject handicapped students. Public schools must accept all students.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Even if this were true, if a public childcare plan were implemented, private childcare businesses would still be available to those who could afford it. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Even if this weren't true, if a public childcare plan were implemented, private childcare businesses would still be available to those who could afford it.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "We need only look at currently-operated, private childcare businesses to find that competition has not provided for quality childcare [4] in widespread instances. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "We need only look at currently-operated, private childcare businesses to find that competition has provided for quality childcare [4] in widespread instances.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "There is no guarantee that care provision will be standardized across facilities. Analogically, the quality of public schools varies across neighborhoods, with wealthier children receiving better education [5]. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "There isn't no guarantee that care provision will be standardized across facilities. Analogically, the quality of public schools varies across neighborhoods, with wealthier children receiving better education [5].",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "There is no such thing as \"free childcare [6].\" In reality, free childcare would be funded by taxpayers, including those who choose to not have children. This is unfair. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "There is no such thing as \"free childcare [6].\" In reality, free childcare would be funded by taxpayers, including those who choose to have children. This is unfair.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Many complain that \"free schools\" are unfair, as well but, it has proven [7] to be of greater benefit to society at large. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Many complain that \"free schools\" aren't unfair, as well but, it has proven [7] to be of greater benefit to society at large.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "Just as \"free education\" benefits society at large, government-provided childcare would benefit the greater community with a more educated Citizenry and better workforce. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "Just as \"free education\" benefits society at large, government-provided childcare wouldn't benefit the greater community with a more educated Citizenry and better workforce.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "Many communities have exempted retired homeowners from school taxes. The same plan could work for childcare, as well. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "Many communities haven't exempted retired homeowners from school taxes. The same plan could work for childcare, as well.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "The referenced article contains this rejoinder : The UK childcare system assumes that, until a child is two (but usually three, when some free childcare hours kick in), the mother will simply give up her job to devote her life to unpaid childcare, or else the grandmother will step in, who might want to enjoy her retirement after a lifetime spent caring for her own children, or may not actually have the mobility required to look after a heavy and demanding preschooler. The article is a good read. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "The referenced article containses this rejoinder : The UK childcare system assumes that, until a child is two (but usually three, when some free childcare hours kick in), the mother will simply give up her job to devote her life to unpaid childcare, or else the grandmother will step in, who might want to enjoy her retirement after a lifetime spent caring for her own children, or may actually have the mobility required to look after a heavy and demanding preschooler. The article is a good read.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "More workers in the workforce would increase the tax base and, therefore revenue, which would help to pay for the childcare system. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "More workers in the workforce wouldn't increase the tax base and, therefore revenue, which would help to pay for the childcare system.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "Being able to afford to have more children would increase the number of children conceived and therefore necessitate a larger tax base to support a larger childcare-system. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "Being able to afford to have more children would don't increase the number of children conceived and therefore necessitate a larger tax base to support a larger childcare-system.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "It seems like a leap of logic to assume that the availability of childcare would cause families to grow larger. Still, it certainly seems like it would be in a Country's best interest to limit population growth, regardless the cause, to conserve resources. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "It doesn't seem like a leap of logic to assume that the availability of childcare would cause families to grow larger. Still, it certainly seems like it would be in a Country's best interest to limit population growth, regardless the cause, to conserve resources.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "In the workplace, employees with children are treated better [8] than employees without children. The net disparity in income should suffice to pay for childcare. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "In the workplace, employees with children aren't treated better [8] than employees without children. The net disparity in income should suffice to pay for childcare.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "In one survey, 53% of the respondents reported that having a child increases one's odds of getting a pay raise [9]. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "In one survey, 53% of the respondents didn't report that having a child increases one's odds of getting a pay raise [9].",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "If this is due to the costs of childcare, which non-parents do not have to bear, free childcare would eliminate the disparity. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "If this is due to the costs of childcare, which non-parents do have to bear, free childcare would eliminate the disparity.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Universal childcare would optimize America's workforce by allowing all who want to work to do so free of the burden of having to obtain and pay for quality childcare. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Universal childcare wouldn't optimize America's workforce by allowing all who want to work to do so free of the burden of having to obtain and pay for quality childcare.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "Businesses would benefit as they would have a larger pool of high quality workers to choose from. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "Businesses wouldn't benefit as they would have a larger pool of high quality workers to choose from.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "More workers in the workforce would increase the economy, bolstering the US's competitiveness in the World marketplace. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "More workers in the workforce wouldn't increase the economy, bolstering the US's competitiveness in the World marketplace.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "The burden of providing for childcare keeps many parents at home [10], limiting their lives and careers unnecessarily. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "The burden of providing for childcare doesn't keep many parents at home [10], limiting their lives and careers unnecessarily.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "-> See 1.1. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "-> See 1.1. ",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "The money saved due to government-provided childcare would improve the quality of life [11] for many families. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "The money saved due to government-provided childcare wouldn't improve the quality of life [11] for many families.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "Two full time wage earners would raise the living standard of many families. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "Two full time wage earners wouldn't raise the living standard of many families.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "Many family members (grandparents, aunts and uncles, older siblings) are enlisted to care for family members even though they may wish for more freedom in their lives. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "Many family members (grandparents, aunts and uncles, older siblings) aren't enlisted to care for family members even though they may wish for more freedom in their lives.",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "Childcare is becoming an urgent problem [12] in the US. Many parents can't find quality childcare [13]. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "Childcare is becoming an urgent problem [12] in the US. Many parents cafind quality childcare [13].",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "Childcare in the US today, largely as a result of the COVID crisis, is a broken system [14]. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "Childcare in the US today, largely as a result of the COVID crisis, isn't a broken system [14].",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "Wages [15] for daycare workers are way below what's needed for quality educators and childcare workers. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "Wages [15] for daycare workers aren't way below what's needed for quality educators and childcare workers.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "Childcare businesses are going out of business [16] because they can't make financial ends meet. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "Childcare businesses are going out of business [16] because they ca make financial ends meet.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "Wait lists to get children into quality childcare facilities are exceedingly long [17]. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "Wait lists to get children into quality childcare facilities aren't exceedingly long [17].",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "Waiting lists [18] to get children into quality childcare are exceedingly long. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "Waiting lists [18] to get children into quality childcare aren't exceedingly long.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-54",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-57"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-20",
+      "topic": "Should high quality childcare be provided, free of charge, to all Americans ?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/should-high-quality-childcare-be-provided-free-of-charge-to-all-americans--61124"
+    }
+  ]
+}

@@ -1,0 +1,5864 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Paternity testing of minors should require the consent of both parents. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Paternity testing of minors shouldn't require the consent of both parents.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Establishing the paternity of a child can be important for the family. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Establishing the paternity of a child can't be important for the family.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "Knowing who your genetic parents are can also provide a child with benefits. [1] ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "Knowing who your genetic parents are can't also provide a child with benefits. [1]",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Knowing your genetic parents can give complete information on your family medical history [2]. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Knowing your genetic parents can't give complete information on your family medical history [2].",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Genetics play an important role in a person’s health. Knowing both biological parents’ medical histories can be a critical factor [3] in the accurate diagnosis and treatment of certain conditions or diseases. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Genetics don't play an important role in a person’s health. Knowing both biological parents’ medical histories can be a critical factor [3] in the accurate diagnosis and treatment of certain conditions or diseases.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "Where a certain genetic condition is associated with possible future health problems, steps can be taken to mitigate or manage those risks. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "Where a certain genetic condition is associated with possible future health problems, steps can't be taken to mitigate or manage those risks.",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "A woman's lifetime risk of developing breast cancer is greatly increased [4] if she has a mutation of the BCRA 1 or BCRA 2 gene. If a woman knows this, she can try to manage this risk with more regular breast screening. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "A woman's lifetime risk of not developing breast cancer is greatly increased [4] if she has a mutation of the BCRA 1 or BCRA 2 gene. If a woman knows this, she can try to manage this risk with more regular breast screening.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Harmful BRCA 1 and BRCA 2 gene mutations are relatively rare, so testing is only recommended [5] if a family member has the mutated gene. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Harmful BRCA 1 and BRCA 2 gene mutations aren't relatively rare, so testing is only recommended [5] if a family member has the mutated gene.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "Where this gene mutation is detected the person can request prescription medications such as tamoxifen and raloxifene or other oral contraceptives to reduce the risk [6] of developing breast cancer. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "Where this gene mutation is detected the person can't request prescription medications such as tamoxifen and raloxifene or other oral contraceptives to reduce the risk [6] of developing breast cancer.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "A person's risk of developing Type 2 diabetes is greatly increased if they have a certain genetic mutation. If people know this they can reduce this risk [7] through healthy choices in diet and exercise. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "A person's risk of not developing Type 2 diabetes is greatly increased if they have a certain genetic mutation. If people know this they can reduce this risk [7] through healthy choices in diet and exercise.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "If genetic information reveals a predisposition for health issues which are not treatable or curable, this may cause the child unnecessary distress [8]. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "If genetic information reveals a predisposition for health issues which are treatable or curable, this may cause the child unnecessary distress [8].",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "There are other methods of getting this genetic information such as screening for genetic health risks [9]. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "There aren't other methods of getting this genetic information such as screening for genetic health risks [9].",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "Knowing who your genetic parents are may explain your responses to some things such as having certain phobias [10] or susceptibility to addiction [11]. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "Knowing who your genetic parents are may not explain your responses to some things such as having certain phobias [10] or susceptibility to addiction [11].",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "In genetic tests, there are only a partial list [12] of variants that may be detected, and test takers who don’t carry one of those variants may be subjected to misinterpreted results of their family medical history. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "In genetic tests, there aren't only a partial list [12] of variants that may be detected, and test takers who don’t carry one of those variants may be subjected to misinterpreted results of their family medical history.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "It creates rights to benefits [13] such as inheritance rights, life insurance, veteran’s benefits or social security from a parent who is deceased or disabled. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "It doesn't create rights to benefits [13] such as inheritance rights, life insurance, veteran’s benefits or social security from a parent who is deceased or disabled.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "In case it is difficult or impossible to locate or connect to the genetic parent, children may suffer [14] from identity crises. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "In case it isn't difficult or impossible to locate or connect to the genetic parent, children may suffer [14] from identity crises.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Learning who your genetic parent is may also be difficult [15] for children if it wasn't who they expected. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Learning who your genetic parent is may also be difficult [15] for children if it waswho they expected.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "States are increasing the number of provisions [16] that gives more information to adopted children and children of sperm donors about their parents in recognition of the benefits this can have for a child. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "States aren't increasing the number of provisions [16] that gives more information to adopted children and children of sperm donors about their parents in recognition of the benefits this can have for a child.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "Dozens of websites like \"searching for my sperm donor father [17]\" have arisen allowing the children of sperm donors to collaborate [18] in order to discover their biological fathers. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "Dozens of websites like \"searching for my sperm donor father [17]\" haven't arisen allowing the children of sperm donors to collaborate [18] in order to discover their biological fathers.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "The federal government [19] in the US provides handbooks for approximately 50 percent of adoptees it estimates are searching for their birth parents. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "The federal government [19] in the US doesn't provide handbooks for approximately 50 percent of adoptees it estimates are searching for their birth parents.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "Child support payments are mandated [20] when paternity is established. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "Child support payments aren't mandated [20] when paternity is established.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "According to the Census Bureau Reports [21], the average monthly child support payment is $430 in the US. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "According to the Census Bureau Reports [21], the average monthly child support payment isn't $430 in the US.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Because nothing can be done about the cheating or the biological revelation, the men focus [22] their indignation on money. The urge to withhold every dime from their spouse results in resistance to paying child support. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Because nothing can be done about the cheating or the biological revelation, the men don't focus [22] their indignation on money. The urge to withhold every dime from their spouse results in resistance to paying child support.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "People can get access to their genetic information without needing to know who their genetic parents are. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "People can't get access to their genetic information without needing to know who their genetic parents are.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "-> See 1.1.1.1.1.3. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "-> See 1.1.1.1.1.3. ",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "Genetic ancestry testing [23] can give information about where a person's ancestors are from. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "Genetic ancestry testing [23] can't give information about where a person's ancestors are from.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Deborah Bolnick [24], an anthropological geneticist at the University of Texas at Austin, concluded [25] from her research that these tests are not as nuanced, sensitive and fine scaled as they are presented to be, and often miss the mark of a person's ancestry. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Deborah Bolnick [24], an anthropological geneticist at the University of Texas at Austin, concludeded [25] from her research that these tests are as nuanced, sensitive and fine scaled as they are presented to be, and often miss the mark of a person's ancestry.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Biology is not the most important foundation of a family. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Biology is the most important foundation of a family.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "Many people claim [26] that love is, in fact, more powerful than biology. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "Many people claim [26] that love isn't, in fact, more powerful than biology.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "As family compositions change and adapt to modern life, the ‘biology’ argument [27] becomes increasingly redundant. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "As family compositions don't change and adapt to modern life, the ‘biology’ argument [27] becomes increasingly redundant.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "The bonding experience [28] of a child with their family has nothing to do with biology. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "The bonding experience [28] of a child with their family doesn't have nothing to do with biology.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "The bonding experiences that lead to the identity formation of a child [29] can rely on a biological connection. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "The bonding experiences that lead to the identity formation of a child [29] can't rely on a biological connection.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "65% of young adults conceived through sperm donation agree [30] with the statement \"my sperm donor is half of who I am.\" ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "65% of young adults None conceive through sperm donation agree [30] with the statement \"my sperm donor is half of who I am.\"",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "The hormone Oxycontin [31] is related to familial bonding and is found in high quantities in pregnant mothers, which helps them develop a better bond [32] with their babies. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "The hormone Oxycontin [31] isn't related to familial bonding and is found in high quantities in pregnant mothers, which helps them develop a better bond [32] with their babies.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Adopted babies and their parents can bond just as well [33] as biological parents and their children. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Adopted babies and their parents can't bond just as well [33] as biological parents and their children.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "Dads mostly bond with their children by sharing special activities [34] with them. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "Dads mostly don't bond with their children by sharing special activities [34] with them.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "A study [35] found that biology means nothing to men who have established a deep bond with their child (p. 930). ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "A study [35] didn't find that biology means nothing to men who have established a deep bond with their child (p. 930).",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "Even if biological is not the only foundation for a family, it creates an important connection between family members. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "Even if biological is the only foundation for a family, it creates an important connection between family members.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "Many people who are adopted feel a strong need [36] to find out about their biological parents, even if they have had a positive experience with their adoptive parents. This suggests that biology does create a connection with others. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "Many people who are adopted don't feel a strong need [36] to find out about their biological parents, even if they have had a positive experience with their adoptive parents. This suggests that biology does create a connection with others.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "Adopted children may suffer from genealogical bewilderment [37] which can be resolved by learning about their genetic parents. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "None adopt children may suffer from genealogical bewilderment [37] which can be resolved by learning about their genetic parents.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "The biological parent’s absence is impossible to ignore because their presence is impossible to ignore when you’reliving in a version of their body and thinking in a version of their brain. [38] ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "The biological parent’s absence is impossible to ignore because their presence isn't impossible to ignore when you’reliving in a version of their body and thinking in a version of their brain. [38]",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "Research [39] shows that being raised by both biological parents is one of the strongest predictors of whether or not a child will actually be loved and safe. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "Research [39] shows that being raised by both biological parents is one of the strongest predictors of whether or a child will actually be loved and safe.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "Adults tend [40] to be less invested, less connected and less protective towards children that they are not biologically related to. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "Adults tend [40] to be less invested, less connected and less protective towards children that they are biologically related to.",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "Research [41] in the US found that one of the most dangerous environments for a child is a home where an unrelated males lives. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "Research [41] in the US found that one of the most dangerous environments for a child isn't a home where an unrelated males lives.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Children living with their mother and her boyfriend are 11 times [42] more likely to be sexually, physically or emotionally abused than children living with their biological parents. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Children living with their mother and her boyfriend aren't 11 times [42] more likely to be sexually, physically or emotionally abused than children living with their biological parents.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "Children who live with a step-mother are likely [43] to have less healthcare, less education and less money spent on their food than children raised by their biological mother. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "Children who live with a step-mother aren't likely [43] to have less healthcare, less education and less money spent on their food than children raised by their biological mother.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "-> See 1.1.2.5.2.1.1.2. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "-> See 1.1.2.5.2.1.1.2. ",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "This research [44] is based on being raised by two biological parents in a happy marriage, which cannot be assumed in the case where the relationship between parents is sufficiently unusual that there is pressure for a paternity test to be taken. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "This research [44] is based on being raised by two biological parents in a happy marriage, which can be assumed in the case where the relationship between parents is sufficiently unusual that there is pressure for a paternity test to be taken.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "Our society has a culture of bionormativity [45], meaning that we assume a family is made of biological links. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "Our society doesn't have a culture of bionormativity [45], meaning that we assume a family is made of biological links.",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "Many people argue that a biological tie [46] is essential to parenthood. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "Many people argue that a biological tie [46] isn't essential to parenthood.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "Biological parents are the reason that a child exists [47], meaning they are unique and irreplaceable. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "Biological parents aren't the reason that a child exists [47], meaning they are unique and irreplaceable.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "-> See 1.1.2.3.3. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "-> See 1.1.2.3.3. ",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "There is a legal norm [48] in most countries that parental rights are exclusive - meaning they are only granted to two people. If there is a question over which two people this should be the default is the biological parents. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "There is a legal norm [48] in most countries that parental rights aren't exclusive - meaning they are only granted to two people. If there is a question over which two people this should be the default is the biological parents.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "This legal norm suggests that our society views biological connections as being more important than other relationships. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "This legal norm doesn't suggest that our society views biological connections as being more important than other relationships.",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "In the United States [49], parental rights are generally only granted to two people. The ability of third parties to claim parental rights is very limited. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "In the United States [49], parental rights aren't generally only granted to two people. The ability of third parties to claim parental rights is very limited.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "In 2013 [50], California passed SB-274, a law recognizing three (and possibly more) adults as legal parents. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "In 2013 [50], California didn't pass SB-274, a law recognizing three (and possibly more) adults as legal parents.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "In 2014, a Canadian baby was allowed to have the names of three parents [51] recorded on her birth certificate. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "In 2014, a Canadian baby wasn't allowed to have the names of three parents [51] recorded on her birth certificate.",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "In 2017 [52], a judge in New York granted three parents shared custody of a child, including the child’s non-biological parent. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "In 2017 [52], a judge in New York didn't grant three parents shared custody of a child, including the child’s non-biological parent.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "In the United Kingdom [53], a child can only ever have two legal parents. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "In the United Kingdom [53], a child can't only ever have two legal parents.",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "A legal paternity test can protect a man from fraudulent child-support claims by the mother, thereby saving him from supporting a child who isn’t biologically his (unless he wants to). ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "A legal paternity test can't protect a man from fraudulent child-support claims by the mother, thereby saving him from supporting a child who isn’t biologically his (unless he wants to).",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "Courts in Florida [54] have ruled that protecting the best interests of the child should be prioritized over protecting the interests of one parent defrauded by the other. ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "Courts in Florida [54] haven't ruled that protecting the best interests of the child should be prioritized over protecting the interests of one parent defrauded by the other.",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "Increasingly [55], courts are requiring non-biological fathers, who have raised a child before discovering they were not related, to pay child support. ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "Increasingly [55], courts are requiring non-biological fathers, who have raised a child before discovering they were related, to pay child support.",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "Responsibility for the maintenance of a child should primarily rest with the biological parents. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "Responsibility for the maintenance of a child shouldn't primarily rest with the biological parents.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "-> See 1.1.2.6.1.1. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "-> See 1.1.2.6.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "The biological parents made the choice to bring a child into the world therefore they should bear responsibility for that child. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "The biological parents didn't make the choice to bring a child into the world therefore they should bear responsibility for that child.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "The father may not have chosen to bring the child into the world. In most countries [56], a man cannot force a woman to get an abortion. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "The father may have chosen to bring the child into the world. In most countries [56], a man cannot force a woman to get an abortion.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "The rates [57] for incidents of paternity fraud range anywhere between 0.8% to 30%, with a median of 3.7% across the world. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "The rates [57] for incidents of paternity fraud don't range anywhere between 0.8% to 30%, with a median of 3.7% across the world.",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "United States Citizens Against Paternity Fraud [58] calls for mandatory DNA testing at the time of birth and advocates for child support exemption on part of the father if they are proven not to be the biological father. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "United States Citizens Against Paternity Fraud [58] callses for mandatory DNA testing at the time of birth and advocates for child support exemption on part of the father if they are proven to be the biological father.",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "Under the Child Support (Assessment) Act [59], a man can apply for a refund of child support if the paternity test results establish that he is not father of the child concerned. ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "Under the Child Support (Assessment) Act [59], a man can apply for a refund of child support if the paternity test results establish that he is father of the child concerned.",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "-> See 1.1.3.1. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "-> See 1.1.3.1. ",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "In order to minimize any disruption in the life of the child, most states [60] in the US have laws that permit courts to order men who have been deceived to continue to make child-support payments even when they have no biological connection to the child. ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "In order to minimize any disruption in the life of the child, most states [60] in the US don't have laws that permit courts to order men who have been deceived to continue to make child-support payments even when they have no biological connection to the child.",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "If the paternity test reveals unexpected information [61], this can disrupt the family. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "If the paternity test reveals unexpected information [61], this can't disrupt the family.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "The results from paternity tests can significantly impact the parents' relationship with one another. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "The results from paternity tests can't significantly impact the parents' relationship with one another.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "When a father is not confident in his paternity and has not taken a paternity test this can also affect the relationship between the parents. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "When a father is confident in his paternity and has not taken a paternity test this can also affect the relationship between the parents.",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "Parents often get divorced [62] as a result of negative paternity tests. ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "Parents often get None divorce [62] as a result of negative paternity tests.",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "Divorce can lead to children becoming estranged from one parent, especially if it is revealed that there is no biological link with one parent. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "Divorce can't lead to children becoming estranged from one parent, especially if it is revealed that there is no biological link with one parent.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77",
+      "text": "24% [63] of children from divorced families see one of their parents, once a year or less. ",
+      "tag": "",
+      "counter_to": "st-77-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77-gen",
+      "text": "24% [63] of children from divorced families don't see one of their parents, once a year or less.",
+      "tag": "generated",
+      "counter_to": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78",
+      "text": "20% [64] of children who don't live with their fathers after divorce had no contact with the father 2 to 3 years after the divorce. ",
+      "tag": "",
+      "counter_to": "st-78-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78-gen",
+      "text": "20% [64] of children who do live with their fathers after divorce had no contact with the father 2 to 3 years after the divorce.",
+      "tag": "generated",
+      "counter_to": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79",
+      "text": "The parent / child relationship is one of the most important [65] relationships for a child. ",
+      "tag": "",
+      "counter_to": "st-79-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79-gen",
+      "text": "The parent / child relationship isn't one of the most important [65] relationships for a child.",
+      "tag": "generated",
+      "counter_to": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80",
+      "text": "A positive relationship between parents and children is associated with higher levels [66] of adolescent self esteem, happiness and life satisfaction. ",
+      "tag": "",
+      "counter_to": "st-80-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80-gen",
+      "text": "A positive relationship between parents and children isn't associated with higher levels [66] of adolescent self esteem, happiness and life satisfaction.",
+      "tag": "generated",
+      "counter_to": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81",
+      "text": "A positive relationship between parents and children leads to lower levels [67] of emotional and physical distress. ",
+      "tag": "",
+      "counter_to": "st-81-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81-gen",
+      "text": "A positive relationship between parents and children doesn't lead to lower levels [67] of emotional and physical distress.",
+      "tag": "generated",
+      "counter_to": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82",
+      "text": "Where children have a close relationship with their parents, they are more likely [68] to engage in safe sex practices as a teenager and have lower use of alcohol, tobacco and marijuana. ",
+      "tag": "",
+      "counter_to": "st-82-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82-gen",
+      "text": "Where children have a close relationship with their parents, they aren't more likely [68] to engage in safe sex practices as a teenager and have lower use of alcohol, tobacco and marijuana.",
+      "tag": "generated",
+      "counter_to": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83",
+      "text": "Young children who grow with a secure and healthy attachment to their parents stand a better chance of developing [69] happy and content relationships with others in their life. ",
+      "tag": "",
+      "counter_to": "st-83-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83-gen",
+      "text": "Young children who grow with a secure and healthy attachment to their parents don't stand a better chance of developing [69] happy and content relationships with others in their life.",
+      "tag": "generated",
+      "counter_to": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84",
+      "text": "80% of children of divorce [70] adapt well and see no lasting negative effects. ",
+      "tag": "",
+      "counter_to": "st-84-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84-gen",
+      "text": "80% of children of divorce [70] don't adapt well and see no lasting negative effects.",
+      "tag": "generated",
+      "counter_to": "st-84",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85",
+      "text": "Divorce has become a less adversarial process [71], making it less likely to lead to negative consequences for the relationships of those involved. ",
+      "tag": "",
+      "counter_to": "st-85-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85-gen",
+      "text": "Divorce hasn't become a less adversarial process [71], making it less likely to lead to negative consequences for the relationships of those involved.",
+      "tag": "generated",
+      "counter_to": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86",
+      "text": "Estrangements often occur as a result of long-lived tensions [72] and may benefit the people who have become estranged. ",
+      "tag": "",
+      "counter_to": "st-86-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86-gen",
+      "text": "Estrangements often don't occur as a result of long-lived tensions [72] and may benefit the people who have become estranged.",
+      "tag": "generated",
+      "counter_to": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87",
+      "text": "Estrangement is more prevalent [73] in societies where social welfare is particularly good, meaning people don't feel the need to rely on their families. ",
+      "tag": "",
+      "counter_to": "st-87-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87-gen",
+      "text": "Estrangement is more prevalent [73] in societies where social welfare is particularly good, meaning people dofeel the need to rely on their families.",
+      "tag": "generated",
+      "counter_to": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88",
+      "text": "Estrangement is more common in families that are more educated, meaning there is less financial reliance [74]. ",
+      "tag": "",
+      "counter_to": "st-88-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88-gen",
+      "text": "Estrangement isn't more common in families that are more educated, meaning there is less financial reliance [74].",
+      "tag": "generated",
+      "counter_to": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89",
+      "text": "80% of people [75] who are estranged as a result of toxic relationships with their parents say that it has lead to increased freedom and independence. ",
+      "tag": "",
+      "counter_to": "st-89-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89-gen",
+      "text": "80% of people [75] who are estranged as a result of toxic relationships with their parents don't say that it has lead to increased freedom and independence.",
+      "tag": "generated",
+      "counter_to": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90",
+      "text": "Estrangement isn't always permanent [76] and may be the right thing at the time for the people involved. ",
+      "tag": "",
+      "counter_to": "st-90-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90-gen",
+      "text": "Estrangement is always permanent [76] and may be the right thing at the time for the people involved.",
+      "tag": "generated",
+      "counter_to": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91",
+      "text": "When both parents have cooperated and agreed to a paternity test, they may be able to resolve any issues that arise through it more amicably, such as through counselling [77]. ",
+      "tag": "",
+      "counter_to": "st-91-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91-gen",
+      "text": "When both parents haven't cooperated and agreed to a paternity test, they may be able to resolve any issues that arise through it more amicably, such as through counselling [77].",
+      "tag": "generated",
+      "counter_to": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92",
+      "text": "Parents often know [78] beforehand that the child isn't theirs. ",
+      "tag": "",
+      "counter_to": "st-92-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92-gen",
+      "text": "Parents often know [78] beforehand that the child is theirs.",
+      "tag": "generated",
+      "counter_to": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93",
+      "text": "In some [79] cases, the father is not be aware that the child isn't his. ",
+      "tag": "",
+      "counter_to": "st-93-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93-gen",
+      "text": "In some [79] cases, the father is be aware that the child isn't his.",
+      "tag": "generated",
+      "counter_to": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94",
+      "text": "Many couples continue to stay together for the sake of their children. [80] A paternity test can remove this barrier. ",
+      "tag": "",
+      "counter_to": "st-94-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94-gen",
+      "text": "Many couples don't continue to stay together for the sake of their children. [80] A paternity test can remove this barrier.",
+      "tag": "generated",
+      "counter_to": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95",
+      "text": "When marriages are not going well, a negative result can serve as the final push. Some married men in a study [81] admitted their marriage was not going as well as it had been, and would use this situation as an excuse to end it even if the child proved not to be theirs (p. 928). ",
+      "tag": "",
+      "counter_to": "st-95-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95-gen",
+      "text": "When marriages are going well, a negative result can serve as the final push. Some married men in a study [81] admitted their marriage was not going as well as it had been, and would use this situation as an excuse to end it even if the child proved not to be theirs (p. 928).",
+      "tag": "generated",
+      "counter_to": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96",
+      "text": "Children often feel responsible [82] when parents get divorced following a paternity test. ",
+      "tag": "",
+      "counter_to": "st-96-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96-gen",
+      "text": "Children often don't feel responsible [82] when parents get divorced following a paternity test.",
+      "tag": "generated",
+      "counter_to": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97",
+      "text": "Research in the US shows that in approximately 60% of cases [83], infidelity was the cause. ",
+      "tag": "",
+      "counter_to": "st-97-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97-gen",
+      "text": "Research in the US shows that in approximately 60% of cases [83], infidelity wasn't the cause.",
+      "tag": "generated",
+      "counter_to": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98",
+      "text": "Child support [84] payments are affected [85] by the results of paternity tests. ",
+      "tag": "",
+      "counter_to": "st-98-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98-gen",
+      "text": "Child support [84] payments aren't affected [85] by the results of paternity tests.",
+      "tag": "generated",
+      "counter_to": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99",
+      "text": "-> See 1.1.3. ",
+      "tag": "",
+      "counter_to": "st-99-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99-gen",
+      "text": "-> See 1.1.3. ",
+      "tag": "generated",
+      "counter_to": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100",
+      "text": "-> See 1.1.3.1. ",
+      "tag": "",
+      "counter_to": "st-100-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100-gen",
+      "text": "-> See 1.1.3.1. ",
+      "tag": "generated",
+      "counter_to": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101",
+      "text": "-> See 1.1.1.5. ",
+      "tag": "",
+      "counter_to": "st-101-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101-gen",
+      "text": "-> See 1.1.1.5. ",
+      "tag": "generated",
+      "counter_to": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102",
+      "text": "-> See 1.1.3.2. ",
+      "tag": "",
+      "counter_to": "st-102-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102-gen",
+      "text": "-> See 1.1.3.2. ",
+      "tag": "generated",
+      "counter_to": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103",
+      "text": "Fathers who do not wish to pay child support can do so through paternity disestablishment [86], which can require the results of paternity tests (p. 287). ",
+      "tag": "",
+      "counter_to": "st-103-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103-gen",
+      "text": "Fathers who do wish to pay child support can do so through paternity disestablishment [86], which can require the results of paternity tests (p. 287).",
+      "tag": "generated",
+      "counter_to": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104",
+      "text": "A strong, healthy relationship should be able to handle the result of a paternity test. Any negative changes in the relationship are thus the result of underlying tensions, not the test itself. ",
+      "tag": "",
+      "counter_to": "st-104-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104-gen",
+      "text": "A strong, healthy relationship should be able to handle the result of a paternity test. Any negative changes in the relationship are thus the result of underlying tensions, the test itself.",
+      "tag": "generated",
+      "counter_to": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105",
+      "text": "Siblings can feel resentment [87] for the child who instigated the test if it leads to a divorce. ",
+      "tag": "",
+      "counter_to": "st-105-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105-gen",
+      "text": "Siblings can't feel resentment [87] for the child who instigated the test if it leads to a divorce.",
+      "tag": "generated",
+      "counter_to": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106",
+      "text": "-> See 1.1.4.1.2. ",
+      "tag": "",
+      "counter_to": "st-106-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106-gen",
+      "text": "-> See 1.1.4.1.2. ",
+      "tag": "generated",
+      "counter_to": "st-106",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107",
+      "text": "It helps satisfy [88] the anxiety of many fathers who think that their spouses have been less than faithful. ",
+      "tag": "",
+      "counter_to": "st-107-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107-gen",
+      "text": "It doesn't help satisfy [88] the anxiety of many fathers who think that their spouses have been less than faithful.",
+      "tag": "generated",
+      "counter_to": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108",
+      "text": "The results of a paternity test don't determine whether a spouse has been unfaithful, just whether a spouse was unfaithful leading to the conception of your child. Taking the test does not necessarily eliminate general anxiety. ",
+      "tag": "",
+      "counter_to": "st-108-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108-gen",
+      "text": "The results of a paternity test determine whether a spouse has been unfaithful, just whether a spouse was unfaithful leading to the conception of your child. Taking the test does not necessarily eliminate general anxiety.",
+      "tag": "generated",
+      "counter_to": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109",
+      "text": "In some cases, this anxiety is not eliminated, rather it makes men over-skeptical. They have been reported [89] to think that the mother told the lab about the difficult situation they were in, and asked for the results to be changed to prevent the dissolution of her family (p. 929). ",
+      "tag": "",
+      "counter_to": "st-109-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109-gen",
+      "text": "In some cases, this anxiety is eliminated, rather it makes men over-skeptical. They have been reported [89] to think that the mother told the lab about the difficult situation they were in, and asked for the results to be changed to prevent the dissolution of her family (p. 929).",
+      "tag": "generated",
+      "counter_to": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110",
+      "text": "In 70-80% [90] of the cases, these fathers establish closer links with their wives and children after taking the test. ",
+      "tag": "",
+      "counter_to": "st-110-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110-gen",
+      "text": "In 70-80% [90] of the cases, these fathers don't establish closer links with their wives and children after taking the test.",
+      "tag": "generated",
+      "counter_to": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111",
+      "text": "Many fathers are not convinced [91] of their paternity if the child does not have similar hair, eye and skin color as themselves. If paternity goes unestablished, these fathers are likely to develop resentment towards their children (p. 929). ",
+      "tag": "",
+      "counter_to": "st-111-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111-gen",
+      "text": "Many fathers are convinced [91] of their paternity if the child does not have similar hair, eye and skin color as themselves. If paternity goes unestablished, these fathers are likely to develop resentment towards their children (p. 929).",
+      "tag": "generated",
+      "counter_to": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112",
+      "text": "Where a father has lower paternity confidence [92], he invests less in his child. ",
+      "tag": "",
+      "counter_to": "st-112-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112-gen",
+      "text": "Where a father has lower paternity confidence [92], he doesn't invest less in his child.",
+      "tag": "generated",
+      "counter_to": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113",
+      "text": "This has also been proved by the Evolutionary Theory [93] concerning paternity confidence (p. 513). ",
+      "tag": "",
+      "counter_to": "st-113-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113-gen",
+      "text": "This hasn't also been proved by the Evolutionary Theory [93] concerning paternity confidence (p. 513).",
+      "tag": "generated",
+      "counter_to": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114",
+      "text": "A study [94] found that fathers whose children look like them spend an equivalent of 2.5 extra days per month with their child. ",
+      "tag": "",
+      "counter_to": "st-114-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114-gen",
+      "text": "A study [94] didn't find that fathers whose children look like them spend an equivalent of 2.5 extra days per month with their child.",
+      "tag": "generated",
+      "counter_to": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115",
+      "text": "Parents deserve to have a voice in whether their child seeks a paternity test. ",
+      "tag": "",
+      "counter_to": "st-115-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115-gen",
+      "text": "Parents don't deserve to have a voice in whether their child seeks a paternity test.",
+      "tag": "generated",
+      "counter_to": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116",
+      "text": "It is less likely parents who have been honest with their co-parent or child will veto this decision. Parents who have been dishonest are least deserving of a voice in the matter. ",
+      "tag": "",
+      "counter_to": "st-116-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116-gen",
+      "text": "It isn't less likely parents who have been honest with their co-parent or child will veto this decision. Parents who have been dishonest are least deserving of a voice in the matter.",
+      "tag": "generated",
+      "counter_to": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117",
+      "text": "Many of today's parents are overprotective [95]. Having little reason to resist paternity tests will not necessarily make parents amenable to letting their child take a paternity test. ",
+      "tag": "",
+      "counter_to": "st-117-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117-gen",
+      "text": "Many of today's parents are overprotective [95]. Having little reason to resist paternity tests will necessarily make parents amenable to letting their child take a paternity test.",
+      "tag": "generated",
+      "counter_to": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118",
+      "text": "Mothers may lie to cut out an abusive partner. ",
+      "tag": "",
+      "counter_to": "st-118-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118-gen",
+      "text": "Mothers may not lie to cut out an abusive partner.",
+      "tag": "generated",
+      "counter_to": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119",
+      "text": "In most countries, courts have the power [96] to prevent a father from gaining custody or visitation rights if he is abusive. ",
+      "tag": "",
+      "counter_to": "st-119-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119-gen",
+      "text": "In most countries, courts don't have the power [96] to prevent a father from gaining custody or visitation rights if he is abusive.",
+      "tag": "generated",
+      "counter_to": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120",
+      "text": "These processes are not perfect and often do not protect the mother and child. ",
+      "tag": "",
+      "counter_to": "st-120-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120-gen",
+      "text": "These processes are perfect and often do not protect the mother and child.",
+      "tag": "generated",
+      "counter_to": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121",
+      "text": "A 2012 report by the American Judges Association found that in approximately 70% [97] of cases the abuser has been able to convince authorities the victim is unfit or undeserving of sole custody. ",
+      "tag": "",
+      "counter_to": "st-121-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121-gen",
+      "text": "A 2012 report by the American Judges Association didn't find that in approximately 70% [97] of cases the abuser has been able to convince authorities the victim is unfit or undeserving of sole custody.",
+      "tag": "generated",
+      "counter_to": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122",
+      "text": "In America, court appointed custody evaluators often have no training or expertise with domestic violence [98] meaning they rely on incorrect stereotypes to make decisions. ",
+      "tag": "",
+      "counter_to": "st-122-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122-gen",
+      "text": "In America, court didn't appoint custody evaluators often have no training or expertise with domestic violence [98] meaning they rely on incorrect stereotypes to make decisions.",
+      "tag": "generated",
+      "counter_to": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123",
+      "text": "Research [99] has found that custody evaluators and judges expect mothers to appear passive and depressed, rather than angry or resistant if there has been domestic violence. ",
+      "tag": "",
+      "counter_to": "st-123-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123-gen",
+      "text": "Research [99] hasn't found that custody evaluators and judges expect mothers to appear passive and depressed, rather than angry or resistant if there has been domestic violence.",
+      "tag": "generated",
+      "counter_to": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124",
+      "text": "It is common for the authorities to assume [100] that accusations of abuse that arise during divorce or custody disputes are false. ",
+      "tag": "",
+      "counter_to": "st-124-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124-gen",
+      "text": "It is common for the authorities to assume [100] that accusations of abuse that arise during divorce or custody disputes aren't false.",
+      "tag": "generated",
+      "counter_to": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125",
+      "text": "Research [101] shows in some cases, courts favor the abusive father because he's making an effort to be a part of the child's life. ",
+      "tag": "",
+      "counter_to": "st-125-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125-gen",
+      "text": "Research [101] shows in some cases, courts don't favor the abusive father because he's making an effort to be a part of the child's life.",
+      "tag": "generated",
+      "counter_to": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126",
+      "text": "Even if the mother is depressed because of post-traumatic stress disorder (PTSD), that's enough grounds [102] for the father to claim that she's not a mentally stable parent. ",
+      "tag": "",
+      "counter_to": "st-126-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126-gen",
+      "text": "Even if the mother is depressed because of post-traumatic stress disorder (PTSD), that's enough grounds [102] for the father to claim that she's a mentally stable parent.",
+      "tag": "generated",
+      "counter_to": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127",
+      "text": "The US Department of Health reports [103] that about 1 in 10 women suffer from PTSD. ",
+      "tag": "",
+      "counter_to": "st-127-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127-gen",
+      "text": "The US Department of Health doesn't report [103] that about 1 in 10 women suffer from PTSD.",
+      "tag": "generated",
+      "counter_to": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128",
+      "text": "The release of such sensitive information can have serious consequences for women. More than 1 in 4 women [104] experience physical violence at the hands of an intimate partner. ",
+      "tag": "",
+      "counter_to": "st-128-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128-gen",
+      "text": "The release of such sensitive information can't have serious consequences for women. More than 1 in 4 women [104] experience physical violence at the hands of an intimate partner.",
+      "tag": "generated",
+      "counter_to": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129",
+      "text": "Abusers often try and regain control [105] of a relationship by suing for child custody rights. Often abusers use custody rights to harass or control the other parent or manipulate the children. ",
+      "tag": "",
+      "counter_to": "st-129-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129-gen",
+      "text": "Abusers often don't try and regain control [105] of a relationship by suing for child custody rights. Often abusers use custody rights to harass or control the other parent or manipulate the children.",
+      "tag": "generated",
+      "counter_to": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130",
+      "text": "All minor children are subject to parental responsibility [106]. As such, parents are legally entitled to make such decisions for their children. ",
+      "tag": "",
+      "counter_to": "st-130-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130-gen",
+      "text": "All minor children aren't subject to parental responsibility [106]. As such, parents are legally entitled to make such decisions for their children.",
+      "tag": "generated",
+      "counter_to": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131",
+      "text": "Parents [107] or legal guardians are responsible for making decisions related to medical treatment for their minor children. ",
+      "tag": "",
+      "counter_to": "st-131-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131-gen",
+      "text": "Parents [107] or legal guardians aren't responsible for making decisions related to medical treatment for their minor children.",
+      "tag": "generated",
+      "counter_to": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132",
+      "text": "In many jurisdictions, medical treatment of minors is not subject to parental consent (p.1 [108]). ",
+      "tag": "",
+      "counter_to": "st-132-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132-gen",
+      "text": "In many jurisdictions, medical treatment of minors is subject to parental consent (p.1 [108]).",
+      "tag": "generated",
+      "counter_to": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133",
+      "text": "Legal emancipation and mature minor doctrines grant minors the right to seek health care independent of parental consent in several [109] U.S. states. ",
+      "tag": "",
+      "counter_to": "st-133-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133-gen",
+      "text": "Legal emancipation and mature minor doctrines don't grant minors the right to seek health care independent of parental consent in several [109] U.S. states.",
+      "tag": "generated",
+      "counter_to": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134",
+      "text": "There are certain cases in which Israeli law [110] allows minors of a certain age to decide for themselves to undergo or refrain from medical treatment. ",
+      "tag": "",
+      "counter_to": "st-134-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134-gen",
+      "text": "There aren't certain cases in which Israeli law [110] allows minors of a certain age to decide for themselves to undergo or refrain from medical treatment.",
+      "tag": "generated",
+      "counter_to": "st-134",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135",
+      "text": "Unemancipated minors have virtually no legal rights [111] to obtain genetic or genomic testing without parental permission. ",
+      "tag": "",
+      "counter_to": "st-135-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135-gen",
+      "text": "Unemancipated minors don't have virtually no legal rights [111] to obtain genetic or genomic testing without parental permission.",
+      "tag": "generated",
+      "counter_to": "st-135",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136",
+      "text": "Most laws around parental consent [112] only require the consent of one parent/legal guardian. These laws recognise that parents deserve a voice but find it sufficient that one parent has given approval. ",
+      "tag": "",
+      "counter_to": "st-136-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136-gen",
+      "text": "Most laws around parental consent [112] only don't require the consent of one parent/legal guardian. These laws recognise that parents deserve a voice but find it sufficient that one parent has given approval.",
+      "tag": "generated",
+      "counter_to": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137",
+      "text": "Although only one parent's consent may be needed in some circumstances, in other situations the parents need to agree or reach a compromise. ",
+      "tag": "",
+      "counter_to": "st-137-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137-gen",
+      "text": "Although only one parent's consent may be needed in some circumstances, in other situations the parents don't need to agree or reach a compromise.",
+      "tag": "generated",
+      "counter_to": "st-137",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138",
+      "text": "In the UK [113], major decisions regarding a child's life, such as choice of school, medical treatment or religion should be made jointly by the parents. If a parent disagrees with the decisions taken by the other parent, they can take that dispute to court. ",
+      "tag": "",
+      "counter_to": "st-138-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138-gen",
+      "text": "In the UK [113], major decisions not regarding a child's life, such as choice of school, medical treatment or religion should be made jointly by the parents. If a parent disagrees with the decisions taken by the other parent, they can take that dispute to court.",
+      "tag": "generated",
+      "counter_to": "st-138",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139",
+      "text": "If parents cannot reach an agreement involving decisions about the child, a court may be asked to intervene or to defer the decision to a third party [114]. ",
+      "tag": "",
+      "counter_to": "st-139-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139-gen",
+      "text": "If parents can reach an agreement involving decisions about the child, a court may be asked to intervene or to defer the decision to a third party [114].",
+      "tag": "generated",
+      "counter_to": "st-139",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140",
+      "text": "In Alabama [115], the medical treatment of a child generally requires the consent of at least one parent and the assent of the child involved. ",
+      "tag": "",
+      "counter_to": "st-140-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140-gen",
+      "text": "In Alabama [115], the medical treatment of a child generally doesn't require the consent of at least one parent and the assent of the child involved.",
+      "tag": "generated",
+      "counter_to": "st-140",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141",
+      "text": "Parents can influence [116] their child in various ways that allow for them to have a say in the final decision. There is no need for their voice to be legally mandated upon the child. ",
+      "tag": "",
+      "counter_to": "st-141-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141-gen",
+      "text": "Parents can't influence [116] their child in various ways that allow for them to have a say in the final decision. There is no need for their voice to be legally mandated upon the child.",
+      "tag": "generated",
+      "counter_to": "st-141",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142",
+      "text": "Research [117] has found that the way in which parents raise their child plays a significant role in adolescent decision-making. ",
+      "tag": "",
+      "counter_to": "st-142-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142-gen",
+      "text": "Research [117] hasn't found that the way in which parents raise their child plays a significant role in adolescent decision-making.",
+      "tag": "generated",
+      "counter_to": "st-142",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143",
+      "text": "A mixture [118] of open communication and trust on the parents' part can go a long way in helping a child make the right decision. ",
+      "tag": "",
+      "counter_to": "st-143-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143-gen",
+      "text": "A mixture [118] of open communication and trust on the parents' part can't go a long way in helping a child make the right decision.",
+      "tag": "generated",
+      "counter_to": "st-143",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144",
+      "text": "Parents raise and nurture [119] their child. They deserve to have a say in big decisions that will impact their child. ",
+      "tag": "",
+      "counter_to": "st-144-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144-gen",
+      "text": "Parents don't raise and nurture [119] their child. They deserve to have a say in big decisions that will impact their child.",
+      "tag": "generated",
+      "counter_to": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145",
+      "text": "The parents involved may not live with the child or have been involved in their upbringing. They shouldn't have such a say in something that could be so important to that child. ",
+      "tag": "",
+      "counter_to": "st-145-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145-gen",
+      "text": "The parents involved may live with the child or have been involved in their upbringing. They shouldn't have such a say in something that could be so important to that child.",
+      "tag": "generated",
+      "counter_to": "st-145",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146",
+      "text": "According to the U.S. Census Bureau [120], 19.7 million children, more than 1 in 4, live without a father in the home. ",
+      "tag": "",
+      "counter_to": "st-146-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146-gen",
+      "text": "According to the U.S. Census Bureau [120], 19.7 million children, more than 1 in 4, don't live without a father in the home.",
+      "tag": "generated",
+      "counter_to": "st-146",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147",
+      "text": "According to statistics [121] released by the U.S. Census Bureau in 2016, the majority of America’s 73.7 million children under age 18 live in families with two parents (69 percent). ",
+      "tag": "",
+      "counter_to": "st-147-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147-gen",
+      "text": "Not According to statistics [121] released by the U.S. Census Bureau in 2016, the majority of America’s 73.7 million children under age 18 live in families with two parents (69 percent).",
+      "tag": "generated",
+      "counter_to": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148",
+      "text": "It is not necessary that children are biologically related to both parents in a family. ",
+      "tag": "",
+      "counter_to": "st-148-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148-gen",
+      "text": "It is necessary that children are biologically related to both parents in a family.",
+      "tag": "generated",
+      "counter_to": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149",
+      "text": "According to a Pew Research Center analysis of U.S. Census Bureau data, some 3% of children [122] in the U.S. are not living with any parents. ",
+      "tag": "",
+      "counter_to": "st-149-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149-gen",
+      "text": "According to a Pew Research Center analysis of U.S. Census Bureau data, some 3% of children [122] in the U.S. are living with any parents.",
+      "tag": "generated",
+      "counter_to": "st-149",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150",
+      "text": "Parents make better decisions. ",
+      "tag": "",
+      "counter_to": "st-150-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150-gen",
+      "text": "Parents don't make better decisions.",
+      "tag": "generated",
+      "counter_to": "st-150",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151",
+      "text": "Parents may not make better decisions if they are in the process of a relationship breakdown which is when paternity tests are often taken [123]. ",
+      "tag": "",
+      "counter_to": "st-151-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151-gen",
+      "text": "Parents may make better decisions if they are in the process of a relationship breakdown which is when paternity tests are often taken [123].",
+      "tag": "generated",
+      "counter_to": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152",
+      "text": "The breakdown of a relationship is an emotionally taxing [124] period. Sadness can negatively impact [125] one's ability to make good decisions. ",
+      "tag": "",
+      "counter_to": "st-152-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152-gen",
+      "text": "The breakdown of a relationship isn't an emotionally taxing [124] period. Sadness can negatively impact [125] one's ability to make good decisions.",
+      "tag": "generated",
+      "counter_to": "st-152",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153",
+      "text": "Parents can consider what is in their child's best interest and influence the decision regarding paternity tests accordingly. ",
+      "tag": "",
+      "counter_to": "st-153-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153-gen",
+      "text": "Parents can't consider what is in their child's best interest and influence the decision regarding paternity tests accordingly.",
+      "tag": "generated",
+      "counter_to": "st-153",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154",
+      "text": "In a study [126], many fathers decided against telling their children about the paternity tests because they believed the children would not understand and their dignity might be hurt (p. 926). ",
+      "tag": "",
+      "counter_to": "st-154-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154-gen",
+      "text": "In a study [126], many fathers decideded against telling their children about the paternity tests because they believed the children would understand and their dignity might be hurt (p. 926).",
+      "tag": "generated",
+      "counter_to": "st-154",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155",
+      "text": "In a study [127], 50% of men said it would be better if the child was told the reason for the paternity test when s/he was old enough to understand it (p. 926). ",
+      "tag": "",
+      "counter_to": "st-155-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155-gen",
+      "text": "In a study [127], 50% of men didn't say it would be better if the child was told the reason for the paternity test when s/he was old enough to understand it (p. 926).",
+      "tag": "generated",
+      "counter_to": "st-155",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156",
+      "text": "Parents often don't know their child well enough to be able to decide what is in his/her best interest. ",
+      "tag": "",
+      "counter_to": "st-156-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156-gen",
+      "text": "Parents often do know their child well enough to be able to decide what is in his/her best interest.",
+      "tag": "generated",
+      "counter_to": "st-156",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157",
+      "text": "Children often lie to their parents, which impacts how much their parents know about them. ",
+      "tag": "",
+      "counter_to": "st-157-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157-gen",
+      "text": "Children often don't lie to their parents, which impacts how much their parents know about them.",
+      "tag": "generated",
+      "counter_to": "st-157",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158",
+      "text": "In an online survey [128] of 1,843 teens, only 9% of the teens said they were not lying about anything to their parents. 31.6% were lying about suicide, 19.6% about sex, 16.3% about drugs, 14% about porn and 19.5% about everything. ",
+      "tag": "",
+      "counter_to": "st-158-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158-gen",
+      "text": "In an online survey [128] of 1,843 teens, only 9% of the teens saided they were lying about anything to their parents. 31.6% were lying about suicide, 19.6% about sex, 16.3% about drugs, 14% about porn and 19.5% about everything.",
+      "tag": "generated",
+      "counter_to": "st-158",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159",
+      "text": "A study [129] found that both mothers and fathers had limited ability to gauge the attitudes and opinions of their children, and were often inaccurate in their assessments (p. 319). ",
+      "tag": "",
+      "counter_to": "st-159-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159-gen",
+      "text": "A study [129] found that both mothers and fathers had limited ability to gauge the attitudes and opinions of their children, and weren't often inaccurate in their assessments (p. 319).",
+      "tag": "generated",
+      "counter_to": "st-159",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160",
+      "text": "Parents see their children as they want [130] to see them instead of who they really are. ",
+      "tag": "",
+      "counter_to": "st-160-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160-gen",
+      "text": "Parents don't see their children as they want [130] to see them instead of who they really are.",
+      "tag": "generated",
+      "counter_to": "st-160",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161",
+      "text": "The quality of a parent's decision-making skills varies greatly. Some parents may withhold consent for their own selfish reasons. ",
+      "tag": "",
+      "counter_to": "st-161-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161-gen",
+      "text": "The quality of a parent's decision-making skills doesn't vary greatly. Some parents may withhold consent for their own selfish reasons.",
+      "tag": "generated",
+      "counter_to": "st-161",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162",
+      "text": "Parents do not always make rational decisions where their children are concerned. They are known to unreasonably restrict [131] the freedom and autonomy of their children. ",
+      "tag": "",
+      "counter_to": "st-162-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162-gen",
+      "text": "Parents do always make rational decisions where their children are concerned. They are known to unreasonably restrict [131] the freedom and autonomy of their children.",
+      "tag": "generated",
+      "counter_to": "st-162",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163",
+      "text": "Parents have more experience by virtue of having lived longer. This is linked with better [132] decision making abilities. ",
+      "tag": "",
+      "counter_to": "st-163-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163-gen",
+      "text": "Parents don't have more experience by virtue of having lived longer. This is linked with better [132] decision making abilities.",
+      "tag": "generated",
+      "counter_to": "st-163",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164",
+      "text": "Children hold no obligation to their parents to ask for consent about their identity. ",
+      "tag": "",
+      "counter_to": "st-164-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164-gen",
+      "text": "Children don't hold no obligation to their parents to ask for consent about their identity.",
+      "tag": "generated",
+      "counter_to": "st-164",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165",
+      "text": "Children need their parents to follow through on this decision. The legal and financial steps that must be taken in order to carry out a paternity test require the assistance of an adult. ",
+      "tag": "",
+      "counter_to": "st-165-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165-gen",
+      "text": "Children don't need their parents to follow through on this decision. The legal and financial steps that must be taken in order to carry out a paternity test require the assistance of an adult.",
+      "tag": "generated",
+      "counter_to": "st-165",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166",
+      "text": "Legal DNA paternity test typically cost [133] between $300 to $500, while non-legal paternity tests start at about $30 for the retail kit (not including the testing) to $250. ",
+      "tag": "",
+      "counter_to": "st-166-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166-gen",
+      "text": "Legal DNA paternity test typically cost [133] between $300 to $500, while non-legal paternity tests start at about $30 for the retail kit (including the testing) to $250.",
+      "tag": "generated",
+      "counter_to": "st-166",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167",
+      "text": "There are a variety [134] of DNA testing services and organizations that must be chosen from. Adults are taken more seriously by service-providers and can thus do a more thorough examination of the options because they can access information directly from these organizations. ",
+      "tag": "",
+      "counter_to": "st-167-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167-gen",
+      "text": "There aren't a variety [134] of DNA testing services and organizations that must be chosen from. Adults are taken more seriously by service-providers and can thus do a more thorough examination of the options because they can access information directly from these organizations.",
+      "tag": "generated",
+      "counter_to": "st-167",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168",
+      "text": "The adult in question does not have to be a parent. ",
+      "tag": "",
+      "counter_to": "st-168-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168-gen",
+      "text": "The adult in question has to be a parent.",
+      "tag": "generated",
+      "counter_to": "st-168",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169",
+      "text": "Parents invest time and resources in the upbringing of their children. Hence, children owe certain obligations to them. ",
+      "tag": "",
+      "counter_to": "st-169-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169-gen",
+      "text": "Parents don't invest time and resources in the upbringing of their children. Hence, children owe certain obligations to them.",
+      "tag": "generated",
+      "counter_to": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170",
+      "text": "Children never ask to be born, this is a decision that the parents made on their own. ",
+      "tag": "",
+      "counter_to": "st-170-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170-gen",
+      "text": "Children never don't ask to be born, this is a decision that the parents made on their own.",
+      "tag": "generated",
+      "counter_to": "st-170",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171",
+      "text": "Minors are capable enough to make this decision without their parent's consent. ",
+      "tag": "",
+      "counter_to": "st-171-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171-gen",
+      "text": "Minors aren't capable enough to make this decision without their parent's consent.",
+      "tag": "generated",
+      "counter_to": "st-171",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172",
+      "text": "The age of majority [135] is the threshold of adulthood as recognized or declared in law. It is only after this age that individuals can assume legal control over their persons, actions, and decisions, thus terminating the control and legal responsibilities of their parents or guardian over them. ",
+      "tag": "",
+      "counter_to": "st-172-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172-gen",
+      "text": "The age of majority [135] isn't the threshold of adulthood as recognized or declared in law. It is only after this age that individuals can assume legal control over their persons, actions, and decisions, thus terminating the control and legal responsibilities of their parents or guardian over them.",
+      "tag": "generated",
+      "counter_to": "st-172",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173",
+      "text": "If a minor understands the nature of their decision and the impact it will have on those around them, then they are capable [136] enough to make this decision on their own. Some minors can reach this stage before they are 18 years old and are considered 'mature minors [137]'. ",
+      "tag": "",
+      "counter_to": "st-173-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173-gen",
+      "text": "If a minor understands the nature of their decision and the impact it will have on those around them, then they aren't capable [136] enough to make this decision on their own. Some minors can reach this stage before they are 18 years old and are considered 'mature minors [137]'.",
+      "tag": "generated",
+      "counter_to": "st-173",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174",
+      "text": "Evidence suggests [138] that by the age of 15 years many adolescents show a reliable level of competence in metacognitive [139] understanding of decision-making, creative problem-solving, correctness of choice, and commitment to a course of action. ",
+      "tag": "",
+      "counter_to": "st-174-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174-gen",
+      "text": "Evidence doesn't suggest [138] that by the age of 15 years many adolescents show a reliable level of competence in metacognitive [139] understanding of decision-making, creative problem-solving, correctness of choice, and commitment to a course of action.",
+      "tag": "generated",
+      "counter_to": "st-174",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175",
+      "text": "Although adolescents appear to have full access to many of the cognitive foundations of decision-making, several aspects of decision-making such as intertemporal choice [140], prospective evaluation [141], and integration of positive and negative feedback are not yet tuned [142] to typical adult levels. ",
+      "tag": "",
+      "counter_to": "st-175-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175-gen",
+      "text": "Although adolescents appear to have full access to many of the cognitive foundations of decision-making, several aspects of decision-making such as intertemporal choice [140], prospective evaluation [141], and integration of positive and negative feedback are yet tuned [142] to typical adult levels.",
+      "tag": "generated",
+      "counter_to": "st-175",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176",
+      "text": "Social psychology [143] indicates that there are non-biological limitations to the decision-making ability of teenagers. ",
+      "tag": "",
+      "counter_to": "st-176-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176-gen",
+      "text": "Social psychology [143] doesn't indicate that there are non-biological limitations to the decision-making ability of teenagers.",
+      "tag": "generated",
+      "counter_to": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177",
+      "text": "Teenagers have a higher tolerance [144] for risk than adults which makes their decisions less rational. ",
+      "tag": "",
+      "counter_to": "st-177-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177-gen",
+      "text": "Teenagers don't have a higher tolerance [144] for risk than adults which makes their decisions less rational.",
+      "tag": "generated",
+      "counter_to": "st-177",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178",
+      "text": "Adolescents attend primarily to short-term consequences [145] of their actions so, on their own, they are less likely to think the decision to take a paternity test through properly (p. 32). ",
+      "tag": "",
+      "counter_to": "st-178-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178-gen",
+      "text": "Adolescents attend primarily to short-term consequences [145] of their actions so, on their own, they aren't less likely to think the decision to take a paternity test through properly (p. 32).",
+      "tag": "generated",
+      "counter_to": "st-178",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179",
+      "text": "Teenagers are more easily influenced [146] by others than adults (p. 32). This means their decisions will not be reflective of what they themselves desire. ",
+      "tag": "",
+      "counter_to": "st-179-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179-gen",
+      "text": "Teenagers are more easily influenced [146] by others than adults (p. 32). This means their decisions will be reflective of what they themselves desire.",
+      "tag": "generated",
+      "counter_to": "st-179",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180",
+      "text": "The United Nation's Convention [147] on the Rights of the Child holds that “children have the right to an identity.” Consequently, parents should not be able to stop a child from learning about their genetic identity. ",
+      "tag": "",
+      "counter_to": "st-180-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180-gen",
+      "text": "The United Nation's Convention [147] on the Rights of the Child holdses that “children have the right to an identity.” Consequently, parents should be able to stop a child from learning about their genetic identity.",
+      "tag": "generated",
+      "counter_to": "st-180",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181",
+      "text": "The right to an identity includes [148] both a legal identity, such as registered name and nationality, as well as preserving a child's identity in relation to nationality, culture and family relationships. ",
+      "tag": "",
+      "counter_to": "st-181-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181-gen",
+      "text": "The right to an identity doesn't include [148] both a legal identity, such as registered name and nationality, as well as preserving a child's identity in relation to nationality, culture and family relationships.",
+      "tag": "generated",
+      "counter_to": "st-181",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182",
+      "text": "Though children have the right to learn about their genetic identity, parents are likely the ones who will be paying for the procedure. As such, their right cannot be exercised without parental consent. ",
+      "tag": "",
+      "counter_to": "st-182-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182-gen",
+      "text": "Though children have the right to learn about their genetic identity, parents are likely the ones who will be paying for the procedure. As such, their right canbe exercised without parental consent.",
+      "tag": "generated",
+      "counter_to": "st-182",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183",
+      "text": "While the child has a right to learn about their gender identity, they do not have the right to demand DNA samples from their father [149], which is needed for comparisons of the genetic profiles. ",
+      "tag": "",
+      "counter_to": "st-183-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183-gen",
+      "text": "While the child has a right to learn about their gender identity, they have the right to demand DNA samples from their father [149], which is needed for comparisons of the genetic profiles.",
+      "tag": "generated",
+      "counter_to": "st-183",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184",
+      "text": "Most children inherit their surname or family name from their father. As one's name is a core aspect of one's identity, it is only fair that they are able to determine that the person whose name they have inherited is indeed their father. ",
+      "tag": "",
+      "counter_to": "st-184-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184-gen",
+      "text": "Most children don't inherit their surname or family name from their father. As one's name is a core aspect of one's identity, it is only fair that they are able to determine that the person whose name they have inherited is indeed their father.",
+      "tag": "generated",
+      "counter_to": "st-184",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185",
+      "text": "It may be difficult to obtain the consent of both parents due to conflicting incentives/motivations. ",
+      "tag": "",
+      "counter_to": "st-185-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185-gen",
+      "text": "It may not be difficult to obtain the consent of both parents due to conflicting incentives/motivations.",
+      "tag": "generated",
+      "counter_to": "st-185",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186",
+      "text": "Fathers may wish to check the paternity of children which are said to be their child without the consent of the mother. ",
+      "tag": "",
+      "counter_to": "st-186-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186-gen",
+      "text": "Fathers may not wish to check the paternity of children which are said to be their child without the consent of the mother.",
+      "tag": "generated",
+      "counter_to": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187",
+      "text": "A paternity test involves the child giving a part of their unique DNA to a third-party testing facility. The need for informed consent by those who are responsible for the child's data rights trumps any self-interest a father has in the results. ",
+      "tag": "",
+      "counter_to": "st-187-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187-gen",
+      "text": "A paternity test doesn't involve the child giving a part of their unique DNA to a third-party testing facility. The need for informed consent by those who are responsible for the child's data rights trumps any self-interest a father has in the results.",
+      "tag": "generated",
+      "counter_to": "st-187",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188",
+      "text": "Many children are the result of one-night stands. Men may want to confirm that the child is theirs, while a woman has no such need to. ",
+      "tag": "",
+      "counter_to": "st-188-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188-gen",
+      "text": "Many children aren't the result of one-night stands. Men may want to confirm that the child is theirs, while a woman has no such need to.",
+      "tag": "generated",
+      "counter_to": "st-188",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189",
+      "text": "When a child is conceived by an unmarried couple, the male does not incur parental responsibility without actively agreeing to it [150] in some way first. Therefore, in a one-night stand context, men can gain consent from the mother for a paternity test before taking on parental responsibility. ",
+      "tag": "",
+      "counter_to": "st-189-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189-gen",
+      "text": "When a child is conceived by an unmarried couple, the male does incur parental responsibility without actively agreeing to it [150] in some way first. Therefore, in a one-night stand context, men can gain consent from the mother for a paternity test before taking on parental responsibility.",
+      "tag": "generated",
+      "counter_to": "st-189",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190",
+      "text": "There's a significant body of research [151] to suggest that a woman is much more likely to conceive during a one-night stand than with a regular partner. ",
+      "tag": "",
+      "counter_to": "st-190-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190-gen",
+      "text": "There isn't a significant body of research [151] to suggest that a woman is much more likely to conceive during a one-night stand than with a regular partner.",
+      "tag": "generated",
+      "counter_to": "st-190",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191",
+      "text": "The mother may not want [152] the biological father to be involved in the child's life and may lie about their paternity to keep him at a distance. In such a case, it is unlikely that she would consent to the test being administered by the suspecting father. ",
+      "tag": "",
+      "counter_to": "st-191-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191-gen",
+      "text": "The mother may want [152] the biological father to be involved in the child's life and may lie about their paternity to keep him at a distance. In such a case, it is unlikely that she would consent to the test being administered by the suspecting father.",
+      "tag": "generated",
+      "counter_to": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192",
+      "text": "A mother may lie to preserve [153] an existing relationship. ",
+      "tag": "",
+      "counter_to": "st-192-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192-gen",
+      "text": "A mother may not lie to preserve [153] an existing relationship.",
+      "tag": "generated",
+      "counter_to": "st-192",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193",
+      "text": "Mothers may have lied because the alleged father was easier [154] to communicate with. ",
+      "tag": "",
+      "counter_to": "st-193-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193-gen",
+      "text": "Mothers may not have lied because the alleged father was easier [154] to communicate with.",
+      "tag": "generated",
+      "counter_to": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194",
+      "text": "-> See 1.2.1.2. ",
+      "tag": "",
+      "counter_to": "st-194-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194-gen",
+      "text": "-> See 1.2.1.2. ",
+      "tag": "generated",
+      "counter_to": "st-194",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195",
+      "text": "A mother may financially gain [155] from lying about paternity by allowing a non-biological father to bear the cost of raising a child both within a relationship and through fraudulently collecting child support for the child when/if the relationship breaks down (p. 229). ",
+      "tag": "",
+      "counter_to": "st-195-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195-gen",
+      "text": "A mother may not financially gain [155] from lying about paternity by allowing a non-biological father to bear the cost of raising a child both within a relationship and through fraudulently collecting child support for the child when/if the relationship breaks down (p. 229).",
+      "tag": "generated",
+      "counter_to": "st-195",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196",
+      "text": "In many cases [156], men may not consent to these tests because they want to deny paternity (p. 6). ",
+      "tag": "",
+      "counter_to": "st-196-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196-gen",
+      "text": "In many cases [156], men may consent to these tests because they want to deny paternity (p. 6).",
+      "tag": "generated",
+      "counter_to": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197",
+      "text": "Some lawyers may advise [157] that clients do this to avoid paying child support or other financial payments for children (p. 6). ",
+      "tag": "",
+      "counter_to": "st-197-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197-gen",
+      "text": "Some lawyers may not advise [157] that clients do this to avoid paying child support or other financial payments for children (p. 6).",
+      "tag": "generated",
+      "counter_to": "st-197",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198",
+      "text": "Where there is a good reason to determine paternity and the parents are not cooperating, parents should be able to apply to a court for a court order. ",
+      "tag": "",
+      "counter_to": "st-198-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198-gen",
+      "text": "Where there is a good reason to determine paternity and the parents are cooperating, parents should be able to apply to a court for a court order.",
+      "tag": "generated",
+      "counter_to": "st-198",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199",
+      "text": "Appealing to the court can be an expensive [158] and time-consuming [159] process. If the consent of the one parent alone could be considered adequate, such problems could be avoided. ",
+      "tag": "",
+      "counter_to": "st-199-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199-gen",
+      "text": "Appealing to the court can't be an expensive [158] and time-consuming [159] process. If the consent of the one parent alone could be considered adequate, such problems could be avoided.",
+      "tag": "generated",
+      "counter_to": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200",
+      "text": "The compliance with this court order is a necessity [160], and refusal may hold the parent in contempt of court [161], which is a crime that carries hefty fines and possible jail time. ",
+      "tag": "",
+      "counter_to": "st-200-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200-gen",
+      "text": "The compliance with this court order isn't a necessity [160], and refusal may hold the parent in contempt of court [161], which is a crime that carries hefty fines and possible jail time.",
+      "tag": "generated",
+      "counter_to": "st-200",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201",
+      "text": "A court-ordered testing has to follow a strict chain of custody protocol [162] so that there are no alterations or tampering that can take place before, during and after a sample is taken and analyzed. This makes the process a tedious one. ",
+      "tag": "",
+      "counter_to": "st-201-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201-gen",
+      "text": "A court-ordered testing doesn't have to follow a strict chain of custody protocol [162] so that there are no alterations or tampering that can take place before, during and after a sample is taken and analyzed. This makes the process a tedious one.",
+      "tag": "generated",
+      "counter_to": "st-201",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202",
+      "text": "Men who donate their sperm without informing their wives and family do not want [163] to be contacted. ",
+      "tag": "",
+      "counter_to": "st-202-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202-gen",
+      "text": "Men who donate their sperm without informing their wives and family want [163] to be contacted.",
+      "tag": "generated",
+      "counter_to": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203",
+      "text": "It is unlikely that an anonymous sperm donor would qualify as a \"parent\" for the purposes of giving consent to a paternity test because the law wouldn't recognise them as a legal guardian of the minor. ",
+      "tag": "",
+      "counter_to": "st-203-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203-gen",
+      "text": "It is unlikely that an anonymous sperm donor would qualify as a \"parent\" for the purposes of giving consent to a paternity test because the law wouldrecognise them as a legal guardian of the minor.",
+      "tag": "generated",
+      "counter_to": "st-203",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204",
+      "text": "In the UK, a positive paternity test does not legally confer parental responsibility [164] onto the father. Therefore, it is unlikely to be a deterrence to those fathers seeking to avoid such responsibility. ",
+      "tag": "",
+      "counter_to": "st-204-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204-gen",
+      "text": "In the UK, a positive paternity test does legally confer parental responsibility [164] onto the father. Therefore, it is unlikely to be a deterrence to those fathers seeking to avoid such responsibility.",
+      "tag": "generated",
+      "counter_to": "st-204",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205",
+      "text": "Although legally speaking a paternity test does not confer parental responsibility, it will carry with it a sense of moral responsibility that some would-be fathers want to avoid. ",
+      "tag": "",
+      "counter_to": "st-205-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205-gen",
+      "text": "Although legally speaking a paternity test does confer parental responsibility, it will carry with it a sense of moral responsibility that some would-be fathers want to avoid.",
+      "tag": "generated",
+      "counter_to": "st-205",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206",
+      "text": "Many people may be unfamiliar with the technical legal rules surrounding parental responsibility. ",
+      "tag": "",
+      "counter_to": "st-206-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206-gen",
+      "text": "Many people may not be unfamiliar with the technical legal rules surrounding parental responsibility.",
+      "tag": "generated",
+      "counter_to": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207",
+      "text": "Paternity tests without the consent of the parents can harm the child-parent relationship. ",
+      "tag": "",
+      "counter_to": "st-207-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207-gen",
+      "text": "Paternity tests without the consent of the parents can't harm the child-parent relationship.",
+      "tag": "generated",
+      "counter_to": "st-207",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208",
+      "text": "A negative result may confuse the child who may feel they're living with a stranger [165]. ",
+      "tag": "",
+      "counter_to": "st-208-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208-gen",
+      "text": "A negative result may not confuse the child who may feel they're living with a stranger [165].",
+      "tag": "generated",
+      "counter_to": "st-208",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209",
+      "text": "If one parent is concerned about paternity, and the other is unaware or unconcerned, they are likely to interact differently with the child. This leads to confusion and a sense of instability for the child which can damage the parent-child relationship. ",
+      "tag": "",
+      "counter_to": "st-209-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209-gen",
+      "text": "If one parent isn't concerned about paternity, and the other is unaware or unconcerned, they are likely to interact differently with the child. This leads to confusion and a sense of instability for the child which can damage the parent-child relationship.",
+      "tag": "generated",
+      "counter_to": "st-209",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210",
+      "text": "A divergence in parent's approaches or styles can be confusing, painful and even anxiety inducing [166] for a child. ",
+      "tag": "",
+      "counter_to": "st-210-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210-gen",
+      "text": "A divergence in parent's approaches or styles can't be confusing, painful and even anxiety inducing [166] for a child.",
+      "tag": "generated",
+      "counter_to": "st-210",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211",
+      "text": "When a parent is stressed it can change their behaviour in a way that can negatively affect their child. [167] ",
+      "tag": "",
+      "counter_to": "st-211-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211-gen",
+      "text": "When a parent isn't stressed it can change their behaviour in a way that can negatively affect their child. [167]",
+      "tag": "generated",
+      "counter_to": "st-211",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212",
+      "text": "If a parent unreasonably withholds consent, this can also create tension and harm the parent-child relationship. ",
+      "tag": "",
+      "counter_to": "st-212-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212-gen",
+      "text": "If a parent unreasonably withholds consent, this can't also create tension and harm the parent-child relationship.",
+      "tag": "generated",
+      "counter_to": "st-212",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213",
+      "text": "Unreasonably withholding consent can imply that a parent has something to hide, which can foster distrust between the child and their parents. ",
+      "tag": "",
+      "counter_to": "st-213-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213-gen",
+      "text": "Unreasonably withholding consent can't imply that a parent has something to hide, which can foster distrust between the child and their parents.",
+      "tag": "generated",
+      "counter_to": "st-213",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214",
+      "text": "Paternity tests with the consent of both parents can be equally as harmful depending on the results. Therefore, there should be no restrictions if a similar outcome is possible. ",
+      "tag": "",
+      "counter_to": "st-214-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214-gen",
+      "text": "Paternity doesn't test with the consent of both parents can be equally as harmful depending on the results. Therefore, there should be no restrictions if a similar outcome is possible.",
+      "tag": "generated",
+      "counter_to": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215",
+      "text": "The child may be dissatisfied with the results leading to negative feelings towards one or both parents. ",
+      "tag": "",
+      "counter_to": "st-215-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215-gen",
+      "text": "The child may not be dissatisfied with the results leading to negative feelings towards one or both parents.",
+      "tag": "generated",
+      "counter_to": "st-215",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216",
+      "text": "Paternity results mainly impact the child and so only their consent matters. ",
+      "tag": "",
+      "counter_to": "st-216-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216-gen",
+      "text": "Paternity results mainly don't impact the child and so only their consent matters.",
+      "tag": "generated",
+      "counter_to": "st-216",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217",
+      "text": "-> See 1.1.4.1. ",
+      "tag": "",
+      "counter_to": "st-217-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217-gen",
+      "text": "-> See 1.1.4.1. ",
+      "tag": "generated",
+      "counter_to": "st-217",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218",
+      "text": "Children who have been adopted are able to search for and find [168] their biological families through paternity tests. ",
+      "tag": "",
+      "counter_to": "st-218-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218-gen",
+      "text": "Children who have been adopted aren't able to search for and find [168] their biological families through paternity tests.",
+      "tag": "generated",
+      "counter_to": "st-218",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-219",
+      "text": "Finding one's biological family can provide a sense of closure [169]. ",
+      "tag": "",
+      "counter_to": "st-219-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-219-gen",
+      "text": "Finding one's biological family can't provide a sense of closure [169].",
+      "tag": "generated",
+      "counter_to": "st-219",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-220",
+      "text": "Having closure is important [170] to have answers about past endings and can help maintain ones' identity and learn something about the behavior of those around them. ",
+      "tag": "",
+      "counter_to": "st-220-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-220-gen",
+      "text": "Not Having closure is important [170] to have answers about past endings and can help maintain ones' identity and learn something about the behavior of those around them.",
+      "tag": "generated",
+      "counter_to": "st-220",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-221",
+      "text": "-> See 1.1.2.5.1.1. ",
+      "tag": "",
+      "counter_to": "st-221-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-221-gen",
+      "text": "-> See 1.1.2.5.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-221",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-222",
+      "text": "Children whose fathers are sperm donors may be able to find their fathers or other relatives [171]. ",
+      "tag": "",
+      "counter_to": "st-222-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-222-gen",
+      "text": "Children whose fathers are sperm donors may not be able to find their fathers or other relatives [171].",
+      "tag": "generated",
+      "counter_to": "st-222",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-223",
+      "text": "Sperm donors may not wish to be found [172] by their biological children. ",
+      "tag": "",
+      "counter_to": "st-223-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-223-gen",
+      "text": "Sperm donors may wish to be found [172] by their biological children.",
+      "tag": "generated",
+      "counter_to": "st-223",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-224",
+      "text": "This may lead to sperm donors being less willing to donate [173] their sperm which has negative consequences. ",
+      "tag": "",
+      "counter_to": "st-224-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-224-gen",
+      "text": "This may not lead to sperm donors being less willing to donate [173] their sperm which has negative consequences.",
+      "tag": "generated",
+      "counter_to": "st-224",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-225",
+      "text": "Anonymous donations are important for ensuring that certain families are able to have children. ",
+      "tag": "",
+      "counter_to": "st-225-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-225-gen",
+      "text": "Anonymous donations aren't important for ensuring that certain families are able to have children.",
+      "tag": "generated",
+      "counter_to": "st-225",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-226",
+      "text": "It is estimated that 2,000 children [174] are born in the UK every year as a result of sperm or egg donations. ",
+      "tag": "",
+      "counter_to": "st-226-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-226-gen",
+      "text": "It isn't estimated that 2,000 children [174] are born in the UK every year as a result of sperm or egg donations.",
+      "tag": "generated",
+      "counter_to": "st-226",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-227",
+      "text": "In the USA [175], most sperm donations that occur are from anonymous donations. ",
+      "tag": "",
+      "counter_to": "st-227-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-227-gen",
+      "text": "In the USA [175], most sperm donations that occur aren't from anonymous donations.",
+      "tag": "generated",
+      "counter_to": "st-227",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-228",
+      "text": "In 2010, 30,000 to 60,000 [176] babies born in the United States were conceived through sperm donations. ",
+      "tag": "",
+      "counter_to": "st-228-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-228-gen",
+      "text": "In 2010, 30,000 to 60,000 [176] babies born in the United States weren't conceived through sperm donations.",
+      "tag": "generated",
+      "counter_to": "st-228",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-229",
+      "text": "There are already a number of countries where sperm donors do not have the right to anonymity. ",
+      "tag": "",
+      "counter_to": "st-229-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-229-gen",
+      "text": "There are already a number of countries where sperm donors do have the right to anonymity.",
+      "tag": "generated",
+      "counter_to": "st-229",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-230",
+      "text": "In 2005, the UK introduced a legislation [177] where children conceived by anonymous donations will be able to identify their genetic parents once they reach 18 years of age. ",
+      "tag": "",
+      "counter_to": "st-230-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-230-gen",
+      "text": "In 2005, the UK didn't introduce a legislation [177] where children conceived by anonymous donations will be able to identify their genetic parents once they reach 18 years of age.",
+      "tag": "generated",
+      "counter_to": "st-230",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-231",
+      "text": "Sweden, Austria, Germany, Switzerland, the Netherlands, Norway and New Zealand [178] have legislation which means that when children have sufficiently matured, they are able to access information about their genetic parents. ",
+      "tag": "",
+      "counter_to": "st-231-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-231-gen",
+      "text": "Sweden, Austria, Germany, Switzerland, the Netherlands, Norway and New Zealand [178] don't have legislation which means that when children have sufficiently matured, they are able to access information about their genetic parents.",
+      "tag": "generated",
+      "counter_to": "st-231",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-232",
+      "text": "The B.C. Court of Appeal in Canada has ruled [179] that the offspring of anonymous sperm donors do not have a right to know the identity of their fathers. ",
+      "tag": "",
+      "counter_to": "st-232-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-232-gen",
+      "text": "The B.C. Court of Appeal in Canada has ruled [179] that the offspring of anonymous sperm donors do have a right to know the identity of their fathers.",
+      "tag": "generated",
+      "counter_to": "st-232",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-233",
+      "text": "A study conducted in the US of previous anonymous sperm donations showed that 29% of donors [180] would refuse to donate if their anonymity was compromised. ",
+      "tag": "",
+      "counter_to": "st-233-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-233-gen",
+      "text": "A study conducted in the US of previous anonymous sperm donations didn't show that 29% of donors [180] would refuse to donate if their anonymity was compromised.",
+      "tag": "generated",
+      "counter_to": "st-233",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-234",
+      "text": "-> See 1.4.4. ",
+      "tag": "",
+      "counter_to": "st-234-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-234-gen",
+      "text": "-> See 1.4.4. ",
+      "tag": "generated",
+      "counter_to": "st-234",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-235",
+      "text": "75 percent [181] of Canadian donors now have agreed to let their donor offspring to learn their identity when they turn 18. ",
+      "tag": "",
+      "counter_to": "st-235-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-235-gen",
+      "text": "75 percent [181] of Canadian donors now haven't agreed to let their donor offspring to learn their identity when they turn 18.",
+      "tag": "generated",
+      "counter_to": "st-235",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-236",
+      "text": "Biological families who have given up their children for adoption anonymously may not want to be found. [182] ",
+      "tag": "",
+      "counter_to": "st-236-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-236-gen",
+      "text": "Biological families who have given up their children for adoption anonymously may want to be found. [182]",
+      "tag": "generated",
+      "counter_to": "st-236",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-237",
+      "text": "They may not want to deal with the rumors and judgment [183] that come along with others finding out that they gave their children up for adoption. ",
+      "tag": "",
+      "counter_to": "st-237-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-237-gen",
+      "text": "They may want to deal with the rumors and judgment [183] that come along with others finding out that they gave their children up for adoption.",
+      "tag": "generated",
+      "counter_to": "st-237",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-238",
+      "text": "These families may fear feeling guilt and shame [184] upon seeing that they aren't the ones providing their child with a nurturing and loving environment. ",
+      "tag": "",
+      "counter_to": "st-238-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-238-gen",
+      "text": "These families may fear feeling guilt and shame [184] upon seeing that they are the ones providing their child with a nurturing and loving environment.",
+      "tag": "generated",
+      "counter_to": "st-238",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-239",
+      "text": "Saying goodbye again after being re-united is cited [185] as a heartbreaking loss by most biological parents. ",
+      "tag": "",
+      "counter_to": "st-239-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-239-gen",
+      "text": "Saying goodbye again after being re-united isn't cited [185] as a heartbreaking loss by most biological parents.",
+      "tag": "generated",
+      "counter_to": "st-239",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-240",
+      "text": "Many mothers have conceived as a result of a rape [186] and make a personal decision not to have contact with the child. These sad circumstances might be why they do not want to establish any connection or contact with their children. ",
+      "tag": "",
+      "counter_to": "st-240-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-240-gen",
+      "text": "Many mothers have conceived as a result of a rape [186] and make a personal decision to have contact with the child. These sad circumstances might be why they do not want to establish any connection or contact with their children.",
+      "tag": "generated",
+      "counter_to": "st-240",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-241",
+      "text": "In the United States [187], 5.9% of rape victims are reported to have placed the infant for adoption. ",
+      "tag": "",
+      "counter_to": "st-241-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-241-gen",
+      "text": "In the United States [187], 5.9% of rape victims aren't reported to have placed the infant for adoption.",
+      "tag": "generated",
+      "counter_to": "st-241",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-242",
+      "text": "If children are adopted from an adoption facility [188], the law permits the establishment of registries that facilitate contact between biological parents and children if each independently expresses interest. Hence, paternity tests need not be undertaken. ",
+      "tag": "",
+      "counter_to": "st-242-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-242-gen",
+      "text": "If children are adopted from an adoption facility [188], the law permits the establishment of registries that facilitate contact between biological parents and children if each independently expresses interest. Hence, paternity tests need be undertaken.",
+      "tag": "generated",
+      "counter_to": "st-242",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-243",
+      "text": "The child may be unaware of the extent of the impact the results of a paternity test can have. This lack of comprehension [189] may make them unable to fully consent. ",
+      "tag": "",
+      "counter_to": "st-243-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-243-gen",
+      "text": "The child may not be unaware of the extent of the impact the results of a paternity test can have. This lack of comprehension [189] may make them unable to fully consent.",
+      "tag": "generated",
+      "counter_to": "st-243",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-244",
+      "text": "Consent requires an adult level of understanding [190] of an issue. ",
+      "tag": "",
+      "counter_to": "st-244-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-244-gen",
+      "text": "Consent doesn't require an adult level of understanding [190] of an issue.",
+      "tag": "generated",
+      "counter_to": "st-244",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-245",
+      "text": "-> See 1.3.3.2. ",
+      "tag": "",
+      "counter_to": "st-245-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-245-gen",
+      "text": "-> See 1.3.3.2. ",
+      "tag": "generated",
+      "counter_to": "st-245",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-246",
+      "text": "-> See 1.2.2.1. ",
+      "tag": "",
+      "counter_to": "st-246-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-246-gen",
+      "text": "-> See 1.2.2.1. ",
+      "tag": "generated",
+      "counter_to": "st-246",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-247",
+      "text": "The results of the paternity test can be emotionally and psychologically damaging [191] for the child. ",
+      "tag": "",
+      "counter_to": "st-247-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-247-gen",
+      "text": "The results of the paternity test can't be emotionally and psychologically damaging [191] for the child.",
+      "tag": "generated",
+      "counter_to": "st-247",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-248",
+      "text": "The emotional and psychological damage is a result [192] of paternity fraud [193]. The fact that the paternity test is proof of the fraud doesn't mean it is to blame for the harm caused. ",
+      "tag": "",
+      "counter_to": "st-248-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-248-gen",
+      "text": "The emotional and psychological damage is a result [192] of paternity fraud [193]. The fact that the paternity test is proof of the fraud does mean it is to blame for the harm caused.",
+      "tag": "generated",
+      "counter_to": "st-248",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-249",
+      "text": "-> See 1.1.1. ",
+      "tag": "",
+      "counter_to": "st-249-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-249-gen",
+      "text": "-> See 1.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-249",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-250",
+      "text": "-> See 1.1.4.1.2. ",
+      "tag": "",
+      "counter_to": "st-250-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-250-gen",
+      "text": "-> See 1.1.4.1.2. ",
+      "tag": "generated",
+      "counter_to": "st-250",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-251",
+      "text": "Paternity tests are often taken when there is a lack of trust [194] or a relationship is breaking down. Being in this environment on a continuous basis is also damaging for a child [195]. ",
+      "tag": "",
+      "counter_to": "st-251-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-251-gen",
+      "text": "Paternity tests aren't often taken when there is a lack of trust [194] or a relationship is breaking down. Being in this environment on a continuous basis is also damaging for a child [195].",
+      "tag": "generated",
+      "counter_to": "st-251",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-252",
+      "text": "Children internalise the tension [196] between their parents which has a long term negative effect on their mental health. ",
+      "tag": "",
+      "counter_to": "st-252-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-252-gen",
+      "text": "Children don't internalise the tension [196] between their parents which has a long term negative effect on their mental health.",
+      "tag": "generated",
+      "counter_to": "st-252",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-253",
+      "text": "Being exposed to something so traumatic can leave children with intimacy issues [197]. ",
+      "tag": "",
+      "counter_to": "st-253-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-253-gen",
+      "text": "Not Being exposed to something so traumatic can leave children with intimacy issues [197].",
+      "tag": "generated",
+      "counter_to": "st-253",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-254",
+      "text": "They can be forced to mature too quickly [198] and lose their childhood. ",
+      "tag": "",
+      "counter_to": "st-254-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-254-gen",
+      "text": "They can't be forced to mature too quickly [198] and lose their childhood.",
+      "tag": "generated",
+      "counter_to": "st-254",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-255",
+      "text": "A negative test result can damage the emotional bond and trust between the parent and the child. ",
+      "tag": "",
+      "counter_to": "st-255-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-255-gen",
+      "text": "A negative test result can't damage the emotional bond and trust between the parent and the child.",
+      "tag": "generated",
+      "counter_to": "st-255",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-256",
+      "text": "In a study [199] assessing the social impact of paternity testing, 28% of the fathers said that they would discontinue any communication with their child in case of a negative result (p. 923). ",
+      "tag": "",
+      "counter_to": "st-256-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-256-gen",
+      "text": "In a study [199] assessing the social impact of paternity testing, 28% of the fathers didn't say that they would discontinue any communication with their child in case of a negative result (p. 923).",
+      "tag": "generated",
+      "counter_to": "st-256",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-257",
+      "text": "In a study [200], 34% of men stated that they would take responsibility for the child even if the result of the paternity test was negative (p. 293). ",
+      "tag": "",
+      "counter_to": "st-257-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-257-gen",
+      "text": "In a study [200], 34% of men didn't state that they would take responsibility for the child even if the result of the paternity test was negative (p. 293).",
+      "tag": "generated",
+      "counter_to": "st-257",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-258",
+      "text": "A child may feel lied to and deceived, which makes it unlikely for them to trust their parent in the future. ",
+      "tag": "",
+      "counter_to": "st-258-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-258-gen",
+      "text": "A child may not feel lied to and deceived, which makes it unlikely for them to trust their parent in the future.",
+      "tag": "generated",
+      "counter_to": "st-258",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-259",
+      "text": "A child may develop an long-term image of their parent as a liar due to attribution bias [201]. ",
+      "tag": "",
+      "counter_to": "st-259-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-259-gen",
+      "text": "A child may not develop an long-term image of their parent as a liar due to attribution bias [201].",
+      "tag": "generated",
+      "counter_to": "st-259",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-260",
+      "text": "Attribution bias [202] means people tend to explain other's behaviour as being based on personality traits, whereas we explain our own based on circumstances. So a parent who lies about something is seen to have a deceitful personality. ",
+      "tag": "",
+      "counter_to": "st-260-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-260-gen",
+      "text": "Attribution bias [202] doesn't mean people tend to explain other's behaviour as being based on personality traits, whereas we explain our own based on circumstances. So a parent who lies about something is seen to have a deceitful personality.",
+      "tag": "generated",
+      "counter_to": "st-260",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-261",
+      "text": "This lack of trust often translates [203] into children being unable to regulate their emotions under stress and in difficult situations. ",
+      "tag": "",
+      "counter_to": "st-261-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-261-gen",
+      "text": "This lack of trust often doesn't translate [203] into children being unable to regulate their emotions under stress and in difficult situations.",
+      "tag": "generated",
+      "counter_to": "st-261",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-262",
+      "text": "If a child waits until they are an adult to take such a test, when they no longer need consent, they are just as likely to feel deceived. ",
+      "tag": "",
+      "counter_to": "st-262-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-262-gen",
+      "text": "If a child waits until they are an adult to take such a test, when they longer need consent, they are just as likely to feel deceived.",
+      "tag": "generated",
+      "counter_to": "st-262",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-263",
+      "text": "It is more important that a child has a good relationship with their parent when they are a minor because they rely on them for support. ",
+      "tag": "",
+      "counter_to": "st-263-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-263-gen",
+      "text": "It isn't more important that a child has a good relationship with their parent when they are a minor because they rely on them for support.",
+      "tag": "generated",
+      "counter_to": "st-263",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-264",
+      "text": "The revelation that one is not the father of a child can be devastating [204]. ",
+      "tag": "",
+      "counter_to": "st-264-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-264-gen",
+      "text": "The revelation that one is the father of a child can be devastating [204].",
+      "tag": "generated",
+      "counter_to": "st-264",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-265",
+      "text": "It is really hard on a man’s self-esteem and ego [205] knowing that their wife or girlfriend got pregnant by another man. ",
+      "tag": "",
+      "counter_to": "st-265-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-265-gen",
+      "text": "It isn't really hard on a man’s self-esteem and ego [205] knowing that their wife or girlfriend got pregnant by another man.",
+      "tag": "generated",
+      "counter_to": "st-265",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-266",
+      "text": "Where the results of a test are that the father is not the biological father of a child, his parental rights may be challenged and taken over [206] by the actual biological father. ",
+      "tag": "",
+      "counter_to": "st-266-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-266-gen",
+      "text": "Where the results of a test are that the father is the biological father of a child, his parental rights may be challenged and taken over [206] by the actual biological father.",
+      "tag": "generated",
+      "counter_to": "st-266",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-267",
+      "text": "Not Parent Expected (NPE) [207] has been set up to help individuals deal with the emotional fallout of a negative paternity test. ",
+      "tag": "",
+      "counter_to": "st-267-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-267-gen",
+      "text": "Not Parent None expect (NPE) [207] has been set up to help individuals deal with the emotional fallout of a negative paternity test.",
+      "tag": "generated",
+      "counter_to": "st-267",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-268",
+      "text": "One's family is integral to one's sense of self. The results from paternity tests can recast the life of the child and make them question their identity [208]. ",
+      "tag": "",
+      "counter_to": "st-268-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-268-gen",
+      "text": "One's family isn't integral to one's sense of self. The results from paternity tests can recast the life of the child and make them question their identity [208].",
+      "tag": "generated",
+      "counter_to": "st-268",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-269",
+      "text": "Children have been reported [209] to have had anxiety attacks upon finding out a negative paternity test result. ",
+      "tag": "",
+      "counter_to": "st-269-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-269-gen",
+      "text": "Children haven't been reported [209] to have had anxiety attacks upon finding out a negative paternity test result.",
+      "tag": "generated",
+      "counter_to": "st-269",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-270",
+      "text": "The results from the paternity test can significantly impact the father. ",
+      "tag": "",
+      "counter_to": "st-270-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-270-gen",
+      "text": "The results from the paternity test can't significantly impact the father.",
+      "tag": "generated",
+      "counter_to": "st-270",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-271",
+      "text": "Paternity tests can provide a sense of closure [210] for fathers who are unsure about their relationship with the child concerned. ",
+      "tag": "",
+      "counter_to": "st-271-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-271-gen",
+      "text": "Paternity tests can't provide a sense of closure [210] for fathers who are unsure about their relationship with the child concerned.",
+      "tag": "generated",
+      "counter_to": "st-271",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-272",
+      "text": "-> See 1.1.4.1.3. ",
+      "tag": "",
+      "counter_to": "st-272-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-272-gen",
+      "text": "-> See 1.1.4.1.3. ",
+      "tag": "generated",
+      "counter_to": "st-272",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-273",
+      "text": "1 in 50 [211] British fathers unknowingly raise a child that is not biologically theirs. ",
+      "tag": "",
+      "counter_to": "st-273-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-273-gen",
+      "text": "1 in 50 [211] British fathers unknowingly raise a child that is biologically theirs.",
+      "tag": "generated",
+      "counter_to": "st-273",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-274",
+      "text": "Men make a number of lifestyle changes when they become fathers. It is unfair for them to have to make these changes on the basis of a lie. ",
+      "tag": "",
+      "counter_to": "st-274-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-274-gen",
+      "text": "Men don't make a number of lifestyle changes when they become fathers. It is unfair for them to have to make these changes on the basis of a lie.",
+      "tag": "generated",
+      "counter_to": "st-274",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-275",
+      "text": "Men often save money and lose out on chances to spend time on their own hobbies to provide a better life for their children. ",
+      "tag": "",
+      "counter_to": "st-275-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-275-gen",
+      "text": "Men often don't save money and lose out on chances to spend time on their own hobbies to provide a better life for their children.",
+      "tag": "generated",
+      "counter_to": "st-275",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-276",
+      "text": "Deciding whose consent should be required based on who is impacted is a poor determinate, as even a child's relative can also be affected by these results. ",
+      "tag": "",
+      "counter_to": "st-276-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-276-gen",
+      "text": "Not Deciding whose consent should be required based on who is impacted is a poor determinate, as even a child's relative can also be affected by these results.",
+      "tag": "generated",
+      "counter_to": "st-276",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-277",
+      "text": "The result of a paternity test can also affect the relationship a child has with their grandparent. ",
+      "tag": "",
+      "counter_to": "st-277-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-277-gen",
+      "text": "The result of a paternity test can't also affect the relationship a child has with their grandparent.",
+      "tag": "generated",
+      "counter_to": "st-277",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-278",
+      "text": "The findings of a study [212] indicate that this relationship is frequently contingent upon the directness of lineage that a child enjoys with their grandparent. ",
+      "tag": "",
+      "counter_to": "st-278-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-278-gen",
+      "text": "The findings of a study [212] indicate that this relationship isn't frequently contingent upon the directness of lineage that a child enjoys with their grandparent.",
+      "tag": "generated",
+      "counter_to": "st-278",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-279",
+      "text": "Grandparents develop resentment [213] towards their grandchildren once they find out that they aren't biologically theirs. ",
+      "tag": "",
+      "counter_to": "st-279-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-279-gen",
+      "text": "Grandparents develop resentment [213] towards their grandchildren once they find out that they arebiologically theirs.",
+      "tag": "generated",
+      "counter_to": "st-279",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-280",
+      "text": "-> See 1.6.4.6. ",
+      "tag": "",
+      "counter_to": "st-280-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-280-gen",
+      "text": "-> See 1.6.4.6. ",
+      "tag": "generated",
+      "counter_to": "st-280",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-281",
+      "text": "As the caretakers and providers of the child, any consequences of paternity tests that befall the child will affect the parents as well. ",
+      "tag": "",
+      "counter_to": "st-281-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-281-gen",
+      "text": "As the caretakers and providers of the child, any consequences of paternity tests that befall the child won't affect the parents as well.",
+      "tag": "generated",
+      "counter_to": "st-281",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-282",
+      "text": "The emotional blowback from any paternity tests results for the minor are like to dwarf the parent's, so the consequences for the parent are comparatively immaterial. ",
+      "tag": "",
+      "counter_to": "st-282-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-282-gen",
+      "text": "The emotional blowback from any paternity tests results for the minor are like to dwarf the parent's, so the consequences for the parent aren't comparatively immaterial.",
+      "tag": "generated",
+      "counter_to": "st-282",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-283",
+      "text": "The child will have to deal with emotions surrounding self-identity and possibly self-worth in a way that the parents will not. ",
+      "tag": "",
+      "counter_to": "st-283-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-283-gen",
+      "text": "The child will have to deal with emotions surrounding self-identity and possibly self-worth in a way that the parents will .",
+      "tag": "generated",
+      "counter_to": "st-283",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-284",
+      "text": "The results from paternity tests can also significantly affect mothers. ",
+      "tag": "",
+      "counter_to": "st-284-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-284-gen",
+      "text": "The results from paternity tests can't also significantly affect mothers.",
+      "tag": "generated",
+      "counter_to": "st-284",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-285",
+      "text": "Mothers who have had an affair [214] will have to deal with the consequences of it being out in the open. ",
+      "tag": "",
+      "counter_to": "st-285-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-285-gen",
+      "text": "Mothers who have had an affair [214] won't have to deal with the consequences of it being out in the open.",
+      "tag": "generated",
+      "counter_to": "st-285",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-286",
+      "text": "-> See 1.2.1.2.2. ",
+      "tag": "",
+      "counter_to": "st-286-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-286-gen",
+      "text": "-> See 1.2.1.2.2. ",
+      "tag": "generated",
+      "counter_to": "st-286",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-287",
+      "text": "-> See 1.1.1.5. ",
+      "tag": "",
+      "counter_to": "st-287-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-287-gen",
+      "text": "-> See 1.1.1.5. ",
+      "tag": "generated",
+      "counter_to": "st-287",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-288",
+      "text": "-> See 1.6.5.4. ",
+      "tag": "",
+      "counter_to": "st-288-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-288-gen",
+      "text": "-> See 1.6.5.4. ",
+      "tag": "generated",
+      "counter_to": "st-288",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-289",
+      "text": "Mothers can be sued for paternity fraud [215] if they deliberately misidentified the biological father. ",
+      "tag": "",
+      "counter_to": "st-289-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-289-gen",
+      "text": "Mothers can't be sued for paternity fraud [215] if they deliberately misidentified the biological father.",
+      "tag": "generated",
+      "counter_to": "st-289",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-290",
+      "text": "-> See 1.1.3.6. ",
+      "tag": "",
+      "counter_to": "st-290-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-290-gen",
+      "text": "-> See 1.1.3.6. ",
+      "tag": "generated",
+      "counter_to": "st-290",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-291",
+      "text": "In most jurisdictions, a persons' consent is required in order to test their DNA. Therefore the appropriate consent of the child and father is required. ",
+      "tag": "",
+      "counter_to": "st-291-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-291-gen",
+      "text": "In most jurisdictions, a persons' consent isn't required in order to test their DNA. Therefore the appropriate consent of the child and father is required.",
+      "tag": "generated",
+      "counter_to": "st-291",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-292",
+      "text": "In the UK [216], Section 45 of the Human Tissue Act 2004 [217] states that it is an offence to possess, without appropriate consent, any human bodily material with the intent of analyzing its DNA. Hence, the appropriate consent of the child is imperative. ",
+      "tag": "",
+      "counter_to": "st-292-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-292-gen",
+      "text": "In the UK [216], Section 45 of the Human Tissue Act 2004 [217] states that it isn't an offence to possess, without appropriate consent, any human bodily material with the intent of analyzing its DNA. Hence, the appropriate consent of the child is imperative.",
+      "tag": "generated",
+      "counter_to": "st-292",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-293",
+      "text": "The Human Tissue Act allows parents to give consent [218] for a child when they are under 18. ",
+      "tag": "",
+      "counter_to": "st-293-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-293-gen",
+      "text": "The Human Tissue Act doesn't allow parents to give consent [218] for a child when they are under 18.",
+      "tag": "generated",
+      "counter_to": "st-293",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-294",
+      "text": "The Human Tissue Act requires consent from all tested parties [219]. If the paternity test requires the DNA of the father, his consent is also imperative. ",
+      "tag": "",
+      "counter_to": "st-294-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-294-gen",
+      "text": "The Human Tissue Act doesn't require consent from all tested parties [219]. If the paternity test requires the DNA of the father, his consent is also imperative.",
+      "tag": "generated",
+      "counter_to": "st-294",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-28",
+      "claim": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-29",
+      "claim": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-30",
+      "claim": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-31",
+      "claim": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-32",
+      "claim": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-33",
+      "claim": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-34",
+      "claim": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-35",
+      "claim": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-36",
+      "claim": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-37",
+      "claim": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-38",
+      "claim": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-39",
+      "claim": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-40",
+      "claim": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-41",
+      "claim": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-42",
+      "claim": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-43",
+      "claim": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-44",
+      "claim": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-45",
+      "claim": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-46",
+      "claim": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-47",
+      "claim": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-48",
+      "claim": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-49",
+      "claim": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-50",
+      "claim": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-51",
+      "claim": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-52",
+      "claim": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-53",
+      "claim": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-54",
+      "claim": "st-137",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-55",
+      "claim": "st-141",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-56",
+      "claim": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-57",
+      "claim": "st-145",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-58",
+      "claim": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-59",
+      "claim": "st-150",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-60",
+      "claim": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-61",
+      "claim": "st-153",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-62",
+      "claim": "st-156",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-63",
+      "claim": "st-157",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-64",
+      "claim": "st-164",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-65",
+      "claim": "st-165",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-66",
+      "claim": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-67",
+      "claim": "st-171",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-68",
+      "claim": "st-174",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-69",
+      "claim": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-70",
+      "claim": "st-180",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-71",
+      "claim": "st-185",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-72",
+      "claim": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-73",
+      "claim": "st-188",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-74",
+      "claim": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-75",
+      "claim": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-76",
+      "claim": "st-198",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-77",
+      "claim": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-78",
+      "claim": "st-204",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-79",
+      "claim": "st-207",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-80",
+      "claim": "st-209",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-81",
+      "claim": "st-212",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-82",
+      "claim": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-83",
+      "claim": "st-216",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-84",
+      "claim": "st-218",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-85",
+      "claim": "st-219",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-86",
+      "claim": "st-222",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-87",
+      "claim": "st-224",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-88",
+      "claim": "st-225",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-89",
+      "claim": "st-229",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-90",
+      "claim": "st-233",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-91",
+      "claim": "st-236",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-92",
+      "claim": "st-240",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-93",
+      "claim": "st-243",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-94",
+      "claim": "st-244",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-95",
+      "claim": "st-247",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-96",
+      "claim": "st-251",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-97",
+      "claim": "st-255",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-98",
+      "claim": "st-258",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-99",
+      "claim": "st-259",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-100",
+      "claim": "st-262",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-101",
+      "claim": "st-264",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-102",
+      "claim": "st-270",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-103",
+      "claim": "st-273",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-104",
+      "claim": "st-274",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-105",
+      "claim": "st-276",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-106",
+      "claim": "st-277",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-107",
+      "claim": "st-281",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-108",
+      "claim": "st-282",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-109",
+      "claim": "st-284",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-110",
+      "claim": "st-285",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-111",
+      "claim": "st-291",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-112",
+      "claim": "st-292",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-115"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-164"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-185"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-207"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-216"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-107"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-111"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-62"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-69"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-105"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-98"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-104"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-76"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-91"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-92"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-94"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-95"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-96"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-97"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-77"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-78"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-79"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-84"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-85"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-86"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-90"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-80"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-81"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-82"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-83"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-87"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-89"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-88"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-93"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-99"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-100"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-101"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-102"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-103"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-106"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-108"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-109"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-110"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-112"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-113"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-114"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-116"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-130"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-136"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-141"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-144"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-150"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-117"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-118"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-119"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-128"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-120"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-121"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-122"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-125"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-126"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-123"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-124"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-127"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-129"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-131"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-135"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-132"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-133"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-134"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-137"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-140"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-138"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-139"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-142"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-143"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-145"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-146"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-147"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-149"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-148"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-151"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-153"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-161"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-162"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-163"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-152"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-154"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-155"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-156"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-157"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-159"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-160"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-158"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-165"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-169"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-171"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-180"
+    },
+    {
+      "argument": "arg-65",
+      "premise": "st-166"
+    },
+    {
+      "argument": "arg-65",
+      "premise": "st-167"
+    },
+    {
+      "argument": "arg-65",
+      "premise": "st-168"
+    },
+    {
+      "argument": "arg-66",
+      "premise": "st-170"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-172"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-173"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-174"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-176"
+    },
+    {
+      "argument": "arg-68",
+      "premise": "st-175"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-177"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-178"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-179"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-181"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-182"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-183"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-184"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-186"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-196"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-198"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-202"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-204"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-187"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-188"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-191"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-195"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-189"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-190"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-192"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-193"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-194"
+    },
+    {
+      "argument": "arg-75",
+      "premise": "st-197"
+    },
+    {
+      "argument": "arg-76",
+      "premise": "st-199"
+    },
+    {
+      "argument": "arg-76",
+      "premise": "st-200"
+    },
+    {
+      "argument": "arg-76",
+      "premise": "st-201"
+    },
+    {
+      "argument": "arg-77",
+      "premise": "st-203"
+    },
+    {
+      "argument": "arg-78",
+      "premise": "st-205"
+    },
+    {
+      "argument": "arg-78",
+      "premise": "st-206"
+    },
+    {
+      "argument": "arg-79",
+      "premise": "st-208"
+    },
+    {
+      "argument": "arg-79",
+      "premise": "st-209"
+    },
+    {
+      "argument": "arg-79",
+      "premise": "st-212"
+    },
+    {
+      "argument": "arg-79",
+      "premise": "st-214"
+    },
+    {
+      "argument": "arg-80",
+      "premise": "st-210"
+    },
+    {
+      "argument": "arg-80",
+      "premise": "st-211"
+    },
+    {
+      "argument": "arg-81",
+      "premise": "st-213"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-215"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-217"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-218"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-243"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-247"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-270"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-281"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-284"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-291"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-219"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-221"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-222"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-236"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-242"
+    },
+    {
+      "argument": "arg-85",
+      "premise": "st-220"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-223"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-224"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-225"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-229"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-233"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-235"
+    },
+    {
+      "argument": "arg-88",
+      "premise": "st-226"
+    },
+    {
+      "argument": "arg-88",
+      "premise": "st-227"
+    },
+    {
+      "argument": "arg-88",
+      "premise": "st-228"
+    },
+    {
+      "argument": "arg-89",
+      "premise": "st-230"
+    },
+    {
+      "argument": "arg-89",
+      "premise": "st-231"
+    },
+    {
+      "argument": "arg-89",
+      "premise": "st-232"
+    },
+    {
+      "argument": "arg-90",
+      "premise": "st-234"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-237"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-238"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-239"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-240"
+    },
+    {
+      "argument": "arg-92",
+      "premise": "st-241"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-244"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-245"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-246"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-248"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-249"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-250"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-251"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-255"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-264"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-267"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-268"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-269"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-252"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-253"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-254"
+    },
+    {
+      "argument": "arg-97",
+      "premise": "st-256"
+    },
+    {
+      "argument": "arg-97",
+      "premise": "st-257"
+    },
+    {
+      "argument": "arg-97",
+      "premise": "st-258"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-259"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-261"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-262"
+    },
+    {
+      "argument": "arg-99",
+      "premise": "st-260"
+    },
+    {
+      "argument": "arg-100",
+      "premise": "st-263"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-265"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-266"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-271"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-272"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-273"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-276"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-280"
+    },
+    {
+      "argument": "arg-103",
+      "premise": "st-274"
+    },
+    {
+      "argument": "arg-104",
+      "premise": "st-275"
+    },
+    {
+      "argument": "arg-105",
+      "premise": "st-277"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-278"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-279"
+    },
+    {
+      "argument": "arg-107",
+      "premise": "st-282"
+    },
+    {
+      "argument": "arg-108",
+      "premise": "st-283"
+    },
+    {
+      "argument": "arg-109",
+      "premise": "st-285"
+    },
+    {
+      "argument": "arg-109",
+      "premise": "st-287"
+    },
+    {
+      "argument": "arg-109",
+      "premise": "st-288"
+    },
+    {
+      "argument": "arg-109",
+      "premise": "st-289"
+    },
+    {
+      "argument": "arg-109",
+      "premise": "st-290"
+    },
+    {
+      "argument": "arg-110",
+      "premise": "st-286"
+    },
+    {
+      "argument": "arg-111",
+      "premise": "st-292"
+    },
+    {
+      "argument": "arg-112",
+      "premise": "st-293"
+    },
+    {
+      "argument": "arg-112",
+      "premise": "st-294"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-19",
+      "topic": "Should paternity testing of minors require the consent of both parents?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/should-paternity-testing-of-minors-require-the-consent-of-both-parents-29993"
+    }
+  ]
+}

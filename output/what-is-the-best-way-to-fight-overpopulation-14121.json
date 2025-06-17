@@ -1,0 +1,2686 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Promoting adoption in replacement of birth. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Not Promoting adoption in replacement of birth.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "The process of adopting a child is not always feasible or possible due to strict adoption rules and cost. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "The process of adopting a child is always feasible or possible due to strict adoption rules and cost.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "Adoption rules could be loosened, or changed to allow more people such as single parents, same-sex parents, etc, to adopt children. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "Adoption rules couldn't be loosened, or changed to allow more people such as single parents, same-sex parents, etc, to adopt children.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Same-sex joint adoptions are only legal in 26 countries [1] so far. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Same-sex joint adoptions aren't only legal in 26 countries [1] so far.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Having one biological child and adopting others gives the parent/s a chance to experience a variety of parenting experiences and gives children up for adoption a home and family. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Having one biological child and adopting others doesn't give the parent/s a chance to experience a variety of parenting experiences and gives children up for adoption a home and family.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "This will reduce the birth rate for sure. and also homeless children will get home. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "This won't reduce the birth rate for sure. and also homeless children will get home.",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "Violates basic principles of individual liberty. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "Doesn't violate basic principles of individual liberty.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Promoting adoption is not the same as imposing adoption. I.e. to suggest that someone should adopt does not preclude their capacity to choose otherwise, and does not violate any principles of individual liberty. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Promoting adoption is the same as imposing adoption. I.e. to suggest that someone should adopt does not preclude their capacity to choose otherwise, and does not violate any principles of individual liberty.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "You still have to have birth to have anything to adopt. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "You still don't have to have birth to have anything to adopt.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "Countries should provide free birth control. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "Countries shouldn't provide free birth control.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "This will cost a lot of money which could be used in a more effective way. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "This won't cost a lot of money which could be used in a more effective way.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Quite a lot of government dollars are spent upon useless things. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Quite a lot of government dollars aren't spent upon useless things.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "Donald Trump has wasted [2] more money on his excursions than 300 years of presidential salaries. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "Donald Trump hasn't wasted [2] more money on his excursions than 300 years of presidential salaries.",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "Make birth control a health issue as well as abortion a choice for the genitors. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "Don't make birth control a health issue as well as abortion a choice for the genitors.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "This would make birth control accessible to everyone. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "This wouldn't make birth control accessible to everyone.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "This would not only promote the health and safety of our women, especially the women in our workforce, but it would also limit unwanted children, partially fixing overpopulation and making it less likely for children to be hurt and/or killed because they were unwanted or unplanned. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "This wouldn't not only promote the health and safety of our women, especially the women in our workforce, but it would also limit unwanted children, partially fixing overpopulation and making it less likely for children to be hurt and/or killed because they were unwanted or unplanned.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Birth control is not healthy. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Birth control is healthy.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Not all types of birth control are unhealthy. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Not all types of birth control aren't unhealthy.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "This might lead to underpopulation. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "This mightn't lead to underpopulation.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "The use of contraceptives in developing countries is a positive development [3] in the sense that it will help stop global overpopulation. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "The use of contraceptives in not developing countries is a positive development [3] in the sense that it will help stop global overpopulation.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "This could lead to underpopulation. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "This couldn't lead to underpopulation.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "World population has gone from one billion in 1804 to three billion in the 1960s, seven billion today, and potentially ten billion by 2050.  Is underpopulation truly a concern to anyone anywhere? ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "World population hasn't gone from one billion in 1804 to three billion in the 1960s, seven billion today, and potentially ten billion by 2050. Is underpopulation truly a concern to anyone anywhere?",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Birth control at about $30 a month is much less expensive that a single birth at $10,000 or the cost of raising a child. Thus it costs less and ensures that those that have children actually want them. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Birth control at about $30 a month isn't much less expensive that a single birth at $10,000 or the cost of raising a child. Thus it costs less and ensures that those that have children actually want them.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Birth control is already free in the form of abstinence and wire coat hangers. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Birth control isn't already free in the form of abstinence and wire coat hangers.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "Allow for humane, painless suicide mechanisms (right to death) for those with incurable/chronic conditions, thus reducing the drag on resources and healthcare professional time. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "Don't allow for humane, painless suicide mechanisms (right to death) for those with incurable/chronic conditions, thus reducing the drag on resources and healthcare professional time.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "As the number of people affected by this would be very small, the effect would be negligible. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "As the number of people affected by this would be very small, the effect would don't be negligible.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "The number may increase with easier access and less stigma. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "The number may not increase with easier access and less stigma.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "That small minority of people require huge amount of resources to keep them alive or functioning. Therefore resources required for their well being outweigh worth of the person itself. There is no way that money invested returns ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "That small minority of people don't require huge amount of resources to keep them alive or functioning. Therefore resources required for their well being outweigh worth of the person itself. There is no way that money invested returns",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "One thing that would be very likely to happen is that some people would be forced or strongly encouraged to do it by the others, which would be very unfortunate. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "One thing that would be very likely to happen isn't that some people would be forced or strongly encouraged to do it by the others, which would be very unfortunate.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "The rise of companionship [4] technology will lead [5] to voluntary [6] population decline. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "The rise of companionship [4] technology won't lead [5] to voluntary [6] population decline.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Automation of most human activities, including relationships [7], is extremely likely [8]. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Automation of most human activities, including relationships [7], isn't extremely likely [8].",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "Choosing not to reproduce is better than being coerced into not reproducing. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "Choosing to reproduce is better than being coerced into not reproducing.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "Companionship technology doesn't guarantee voluntary population decline. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "Companionship technology guarantees voluntary population decline.",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "Invest in education. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "Don't invest in education.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Improve sexual education. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Don't improve sexual education.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "Empowered women will also be interested in working and participate more in society, instead of staying at home and only raising children. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "Empowered women won't also be interested in working and participate more in society, instead of staying at home and only raising children.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "Comprehensive sex education [9] has shown to limit the number of unwanted teen pregnancies. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "Comprehensive sex education [9] hasn't shown to limit the number of unwanted teen pregnancies.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "Comprehensive education about sex and related issues such as STIs and birth control give people the tools to choose how they want to shape their lives. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "Comprehensive education about sex and related issues such as STIs and birth control don't give people the tools to choose how they want to shape their lives.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "Increase funding for education in schools. Countries with higher education have a lower reproductive rate. This has a more positive impact than taxing citizens with more children as in China ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "Don't increase funding for education in schools. Countries with higher education have a lower reproductive rate. This has a more positive impact than taxing citizens with more children as in China",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "Education systems in some countries reinforce cultural ideas promoting reproduction (e.g. religious prohibition of contraception). ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "Education systems in some countries don't reinforce cultural ideas promoting reproduction (e.g. religious prohibition of contraception).",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "Improve education about overpopulation. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "Don't improve education about overpopulation.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "Educating a population that directly perpetuates overpopulation about the cons of giving multiple births could cause many of those within that population to reconsider their birth choices. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "Educating a population that directly perpetuates overpopulation about the cons of giving multiple births couldn't cause many of those within that population to reconsider their birth choices.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "This has never worked before, as it's our biological imperative. Reproduction is quite literally our only purpose as a species. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "This has worked before, as it's our biological imperative. Reproduction is quite literally our only purpose as a species.",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "This could cause the \"Idiocracy effect\" where only the smart educated people curtail their reproduction, while the dumb people continue to reproduce at a normal rate, eventually creating a world of dumb people incapable of running a society. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "This couldn't cause the \"Idiocracy effect\" where only the smart educated people curtail their reproduction, while the dumb people continue to reproduce at a normal rate, eventually creating a world of dumb people incapable of running a society.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Redefining \"education\" to include means of engaging the wider public on this topic via social media and other mediums would help to mitigate that risk. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Redefining \"education\" to include means of engaging the wider public on this topic via social media and other mediums wouldn't help to mitigate that risk.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "This effect will be even more visible without education about problems that the modern world faces. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "This effect won't be even more visible without education about problems that the modern world faces.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "Better education will result in more statements about overpopulation and more activists fighting overpopulation. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "Better education won't result in more statements about overpopulation and more activists fighting overpopulation.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "Exactly. This would make more people sexually repugnant and make it harder for people to find attractive mates causing a decrease in sex and a decrease in population. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "Exactly. This wouldn't make more people sexually repugnant and make it harder for people to find attractive mates causing a decrease in sex and a decrease in population.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "Opinions are divided about this topic making it difficult to decide what to teach within these lessons. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "Opinions aren't divided about this topic making it difficult to decide what to teach within these lessons.",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "Many developed countries struggle with low birth rates therefore there would be a conflict between global and local point of views. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "Many developed countries don't struggle with low birth rates therefore there would be a conflict between global and local point of views.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "People should be discouraged from having multiple biological children. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "People shouldn't be discouraged from having multiple biological children.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "Promote one-child families. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "Don't promote one-child families.",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "One-child families will provide a big gap between the amount of men and women in a country. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "One-child families won't provide a big gap between the amount of men and women in a country.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "There is no evidence that the natural human sex ratio is anything significantly different from 1:1. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "There isn't no evidence that the natural human sex ratio is anything significantly different from 1:1.",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "Implementing a one-child policy leads to forced or back-door abortions [10] due to gender preferences or trying to avoid a punishment for having more than one child. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "Implementing a one-child policy doesn't lead to forced or back-door abortions [10] due to gender preferences or trying to avoid a punishment for having more than one child.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "We need to halve the population if we are to keep from destroying the earth. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "We don't need to halve the population if we are to keep from destroying the earth.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "One-child policy give a right to parent to have their own child as well as to help reducing overpopulation without any catastrophe. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "One-child policy don't give a right to parent to have their own child as well as to help reducing overpopulation without any catastrophe.",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "Better care and focus can be given to single child upbringing. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "Better care and focus can't be given to single child upbringing.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "Promoting one-child families fails to consider those with limited access to contraceptives due to finances, lack of education, or religious restrictions etc. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "Promoting one-child families doesn't fail to consider those with limited access to contraceptives due to finances, lack of education, or religious restrictions etc.",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "An only child might grow up with less opportunity to experience sibling love and compassion and will be less likely to be able to learn about sharing at a young age. This might lead to a more selfish and short-sighted population. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "An only child mightn't grow up with less opportunity to experience sibling love and compassion and will be less likely to be able to learn about sharing at a young age. This might lead to a more selfish and short-sighted population.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "Some societies are not enlightened enough to be unbiased in the gender of the child, and will have preferential to certain gender, which will upset the ratio in general. ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "Some societies are enlightened enough to be unbiased in the gender of the child, and will have preferential to certain gender, which will upset the ratio in general.",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "Decreases liberty ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "Decreases liberty ",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "Improve IVF technology to reduce instances of twin, triple, quadruple and even more accidental births. As dependency on IVF is bound to increase this should help in the long run. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "Don't improve IVF technology to reduce instances of twin, triple, quadruple and even more accidental births. As dependency on IVF is bound to increase this should help in the long run.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "Fertility rates have slowed [11] as society is naturally encouraged to have fewer children by global social and economic developments. As such, there is no need for further limitations. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "Fertility rates haven't slowed [11] as society is naturally encouraged to have fewer children by global social and economic developments. As such, there is no need for further limitations.",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "More countries need to legalize abortion. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "More countries don't need to legalize abortion.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "What better place to start reducing population than eliminating births that aren't even wanted in the first place. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "What better place to start reducing population than eliminating births that areeven wanted in the first place.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "Legalizing abortion - while an important issue for women's health and reproductive rights - is not a tool for large-scale birth control. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "Legalizing abortion - while an important issue for women's health and reproductive rights - is a tool for large-scale birth control.",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "A lot of people and cultures disagree with abortion. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "A lot of people and cultures don't disagree with abortion.",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "A government should allow abortion. Every individual should be able to make this decision for themselves. ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "A government shouldn't allow abortion. Every individual should be able to make this decision for themselves.",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "There is also the right of the fetus that is considered an individual by some. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "There isn't also the right of the fetus that is considered an individual by some.",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "A woman shouldn't be allowed to choose abortion without the permission of a man. ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "A woman should be allowed to choose abortion without the permission of a man.",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "Apart from moral objections abortion does not address the issue. When your boat is leaking you need to find a leak not just soak a water with a sponge. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "Apart from moral objections abortion does address the issue. When your boat is leaking you need to find a leak not just soak a water with a sponge.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "Unlicenced births should be outlawed, giving governments complete control over who has children, and how often. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "Unlicenced births shouldn't be outlawed, giving governments complete control over who has children, and how often.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "Governments could restrict licences to those with genetic conditions, improving the health of the population in the long-run. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "Governments couldn't restrict licences to those with genetic conditions, improving the health of the population in the long-run.",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "This would obviously characterize a very dictatorial rule. ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "This wouldn't obviously characterize a very dictatorial rule.",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "China did this and is facing population collapse in the coming century. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "China didn't do this and is facing population collapse in the coming century.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77",
+      "text": "Help agrarian societies to develop into more technologically advanced ones. ",
+      "tag": "",
+      "counter_to": "st-77-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77-gen",
+      "text": "Don't help agrarian societies to develop into more technologically advanced ones.",
+      "tag": "generated",
+      "counter_to": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78",
+      "text": "As technology increases, our ability to produce more effectively and efficiently also increases. ",
+      "tag": "",
+      "counter_to": "st-78-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78-gen",
+      "text": "As technology increases, our ability to produce more effectively and efficiently also doesn't increase.",
+      "tag": "generated",
+      "counter_to": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79",
+      "text": "Improving their life quality and making sure they would not need a lot of children to make sure that somebody will support them even when they can't work anymore seems like the best short-term solution. ",
+      "tag": "",
+      "counter_to": "st-79-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79-gen",
+      "text": "Improving their life quality and making sure they would need a lot of children to make sure that somebody will support them even when they can't work anymore seemses like the best short-term solution.",
+      "tag": "generated",
+      "counter_to": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80",
+      "text": "Increased economic development, especially in countries seeking to industrialize and catch up with their more-developed neighbors, means increasing production, which means increasing pollution. ",
+      "tag": "",
+      "counter_to": "st-80-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80-gen",
+      "text": "Increased economic development, especially in countries seeking to industrialize and catch up with their more-developed neighbors, doesn't mean increasing production, which means increasing pollution.",
+      "tag": "generated",
+      "counter_to": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81",
+      "text": "Hans Rosling - a swedish statistician working for the UN - [12] showed a clear statistical trend between better quality of life, access to healthcare, reduction of poverty and the number of average children per family. ",
+      "tag": "",
+      "counter_to": "st-81-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81-gen",
+      "text": "Hans Rosling - a swedish statistician working for the UN - [12] didn't show a clear statistical trend between better quality of life, access to healthcare, reduction of poverty and the number of average children per family.",
+      "tag": "generated",
+      "counter_to": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82",
+      "text": "Overpopulation is not a problem and therefore there is no solution needed [13]. ",
+      "tag": "",
+      "counter_to": "st-82-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82-gen",
+      "text": "Overpopulation is a problem and therefore there is no solution needed [13].",
+      "tag": "generated",
+      "counter_to": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83",
+      "text": "Current population growth is exponential [14]. With no change it's only a matter of time before our resources are depleted. ",
+      "tag": "",
+      "counter_to": "st-83-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83-gen",
+      "text": "Current population growth isn't exponential [14]. With no change it's only a matter of time before our resources are depleted.",
+      "tag": "generated",
+      "counter_to": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84",
+      "text": "As countries leave extreme poverty the birth rate decreases rapidly but they keep growing because of a drop in premature death. There is a delay in stabilising but growth rate is expected to stabilise globally around 2100. Even the most extreme population predictions don't predict exponential growth [15] ",
+      "tag": "",
+      "counter_to": "st-84-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84-gen",
+      "text": "As countries leave extreme poverty the birth rate decreaseses rapidly but they keep growing because of a drop in premature death. There is a delay in stabilising but growth rate is expected to stabilise globally around 2100. Even the most extreme population predictions dopredict exponential growth [15]",
+      "tag": "generated",
+      "counter_to": "st-84",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85",
+      "text": "Earth is not overpopulated. Around 2 acres of land [16] are enough to support a family of 4 (and even more if you are ultra-productive), so 1.9 billion acres are enough with a 7.6 billion population today. Earth has 36.8 billion acres [17] and plenty of food and water, so we are at 5% of Earth's land capacity. ",
+      "tag": "",
+      "counter_to": "st-85-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85-gen",
+      "text": "Earth is overpopulated. Around 2 acres of land [16] are enough to support a family of 4 (and even more if you are ultra-productive), so 1.9 billion acres are enough with a 7.6 billion population today. Earth has 36.8 billion acres [17] and plenty of food and water, so we are at 5% of Earth's land capacity.",
+      "tag": "generated",
+      "counter_to": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86",
+      "text": "Current population growth is exponential. With no change it's only a matter of time before our resources are depleted. ",
+      "tag": "",
+      "counter_to": "st-86-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86-gen",
+      "text": "Current population growth isn't exponential. With no change it's only a matter of time before our resources are depleted.",
+      "tag": "generated",
+      "counter_to": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87",
+      "text": "More people means more hands that can help and more ideas that can be made reality and more solutions to our resource and logistical problems. ",
+      "tag": "",
+      "counter_to": "st-87-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87-gen",
+      "text": "More people doesn't mean more hands that can help and more ideas that can be made reality and more solutions to our resource and logistical problems.",
+      "tag": "generated",
+      "counter_to": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88",
+      "text": "This claim falsely assumes all of earths land capacity can be used for housing and farming. Arable land is currently 10-11%. Even using your overly simplified calculation there are currently 0.194acres per person. data.worldbank.org [18] . Worldwide overfishing is depleting fish stocks faster than they can replenish. ",
+      "tag": "",
+      "counter_to": "st-88-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88-gen",
+      "text": "This claim falsely doesn't assume all of earths land capacity can be used for housing and farming. Arable land is currently 10-11%. Even using your overly simplified calculation there are currently 0.194acres per person. data.worldbank.org [18] . Worldwide overfishing is depleting fish stocks faster than they can replenish.",
+      "tag": "generated",
+      "counter_to": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89",
+      "text": "The world, in reality, is underpopulated. [19] ",
+      "tag": "",
+      "counter_to": "st-89-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89-gen",
+      "text": "The world, in reality, isn't underpopulated. [19]",
+      "tag": "generated",
+      "counter_to": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90",
+      "text": "Use AI in the management of our resources. ",
+      "tag": "",
+      "counter_to": "st-90-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90-gen",
+      "text": "Don't use AI in the management of our resources.",
+      "tag": "generated",
+      "counter_to": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91",
+      "text": "An AI with the power to oversee the entirety of humanity would be an incredible threat to the human race's continued existence. ",
+      "tag": "",
+      "counter_to": "st-91-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91-gen",
+      "text": "An AI with the power to oversee the entirety of humanity wouldn't be an incredible threat to the human race's continued existence.",
+      "tag": "generated",
+      "counter_to": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92",
+      "text": "AI just extends the power of people, it's not a magical non-partisan entity. ",
+      "tag": "",
+      "counter_to": "st-92-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92-gen",
+      "text": "AI just extends the power of people, it's a magical non-partisan entity.",
+      "tag": "generated",
+      "counter_to": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93",
+      "text": "Take a more hands off approach to conventional warfare, allowing countries to expend excess population in territorial wars. ",
+      "tag": "",
+      "counter_to": "st-93-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93-gen",
+      "text": "Don't take a more hands off approach to conventional warfare, allowing countries to expend excess population in territorial wars.",
+      "tag": "generated",
+      "counter_to": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94",
+      "text": "This has the extra benefit of redistributing territory from underpopulated countries to overpopulated ones. ",
+      "tag": "",
+      "counter_to": "st-94-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94-gen",
+      "text": "This doesn't have the extra benefit of redistributing territory from underpopulated countries to overpopulated ones.",
+      "tag": "generated",
+      "counter_to": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95",
+      "text": "Encouraging population reduction by simply allowing spurious wars is inhumane and immoral. ",
+      "tag": "",
+      "counter_to": "st-95-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95-gen",
+      "text": "Not Encouraging population reduction by simply allowing spurious wars is inhumane and immoral.",
+      "tag": "generated",
+      "counter_to": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96",
+      "text": "Warfare can escalate, and if nuclear weapons are used, we could lose valuable agricultural or residential land for decades at least. ",
+      "tag": "",
+      "counter_to": "st-96-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96-gen",
+      "text": "Warfare can't escalate, and if nuclear weapons are used, we could lose valuable agricultural or residential land for decades at least.",
+      "tag": "generated",
+      "counter_to": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97",
+      "text": "Most militaries are made up primarily of men, so casualties could lead to a gender skew. ",
+      "tag": "",
+      "counter_to": "st-97-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97-gen",
+      "text": "Most militaries are made up primarily of men, so casualties couldn't lead to a gender skew.",
+      "tag": "generated",
+      "counter_to": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98",
+      "text": "A society with more women than men is less serious a skew than one with more men than women. ",
+      "tag": "",
+      "counter_to": "st-98-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98-gen",
+      "text": "A society with more women than men isn't less serious a skew than one with more men than women.",
+      "tag": "generated",
+      "counter_to": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99",
+      "text": "Men commit more crimes, particularly when they are not grounded in a family. ",
+      "tag": "",
+      "counter_to": "st-99-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99-gen",
+      "text": "Men commit more crimes, particularly when they are grounded in a family.",
+      "tag": "generated",
+      "counter_to": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100",
+      "text": "The phenomenon of \"surplus women [20]\" came up after a huge number of young men lost their lives in WW1, leading to an imbalance in the population. ",
+      "tag": "",
+      "counter_to": "st-100-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100-gen",
+      "text": "The phenomenon of \"surplus women [20]\" didn't come up after a huge number of young men lost their lives in WW1, leading to an imbalance in the population.",
+      "tag": "generated",
+      "counter_to": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101",
+      "text": "Overpopulation can be alleviated by a change in lifestyle. ",
+      "tag": "",
+      "counter_to": "st-101-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101-gen",
+      "text": "Overpopulation can't be alleviated by a change in lifestyle.",
+      "tag": "generated",
+      "counter_to": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102",
+      "text": "Rather than overpopulation, the main problems are overconsumption, unsustainable governing of resources and uneven distribution of population. Educating people in alternate ways of life could result in same population being relieved from many issues attributed to overpopulation. ",
+      "tag": "",
+      "counter_to": "st-102-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102-gen",
+      "text": "Rather than overpopulation, the main problems aren't overconsumption, unsustainable governing of resources and uneven distribution of population. Educating people in alternate ways of life could result in same population being relieved from many issues attributed to overpopulation.",
+      "tag": "generated",
+      "counter_to": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103",
+      "text": "The problems you named are definitly the most urgent. But even when those problems are solved, you are just postponing the inevitable fact that one day, there are going to be too many of us walking around to sustain this planet. ",
+      "tag": "",
+      "counter_to": "st-103-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103-gen",
+      "text": "The problems you named aren't definitly the most urgent. But even when those problems are solved, you are just postponing the inevitable fact that one day, there are going to be too many of us walking around to sustain this planet.",
+      "tag": "generated",
+      "counter_to": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104",
+      "text": "Birthrates have been declining in correlation with women's and girls access to education. ",
+      "tag": "",
+      "counter_to": "st-104-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104-gen",
+      "text": "Birthrates haven't been declining in correlation with women's and girls access to education.",
+      "tag": "generated",
+      "counter_to": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105",
+      "text": "In nations that preach democracy and free enterprise, it is difficult to tell people to curb consumption, either by legislation or by public service announcement. ",
+      "tag": "",
+      "counter_to": "st-105-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105-gen",
+      "text": "In nations that preach democracy and free enterprise, it isn't difficult to tell people to curb consumption, either by legislation or by public service announcement.",
+      "tag": "generated",
+      "counter_to": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106",
+      "text": "It becomes a matter of education and difficult is not the same as impossible. Consumerism has been conditioned into people and we can overcome it.We just need to have the right conversation. [21] ",
+      "tag": "",
+      "counter_to": "st-106-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106-gen",
+      "text": "It becomes a matter of education and difficult is the same as impossible. Consumerism has been conditioned into people and we can overcome it.We just need to have the right conversation. [21]",
+      "tag": "generated",
+      "counter_to": "st-106",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107",
+      "text": "Behaviour of a population plays a significant role in determining population limits [22]. ",
+      "tag": "",
+      "counter_to": "st-107-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107-gen",
+      "text": "Behaviour of a population doesn't play a significant role in determining population limits [22].",
+      "tag": "generated",
+      "counter_to": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108",
+      "text": "Capitalistic behaviour puts downward pressure on Earth's carrying capacity for our species. At the same time an economic change which resulted in a reduction in consumerism would elevate our planet carrying capacity as it relates to the human species. ",
+      "tag": "",
+      "counter_to": "st-108-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108-gen",
+      "text": "Capitalistic behaviour doesn't put downward pressure on Earth's carrying capacity for our species. At the same time an economic change which resulted in a reduction in consumerism would elevate our planet carrying capacity as it relates to the human species.",
+      "tag": "generated",
+      "counter_to": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109",
+      "text": "Cultural and lifestyle changes will enable self regulation and awareness. This way we will never experience a real overpopulatrion problem in the future. ",
+      "tag": "",
+      "counter_to": "st-109-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109-gen",
+      "text": "Cultural and lifestyle changes will enable self regulation and awareness. This way we will experience a real overpopulatrion problem in the future.",
+      "tag": "generated",
+      "counter_to": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110",
+      "text": "Decrease the infant mortality in developing countries to decrease the birth rate [23] ",
+      "tag": "",
+      "counter_to": "st-110-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110-gen",
+      "text": "Don't decrease the infant mortality in developing countries to decrease the birth rate [23]",
+      "tag": "generated",
+      "counter_to": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111",
+      "text": "Although this will work eventually, it would take some time for populations to be confident enough to integrate the lowered mortality rate into their family planning. ",
+      "tag": "",
+      "counter_to": "st-111-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111-gen",
+      "text": "Although this will work eventually, it wouldn't take some time for populations to be confident enough to integrate the lowered mortality rate into their family planning.",
+      "tag": "generated",
+      "counter_to": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112",
+      "text": "Space exploration. Colonize other planets. Spread through the cosmos. ",
+      "tag": "",
+      "counter_to": "st-112-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112-gen",
+      "text": "Space exploration. don't colonize other planets. Spread through the cosmos.",
+      "tag": "generated",
+      "counter_to": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113",
+      "text": "Cosmos for the most part is uninhabitable. ",
+      "tag": "",
+      "counter_to": "st-113-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113-gen",
+      "text": "Cosmos for the most part isn't uninhabitable.",
+      "tag": "generated",
+      "counter_to": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114",
+      "text": "Because space is big, and things are far apart does not negate that there is infinitely more.respurces out there than on earth. ",
+      "tag": "",
+      "counter_to": "st-114-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114-gen",
+      "text": "Because space is big, and things are far apart does negate that there is infinitely more.respurces out there than on earth.",
+      "tag": "generated",
+      "counter_to": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115",
+      "text": "The current nearest Earth-like planet is Alpha Centauri, it is 4.37 light-years away from our planet [24]. ",
+      "tag": "",
+      "counter_to": "st-115-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115-gen",
+      "text": "The current nearest Earth-like planet isn't Alpha Centauri, it is 4.37 light-years away from our planet [24].",
+      "tag": "generated",
+      "counter_to": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116",
+      "text": "With spatial travel becoming more and more efficient, traveling to planets outside our solar system may only take years versus centuries. ",
+      "tag": "",
+      "counter_to": "st-116-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116-gen",
+      "text": "With spatial travel becoming more and more efficient, traveling to planets outside our solar system may not only take years versus centuries.",
+      "tag": "generated",
+      "counter_to": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117",
+      "text": "With the development of teraformation technologies, we may be able to convert locations like Mars into habitable worlds [25]. ",
+      "tag": "",
+      "counter_to": "st-117-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117-gen",
+      "text": "With the development of teraformation technologies, we may not be able to convert locations like Mars into habitable worlds [25].",
+      "tag": "generated",
+      "counter_to": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118",
+      "text": "We have the ability to build structures that can reside within space. ",
+      "tag": "",
+      "counter_to": "st-118-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118-gen",
+      "text": "We don't have the ability to build structures that can reside within space.",
+      "tag": "generated",
+      "counter_to": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119",
+      "text": "The ISS [26] is one of the most significant structures we have orbiting our planet right now. ",
+      "tag": "",
+      "counter_to": "st-119-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119-gen",
+      "text": "The ISS [26] isn't one of the most significant structures we have orbiting our planet right now.",
+      "tag": "generated",
+      "counter_to": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120",
+      "text": "Cosmic expansion is highly costly in terms of resources, time and energy. ",
+      "tag": "",
+      "counter_to": "st-120-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120-gen",
+      "text": "Cosmic expansion isn't highly costly in terms of resources, time and energy.",
+      "tag": "generated",
+      "counter_to": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121",
+      "text": "This means it is expensive... but expense isnt the question if measure, efficacy is. If it works, it is effective regardless of cost. ",
+      "tag": "",
+      "counter_to": "st-121-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121-gen",
+      "text": "This means it is expensive... but expense isthe question if measure, efficacy is. If it works, it is effective regardless of cost.",
+      "tag": "generated",
+      "counter_to": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122",
+      "text": "Private companies like SpaceX [27] are developing ways to traverse space in a more cost-friendly way [28]. ",
+      "tag": "",
+      "counter_to": "st-122-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122-gen",
+      "text": "Private companies like SpaceX [27] aren't developing ways to traverse space in a more cost-friendly way [28].",
+      "tag": "generated",
+      "counter_to": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123",
+      "text": "Developing the technology to terra-form planets would allow humans to make planets that are close to Earth habitable. ",
+      "tag": "",
+      "counter_to": "st-123-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123-gen",
+      "text": "Not Developing the technology to terra-form planets would allow humans to make planets that are close to Earth habitable.",
+      "tag": "generated",
+      "counter_to": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124",
+      "text": "Colonization may only be able to delay overpopulation. ",
+      "tag": "",
+      "counter_to": "st-124-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124-gen",
+      "text": "Colonization may not only be able to delay overpopulation.",
+      "tag": "generated",
+      "counter_to": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125",
+      "text": "This delay may be able to be extended with more planets to live upon, after having human civilization on at least 3 planets, we may have delayed this issue to beyond the death of our species. ",
+      "tag": "",
+      "counter_to": "st-125-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125-gen",
+      "text": "This delay may not be able to be extended with more planets to live upon, after having human civilization on at least 3 planets, we may have delayed this issue to beyond the death of our species.",
+      "tag": "generated",
+      "counter_to": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126",
+      "text": "You dont have to curtail people's reproductive rights. ",
+      "tag": "",
+      "counter_to": "st-126-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126-gen",
+      "text": "You have to curtail people's reproductive rights.",
+      "tag": "generated",
+      "counter_to": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127",
+      "text": "In the early colonization phases, reproductivity would have to be quite strict, otherwise, resources would run out too fast. ",
+      "tag": "",
+      "counter_to": "st-127-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127-gen",
+      "text": "In the early colonization phases, reproductivity wouldn't have to be quite strict, otherwise, resources would run out too fast.",
+      "tag": "generated",
+      "counter_to": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128",
+      "text": "The Sun will explode eventually, so it's the best way to ensure long term survival of the human race. ",
+      "tag": "",
+      "counter_to": "st-128-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128-gen",
+      "text": "The Sun won't explode eventually, so it's the best way to ensure long term survival of the human race.",
+      "tag": "generated",
+      "counter_to": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129",
+      "text": "The sun will burn out in approximately 5 billion years [29], while the Earth might run out of some of its resources in the current century [30] if used at current rate. ",
+      "tag": "",
+      "counter_to": "st-129-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129-gen",
+      "text": "The sun won't burn out in approximately 5 billion years [29], while the Earth might run out of some of its resources in the current century [30] if used at current rate.",
+      "tag": "generated",
+      "counter_to": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130",
+      "text": "Space is a cool place to live and a lot of people would be interested to join such an experiment. ",
+      "tag": "",
+      "counter_to": "st-130-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130-gen",
+      "text": "Space doesn't be a cool place to live and a lot of people would be interested to join such an experiment.",
+      "tag": "generated",
+      "counter_to": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131",
+      "text": "There are certain problems [31] that humans face when in space. ",
+      "tag": "",
+      "counter_to": "st-131-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131-gen",
+      "text": "There aren't certain problems [31] that humans face when in space.",
+      "tag": "generated",
+      "counter_to": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132",
+      "text": "Empower women ",
+      "tag": "",
+      "counter_to": "st-132-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132-gen",
+      "text": "Empower women ",
+      "tag": "generated",
+      "counter_to": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133",
+      "text": "Local feminist movements help empower women around the world, and are fighting for access to education, reproductive rights, and more agency. ",
+      "tag": "",
+      "counter_to": "st-133-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133-gen",
+      "text": "Local feminist movements don't help empower women around the world, and are fighting for access to education, reproductive rights, and more agency.",
+      "tag": "generated",
+      "counter_to": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134",
+      "text": "African feminism is influencing [32] \"northern\" feminism as well. Assuming that the African continent is devoid of contemporary feminist thinkers and activists is wrong. ",
+      "tag": "",
+      "counter_to": "st-134-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134-gen",
+      "text": "African feminism isn't influencing [32] \"northern\" feminism as well. Assuming that the African continent is devoid of contemporary feminist thinkers and activists is wrong.",
+      "tag": "generated",
+      "counter_to": "st-134",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135",
+      "text": "Although empowering women is beneficial, it is not a systematic solution to the problem of overpopulation. ",
+      "tag": "",
+      "counter_to": "st-135-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135-gen",
+      "text": "Although empowering women is beneficial, it is a systematic solution to the problem of overpopulation.",
+      "tag": "generated",
+      "counter_to": "st-135",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136",
+      "text": "Women who have more educational and economic opportunities have fewer [33] children. ",
+      "tag": "",
+      "counter_to": "st-136-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136-gen",
+      "text": "Women who have more educational and economic opportunities don't have fewer [33] children.",
+      "tag": "generated",
+      "counter_to": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137",
+      "text": "True, having a child means spending a lot of time and patience to raise them instead of focusing on your own journey. ",
+      "tag": "",
+      "counter_to": "st-137-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137-gen",
+      "text": "True, not having a child means spending a lot of time and patience to raise them instead of focusing on your own journey.",
+      "tag": "generated",
+      "counter_to": "st-137",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-28",
+      "claim": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-29",
+      "claim": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-30",
+      "claim": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-31",
+      "claim": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-32",
+      "claim": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-33",
+      "claim": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-34",
+      "claim": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-35",
+      "claim": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-36",
+      "claim": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-37",
+      "claim": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-38",
+      "claim": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-39",
+      "claim": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-40",
+      "claim": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-41",
+      "claim": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-42",
+      "claim": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-43",
+      "claim": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-44",
+      "claim": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-45",
+      "claim": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-46",
+      "claim": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-47",
+      "claim": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-48",
+      "claim": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-49",
+      "claim": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-50",
+      "claim": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-51",
+      "claim": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-52",
+      "claim": "st-136",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-76"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-62"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-69"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-78"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-79"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-80"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-81"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-83"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-85"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-84"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-86"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-88"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-89"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-87"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-91"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-92"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-94"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-95"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-96"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-97"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-98"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-100"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-99"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-102"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-103"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-105"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-107"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-109"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-104"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-106"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-108"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-111"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-113"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-120"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-123"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-124"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-126"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-128"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-130"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-114"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-115"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-117"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-118"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-116"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-119"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-121"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-122"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-125"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-127"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-129"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-131"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-133"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-135"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-136"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-134"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-137"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-13",
+      "topic": "What is the best way to fight overpopulation?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/what-is-the-best-way-to-fight-overpopulation-14121"
+    }
+  ]
+}

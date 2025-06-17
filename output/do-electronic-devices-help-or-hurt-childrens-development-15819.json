@@ -1,0 +1,1515 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Giving devices (phone, tablet, computer, etc.) to children is valuable for their development. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Giving devices (phone, tablet, computer, etc.) to children isn't valuable for their development.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Electronic devices help differently abled children read and write like other kids. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Electronic devices help differently didn't able children read and write like other kids.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "With devices, there is no need for printing out or going to places, everything can be done online and efficiently. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "With devices, there is no need for printing out or going to places, everything can't be done online and efficiently.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Electronic devices can show a negative effect on children. Instead of that give them the Bible or children's magazine [1] to improve the knowledge. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Electronic devices can't show a negative effect on children. Instead of that give them the Bible or children's magazine [1] to improve the knowledge.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "Devices can prevent kids from their development. With the internet helping them to easily find a response to any problem they have, this could ecourage them to depend on technology to an extent. There should always be a limit to it. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "Devices can't prevent kids from their development. With the internet helping them to easily find a response to any problem they have, this could ecourage them to depend on technology to an extent. There should always be a limit to it.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "It entirely depends on factors such as guidance, how much they use it, what alternative activities would be, and for what they freely use it. Studies have shown digital media use can cause cognitive detriments and benefits [2]. ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "It entirely doesn't depend on factors such as guidance, how much they use it, what alternative activities would be, and for what they freely use it. Studies have shown digital media use can cause cognitive detriments and benefits [2].",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "Device usage can impede children's physical development. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "Device usage can't impede children's physical development.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "As long as the time they spend on technology is moderated, device usage shouldn't have any negative impact on a child's bodily development. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "As long as the time they spend on technology is moderated, device usage should have any negative impact on a child's bodily development.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "Studies have shown that spending time hunched over a screen can lead to poor posture, which can lead to long-term problems [3] such as chronic pain and digestive problems. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "Studies haven't shown that spending time hunched over a screen can lead to poor posture, which can lead to long-term problems [3] such as chronic pain and digestive problems.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "Simple changes [4] like intermittent stretching and sitting up straight while using devices can easily help prevent problems like spinal malformation and forward-head posture [5]. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "Simple changes [4] like intermittent stretching and sitting up straight while using devices can't easily help prevent problems like spinal malformation and forward-head posture [5].",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "Children are able to use digital devices while still frequently exercising, climbing trees, playing sports, playing with their friends at recess, etc. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "Children aren't able to use digital devices while still frequently exercising, climbing trees, playing sports, playing with their friends at recess, etc.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Carrying books in a form of a tablet to school can reduce the number of bad posture that a child is developing from carrying heavy backpacks and can positively affect their physical development. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Carrying books in a form of a tablet to school can't reduce the number of bad posture that a child is developing from carrying heavy backpacks and can positively affect their physical development.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "The excess of blue light being produced by the device screens being utilized could cause issues with sleep cycles and vision problems at a older age. These issues, however, are things that most of our society faces, rather than just the children. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "The excess of blue light not being produced by the device screens being utilized could cause issues with sleep cycles and vision problems at a older age. These issues, however, are things that most of our society faces, rather than just the children.",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "Devices don't cause vision problems, just eye tiredness [6]. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "Devices cause vision problems, just eye tiredness [6].",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Children would prefer videogames and devices to playing sport. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Children wouldn't prefer videogames and devices to playing sport.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "Giving them devices with no restrictions negates development value by reinforcing the negative side effects of device use (overuse, dependency, information bias.) ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "Giving them devices with no restrictions doesn't negate development value by reinforcing the negative side effects of device use (overuse, dependency, information bias.)",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Anything can have the potential to cause harm or give benefit. The give is found in the guidelines employed to minimise negative effects and maximise benefits. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Anything can't have the potential to cause harm or give benefit. The give is found in the guidelines employed to minimise negative effects and maximise benefits.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Teaching responsible usage on harmful things is still harmful and should not be done. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Teaching responsible usage on harmful things is still harmful and should be done.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "We already forbid driving licenses, alcohol and other things to children rather than teaching responsible usage because of their harmfulness. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "We already don't forbid driving licenses, alcohol and other things to children rather than teaching responsible usage because of their harmfulness.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "Modelling and teaching responsible use has tremendous benefits. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "Modelling and teaching responsible use doesn't have tremendous benefits.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "Devices are helpful in furthering children's educations. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "Devices aren't helpful in furthering children's educations.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "There are many activities and games that, with the use of a device, help to develop creativity, ability to cooperate and other important skills. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "There aren't many activities and games that, with the use of a device, help to develop creativity, ability to cooperate and other important skills.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Whether devices are educational or not is conditional largely on how the child uses the device. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Whether devices are educational or is conditional largely on how the child uses the device.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Kids learn new words ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Kids don't learn new words",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "Giving kids unbridled access to the internet might result in them learning words that their parents would not approve of. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "Giving kids unbridled access to the internet might result in them learning words that their parents would approve of.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "There are child safety settings [7] (which are becoming better all the time) and features that can block or minimise the access children have to certain online materials. The IT departments at the majority of schools should be able to manage safety settings on school devices. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "There aren't child safety settings [7] (which are becoming better all the time) and features that can block or minimise the access children have to certain online materials. The IT departments at the majority of schools should be able to manage safety settings on school devices.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Reading books would help children better. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Reading books wouldn't help children better.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Reading books helps to expand vocabulary and makes children smarter. [8] ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Reading books doesn't help to expand vocabulary and makes children smarter. [8]",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "The fact that books can expand vocabulary does not necessarily rule out that phones and tablets could do the same. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "The fact that books can expand vocabulary necessarily rules out that phones and tablets could do the same.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "Allowing children access to digital technology enables them to learn about the world and to keep up with recent news. This may result in those children being more politically and socially aware later in life. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "Allowing children access to digital technology doesn't enable them to learn about the world and to keep up with recent news. This may result in those children being more politically and socially aware later in life.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "In this modern day and age, where technology usage is prominent, a child with no previous exposure to technology may easily fall behind in using technology to learn new information, complete school assignments, and develop as integral members of society. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "In this modern day and age, where technology usage is prominent, a child with no previous exposure to technology may not easily fall behind in using technology to learn new information, complete school assignments, and develop as integral members of society.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "There are several studies (can't pull up the links but do look them up) suggesting that exposure to blue light can slow down the mental development of children. Plus, sometimes it can be increasingly difficult to moderate the contents our children can chance upon because the internet is truly a vast ocean of information. Sometimes they could chance upon certain information unfit for their age at the time. Another issue is the exposure to predators online. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "There are several studies (capull up the links but do look them up) suggesting that exposure to blue light can slow down the mental development of children. Plus, sometimes it can be increasingly difficult to moderate the contents our children can chance upon because the internet is truly a vast ocean of information. Sometimes they could chance upon certain information unfit for their age at the time. Another issue is the exposure to predators online.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "Blue light being produced by screens also affects sleep cycles and can cause vision problems at an older age. It can also cause the development of headaches and migraines. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "Blue light not being produced by screens also affects sleep cycles and can cause vision problems at an older age. It can also cause the development of headaches and migraines.",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "Electronic devices, particularly tablets, have been of enormous benefit in the education of mentally disabled and autistic children, even when used predominantly for entertainment. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "Electronic devices, particularly tablets, haven't been of enormous benefit in the education of mentally disabled and autistic children, even when used predominantly for entertainment.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Technology significantly helps children's development, as referring to it helps their mind and increases their knowledge therefore allowing them to have more positive options when fully developed. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Technology significantly doesn't help children's development, as referring to it helps their mind and increases their knowledge therefore allowing them to have more positive options when fully developed.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "Devices can negatively affect children's social and psychological development. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "Devices can't negatively affect children's social and psychological development.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "The intent of the technology is typically disregarded at younger ages which can lead into a phone or tablet addiction that will hurt the child in the long run. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "The intent of the technology isn't typically disregarded at younger ages which can lead into a phone or tablet addiction that will hurt the child in the long run.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "Internet addiction [9] is becoming increasingly common as technological development progresses, and has harmful long-term consequences. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "Internet addiction [9] isn't becoming increasingly common as technological development progresses, and has harmful long-term consequences.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "This issue can be addressed via a parent or guardian being diligent in instilling the value of moderation with regards to technology use. A child operating technology in an uncontrolled environment inevitably will gain an addiction to the tablet/phone, but the same can be said about television, video games, and sugary snacks or drinks. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "This issue can't be addressed via a parent or guardian being diligent in instilling the value of moderation with regards to technology use. A child operating technology in an uncontrolled environment inevitably will gain an addiction to the tablet/phone, but the same can be said about television, video games, and sugary snacks or drinks.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "Kids' development depends more on their interactions with people in their childhood than on their environment(includes electronics). Most well known geniuses grew without the technology available today, so it's logical to conclude that the importance lies in factors other than the electronics, which can either deteriorate or develop(depending on how they're used). ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "Kids' development doesn't depend more on their interactions with people in their childhood than on their environment(includes electronics). Most well known geniuses grew without the technology available today, so it's logical to conclude that the importance lies in factors other than the electronics, which can either deteriorate or develop(depending on how they're used).",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "We cannot say that there are no geniuses among the new generations, because they are still too young to show their abilities. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "We can say that there are no geniuses among the new generations, because they are still too young to show their abilities.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "As the device offers them whatever they want as soon as they want it, children are growing with poor patience and lack of creativity. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "As the device offers them whatever they want as soon as they want it, children aren't growing with poor patience and lack of creativity.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "On the contrary most of interesting games and activities (like Minecraft, Roblox, creating TikTok videos) need creativity and some level of patience to master the play or tool. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "On the contrary most of interesting games and activities (like Minecraft, Roblox, creating TikTok videos) don't need creativity and some level of patience to master the play or tool.",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "Previous top executives of social media’s companies have stated that social media is ripping apart the social fabric. The social fabric is responsible (as a culture always is) of raising children in an appropriate fashion. This is absolutely observably happening. Just look around when you go to dinner at all the people on their phones. theverge.com [10] ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "Previous top executives of social media’s companies haven't stated that social media is ripping apart the social fabric. The social fabric is responsible (as a culture always is) of raising children in an appropriate fashion. This is absolutely observably happening. Just look around when you go to dinner at all the people on their phones. theverge.com [10]",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Kids are lacking learning social behaviour habits such as facial expressions ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Kids aren't lacking learning social behaviour habits such as facial expressions",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "Kids still interact with the world at school, at social events, and during extra-curricular activities. They also speak with their family members or other guardian(s) they live with. During this time, they learn to pick up social cues and communicate with people in real life. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "Kids still don't interact with the world at school, at social events, and during extra-curricular activities. They also speak with their family members or other guardian(s) they live with. During this time, they learn to pick up social cues and communicate with people in real life.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "There would only be negative effects on children's social and psychological health if their device usage is unregulated by supervising adults. As long as their usage is supervised and regulated, children will benefit from using devices as they're learning to adapt to modern ways of social interaction. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "There wouldn't only be negative effects on children's social and psychological health if their device usage is unregulated by supervising adults. As long as their usage is supervised and regulated, children will benefit from using devices as they're learning to adapt to modern ways of social interaction.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "Kids can entertain themselves. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "Kids can't entertain themselves.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "If access to devices can help children learn how to occupy themselves, then it could help foster independence at an early age. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "If access to devices can't help children learn how to occupy themselves, then it could help foster independence at an early age.",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "Conversely, if children rely on devices to occupy them from an early age then it could just as easily foster dependence on said devices. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "Conversely, if children don't rely on devices to occupy them from an early age then it could just as easily foster dependence on said devices.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "If children get in the habit of relying on devices to occupy their time, then they risk losing out on valuable social opportunities. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "If children get in the habit of relying on devices to occupy their time, then they don't risk losing out on valuable social opportunities.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "As long as parents ensure that kids use the devices in moderation, that shouldn't be a problem. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "As long as parents ensure that kids use the devices in moderation, that should be a problem.",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "Parents are often also addicted and kids are just imitating and following parents' example. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "Parents aren't often also addicted and kids are just imitating and following parents' example.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "Parents are not using any device moderation methods at all. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "Parents are using any device moderation methods at all.",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "Children are creative by nature, and they are capable of finding unique solutions to problems. They would be able to entertain themselves even without the use of technology. ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "Children are creative by nature, and they aren't capable of finding unique solutions to problems. They would be able to entertain themselves even without the use of technology.",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "Children have been entertaining themselves for centuries prior to the creation of smart technology. To assume that they can no longer do so in the absence of an electronic device is absurd. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "Children have been entertaining themselves for centuries prior to the creation of smart technology. To assume that they can longer do so in the absence of an electronic device is absurd.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "Kids are not exercising their imagination but just consume visuals served via device ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "Kids are exercising their imagination but just consume visuals served via device",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "Devices can benefit parents by offering them greater control over their children's development. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "Devices can't benefit parents by offering them greater control over their children's development.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "Phones can help track our kids for safety reasons ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "Phones can't help track our kids for safety reasons",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "Using devices to track children does not aid in their development in any way, but rather serves only to help assuage the fears of their parents. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "Using devices to track children aids in their development in any way, but rather serves only to help assuage the fears of their parents.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "Device can be controlled by parent easily (only e.g. games and youtube are allowed) ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "Device can't be controlled by parent easily (only e.g. games and youtube are allowed)",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "Limits the child to what the parents want the technology to be used for ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "Doesn't limit the child to what the parents want the technology to be used for",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "Devices quench a childs curiosity as they have unlimited acces to a huge bank of information. But certain restrictions should be kept so children don't accidentally stumble upon age restricted content. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "Devices quench a childs curiosity as they have unlimited acces to a huge bank of information. But certain restrictions should be kept so children doaccidentally stumble upon age restricted content.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "Having access to unlimited knowledge does not translate to gaining unlimited knowledge. With technology being available round the clock for children, the answers to curious questions are instantly available. It restricts children developing a habit of making a sustained effort and understanding the process of learning something new. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "Having access to unlimited knowledge does translate to gaining unlimited knowledge. With technology being available round the clock for children, the answers to curious questions are instantly available. It restricts children developing a habit of making a sustained effort and understanding the process of learning something new.",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "Using devices in school can negatively affect children's grades. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "Using devices in school can't negatively affect children's grades.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "One study [11] found that students who use computers in class receive lower grades than those who don't. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "One study [11] foundedthat students who use computers in class receive lower grades than those who do.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "Learning to use technology at a young age can better prepare children for pursuing careers in STEM, which could ultimately help them in the long run. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "Not Learning to use technology at a young age can better prepare children for pursuing careers in STEM, which could ultimately help them in the long run.",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "Studies [12] have shown that students have an easier time retaining information when they hand-write and use books versus when they use digital materials. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "Studies [12] haven't shown that students have an easier time retaining information when they hand-write and use books versus when they use digital materials.",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "With the internet at their fingertips, access to phones and computers during class can be very distracting and prevent students from paying attention. ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "With the internet at their fingertips, access to phones and computers during class can't be very distracting and prevent students from paying attention.",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "It is not the fault of a students, that they are negatively using the technology, as it is the role of the teacher to show them how to use it to benefit intellectually form it. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "It is the fault of a students, that they are negatively using the technology, as it is the role of the teacher to show them how to use it to benefit intellectually form it.",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "They can also boost them, by providing more information more accessibly. ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "They can't also boost them, by providing more information more accessibly.",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "It's when the children choose to use the devices during school for non-educational uses. It isn't the fault of the device for how it is used by the individual. If we treated technology as a tool to be utilized during the educational process, children might learn at a young age the ability to use these devices in moderation and in a productive way when necessary. Our mindset with regards to technology and devices needs to change if we want to move forward with the evolution of education. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "It's when the children choose to use the devices during school for non-educational uses. It isthe fault of the device for how it is used by the individual. If we treated technology as a tool to be utilized during the educational process, children might learn at a young age the ability to use these devices in moderation and in a productive way when necessary. Our mindset with regards to technology and devices needs to change if we want to move forward with the evolution of education.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "Many kids are drawn to videogames, and other means of instant gratification. By starting little and teaching them that a device should not be treated like a toy, but rather like a vast database of information, one may be able to avoid negative impacts however. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "Many kids are drawn to videogames, and other means of instant gratification. By starting little and teaching them that a device should be treated like a toy, but rather like a vast database of information, one may be able to avoid negative impacts however.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "Boredom sparks creativity [13] but with a smartphone children are never bored and don't learn to be creative [14]. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "Boredom sparks creativity [13] but with a smartphone children are bored and don't learn to be creative [14].",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "The brain is not trained when children always use smartphones to get an answer for a problem rather than trying to come up with a solution on their own. ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "The brain is trained when children always use smartphones to get an answer for a problem rather than trying to come up with a solution on their own.",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "In modern life ability to find or validate answers fast by using the Internet is at least as important as finding them on their own. Both ways should be learned and encouraged. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "In modern life ability to not find or validate answers fast by using the Internet is at least as important as finding them on their own. Both ways should be learned and encouraged.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-75",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-62"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-69"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-76"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-4",
+      "topic": "Do electronic devices help or hurt children's development?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/do-electronic-devices-help-or-hurt-childrens-development-15819"
+    }
+  ]
+}

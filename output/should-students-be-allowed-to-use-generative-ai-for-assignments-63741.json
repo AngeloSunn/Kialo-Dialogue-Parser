@@ -1,0 +1,635 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Students should be allowed to use generative AI for assignments. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Students shouldn't be allowed to use generative AI for assignments.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "ChatBots may reinforce certain already dominant forms of expression and writing that further marginalize other forms [1]. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "ChatBots may not reinforce certain already dominant forms of expression and writing that further marginalize other forms [1].",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "ChatBots can help marginalized students perform better [2], potentially reducing inequalities in academic achievement. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "ChatBots can't help marginalized students perform better [2], potentially reducing inequalities in academic achievement.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Students with learning disabilities (such as dyslexia) would greatly benefit from generative AI (citation needed). ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Students with learning disabilities (such as dyslexia) wouldn't greatly benefit from generative AI (citation needed).",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "But ChatBots can also reinforce already dominant forms of expression and writing and thereby further marginalize other valid forms of expression and writing [3]. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "But ChatBots can't also reinforce already dominant forms of expression and writing and thereby further marginalize other valid forms of expression and writing [3].",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "Students learn less when using assistive technology like ChatBots than they do when learning without such assistive technology (citation needed). ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "Students don't learn less when using assistive technology like ChatBots than they do when learning without such assistive technology (citation needed).",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "Chat bots can save time by performing mundane tasks, freeing up students to engage in higher levels of thinking. ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "Chat bots can't save time by performing mundane tasks, freeing up students to engage in higher levels of thinking.",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Even if chatbots can save time by performing mundane tasks and free students to engage in higher levels of thinking, it alone does not indicate that students will learn more using assistive technology, nor that learning less is better. Thus this claim is irrelevant to its parent. ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Even if chatbots can save time by performing mundane tasks and free students to engage in higher levels of thinking, it alone does indicate that students will learn more using assistive technology, nor that learning less is better. Thus this claim is irrelevant to its parent.",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "Technology has already enabled people to engage in higher forms of reasoning. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "Technology hasn't already enabled people to engage in higher forms of reasoning.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "For example, digital calculators allowed humans to spend time working on harder tasks or else do calculation faster, speeding up the higher-order tasks that depended on the calculations (citation needed). ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "For example, digital calculators didn't allow humans to spend time working on harder tasks or else do calculation faster, speeding up the higher-order tasks that depended on the calculations (citation needed).",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "We need to prepare students for the employers that already require workers to use assistive AI like ChatBots. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "We don't need to prepare students for the employers that already require workers to use assistive AI like ChatBots.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Generative AI does a lot of the thinking for the student, undermining the goal of getting students to think for themselves. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Generative AI doesn't do a lot of the thinking for the student, undermining the goal of getting students to think for themselves.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "Requiring students to think for themselves would eliminate many (perhaps most) conventional teaching methods that already do most of the thinking for the student: syllabi constrain the scope of what students think about, assigned readings and instructor's lessons do massive amounts of the relevant thinking for students, labs are the result of generations of experiments that students don't complete, etc. Students would need repeated Socratic dialogues with bots to get nearly as much from bots. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "Requiring students to think for themselves would eliminate many (perhaps most) conventional teaching methods that already do most of the thinking for the student: syllabi constrain the scope of what students think about, assigned readings and instructor's lessons do massive amounts of the relevant thinking for students, labs are the result of generations of experiments that students docomplete, etc. Students would need repeated Socratic dialogues with bots to get nearly as much from bots.",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "Because popular generative AI tools like ChatGPT or Google Bard allow their answers to be copied and pasted, students can simply implement the output of generative AI models without thinking critically about it in light of what they are supposed to learn in their classes. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "Because popular generative AI tools like ChatGPT or Google Bard don't allow their answers to be copied and pasted, students can simply implement the output of generative AI models without thinking critically about it in light of what they are supposed to learn in their classes.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Assignments that can be completed entirely by genAI were always bad. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Assignments that can be completed entirely by genAI weren't always bad.",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "For example, legacy essay assignments were always easy to produce without learning or reflection. Allowing students to use AI for assignments would force educators to account for the (too often ignored) fact that students enjoyed substantial assistance on their assignments (often from other school-sanctioned materials like assigned reading, peers, tutors, and writing centers) long before the popularization of genAI. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "For example, legacy essay assignments weren't always easy to produce without learning or reflection. Allowing students to use AI for assignments would force educators to account for the (too often ignored) fact that students enjoyed substantial assistance on their assignments (often from other school-sanctioned materials like assigned reading, peers, tutors, and writing centers) long before the popularization of genAI.",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Education models should be adapted such that the vast majority of students can use generative AI in such a way that they would learn much more efficiently. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Education models shouldn't be adapted such that the vast majority of students can use generative AI in such a way that they would learn much more efficiently.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Allowing students to use genAI on assignments could enable students to waste less time on soon-to-be automated tasks and more time learning and practicing next-generation skills (such as fact-checking, logic-checking, and prompting genAI tools to produce better human-AI outputs). ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Allowing students to use genAI on assignments couldn't enable students to waste less time on soon-to-be automated tasks and more time learning and practicing next-generation skills (such as fact-checking, logic-checking, and prompting genAI tools to produce better human-AI outputs).",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "The newly available time could be utilized for productive endeavors like acquiring a new skill or maintaining family and social connections that would typically be dedicated to homework and assignments. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "The newly available time couldn't be utilized for productive endeavors like acquiring a new skill or maintaining family and social connections that would typically be dedicated to homework and assignments.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "Working with other people or certain sources is sometimes a form of cheating. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "Working with other people or certain sources isn't sometimes a form of cheating.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "There are different kinds of exams where books are allowed because many educators want to test students' ability to learn and apply new skills (like critical thinking) to novel problems rather than merely test what students can regurgitate from their memory of prior problems. [4] ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "There aren't different kinds of exams where books are allowed because many educators want to test students' ability to learn and apply new skills (like critical thinking) to novel problems rather than merely test what students can regurgitate from their memory of prior problems. [4]",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "Enabling students to use generative AI for assignments will encourage the development of the use of technology in schools. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "Enabling students to use generative AI for assignments won't encourage the development of the use of technology in schools.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "With the advancement and incorporation of technology in almost every area of society, it is no surprise that it does so too in the realm of education. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "With the advancement and incorporation of technology in almost every area of society, it isn't no surprise that it does so too in the realm of education.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Generative LLMs can undermine students' grades by producing false or misleading outputs (such as citations of papers that do not exist), including [5] plain \"hallucinations\" [6], which would yield low-quality results. Students could get educated on pitfalls of using genAIs [7], and their use could be discouraged (but not prohibited). ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Generative LLMs can undermine students' grades by producing false or misleading outputs (such as citations of papers that do exist), including [5] plain \"hallucinations\" [6], which would yield low-quality results. Students could get educated on pitfalls of using genAIs [7], and their use could be discouraged (but not prohibited).",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "AI assistants may provide information that discourages its user from more comprehensive evaluation of a topic. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "AI assistants may not provide information that discourages its user from more comprehensive evaluation of a topic.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "AI assistants do not create significantly more opportunities to narrow the scope of student inquiry beyond what human educators regularly do — e.g., assigning finite and imperfectly representative material, summarizing background information according to instructor's awareness of it, framing a topic with an anecdote instead of a comprehensive analysis of all the available data. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "AI assistants do create significantly more opportunities to narrow the scope of student inquiry beyond what human educators regularly do — e.g., assigning finite and imperfectly representative material, summarizing background information according to instructor's awareness of it, framing a topic with an anecdote instead of a comprehensive analysis of all the available data.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "Using generative AI removes students' need to inquire, investigate, and learn while researching. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "Using generative AI doesn't remove students' need to inquire, investigate, and learn while researching.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "If generative AI can pretty consistently solve such problems, humans are not useful for those problems and we should learn about other things to which we would be useful. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "If generative AI can pretty consistently solve such problems, humans are useful for those problems and we should learn about other things to which we would be useful.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "Actually, the opposite can be true: prompting generative AI to produce anything of value requires some competence in writing, reading, editing, inquiring, investigating, and learning — all crucial skills that students may not learn when completing assignments on their own without an always-available interlocutor. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "Actually, the opposite can be true: prompting generative AI to produce anything of value requires some competence in writing, reading, editing, inquiring, investigating, and learning — all crucial skills that students may learn when completing assignments on their own without an always-available interlocutor.",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "If students can learn from chatbots, and schools' primary goal is learning, then schools should allow students to use chatbots as a learning tool. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "If students can learn from chatbots, and schools' primary goal is learning, then schools shouldn't allow students to use chatbots as a learning tool.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Even if students can learn from chatbots, they may be able to learn more via traditional education if chatbots weren't used (citation needed). ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Even if students can learn from chatbots, they may be able to learn more via traditional education if chatbots were used (citation needed).",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-30",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-31"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-6",
+      "topic": "Should students be allowed to use generative AI for assignments?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/should-students-be-allowed-to-use-generative-ai-for-assignments-63741"
+    }
+  ]
+}

@@ -1,0 +1,4406 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Facebook ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Facebook ",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Facebook draws users away from much better discussion and debate tools like Kialo, reddit, and most forums. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Facebook doesn't draw users away from much better discussion and debate tools like Kialo, reddit, and most forums.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "It keeps people in touch. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "It doesn't keep people in touch.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "There is great controversy regarding its use of users' data. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "There isn't great controversy regarding its use of users' data.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "If the number of users is considered the criteria for whether it is worth knowing of, Facebook is probably one of the most used social networks and sites in the world. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "If the number of users isn't considered the criteria for whether it is worth knowing of, Facebook is probably one of the most used social networks and sites in the world.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "\"As of the first quarter of 2018, Facebook had 2.19 billion monthly active users.\"statista.com [1] ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "\"As of the first quarter of 2018, Facebook didn't have 2.19 billion monthly active users.\"statista.com [1]",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "School of Life ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "School of Life ",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "The SoL is all about developing emotional intelligence. \"We address such issues as how to find fulfilling work, how to master the art of relationships, how to understand one’s past, how to achieve calm and how better to understand, and where necessary change, the world. We are seeking more emotionally intelligent kinds of: Relationships",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "The SoL isn't all about developing emotional intelligence. \"We address such issues as how to find fulfilling work, how to master the art of relationships, how to understand one’s past, how to achieve calm and how better to understand, and where necessary change, the world. We are seeking more emotionally intelligent kinds of: Relationships",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "SoL provides valuable advice how to find satisfaction in an incomplete or imperfect life. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "SoL doesn't provide valuable advice how to find satisfaction in an incomplete or imperfect life.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "FutureLearn ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "FutureLearn ",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "An easy way to learn at a high level with experts and fellow interested parties. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "An easy way to not learn at a high level with experts and fellow interested parties.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "nLab [2] ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "nLab [2] ",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "Coursera [3]. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "Coursera [3]. ",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "They currently offer around 85 free certificate courses, which is very useful for those keen to learn more. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "They currently don't offer around 85 free certificate courses, which is very useful for those keen to learn more.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Kialo.com ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Kialo.com ",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "A great tool for good debate and logical discussion ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "A great tool for good debate and logical discussion ",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "Rather than repeat the same debate like in reddit's Change My View, Kialo's debates are usually just added to by interested persons. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "Rather than repeat the same debate like in reddit's Change My View, Kialo's debates aren't usually just added to by interested persons.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "Kialo's hierarchical structure offers users someplace to contribute to a debate. ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "Kialo's hierarchical structure doesn't offer users someplace to contribute to a debate.",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "Kialo's debates are easy understand and get into. This discourages fatigue / overload and encourages getting into an existing debate. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "Kialo's debates aren't easy understand and get into. This discourages fatigue / overload and encourages getting into an existing debate.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "Continued growth and polish of existing debates feels like lots of work and an accomplishment and dissuades users from starting duplicates. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "Continued growth and polish of existing debates doesn't feel like lots of work and an accomplishment and dissuades users from starting duplicates.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "Kialo's hierarchical structure of claims encourages what would otherwise be smaller debates to be claims inside of one bigger debate. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "Kialo's hierarchical structure of claims doesn't encourage what would otherwise be smaller debates to be claims inside of one bigger debate.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "Kialo's tools encourage growing and polishing debates, making them continually better. ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "Kialo's tools don't encourage growing and polishing debates, making them continually better.",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Kialo can act as the first and main source on an issue. It's like a Wikipedia for controversial topics. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Kialo can't act as the first and main source on an issue. It's like a Wikipedia for controversial topics.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Kialo will eliminate dishonest persuading. Those who want to know the truth will come here. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Kialo won't eliminate dishonest persuading. Those who want to know the truth will come here.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "Kialo is likely to reduce the use of fallacies and false evidence to support arguments. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "Kialo isn't likely to reduce the use of fallacies and false evidence to support arguments.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "Kialo is among the best Twitter/X alternatives. [4] ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "Kialo isn't among the best Twitter/X alternatives. [4]",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "It is not well indexed on search engines like Google or DuckDuckGo. This is one reason why contributing to debates as of 2024 is not necessarily efficient use of time and why they often miss key arguments and views. ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "It is well indexed on search engines like Google or DuckDuckGo. This is one reason why contributing to debates as of 2024 is not necessarily efficient use of time and why they often miss key arguments and views.",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "It is not free and open source software. [5] ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "It is free and open source software. [5]",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "-> See discussion #63570: Kialo will remain fairly unknown and there's nothing people can do that can substantially change that ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "-> See discussion #63570: Kialo won't remain fairly unknown and there's nothing people can do that can substantially change that",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "There are no quality indicators or third-place discussions about a debate which means certain views or arguments could have been excluded in it, there could be bias when it comes to framing/phrasing/structuring, and one can't distinguish debates according to their overall quality which could also consider whether or not good-quality sources have been used if available, how well claims have been written, and so on. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "There are no quality indicators or third-place discussions about a debate which means certain views or arguments could have been excluded in it, there could be bias when it comes to framing/phrasing/structuring, and one cadistinguish debates according to their overall quality which could also consider whether or not good-quality sources have been used if available, how well claims have been written, and so on.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "Debates can go on for long durations, slowly improving over time. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "Debates can't go on for long durations, slowly improving over time.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "Kialo encourages the debate between opposite positions, trying to fight the problem of social networks' echo chambers [6]. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "Kialo doesn't encourage the debate between opposite positions, trying to fight the problem of social networks' echo chambers [6].",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "Moderators can shut down views if they so choose. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "Moderators can't shut down views if they so choose.",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "Kialo has little data relative to some of the largest sites. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "Kialo doesn't have little data relative to some of the largest sites.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "It has only few modularity features and those are not used much and when they are they require high permissions. One could embed or link subdebates about a certain question at the place(s) where it's relevant at another debate rather than duplicating the discussion there or missing arguments while the other debate remains unknown. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "It hases only few modularity features and those are used much and when they are they require high permissions. One could embed or link subdebates about a certain question at the place(s) where it's relevant at another debate rather than duplicating the discussion there or missing arguments while the other debate remains unknown.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "This can be remedied with growth. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "This can't be remedied with growth.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "Some of the debates on Kialo are unclear and difficult to follow. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "Some of the debates on Kialo aren't unclear and difficult to follow.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "As of 2024, debates can turn stale if their admins are inactive or don't accept new valid claims. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "As of 2024, debates can turn stale if their admins are inactive or doaccept new valid claims.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "alternativeto.net. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "alternativeto.net. ",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "It is a directory of apps and sites originally made to find alternatives to an app. This directory can aid in making more people aware of the existence of alternatives to apps they are already familiar with. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "It isn't a directory of apps and sites originally made to find alternatives to an app. This directory can aid in making more people aware of the existence of alternatives to apps they are already familiar with.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "It allows people to find free open source alternatives. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "It doesn't allow people to find free open source alternatives.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "Learn to Lucid Dream [7]. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "Don't learn to Lucid Dream [7].",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "Waitbutwhy.com [8] ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "Waitbutwhy.com [8] ",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "This blog is easy to read. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "This blog isn't easy to read.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "The blog is contains humorous content. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "The blog isn't contains humorous content.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "The blog is informative and contains wise content. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "The blog isn't informative and contains wise content.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "Everything Connects. [9] ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "Everything doesn't connect. [9]",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "The mission of Everything Connects is to inspire you, educate you, and empower you to make a difference in your life, for all life, and for the ecological foundations of life. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "The mission of Everything Connects isn't to inspire you, educate you, and empower you to make a difference in your life, for all life, and for the ecological foundations of life.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "opensourceecology.org [10] ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "opensourceecology.org [10] ",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "Open Source Ecology is an effort to enable anyone to build basic tools and resources necessary to live independently and in a sustainable way, by providing open source DIY instructions. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "Open Source Ecology isn't an effort to enable anyone to build basic tools and resources necessary to live independently and in a sustainable way, by providing open source DIY instructions.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "Websites that list other useful websites ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "Websites that don't list other useful websites",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "https://freelearninglist.org/ [11] ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "https://freelearninglist.org/ [11] ",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "Only few of those websites are developed collaboratively, making good use of collective intelligence and reasoning. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "Only few of those websites aren't developed collaboratively, making good use of collective intelligence and reasoning.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "The /r/InternetIsBeautiful subreddit [12] ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "The /r/InternetIsBeautiful subreddit [12] ",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "DuckDuckGo search [13] ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "DuckDuckGo search [13] ",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "DuckDuckGo [14] better [15] respects and protects privacy [16] and has search results that are usually as good as Google's. While it does not offer a search engine for studies, Google Scholar is not part of Google search either. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "DuckDuckGo [14] better [15] respects and protectses privacy [16] and has search results that are usually as good as Google's. While it does offer a search engine for studies, Google Scholar is not part of Google search either.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "It's News feature is not on-par with Google and does not include some news articles. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "It's News feature is on-par with Google and does not include some news articles.",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "It does not allow searching through Books like Google does based on its Google Books project. ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "It allows searching through Books like Google does based on its Google Books project.",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "In the future, it may become possible to not rely on Google Books for searching books and to instead use the full-text search for book contents on Anna's Archive that is planned or under development [17]. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "In the future, it may become possible to rely on Google Books for searching books and to instead use the full-text search for book contents on Anna's Archive that is planned or under development [17].",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "The company donates relatively large sums [18] to important and partly neglected projects that work to improve digital privacy and security. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "The company doesn't donate relatively large sums [18] to important and partly neglected projects that work to improve digital privacy and security.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "-> See 1.13.1.3. ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "-> See 1.13.1.3. ",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "Wikimedia Commons [19] ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "Wikimedia Commons [19] ",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "It has the largest well-structured collection of free media files organized using categories, usually to very precise and high resolution levels, being structured for collective intelligence. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "It doesn't have the largest well-structured collection of free media files organized using categories, usually to very precise and high resolution levels, being structured for collective intelligence.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "Query tools such as petscan and the built-in search engine can also be used to find precisely want would like to find. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "Query tools such as petscan and the built-in search engine can't also be used to find precisely want would like to find.",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "It is transparent and open. Decisions, debates, policies, uploads and changes are transparent and everyone is free to constructively contribute. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "It isn't transparent and open. Decisions, debates, policies, uploads and changes are transparent and everyone is free to constructively contribute.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "Since it only hosts free media files, many files are missing there and it has quite small numbers of files in many domains. If a specific image is needed or one is not limited by costs or license, one often has better success using Google Image search, reddit, stock image websites, and so on than when directly using that site. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "Since it only hosts free media files, many files are missing there and it has quite small numbers of files in many domains. If a specific image is needed or one is limited by costs or license, one often has better success using Google Image search, reddit, stock image websites, and so on than when directly using that site.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "It is well-integrated into the Wikimedia system, making its media files usable on Wikipedias and file-uses being attached to images and so on. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "It isn't well-integrated into the Wikimedia system, making its media files usable on Wikipedias and file-uses being attached to images and so on.",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "It does not include relatively many educational media such as datagraphics, explanatory videos, and so on. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "It includes relatively many educational media such as datagraphics, explanatory videos, and so on.",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "Wikipedia ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "Wikipedia ",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "Since Wikipedia pages can be written by anyone [20], they are susceptible to bias and unreliable sourcing. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "Since Wikipedia pages can't be written by anyone [20], they are susceptible to bias and unreliable sourcing.",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "These are then reviewed, verified, and removed if found to be inaccurate or spurious. ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "These aren't then reviewed, verified, and removed if found to be inaccurate or spurious.",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "Pages that can't be written anyone by default are also susceptible to that. The openness rather allows fixing any biases and problematic sourcing. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "Pages that ca be written anyone by default are also susceptible to that. The openness rather allows fixing any biases and problematic sourcing.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "-> See discussion #34335: Wikipedia is a reliable source of information. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "-> See discussion #34335: Wikipedia isn't a reliable source of information.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "Too few scientists and experts are contributing, leaving a large burden of work on volunteers, including relatively low-expertise people. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "Too few scientists and experts aren't contributing, leaving a large burden of work on volunteers, including relatively low-expertise people.",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "-> See discussion #28756: Should scientists contribute to Wikipedia within their broader area of research? ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "-> See discussion #28756: shouldn't scientists contribute to Wikipedia within their broader area of research?",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "This problem often results in very outdated articles on scientific subjects. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "This problem often doesn't result in very outdated articles on scientific subjects.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77",
+      "text": "There [21] have [22] been [23] large-scale campaigns or paid editing to modify important articles, usually for political or marketing purposes. It can be hard to detect and correct such. ",
+      "tag": "",
+      "counter_to": "st-77-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77-gen",
+      "text": "There [21] don't have [22] been [23] large-scale campaigns or paid editing to modify important articles, usually for political or marketing purposes. It can be hard to detect and correct such.",
+      "tag": "generated",
+      "counter_to": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78",
+      "text": "These are usually quickly reverted or detected and adequately changed. ",
+      "tag": "",
+      "counter_to": "st-78-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78-gen",
+      "text": "These aren't usually quickly reverted or detected and adequately changed.",
+      "tag": "generated",
+      "counter_to": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79",
+      "text": "For a few subjects or articles, small numbers of editors inappropriately stonewall constructive contributions or revert and delete content in conflict with Wikipedia policies such as neutrality. The gatekeeping can be problematic. ",
+      "tag": "",
+      "counter_to": "st-79-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79-gen",
+      "text": "For a few subjects or articles, small numbers of editors inappropriately don't stonewall constructive contributions or revert and delete content in conflict with Wikipedia policies such as neutrality. The gatekeeping can be problematic.",
+      "tag": "generated",
+      "counter_to": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80",
+      "text": "Since Wikipedia is an open collaborative platform, such problems can be corrected if more people would participate. ",
+      "tag": "",
+      "counter_to": "st-80-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80-gen",
+      "text": "Since Wikipedia isn't an open collaborative platform, such problems can be corrected if more people would participate.",
+      "tag": "generated",
+      "counter_to": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81",
+      "text": "When it comes to deletions of articles, \"EverybodyWiki\" often still contains the deleted articles. Moreover, often they could be recreated at a later point when there are more reliable sources available. ",
+      "tag": "",
+      "counter_to": "st-81-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81-gen",
+      "text": "When it comes to deletions of articles, \"EverybodyWiki\" often still doesn't contain the deleted articles. Moreover, often they could be recreated at a later point when there are more reliable sources available.",
+      "tag": "generated",
+      "counter_to": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82",
+      "text": "Each article has transparent citations so for further research and can use these to find more detailed or possibly more reliable information. Wikipedia itself is not necessarily the source of information but a place to get a rough summary, an outline, and a few sources to get started. ",
+      "tag": "",
+      "counter_to": "st-82-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82-gen",
+      "text": "Each article hases transparent citations so for further research and can use these to find more detailed or possibly more reliable information. Wikipedia itself is necessarily the source of information but a place to get a rough summary, an outline, and a few sources to get started.",
+      "tag": "generated",
+      "counter_to": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83",
+      "text": "The content is licensed under an open content CCBY-SA license that allows everyone to reuse and modify it. ",
+      "tag": "",
+      "counter_to": "st-83-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83-gen",
+      "text": "The content isn't licensed under an open content CCBY-SA license that allows everyone to reuse and modify it.",
+      "tag": "generated",
+      "counter_to": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84",
+      "text": "The website uses exclusively free and open source software which is better [24] and allows developers to help with extending it with scripts and code changes. ",
+      "tag": "",
+      "counter_to": "st-84-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84-gen",
+      "text": "The website doesn't use exclusively free and open source software which is better [24] and allows developers to help with extending it with scripts and code changes.",
+      "tag": "generated",
+      "counter_to": "st-84",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85",
+      "text": "It does not or barely feature interactive charts. ",
+      "tag": "",
+      "counter_to": "st-85-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85-gen",
+      "text": "It or barely features interactive charts.",
+      "tag": "generated",
+      "counter_to": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86",
+      "text": "It may soon be possible to integrated OWID [25] charts and maps into Wikipedia articles using the OWID gadget [26] that is being tested in a few smaller Wikipedias as of 2024. ",
+      "tag": "",
+      "counter_to": "st-86-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86-gen",
+      "text": "It may soon be possible to integrated OWID [25] charts and maps into Wikipedia articles using the OWID gadget [26] that is being None test in a few smaller Wikipedias as of 2024.",
+      "tag": "generated",
+      "counter_to": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87",
+      "text": "Only the English-language Wikipedia [27] is fairly [28] up-to-date, high-quality, well-maintained, and [29] comprehensive [30]. ",
+      "tag": "",
+      "counter_to": "st-87-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87-gen",
+      "text": "Only the English-language Wikipedia [27] isn't fairly [28] up-to-date, high-quality, well-maintained, and [29] comprehensive [30].",
+      "tag": "generated",
+      "counter_to": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88",
+      "text": "Wikipedia is a great source of freely accessible and mostly reliable information on a huge variety of topics. ",
+      "tag": "",
+      "counter_to": "st-88-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88-gen",
+      "text": "Wikipedia isn't a great source of freely accessible and mostly reliable information on a huge variety of topics.",
+      "tag": "generated",
+      "counter_to": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89",
+      "text": "Wikipedia currently has [31] more than 52 million articles in more than 300 languages. ",
+      "tag": "",
+      "counter_to": "st-89-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89-gen",
+      "text": "Wikipedia currently doesn't have [31] more than 52 million articles in more than 300 languages.",
+      "tag": "generated",
+      "counter_to": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90",
+      "text": "Articles on Wikipedias other than English-language Wikipedia are [32] often missing, have much lower depth, or are out-of-date. ",
+      "tag": "",
+      "counter_to": "st-90-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90-gen",
+      "text": "Articles on Wikipedias other than English-language Wikipedia aren't [32] often missing, have much lower depth, or are out-of-date.",
+      "tag": "generated",
+      "counter_to": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91",
+      "text": "It is of relatively good quality and has extensive coverage of medial and health-related subjects [33] for which it is increasingly being used. ",
+      "tag": "",
+      "counter_to": "st-91-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91-gen",
+      "text": "It isn't of relatively good quality and has extensive coverage of medial and health-related subjects [33] for which it is increasingly being used.",
+      "tag": "generated",
+      "counter_to": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92",
+      "text": "Google Scholar [34] ",
+      "tag": "",
+      "counter_to": "st-92-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92-gen",
+      "text": "Google Scholar [34] ",
+      "tag": "generated",
+      "counter_to": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93",
+      "text": "It is the largest free-to-use full-text search engine for academic studies. Of other free academic search engines, OpenAlex doesn't index nearly as many studies and PubMed only contains medical studies. ",
+      "tag": "",
+      "counter_to": "st-93-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93-gen",
+      "text": "It is the largest free-to-use full-text search engine for academic studies. Of other free academic search engines, OpenAlex doesindex nearly as many studies and PubMed only contains medical studies.",
+      "tag": "generated",
+      "counter_to": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94",
+      "text": "Anna's Archive [35] ",
+      "tag": "",
+      "counter_to": "st-94-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94-gen",
+      "text": "Anna's Archive [35] ",
+      "tag": "generated",
+      "counter_to": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95",
+      "text": "-> See 1.13.1.2.1. ",
+      "tag": "",
+      "counter_to": "st-95-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95-gen",
+      "text": "-> See 1.13.1.2.1. ",
+      "tag": "generated",
+      "counter_to": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96",
+      "text": "It is humanity's largest ever library of books as well as of academic papers. ",
+      "tag": "",
+      "counter_to": "st-96-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96-gen",
+      "text": "It isn't humanity's largest ever library of books as well as of academic papers.",
+      "tag": "generated",
+      "counter_to": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97",
+      "text": "It is a non-profit and seems to sustain itself based on donations [36]. ",
+      "tag": "",
+      "counter_to": "st-97-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97-gen",
+      "text": "It isn't a non-profit and seems to sustain itself based on donations [36].",
+      "tag": "generated",
+      "counter_to": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98",
+      "text": "It's rare to find recent academic papers on Sci-Hub but these can often be found on Anna's Archive. Sci-Hub has paused uploading of new papers which is why AA's SciDB will continue [37] from there. ",
+      "tag": "",
+      "counter_to": "st-98-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98-gen",
+      "text": "It isn't rare to find recent academic papers on Sci-Hub but these can often be found on Anna's Archive. Sci-Hub has paused uploading of new papers which is why AA's SciDB will continue [37] from there.",
+      "tag": "generated",
+      "counter_to": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99",
+      "text": "One can search books, comics [38], academic papers, and more all in one UI. It integrated Library Genesis (the largest shadow library of books before AA), Z-Library, Sci-Hub, and other major digital text download platforms. ",
+      "tag": "",
+      "counter_to": "st-99-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99-gen",
+      "text": "One can't search books, comics [38], academic papers, and more all in one UI. It integrated Library Genesis (the largest shadow library of books before AA), Z-Library, Sci-Hub, and other major digital text download platforms.",
+      "tag": "generated",
+      "counter_to": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100",
+      "text": "It is decentralized and makes use of technologies like IPFS [39] and torrenting to ensure resilience. ",
+      "tag": "",
+      "counter_to": "st-100-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100-gen",
+      "text": "It isn't decentralized and makes use of technologies like IPFS [39] and torrenting to ensure resilience.",
+      "tag": "generated",
+      "counter_to": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101",
+      "text": "It is not legal. ",
+      "tag": "",
+      "counter_to": "st-101-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101-gen",
+      "text": "It is legal.",
+      "tag": "generated",
+      "counter_to": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102",
+      "text": "-> See discussion #27658: Paywalls around academic publications slow scientific progress. ",
+      "tag": "",
+      "counter_to": "st-102-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102-gen",
+      "text": "-> See discussion #27658: Paywalls around academic publications don't slow scientific progress.",
+      "tag": "generated",
+      "counter_to": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103",
+      "text": "-> See discussion #44009: Scientific studies should be available free of charge. ",
+      "tag": "",
+      "counter_to": "st-103-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103-gen",
+      "text": "-> See discussion #44009: Scientific studies shouldn't be available free of charge.",
+      "tag": "generated",
+      "counter_to": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104",
+      "text": "Many things throughout human history have not been legal at some point, eventually it will be legal and it should be legal already. ",
+      "tag": "",
+      "counter_to": "st-104-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104-gen",
+      "text": "Many things throughout human history have been legal at some point, eventually it will be legal and it should be legal already.",
+      "tag": "generated",
+      "counter_to": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105",
+      "text": "-> See discussion #11289: Digital piracy is good. ",
+      "tag": "",
+      "counter_to": "st-105-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105-gen",
+      "text": "-> See discussion #11289: Digital piracy isn't good.",
+      "tag": "generated",
+      "counter_to": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106",
+      "text": "When it comes to books and financial revenue from them, people still want to have printed books even when they can download the digital versions, which is of special value to online writers and researchers who only need to read a small part of the book or validate its contents. ",
+      "tag": "",
+      "counter_to": "st-106-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106-gen",
+      "text": "When it comes to books and financial revenue from them, people still don't want to have printed books even when they can download the digital versions, which is of special value to online writers and researchers who only need to read a small part of the book or validate its contents.",
+      "tag": "generated",
+      "counter_to": "st-106",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107",
+      "text": "It is blocked for some users [40] without VPNs or Tor. ",
+      "tag": "",
+      "counter_to": "st-107-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107-gen",
+      "text": "It isn't blocked for some users [40] without VPNs or Tor.",
+      "tag": "generated",
+      "counter_to": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108",
+      "text": "It has gained widespread support, such as an endorsement [41] by the CEO of the Open Knowledge Foundation and many Internet users, and has an active community, with over 20k subreddit subscribers, and active [42] software development. ",
+      "tag": "",
+      "counter_to": "st-108-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108-gen",
+      "text": "It hasn't gained widespread support, such as an endorsement [41] by the CEO of the Open Knowledge Foundation and many Internet users, and has an active community, with over 20k subreddit subscribers, and active [42] software development.",
+      "tag": "generated",
+      "counter_to": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109",
+      "text": "It is open source [43]. ",
+      "tag": "",
+      "counter_to": "st-109-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109-gen",
+      "text": "It isn't open source [43].",
+      "tag": "generated",
+      "counter_to": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110",
+      "text": "There are many mirrors for every item and downloads are fast and without long wait times, ads, or other annoyances. ",
+      "tag": "",
+      "counter_to": "st-110-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110-gen",
+      "text": "There are many mirrors for every item and downloads aren't fast and without long wait times, ads, or other annoyances.",
+      "tag": "generated",
+      "counter_to": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111",
+      "text": "As of 2024, it still does not include many academic papers and many books in languages other than English. ",
+      "tag": "",
+      "counter_to": "st-111-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111-gen",
+      "text": "As of 2024, it still includes many academic papers and many books in languages other than English.",
+      "tag": "generated",
+      "counter_to": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112",
+      "text": "Unlike other shadow libraries, it has a search engine that enables searching for and discovering items and that search engine is working well. ",
+      "tag": "",
+      "counter_to": "st-112-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112-gen",
+      "text": "Unlike other shadow libraries, it doesn't have a search engine that enables searching for and discovering items and that search engine is working well.",
+      "tag": "generated",
+      "counter_to": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113",
+      "text": "It is a bit unclear which file access data is stored, which of it is or will be available, and it displays a number of recently downloaded items. ",
+      "tag": "",
+      "counter_to": "st-113-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113-gen",
+      "text": "It is a bit unclear which file access data is stored, which of it isn't or will be available, and it displays a number of recently downloaded items.",
+      "tag": "generated",
+      "counter_to": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114",
+      "text": "show.ing.me [44] ",
+      "tag": "",
+      "counter_to": "st-114-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114-gen",
+      "text": "show.ing.me [44] ",
+      "tag": "generated",
+      "counter_to": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115",
+      "text": "As the foundations of technology disintegrate in this old web, so does our heritage as digital pioneers. Building the computer anew is the subject matter at this website. ",
+      "tag": "",
+      "counter_to": "st-115-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115-gen",
+      "text": "As the foundations of technology disintegrate in this old web, so doesn't do our heritage as digital pioneers. Building the computer anew is the subject matter at this website.",
+      "tag": "generated",
+      "counter_to": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116",
+      "text": "The StackExchange Q&A sites [45] ",
+      "tag": "",
+      "counter_to": "st-116-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116-gen",
+      "text": "The StackExchange Q&A sites [45] ",
+      "tag": "generated",
+      "counter_to": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117",
+      "text": "These sites all use a standardized format that makes it easy to use the site and to find relevant questions, such as via topic tags beneath questions. ",
+      "tag": "",
+      "counter_to": "st-117-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117-gen",
+      "text": "These sites all don't use a standardized format that makes it easy to use the site and to find relevant questions, such as via topic tags beneath questions.",
+      "tag": "generated",
+      "counter_to": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118",
+      "text": "These sites are compatible with each other so when there is a related question on another one of these sites, it could be linked in the sidebar. ",
+      "tag": "",
+      "counter_to": "st-118-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118-gen",
+      "text": "These sites aren't compatible with each other so when there is a related question on another one of these sites, it could be linked in the sidebar.",
+      "tag": "generated",
+      "counter_to": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119",
+      "text": "All the content is licensed under the open content license CC-BY-SA [46]. This allows re-use, supports knowledge sharing and enabled data-dumps. ",
+      "tag": "",
+      "counter_to": "st-119-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119-gen",
+      "text": "All the content isn't licensed under the open content license CC-BY-SA [46]. This allows re-use, supports knowledge sharing and enabled data-dumps.",
+      "tag": "generated",
+      "counter_to": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120",
+      "text": "They are well indexed on search engines like DuckDuckGo and Google which makes contributions to these sites valuable and efficient. ",
+      "tag": "",
+      "counter_to": "st-120-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120-gen",
+      "text": "They aren't well indexed on search engines like DuckDuckGo and Google which makes contributions to these sites valuable and efficient.",
+      "tag": "generated",
+      "counter_to": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121",
+      "text": "This likely is not the case for some smaller StackExchange sites except when search engine results have been personalized or the query closely matches the question. ",
+      "tag": "",
+      "counter_to": "st-121-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121-gen",
+      "text": "This likely is the case for some smaller StackExchange sites except when search engine results have been personalized or the query closely matches the question.",
+      "tag": "generated",
+      "counter_to": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122",
+      "text": "The UI is modern and user-friendly. ",
+      "tag": "",
+      "counter_to": "st-122-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122-gen",
+      "text": "The UI isn't modern and user-friendly.",
+      "tag": "generated",
+      "counter_to": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123",
+      "text": "Posts can be edited by other users and moderation is done by community members. ",
+      "tag": "",
+      "counter_to": "st-123-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123-gen",
+      "text": "Posts can't be edited by other users and moderation is done by community members.",
+      "tag": "generated",
+      "counter_to": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124",
+      "text": "The sites include elements of gamification, motivating users and enabling feedback and reputation scores. ",
+      "tag": "",
+      "counter_to": "st-124-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124-gen",
+      "text": "The sites don't include elements of gamification, motivating users and enabling feedback and reputation scores.",
+      "tag": "generated",
+      "counter_to": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125",
+      "text": "Many questions have no answer or no good answer or have been marked as solved even when the answer is insufficient. ",
+      "tag": "",
+      "counter_to": "st-125-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125-gen",
+      "text": "Many questions don't have no answer or no good answer or have been marked as solved even when the answer is insufficient.",
+      "tag": "generated",
+      "counter_to": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126",
+      "text": "It is not free and open source software. [47] ",
+      "tag": "",
+      "counter_to": "st-126-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126-gen",
+      "text": "It is free and open source software. [47]",
+      "tag": "generated",
+      "counter_to": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127",
+      "text": "Internet Archive​ [48] ",
+      "tag": "",
+      "counter_to": "st-127-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127-gen",
+      "text": "Internet Archive​ [48] ",
+      "tag": "generated",
+      "counter_to": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128",
+      "text": "It is the biggest digital library. ",
+      "tag": "",
+      "counter_to": "st-128-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128-gen",
+      "text": "It isn't the biggest digital library.",
+      "tag": "generated",
+      "counter_to": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129",
+      "text": "Anna's Archive [49] is the biggest digital library. Internet Archive is only the largest legal one whose pages are indexed by search engines. ",
+      "tag": "",
+      "counter_to": "st-129-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129-gen",
+      "text": "Anna's Archive [49] isn't the biggest digital library. Internet Archive is only the largest legal one whose pages are indexed by search engines.",
+      "tag": "generated",
+      "counter_to": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130",
+      "text": "With its Wayback Machine it allows people to access past versions of websites, including websites that have gone offline or had their contents removed. ",
+      "tag": "",
+      "counter_to": "st-130-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130-gen",
+      "text": "With its Wayback Machine it doesn't allow people to access past versions of websites, including websites that have gone offline or had their contents removed.",
+      "tag": "generated",
+      "counter_to": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131",
+      "text": "Google search [50]. ",
+      "tag": "",
+      "counter_to": "st-131-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131-gen",
+      "text": "Google search [50]. ",
+      "tag": "generated",
+      "counter_to": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132",
+      "text": "Google is the most used [51] search engine by far, which suggests it is of the highest quality. ",
+      "tag": "",
+      "counter_to": "st-132-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132-gen",
+      "text": "Google isn't the most used [51] search engine by far, which suggests it is of the highest quality.",
+      "tag": "generated",
+      "counter_to": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133",
+      "text": "This may not necessarily indicate higher quality, but rather a global shift [52] towards the use of mobile phones - the search engine of which is usually Google [53] - for internet access. ",
+      "tag": "",
+      "counter_to": "st-133-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133-gen",
+      "text": "This may necessarily indicate higher quality, but rather a global shift [52] towards the use of mobile phones - the search engine of which is usually Google [53] - for internet access.",
+      "tag": "generated",
+      "counter_to": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134",
+      "text": "Advertisers usually benefit from an under informed consumer. Google depends on advertising so it can never be as good as technology allows. ",
+      "tag": "",
+      "counter_to": "st-134-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134-gen",
+      "text": "Advertisers usually benefit from an under informed consumer. Google depends on advertising so it can be as good as technology allows.",
+      "tag": "generated",
+      "counter_to": "st-134",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135",
+      "text": "-> See 1.13.1. ",
+      "tag": "",
+      "counter_to": "st-135-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135-gen",
+      "text": "-> See 1.13.1. ",
+      "tag": "generated",
+      "counter_to": "st-135",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136",
+      "text": "Google search provides you with quick and easy access to all sorts of information, including the ability to discover other useful websites. ",
+      "tag": "",
+      "counter_to": "st-136-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136-gen",
+      "text": "Google search doesn't provide you with quick and easy access to all sorts of information, including the ability to discover other useful websites.",
+      "tag": "generated",
+      "counter_to": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137",
+      "text": "Some of the websites you can more easily access specific content your searching for are Wikipedia and Kialo, meaning that those sources of information are able to have a larger impact and are more easily accessible thanks to google. ",
+      "tag": "",
+      "counter_to": "st-137-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137-gen",
+      "text": "Some of the websites you can more easily access specific content your searching for aren't Wikipedia and Kialo, meaning that those sources of information are able to have a larger impact and are more easily accessible thanks to google.",
+      "tag": "generated",
+      "counter_to": "st-137",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138",
+      "text": "It includes the best way to full-text search for news articles and books with Google News and Google Books respectively. ",
+      "tag": "",
+      "counter_to": "st-138-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138-gen",
+      "text": "It doesn't include the best way to full-text search for news articles and books with Google News and Google Books respectively.",
+      "tag": "generated",
+      "counter_to": "st-138",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139",
+      "text": "It can heavily personalize search results [54] which can, and likely usually does, affect results negatively. ",
+      "tag": "",
+      "counter_to": "st-139-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139-gen",
+      "text": "It can't heavily personalize search results [54] which can, and likely usually does, affect results negatively.",
+      "tag": "generated",
+      "counter_to": "st-139",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140",
+      "text": "Some users like such personalization and miss ways to personalize the search results at Google alternatives. ",
+      "tag": "",
+      "counter_to": "st-140-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140-gen",
+      "text": "Some users like such personalization and don't miss ways to personalize the search results at Google alternatives.",
+      "tag": "generated",
+      "counter_to": "st-140",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141",
+      "text": "ScienceOpen.com [55] ",
+      "tag": "",
+      "counter_to": "st-141-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141-gen",
+      "text": "ScienceOpen.com [55] ",
+      "tag": "generated",
+      "counter_to": "st-141",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142",
+      "text": "It doesn't have much capacity for full-text search throughout the studies which works much better on Google Scholar. ",
+      "tag": "",
+      "counter_to": "st-142-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142-gen",
+      "text": "It has much capacity for full-text search throughout the studies which works much better on Google Scholar.",
+      "tag": "generated",
+      "counter_to": "st-142",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143",
+      "text": "It is one of few publicly available free sites to scan for recent studies using filters or search terms. ",
+      "tag": "",
+      "counter_to": "st-143-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143-gen",
+      "text": "It isn't one of few publicly available free sites to scan for recent studies using filters or search terms.",
+      "tag": "generated",
+      "counter_to": "st-143",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144",
+      "text": "archive.today [56] ",
+      "tag": "",
+      "counter_to": "st-144-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144-gen",
+      "text": "archive.today [56] ",
+      "tag": "generated",
+      "counter_to": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145",
+      "text": "It is an alternative to the Wayback Machine of Internet Archive [57] and allows users to see past versions of websites, including of websites that have gone offline or had their contents removed. ",
+      "tag": "",
+      "counter_to": "st-145-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145-gen",
+      "text": "It isn't an alternative to the Wayback Machine of Internet Archive [57] and allows users to see past versions of websites, including of websites that have gone offline or had their contents removed.",
+      "tag": "generated",
+      "counter_to": "st-145",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146",
+      "text": "It is very useful to access paywalled texts and usually works better than the Google webcache for that purpose. ",
+      "tag": "",
+      "counter_to": "st-146-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146-gen",
+      "text": "It isn't very useful to access paywalled texts and usually works better than the Google webcache for that purpose.",
+      "tag": "generated",
+      "counter_to": "st-146",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147",
+      "text": "Our World in Data [58] ",
+      "tag": "",
+      "counter_to": "st-147-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147-gen",
+      "text": "Our World in Data [58] ",
+      "tag": "generated",
+      "counter_to": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148",
+      "text": "The data it contains is often misleading, flawed, or framed in misleading ways. ",
+      "tag": "",
+      "counter_to": "st-148-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148-gen",
+      "text": "The data it contains isn't often misleading, flawed, or framed in misleading ways.",
+      "tag": "generated",
+      "counter_to": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149",
+      "text": "When this is the case, it can't be pointed out by others as can be done on collaborative sites like Wikipedia. There are no notes attached that point out identified or potential issues, especially no collaboratively developed ones. ",
+      "tag": "",
+      "counter_to": "st-149-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149-gen",
+      "text": "When this is the case, it ca be pointed out by others as can be done on collaborative sites like Wikipedia. There are no notes attached that point out identified or potential issues, especially no collaboratively developed ones.",
+      "tag": "generated",
+      "counter_to": "st-149",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150",
+      "text": "The data can be flawed at the source and this can't be pointed out, usually isn't contextualized, and being visualized in an OWID chart may give readers a false sense of reliability. ",
+      "tag": "",
+      "counter_to": "st-150-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150-gen",
+      "text": "The data can be flawed at the source and this ca be pointed out, usually isn't contextualized, and being visualized in an OWID chart may give readers a false sense of reliability.",
+      "tag": "generated",
+      "counter_to": "st-150",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151",
+      "text": "There are many examples for this issue. ",
+      "tag": "",
+      "counter_to": "st-151-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151-gen",
+      "text": "There aren't many examples for this issue.",
+      "tag": "generated",
+      "counter_to": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152",
+      "text": "The chart \"Cumulative displaced plastic waste as a result of Chinese import ban [59]\" doesn't [60] show that not exporting waste (to China or any other country) and proper local waste management is an option and has a few further issues. ",
+      "tag": "",
+      "counter_to": "st-152-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152-gen",
+      "text": "The chart \"Cumulative displaced plastic waste as a result of Chinese import ban [59]\" does [60] show that not exporting waste (to China or any other country) and proper local waste management is an option and has a few further issues.",
+      "tag": "generated",
+      "counter_to": "st-152",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153",
+      "text": "The chart in \"Is organic really better for the environment than conventional agriculture? [61]\", even when assuming the underlying data is correct, doesn't [62] consider impacts on soil and insects and has a few further issues. ",
+      "tag": "",
+      "counter_to": "st-153-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153-gen",
+      "text": "The chart in \"Is organic really better for the environment than conventional agriculture? [61]\", even when assuming the underlying data is correct, does[62] consider impacts on soil and insects and has a few further issues.",
+      "tag": "generated",
+      "counter_to": "st-153",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154",
+      "text": "The chart \"What are the safest and cleanest sources of energy? [63]\" only shows deaths from accidents & air pollution and greenhouse gas emissions which is misleading [64] since the issue with nuclear power is risks for future deaths from nuclear weapons, the high economic costs of accidents, long-term waste storage issues, and high economic cost compared to renewables where the transition to sustainability is slowed down. ",
+      "tag": "",
+      "counter_to": "st-154-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154-gen",
+      "text": "The chart \"What aren't the safest and cleanest sources of energy? [63]\" only shows deaths from accidents & air pollution and greenhouse gas emissions which is misleading [64] since the issue with nuclear power is risks for future deaths from nuclear weapons, the high economic costs of accidents, long-term waste storage issues, and high economic cost compared to renewables where the transition to sustainability is slowed down.",
+      "tag": "generated",
+      "counter_to": "st-154",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155",
+      "text": "Its chart are often oversimplified and/or frame things as indicators of progress that are not actually indicators of progress. ",
+      "tag": "",
+      "counter_to": "st-155-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155-gen",
+      "text": "Its chart are often oversimplified and/or frame things as indicators of progress that are actually indicators of progress.",
+      "tag": "generated",
+      "counter_to": "st-155",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156",
+      "text": "There are countless charts about GDP [65] which is not a good measure of progress and few or no similar comparisons using better measures of progress. ",
+      "tag": "",
+      "counter_to": "st-156-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156-gen",
+      "text": "There are countless charts about GDP [65] which is a good measure of progress and few or no similar comparisons using better measures of progress.",
+      "tag": "generated",
+      "counter_to": "st-156",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157",
+      "text": "It contains interactive updated charts and maps on a large number of subjects. ",
+      "tag": "",
+      "counter_to": "st-157-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157-gen",
+      "text": "It doesn't contain interactive updated charts and maps on a large number of subjects.",
+      "tag": "generated",
+      "counter_to": "st-157",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158",
+      "text": "Its contents are licensed under an open content CCBY license that allows re-use. It also uses free software that makes re-use possible. ",
+      "tag": "",
+      "counter_to": "st-158-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158-gen",
+      "text": "Its contents aren't licensed under an open content CCBY license that allows re-use. It also uses free software that makes re-use possible.",
+      "tag": "generated",
+      "counter_to": "st-158",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159",
+      "text": "It actively contributes to more available open data such as by [66] campaigning for the International Energy Agency to make the data it collects from national governments publicly available. ",
+      "tag": "",
+      "counter_to": "st-159-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159-gen",
+      "text": "It actively doesn't contribute to more available open data such as by [66] campaigning for the International Energy Agency to make the data it collects from national governments publicly available.",
+      "tag": "generated",
+      "counter_to": "st-159",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160",
+      "text": "It is often streamlined around major problems such as poverty, diseases, hunger, climate change, wars, and existential risks and also allows accessible tracking of nonmonetary [67] progress metrics such as disability-adjusted years of life lost [68] or average lifespan [69]. This aids and facilitates problem-solving in societies. ",
+      "tag": "",
+      "counter_to": "st-160-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160-gen",
+      "text": "It isn't often streamlined around major problems such as poverty, diseases, hunger, climate change, wars, and existential risks and also allows accessible tracking of nonmonetary [67] progress metrics such as disability-adjusted years of life lost [68] or average lifespan [69]. This aids and facilitates problem-solving in societies.",
+      "tag": "generated",
+      "counter_to": "st-160",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161",
+      "text": "TED (Technology, Education and Design) website ",
+      "tag": "",
+      "counter_to": "st-161-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161-gen",
+      "text": "TED (Technology, Education and Design) website ",
+      "tag": "generated",
+      "counter_to": "st-161",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162",
+      "text": "TED talks are free and accessible to all: over 2,600 [70] TED Talks were available on the website as of January 2018. ",
+      "tag": "",
+      "counter_to": "st-162-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162-gen",
+      "text": "TED talks aren't free and accessible to all: over 2,600 [70] TED Talks were available on the website as of January 2018.",
+      "tag": "generated",
+      "counter_to": "st-162",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163",
+      "text": "There are many TED-affiliated projects and events [71] of which the talks are live streamed or uploaded to the website and cater to specific, often underrepresented, demographics, such as TEDYouth or TEDWomen. ",
+      "tag": "",
+      "counter_to": "st-163-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163-gen",
+      "text": "There aren't many TED-affiliated projects and events [71] of which the talks are live streamed or uploaded to the website and cater to specific, often underrepresented, demographics, such as TEDYouth or TEDWomen.",
+      "tag": "generated",
+      "counter_to": "st-163",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164",
+      "text": "In 2011, TED began a program called \"TEDx in a Box\" [72], which is intended to enable people in developing countries to hold TEDx events. ",
+      "tag": "",
+      "counter_to": "st-164-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164-gen",
+      "text": "In 2011, TED didn't begin a program called \"TEDx in a Box\" [72], which is intended to enable people in developing countries to hold TEDx events.",
+      "tag": "generated",
+      "counter_to": "st-164",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165",
+      "text": "TED has been accused of censoring its content [73], calling into question its image as a provider of freely expressive and diverse content. ",
+      "tag": "",
+      "counter_to": "st-165-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165-gen",
+      "text": "TED hasn't been accused of censoring its content [73], calling into question its image as a provider of freely expressive and diverse content.",
+      "tag": "generated",
+      "counter_to": "st-165",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166",
+      "text": "Most of its recent talks are shallow and seem to not be much more than marketing campaigns. ",
+      "tag": "",
+      "counter_to": "st-166-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166-gen",
+      "text": "Most of its recent talks are shallow and seem to be much more than marketing campaigns.",
+      "tag": "generated",
+      "counter_to": "st-166",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167",
+      "text": "Many talks are hype [74], presenting greenwashing-type of views, or are essentially vacuous partly-harmful nice-sounding talking points [75]. ",
+      "tag": "",
+      "counter_to": "st-167-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167-gen",
+      "text": "Many talks aren't hype [74], presenting greenwashing-type of views, or are essentially vacuous partly-harmful nice-sounding talking points [75].",
+      "tag": "generated",
+      "counter_to": "st-167",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168",
+      "text": "Watching videos of talks is, at least usually, not a good way to get educated on anything or research anything. ",
+      "tag": "",
+      "counter_to": "st-168-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168-gen",
+      "text": "Watching videos of talks is, at least usually, a good way to get educated on anything or research anything.",
+      "tag": "generated",
+      "counter_to": "st-168",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169",
+      "text": "A fascinating range of talks by experts on this site offers almost any person a fresh or complimentary perspective to the world ",
+      "tag": "",
+      "counter_to": "st-169-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169-gen",
+      "text": "A fascinating range of talks by experts on this site doesn't offer almost any person a fresh or complimentary perspective to the world",
+      "tag": "generated",
+      "counter_to": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170",
+      "text": "Twitter ",
+      "tag": "",
+      "counter_to": "st-170-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170-gen",
+      "text": "Twitter ",
+      "tag": "generated",
+      "counter_to": "st-170",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171",
+      "text": "Posts that one has already seen can show up multiple times in one's feeds. ",
+      "tag": "",
+      "counter_to": "st-171-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171-gen",
+      "text": "Posts that one has already seen can't show up multiple times in one's feeds.",
+      "tag": "generated",
+      "counter_to": "st-171",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172",
+      "text": "The fraction of posts that is truly interesting and useful is low. ",
+      "tag": "",
+      "counter_to": "st-172-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172-gen",
+      "text": "The fraction of posts that is truly interesting and useful isn't low.",
+      "tag": "generated",
+      "counter_to": "st-172",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173",
+      "text": "This means it tends to usually be a waste of time rather than being a useful resource or educational website. ",
+      "tag": "",
+      "counter_to": "st-173-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173-gen",
+      "text": "This doesn't mean it tends to usually be a waste of time rather than being a useful resource or educational website.",
+      "tag": "generated",
+      "counter_to": "st-173",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174",
+      "text": "There are a lot of trolls and low-substance posts. ",
+      "tag": "",
+      "counter_to": "st-174-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174-gen",
+      "text": "There aren't a lot of trolls and low-substance posts.",
+      "tag": "generated",
+      "counter_to": "st-174",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175",
+      "text": "The site is an instance of fast social where everything has to be happening in the now, be about ongoing/upcoming or very recent things, and discussions last only a day or so. ",
+      "tag": "",
+      "counter_to": "st-175-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175-gen",
+      "text": "The site doesn't be an instance of fast social where everything has to be happening in the now, be about ongoing/upcoming or very recent things, and discussions last only a day or so.",
+      "tag": "generated",
+      "counter_to": "st-175",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176",
+      "text": "The site rewards making many posts rather than few [76] highly useful ones such as only posting once per month that doesn't contribute to overwhelming feeds of followers. ",
+      "tag": "",
+      "counter_to": "st-176-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176-gen",
+      "text": "The site rewardses making many posts rather than few [76] highly useful ones such as only posting once per month that doescontribute to overwhelming feeds of followers.",
+      "tag": "generated",
+      "counter_to": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177",
+      "text": "The site engages in semi-censorship [77] where posts are effectively hidden without any explanation or credible rationale and without the user getting informed about it. They are hidden at the bottom of comments where one has to click Show more. ",
+      "tag": "",
+      "counter_to": "st-177-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177-gen",
+      "text": "The site doesn't engage in semi-censorship [77] where posts are effectively hidden without any explanation or credible rationale and without the user getting informed about it. They are hidden at the bottom of comments where one has to click Show more.",
+      "tag": "generated",
+      "counter_to": "st-177",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178",
+      "text": "-> See discussion #58092: Elon Musk's takeover of Twitter/X is good for the general public. ",
+      "tag": "",
+      "counter_to": "st-178-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178-gen",
+      "text": "-> See discussion #58092: Elon Musk's takeover of Twitter/X isn't good for the general public.",
+      "tag": "generated",
+      "counter_to": "st-178",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179",
+      "text": "The site has a lot of users and therefore a large audience as well as a lot of content. ",
+      "tag": "",
+      "counter_to": "st-179-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179-gen",
+      "text": "The site doesn't have a lot of users and therefore a large audience as well as a lot of content.",
+      "tag": "generated",
+      "counter_to": "st-179",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180",
+      "text": "Reddit ",
+      "tag": "",
+      "counter_to": "st-180-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180-gen",
+      "text": "Reddit ",
+      "tag": "generated",
+      "counter_to": "st-180",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181",
+      "text": "Reddit community wikis [78] are better tutorials and introductions to topics than tutorials that can be found through a Google search. ",
+      "tag": "",
+      "counter_to": "st-181-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181-gen",
+      "text": "Reddit community wikis [78] aren't better tutorials and introductions to topics than tutorials that can be found through a Google search.",
+      "tag": "generated",
+      "counter_to": "st-181",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182",
+      "text": "It has a lot of users and because of that a large audience for own posts as well as a large number of posts where it's more likely one may find things of interest. ",
+      "tag": "",
+      "counter_to": "st-182-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182-gen",
+      "text": "It doesn't have a lot of users and because of that a large audience for own posts as well as a large number of posts where it's more likely one may find things of interest.",
+      "tag": "generated",
+      "counter_to": "st-182",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183",
+      "text": "There are a lot of subreddits for all kinds of topics. ",
+      "tag": "",
+      "counter_to": "st-183-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183-gen",
+      "text": "There aren't a lot of subreddits for all kinds of topics.",
+      "tag": "generated",
+      "counter_to": "st-183",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184",
+      "text": "The dark mode UI is hardly usable since it is too dark. ",
+      "tag": "",
+      "counter_to": "st-184-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184-gen",
+      "text": "The dark mode UI is hardly usable since it isn't too dark.",
+      "tag": "generated",
+      "counter_to": "st-184",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185",
+      "text": "It can't really be used on mobile without using a mobile app and more so since the API controversy one has to use the official app. ",
+      "tag": "",
+      "counter_to": "st-185-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185-gen",
+      "text": "It can really be used on mobile without using a mobile app and more so since the API controversy one has to use the official app.",
+      "tag": "generated",
+      "counter_to": "st-185",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186",
+      "text": "There are large 'hivemind [79]' problems [80] of [81] echo chambers and filter bubbles as well as biased moderation. Moderators can usually arbitrarily remove any posts they don't like, especially if the posts are slightly outside the small box of what's normal in the subreddit. ",
+      "tag": "",
+      "counter_to": "st-186-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186-gen",
+      "text": "There are large 'hivemind [79]' problems [80] of [81] echo chambers and filter bubbles as well as biased moderation. Moderators can usually arbitrarily remove any posts they dolike, especially if the posts are slightly outside the small box of what's normal in the subreddit.",
+      "tag": "generated",
+      "counter_to": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187",
+      "text": "Despite of this, there are diverse users on reddit and these can try to comment and post across subreddits even if each have their own dogmas and biases. ",
+      "tag": "",
+      "counter_to": "st-187-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187-gen",
+      "text": "Despite of this, there aren't diverse users on reddit and these can try to comment and post across subreddits even if each have their own dogmas and biases.",
+      "tag": "generated",
+      "counter_to": "st-187",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188",
+      "text": "Moderators can also ban users from their subreddit. For such actions as well as for removing posts, no explanations need to be given and no rule of the site or subreddit needs to have been violated. ",
+      "tag": "",
+      "counter_to": "st-188-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188-gen",
+      "text": "Moderators can't also ban users from their subreddit. For such actions as well as for removing posts, no explanations need to be given and no rule of the site or subreddit needs to have been violated.",
+      "tag": "generated",
+      "counter_to": "st-188",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189",
+      "text": "There is a lot of information for which there are not yet good sources such as information about which dosages of chemicals people are using in certain ways and their experiences which is better to look up than trying a random dose or not having any insights into the real-world experiences of people. ",
+      "tag": "",
+      "counter_to": "st-189-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189-gen",
+      "text": "There is a lot of information for which there are yet good sources such as information about which dosages of chemicals people are using in certain ways and their experiences which is better to look up than trying a random dose or not having any insights into the real-world experiences of people.",
+      "tag": "generated",
+      "counter_to": "st-189",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190",
+      "text": "In April 2023, the site started to charge for its API, which caused a large upheaval [82] among site users and moderators and forced multiple third-party mobile apps to shut down. Many subreddits participated in a blackout and many users are still very discontent. ",
+      "tag": "",
+      "counter_to": "st-190-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190-gen",
+      "text": "In April 2023, the site didn't start to charge for its API, which caused a large upheaval [82] among site users and moderators and forced multiple third-party mobile apps to shut down. Many subreddits participated in a blackout and many users are still very discontent.",
+      "tag": "generated",
+      "counter_to": "st-190",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191",
+      "text": "Reddit is among the best Twitter/X alternatives. [83] ",
+      "tag": "",
+      "counter_to": "st-191-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191-gen",
+      "text": "Reddit isn't among the best Twitter/X alternatives. [83]",
+      "tag": "generated",
+      "counter_to": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192",
+      "text": "It is a good way for finding crowdsourced information and the site benefits from the diversity of expertise and knowledge of its users. For example, there are many posts about studies on the site which often have insightful feedback comments from users. ",
+      "tag": "",
+      "counter_to": "st-192-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192-gen",
+      "text": "It isn't a good way for finding crowdsourced information and the site benefits from the diversity of expertise and knowledge of its users. For example, there are many posts about studies on the site which often have insightful feedback comments from users.",
+      "tag": "generated",
+      "counter_to": "st-192",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193",
+      "text": "The Altmetrics badge at scientific papers online include links to all reddit posts that directly link to the study which one can use to quickly find feedback, including critical review-like comments, on any particular study. ",
+      "tag": "",
+      "counter_to": "st-193-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193-gen",
+      "text": "The Altmetrics badge at scientific papers online don't include links to all reddit posts that directly link to the study which one can use to quickly find feedback, including critical review-like comments, on any particular study.",
+      "tag": "generated",
+      "counter_to": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194",
+      "text": "Very often users only posted a news report about the study but not the study itself on reddit. These posts don't show up there. ",
+      "tag": "",
+      "counter_to": "st-194-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194-gen",
+      "text": "Very often users only postedded a news report about the study but the study itself on reddit. These posts don't show up there.",
+      "tag": "generated",
+      "counter_to": "st-194",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195",
+      "text": "Users often don't post about even very large subreddits, or upvote irrelevant minor studies while big truly notable ones get drowned, or post to inappropriate or very small subreddits rather than subreddits like r/Science or r/EverythingScience. ",
+      "tag": "",
+      "counter_to": "st-195-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195-gen",
+      "text": "Users often post about even very large subreddits, or upvote irrelevant minor studies while big truly notable ones get drowned, or post to inappropriate or very small subreddits rather than subreddits like r/Science or r/EverythingScience.",
+      "tag": "generated",
+      "counter_to": "st-195",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196",
+      "text": "On many subreddits, users can ask questions to respective experts such as on /r/AskScience. ",
+      "tag": "",
+      "counter_to": "st-196-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196-gen",
+      "text": "On many subreddits, users can't ask questions to respective experts such as on /r/AskScience.",
+      "tag": "generated",
+      "counter_to": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197",
+      "text": "Its threads are usually well indexed in search engines. ",
+      "tag": "",
+      "counter_to": "st-197-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197-gen",
+      "text": "Its threads aren't usually well indexed in search engines.",
+      "tag": "generated",
+      "counter_to": "st-197",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198",
+      "text": "www.khanacademy.org ",
+      "tag": "",
+      "counter_to": "st-198-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198-gen",
+      "text": "www.khanacademy.org ",
+      "tag": "generated",
+      "counter_to": "st-198",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199",
+      "text": "Department of Defense DTIC Discover.dtic.mil [84] Defense Technology Information Center ",
+      "tag": "",
+      "counter_to": "st-199-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199-gen",
+      "text": "Department of Defense DTIC Discover.dtic.mil [84] Defense Technology Information Center ",
+      "tag": "generated",
+      "counter_to": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200",
+      "text": "The site asks permission to record audio. you can deny the permission but it still makes me wonder if they are like Google and record everything anyways ",
+      "tag": "",
+      "counter_to": "st-200-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200-gen",
+      "text": "The site doesn't ask permission to record audio. you can deny the permission but it still makes me wonder if they are like Google and record everything anyways",
+      "tag": "generated",
+      "counter_to": "st-200",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201",
+      "text": "Excellent reputation.Department of Defense technical library information center. ",
+      "tag": "",
+      "counter_to": "st-201-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201-gen",
+      "text": "Excellent reputation.Department of Defense technical library information center. ",
+      "tag": "generated",
+      "counter_to": "st-201",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202",
+      "text": "Find studies and reports that you can't find anywhere else on the internet ",
+      "tag": "",
+      "counter_to": "st-202-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202-gen",
+      "text": "Find studies and reports that you cafind anywhere else on the internet",
+      "tag": "generated",
+      "counter_to": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203",
+      "text": "They also have a large number of older studies and reports that aren't normally found. Historical documents. ",
+      "tag": "",
+      "counter_to": "st-203-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203-gen",
+      "text": "They also have a large number of older studies and reports that arenormally found. Historical documents.",
+      "tag": "generated",
+      "counter_to": "st-203",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204",
+      "text": "High quality, thorough documents.Technical. if you want to know what your country has been up to notably the United States of America look it up here so that you know what they know. Unclassified or declassified documents. ",
+      "tag": "",
+      "counter_to": "st-204-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204-gen",
+      "text": "High quality, thorough documents.Technical. if you don't want to know what your country has been up to notably the United States of America look it up here so that you know what they know. Unclassified or declassified documents.",
+      "tag": "generated",
+      "counter_to": "st-204",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205",
+      "text": "There's no classified information. Only unclassified and declassified and redacted ",
+      "tag": "",
+      "counter_to": "st-205-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205-gen",
+      "text": "There isn't no classified information. Only unclassified and declassified and redacted",
+      "tag": "generated",
+      "counter_to": "st-205",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206",
+      "text": "Examine.com [85] ",
+      "tag": "",
+      "counter_to": "st-206-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206-gen",
+      "text": "Examine.com [85] ",
+      "tag": "generated",
+      "counter_to": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207",
+      "text": "Most of its data is not free. ",
+      "tag": "",
+      "counter_to": "st-207-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207-gen",
+      "text": "Most of its data is free.",
+      "tag": "generated",
+      "counter_to": "st-207",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208",
+      "text": "It can provide useful overviews on supplements such as showing which dosages have been used in or were reported as effective studies for any given supplement. ",
+      "tag": "",
+      "counter_to": "st-208-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208-gen",
+      "text": "It can't provide useful overviews on supplements such as showing which dosages have been used in or were reported as effective studies for any given supplement.",
+      "tag": "generated",
+      "counter_to": "st-208",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209",
+      "text": "Some of its data is outdated, misleading, problematic or missing key information. ",
+      "tag": "",
+      "counter_to": "st-209-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209-gen",
+      "text": "Some of its data isn't outdated, misleading, problematic or missing key information.",
+      "tag": "generated",
+      "counter_to": "st-209",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210",
+      "text": "The page on Niacin (vitamin B3) [86] for example does not include information on this study [87] indicating [88] risks of supplementation at the common dosages. ",
+      "tag": "",
+      "counter_to": "st-210-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210-gen",
+      "text": "The page on Niacin (vitamin B3) [86] for example does include information on this study [87] indicating [88] risks of supplementation at the common dosages.",
+      "tag": "generated",
+      "counter_to": "st-210",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211",
+      "text": "Its pages on chocolate [89] are misleading, in particular by not considering caloric and fat intake. ",
+      "tag": "",
+      "counter_to": "st-211-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211-gen",
+      "text": "Its pages on chocolate [89] are misleading, in particular by considering caloric and fat intake.",
+      "tag": "generated",
+      "counter_to": "st-211",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212",
+      "text": "Snopes [90] ",
+      "tag": "",
+      "counter_to": "st-212-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212-gen",
+      "text": "Snopes [90] ",
+      "tag": "generated",
+      "counter_to": "st-212",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213",
+      "text": "OpenAlex [91] ",
+      "tag": "",
+      "counter_to": "st-213-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213-gen",
+      "text": "OpenAlex [91] ",
+      "tag": "generated",
+      "counter_to": "st-213",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214",
+      "text": "One of the largest [92] search engine for scientific studies [93]. Unlike Google Scholar and ScienceOpen it has far more well-working filters such as the license filter. ",
+      "tag": "",
+      "counter_to": "st-214-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214-gen",
+      "text": "One of the largest [92] search engine for scientific studies [93]. Unlike Google Scholar and ScienceOpen it doesn't have far more well-working filters such as the license filter.",
+      "tag": "generated",
+      "counter_to": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215",
+      "text": "The semantic topics aren't accurate and some data for filters may also be inaccurate. ",
+      "tag": "",
+      "counter_to": "st-215-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215-gen",
+      "text": "The semantic topics are accurate and some data for filters may also be inaccurate.",
+      "tag": "generated",
+      "counter_to": "st-215",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216",
+      "text": "Far fewer studies are indexed compared to Google Scholar but that seems to be changing. ",
+      "tag": "",
+      "counter_to": "st-216-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216-gen",
+      "text": "Far fewer studies aren't indexed compared to Google Scholar but that seems to be changing.",
+      "tag": "generated",
+      "counter_to": "st-216",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217",
+      "text": "Know Your Meme [94] ",
+      "tag": "",
+      "counter_to": "st-217-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217-gen",
+      "text": "Don't know Your Meme [94]",
+      "tag": "generated",
+      "counter_to": "st-217",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218",
+      "text": "Urban Dictionary [95] ",
+      "tag": "",
+      "counter_to": "st-218-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218-gen",
+      "text": "Urban Dictionary [95] ",
+      "tag": "generated",
+      "counter_to": "st-218",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-219",
+      "text": "Standard [96] ",
+      "tag": "",
+      "counter_to": "st-219-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-219-gen",
+      "text": "Standard [96] ",
+      "tag": "generated",
+      "counter_to": "st-219",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-220",
+      "text": "seneca [97] ",
+      "tag": "",
+      "counter_to": "st-220-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-220-gen",
+      "text": "seneca [97] ",
+      "tag": "generated",
+      "counter_to": "st-220",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-221",
+      "text": "RSA (Royal Society of Arts) ",
+      "tag": "",
+      "counter_to": "st-221-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-221-gen",
+      "text": "RSA (Royal Society of Arts) ",
+      "tag": "generated",
+      "counter_to": "st-221",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-222",
+      "text": "\"The mission of the RSA (Royal Society for the encouragement of Arts, Manufactures and Commerce) is to enrich society through ideas and action.\"thersa.org [98] ",
+      "tag": "",
+      "counter_to": "st-222-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-222-gen",
+      "text": "\"The mission of the RSA (Royal Society for the encouragement of Arts, Manufactures and Commerce) isn't to enrich society through ideas and action.\"thersa.org [98]",
+      "tag": "generated",
+      "counter_to": "st-222",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-223",
+      "text": "Youtube ",
+      "tag": "",
+      "counter_to": "st-223-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-223-gen",
+      "text": "Youtube ",
+      "tag": "generated",
+      "counter_to": "st-223",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-224",
+      "text": "YouTube is so addictive, that it might actually be better not to know it, in order to avoid spending too much time binge watching videos. ",
+      "tag": "",
+      "counter_to": "st-224-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-224-gen",
+      "text": "YouTube is so addictive, that it might actually be better to know it, in order to avoid spending too much time binge watching videos.",
+      "tag": "generated",
+      "counter_to": "st-224",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-225",
+      "text": "Youtube never stops suggesting worthless time sinks even if user downvotes or reports them. ",
+      "tag": "",
+      "counter_to": "st-225-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-225-gen",
+      "text": "Youtube never doesn't stop suggesting worthless time sinks even if user downvotes or reports them.",
+      "tag": "generated",
+      "counter_to": "st-225",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-226",
+      "text": "A person who knows exactly what they want to watch or research on Youtube and knows how much time they have set aside for it will be much less likely to 'binge watch'. ",
+      "tag": "",
+      "counter_to": "st-226-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-226-gen",
+      "text": "A person who doesn't know exactly what they want to watch or research on Youtube and knows how much time they have set aside for it will be much less likely to 'binge watch'.",
+      "tag": "generated",
+      "counter_to": "st-226",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-227",
+      "text": "Going to youtube for an instructional video then causes environment to include all sorts of distractions in the sidebar. Just the suggestion of so much entertainment a click away will test the will of the user, tempting them waste a lot of time on watching videos. ",
+      "tag": "",
+      "counter_to": "st-227-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-227-gen",
+      "text": "Not Going to youtube for an instructional video then causes environment to include all sorts of distractions in the sidebar. Just the suggestion of so much entertainment a click away will test the will of the user, tempting them waste a lot of time on watching videos.",
+      "tag": "generated",
+      "counter_to": "st-227",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-228",
+      "text": "Youtube does not respect copyrights as much as competitors such as Vimeo or Facebook [99]. Youtube Copyright controversies [100]. ",
+      "tag": "",
+      "counter_to": "st-228-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-228-gen",
+      "text": "Youtube respects copyrights as much as competitors such as Vimeo or Facebook [99]. Youtube Copyright controversies [100].",
+      "tag": "generated",
+      "counter_to": "st-228",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-229",
+      "text": "Though youtube is practically the common carrier, most companies and not-for-profit organizations use Vimeo to host their videos. EX1 [101] ",
+      "tag": "",
+      "counter_to": "st-229-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-229-gen",
+      "text": "Though youtube is practically the common carrier, most companies and-for-profit organizations use Vimeo to host their videos. EX1 [101]",
+      "tag": "generated",
+      "counter_to": "st-229",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-230",
+      "text": "There are a lot of ads, including video interruptions. ",
+      "tag": "",
+      "counter_to": "st-230-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-230-gen",
+      "text": "There aren't a lot of ads, including video interruptions.",
+      "tag": "generated",
+      "counter_to": "st-230",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-231",
+      "text": "Courses on Youtube are often of lower quality than those on dedicated online course websites. ",
+      "tag": "",
+      "counter_to": "st-231-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-231-gen",
+      "text": "Courses on Youtube aren't often of lower quality than those on dedicated online course websites.",
+      "tag": "generated",
+      "counter_to": "st-231",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-232",
+      "text": "Youtube provides a great alternative source of information for those who struggle to learn through reading. ",
+      "tag": "",
+      "counter_to": "st-232-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-232-gen",
+      "text": "Youtube doesn't provide a great alternative source of information for those who struggle to learn through reading.",
+      "tag": "generated",
+      "counter_to": "st-232",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-233",
+      "text": "Seeing visual explanations is a more clear way of putting something which would otherwise be explained in theory, into action. This makes it easier to make practical use of the lessons learned on Youtube. ",
+      "tag": "",
+      "counter_to": "st-233-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-233-gen",
+      "text": "Not Seeing visual explanations is a more clear way of putting something which would otherwise be explained in theory, into action. This makes it easier to make practical use of the lessons learned on Youtube.",
+      "tag": "generated",
+      "counter_to": "st-233",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-234",
+      "text": "Used for uploading and posting videos- this has been used as a tool for entertainment, education, politics and for many other purposes as well ",
+      "tag": "",
+      "counter_to": "st-234-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-234-gen",
+      "text": "Used for uploading and posting videos- this hasn't been used as a tool for entertainment, education, politics and for many other purposes as well",
+      "tag": "generated",
+      "counter_to": "st-234",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-28",
+      "claim": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-29",
+      "claim": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-30",
+      "claim": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-31",
+      "claim": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-32",
+      "claim": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-33",
+      "claim": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-34",
+      "claim": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-35",
+      "claim": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-36",
+      "claim": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-37",
+      "claim": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-38",
+      "claim": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-39",
+      "claim": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-40",
+      "claim": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-41",
+      "claim": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-42",
+      "claim": "st-139",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-43",
+      "claim": "st-141",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-44",
+      "claim": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-45",
+      "claim": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-46",
+      "claim": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-47",
+      "claim": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-48",
+      "claim": "st-155",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-49",
+      "claim": "st-161",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-50",
+      "claim": "st-163",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-51",
+      "claim": "st-166",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-52",
+      "claim": "st-170",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-53",
+      "claim": "st-172",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-54",
+      "claim": "st-180",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-55",
+      "claim": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-56",
+      "claim": "st-192",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-57",
+      "claim": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-58",
+      "claim": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-59",
+      "claim": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-60",
+      "claim": "st-209",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-61",
+      "claim": "st-213",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-62",
+      "claim": "st-221",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-63",
+      "claim": "st-223",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-64",
+      "claim": "st-224",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-65",
+      "claim": "st-226",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-66",
+      "claim": "st-232",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-77"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-79"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-82"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-83"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-84"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-85"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-87"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-88"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-76"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-78"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-80"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-81"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-86"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-89"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-91"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-90"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-93"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-95"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-96"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-97"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-98"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-99"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-100"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-101"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-107"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-108"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-109"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-110"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-111"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-112"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-113"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-102"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-103"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-104"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-106"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-105"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-115"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-117"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-118"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-119"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-120"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-122"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-123"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-124"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-125"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-126"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-121"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-128"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-130"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-129"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-132"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-134"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-135"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-136"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-138"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-139"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-133"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-137"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-140"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-142"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-143"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-145"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-146"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-148"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-157"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-158"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-159"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-160"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-149"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-150"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-151"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-155"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-152"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-153"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-154"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-156"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-162"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-163"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-165"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-166"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-168"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-169"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-164"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-167"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-171"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-172"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-174"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-175"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-176"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-177"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-178"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-179"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-173"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-181"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-182"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-183"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-184"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-185"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-186"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-189"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-190"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-191"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-192"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-196"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-197"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-187"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-188"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-193"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-194"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-195"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-200"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-201"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-202"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-203"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-204"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-205"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-207"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-208"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-209"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-210"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-211"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-214"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-215"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-216"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-222"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-224"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-228"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-229"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-230"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-231"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-232"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-234"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-225"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-226"
+    },
+    {
+      "argument": "arg-65",
+      "premise": "st-227"
+    },
+    {
+      "argument": "arg-66",
+      "premise": "st-233"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-2",
+      "topic": "What are the most useful educational resources websites on the Internet?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/what-are-the-most-useful-educational-resources-websites-on-the-internet-14768"
+    }
+  ]
+}

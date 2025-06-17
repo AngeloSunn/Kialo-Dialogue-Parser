@@ -1,0 +1,5900 @@
+{
+  "statements": [
+    {
+      "id": "st-1",
+      "text": "Video learning courses are a good learning format. ",
+      "tag": "",
+      "counter_to": "st-1-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-1-gen",
+      "text": "Video learning courses aren't a good learning format.",
+      "tag": "generated",
+      "counter_to": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2",
+      "text": "Video learning courses make it difficult for students to receive proper guidance from their instructors. ",
+      "tag": "",
+      "counter_to": "st-2-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-2-gen",
+      "text": "Video learning courses don't make it difficult for students to receive proper guidance from their instructors.",
+      "tag": "generated",
+      "counter_to": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3",
+      "text": "This motion never suggested that videos would be the only learning format available. Teachers can still pick up where the videos left off and elaborate when necessary. ",
+      "tag": "",
+      "counter_to": "st-3-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-3-gen",
+      "text": "This motion never didn't suggest that videos would be the only learning format available. Teachers can still pick up where the videos left off and elaborate when necessary.",
+      "tag": "generated",
+      "counter_to": "st-3",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4",
+      "text": "Video learning courses do not give constructive feedback necessary for students to properly understand their progression in the course. ",
+      "tag": "",
+      "counter_to": "st-4-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-4-gen",
+      "text": "Video learning courses give constructive feedback necessary for students to properly understand their progression in the course.",
+      "tag": "generated",
+      "counter_to": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5",
+      "text": "The platform Accelerate [1] has 4 question \"quizzes\" that disallow the user to make a mistake. ",
+      "tag": "",
+      "counter_to": "st-5-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-5-gen",
+      "text": "The platform Accelerate [1] doesn't have 4 question \"quizzes\" that disallow the user to make a mistake.",
+      "tag": "generated",
+      "counter_to": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6",
+      "text": "Accelerate also does not provide many recent external sources for users to research, leading to many falling behind ",
+      "tag": "",
+      "counter_to": "st-6-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-6-gen",
+      "text": "Accelerate also provides many recent external sources for users to research, leading to many falling behind",
+      "tag": "generated",
+      "counter_to": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7",
+      "text": "The user can be of blame for this, as they should be able to find their own source ",
+      "tag": "",
+      "counter_to": "st-7-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-7-gen",
+      "text": "The user can't be of blame for this, as they should be able to find their own source",
+      "tag": "generated",
+      "counter_to": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8",
+      "text": "Sometimes there are only unreliable sources a user can learn from, such as many sites paying to be on the 1st page and be non-credible ",
+      "tag": "",
+      "counter_to": "st-8-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-8-gen",
+      "text": "Sometimes there aren't only unreliable sources a user can learn from, such as many sites paying to be on the 1st page and be non-credible",
+      "tag": "generated",
+      "counter_to": "st-8",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9",
+      "text": "The sources that are provided tend to also be taken down, especially with flash-based simulations. ",
+      "tag": "",
+      "counter_to": "st-9-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-9-gen",
+      "text": "The sources that are provided tend to also be not taken down, especially with flash-based simulations.",
+      "tag": "generated",
+      "counter_to": "st-9",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10",
+      "text": "An issue with one specific platform does not discredit the various video learning course platforms available. ",
+      "tag": "",
+      "counter_to": "st-10-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-10-gen",
+      "text": "An issue with one specific platform discredits the various video learning course platforms available.",
+      "tag": "generated",
+      "counter_to": "st-10",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11",
+      "text": "If a student gets stuck while watching a prerecorded video, they can ask a question via a chat function or emailing the instructor. ",
+      "tag": "",
+      "counter_to": "st-11-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-11-gen",
+      "text": "If a student doesn't get stuck while watching a prerecorded video, they can ask a question via a chat function or emailing the instructor.",
+      "tag": "generated",
+      "counter_to": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12",
+      "text": "Many students in the UK have had little contact with their teachers [2] even though learning was expected to take place remotely after the outbreak of COVID-19. ",
+      "tag": "",
+      "counter_to": "st-12-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-12-gen",
+      "text": "Many students in the UK haven't had little contact with their teachers [2] even though learning was expected to take place remotely after the outbreak of COVID-19.",
+      "tag": "generated",
+      "counter_to": "st-12",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13",
+      "text": "In a live classroom, teachers are able to rephrase and give examples that may better explain a problem. This is beneficial for the student. ",
+      "tag": "",
+      "counter_to": "st-13-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-13-gen",
+      "text": "In a live classroom, teachers aren't able to rephrase and give examples that may better explain a problem. This is beneficial for the student.",
+      "tag": "generated",
+      "counter_to": "st-13",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14",
+      "text": "Thanks to zoom.us [3] teachers can have live classrooms online. ",
+      "tag": "",
+      "counter_to": "st-14-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-14-gen",
+      "text": "Thanks to zoom.us [3] teachers can't have live classrooms online.",
+      "tag": "generated",
+      "counter_to": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15",
+      "text": "Numerous student users do not prefer to use Zoom [4]. ",
+      "tag": "",
+      "counter_to": "st-15-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-15-gen",
+      "text": "Numerous student users prefer to use Zoom [4].",
+      "tag": "generated",
+      "counter_to": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16",
+      "text": "The application' video meeting system happens to be so laggy, that it often cuts out audio for multiple moments at a time [5]. ",
+      "tag": "",
+      "counter_to": "st-16-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-16-gen",
+      "text": "The application' video meeting system doesn't happen to be so laggy, that it often cuts out audio for multiple moments at a time [5].",
+      "tag": "generated",
+      "counter_to": "st-16",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17",
+      "text": "The lag from Zoom can end up kicking users from important meetings for latency. ",
+      "tag": "",
+      "counter_to": "st-17-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-17-gen",
+      "text": "The lag from Zoom can't end up kicking users from important meetings for latency.",
+      "tag": "generated",
+      "counter_to": "st-17",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18",
+      "text": "During live streams, students may be more hesitant to ask their teachers to go over things they do not understand more than once, when compared to a more familiar classroom environment ",
+      "tag": "",
+      "counter_to": "st-18-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-18-gen",
+      "text": "During live streams, students may be more hesitant to ask their teachers to go over things they do understand more than once, when compared to a more familiar classroom environment",
+      "tag": "generated",
+      "counter_to": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19",
+      "text": "Zoom does provide a feature for users to record their meeting. ",
+      "tag": "",
+      "counter_to": "st-19-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-19-gen",
+      "text": "Zoom doesn't provide a feature for users to record their meeting.",
+      "tag": "generated",
+      "counter_to": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20",
+      "text": "This feature is included in a premium program that costs too much to pay for just that feature. ",
+      "tag": "",
+      "counter_to": "st-20-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-20-gen",
+      "text": "This feature isn't included in a premium program that costs too much to pay for just that feature.",
+      "tag": "generated",
+      "counter_to": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21",
+      "text": "People can use free recording programs such as OBS (Open Broadcasting System) [6] to record the meeting. ",
+      "tag": "",
+      "counter_to": "st-21-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-21-gen",
+      "text": "People can't use free recording programs such as OBS (Open Broadcasting System) [6] to record the meeting.",
+      "tag": "generated",
+      "counter_to": "st-21",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22",
+      "text": "A lot of users reported that Zoom eats up their ram [7], which can be harmful to students that may have older computers. [1] [8] ",
+      "tag": "",
+      "counter_to": "st-22-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-22-gen",
+      "text": "A lot of users didn't report that Zoom eats up their ram [7], which can be harmful to students that may have older computers. [1] [8]",
+      "tag": "generated",
+      "counter_to": "st-22",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23",
+      "text": "Not all students have access to the necessary bandwidth required to access a livestream, this is especially bad for students living in rural areas. ",
+      "tag": "",
+      "counter_to": "st-23-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-23-gen",
+      "text": "Not all students have access to the necessary bandwidth required to access a livestream, this isn't especially bad for students living in rural areas.",
+      "tag": "generated",
+      "counter_to": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24",
+      "text": "Venezuela has the absolute worst internet connections on Earth [9], so much so that even downloading the average video would take ~17.9 minutes, thus making it not viable for any video learning course. ",
+      "tag": "",
+      "counter_to": "st-24-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-24-gen",
+      "text": "Venezuela hases the absolute worst internet connections on Earth [9], so much so that even downloading the average video would take ~17.9 minutes, thus making it viable for any video learning course.",
+      "tag": "generated",
+      "counter_to": "st-24",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25",
+      "text": "Video learning lacks a degee of interaction which obstructs learning efficiency. ",
+      "tag": "",
+      "counter_to": "st-25-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-25-gen",
+      "text": "Video learning doesn't lack a degee of interaction which obstructs learning efficiency.",
+      "tag": "generated",
+      "counter_to": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26",
+      "text": "Fields like physical science require physical interaction with an environment. If a student living in an urban environment had an assignment that required them to go to a natural environment to gather samples, this assignment may keep them behind. ",
+      "tag": "",
+      "counter_to": "st-26-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-26-gen",
+      "text": "Fields like physical science don't require physical interaction with an environment. If a student living in an urban environment had an assignment that required them to go to a natural environment to gather samples, this assignment may keep them behind.",
+      "tag": "generated",
+      "counter_to": "st-26",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27",
+      "text": "There can be conventional lessons where remaining questions and difficulties are resolved (hybrid learning [10]). Moreover, these issues can be utilized as data to improve the information attached to videos (e.g. searchable FAQs) or the videos (e.g. making them clearer). ",
+      "tag": "",
+      "counter_to": "st-27-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-27-gen",
+      "text": "There can't be conventional lessons where remaining questions and difficulties are resolved (hybrid learning [10]). Moreover, these issues can be utilized as data to improve the information attached to videos (e.g. searchable FAQs) or the videos (e.g. making them clearer).",
+      "tag": "generated",
+      "counter_to": "st-27",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28",
+      "text": "Video learning courses may not be as good in helping students understand solutions to exercises if such are included in these. ",
+      "tag": "",
+      "counter_to": "st-28-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-28-gen",
+      "text": "Video learning courses may be as good in helping students understand solutions to exercises if such are included in these.",
+      "tag": "generated",
+      "counter_to": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29",
+      "text": "-> See 1.1.7. ",
+      "tag": "",
+      "counter_to": "st-29-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-29-gen",
+      "text": "-> See 1.1.7. ",
+      "tag": "generated",
+      "counter_to": "st-29",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30",
+      "text": "They are less dynamic where teachers can adapt to what solutions students came up with and also answer their questions, or adjust their solution explanations, and so on. ",
+      "tag": "",
+      "counter_to": "st-30-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-30-gen",
+      "text": "They aren't less dynamic where teachers can adapt to what solutions students came up with and also answer their questions, or adjust their solution explanations, and so on.",
+      "tag": "generated",
+      "counter_to": "st-30",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31",
+      "text": "In cases of homework and learning before exams there are similar problems. Attached solutions are often not elaborate and not well-explained. Digitization would improve such issues, not make them worse. ",
+      "tag": "",
+      "counter_to": "st-31-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-31-gen",
+      "text": "In cases of homework and learning before exams there are similar problems. Attached solutions are often elaborate and not well-explained. Digitization would improve such issues, not make them worse.",
+      "tag": "generated",
+      "counter_to": "st-31",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32",
+      "text": "Video learning courses are a form of passive learning that don't encourage critical thinking. ",
+      "tag": "",
+      "counter_to": "st-32-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-32-gen",
+      "text": "Video learning courses are a form of passive learning that do encourage critical thinking.",
+      "tag": "generated",
+      "counter_to": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33",
+      "text": "The extent of passive learning in videos depends on the content of the video and not the video itself. ",
+      "tag": "",
+      "counter_to": "st-33-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-33-gen",
+      "text": "The extent of passive learning in videos dependses on the content of the video and the video itself.",
+      "tag": "generated",
+      "counter_to": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34",
+      "text": "Some videos may have interactive content, such as small exercises. ",
+      "tag": "",
+      "counter_to": "st-34-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-34-gen",
+      "text": "Some videos may not have interactive content, such as small exercises.",
+      "tag": "generated",
+      "counter_to": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35",
+      "text": "Videos made to teach young children may encourage them to count, spell, or sing along with what they see. ",
+      "tag": "",
+      "counter_to": "st-35-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-35-gen",
+      "text": "Videos didn't make to teach young children may encourage them to count, spell, or sing along with what they see.",
+      "tag": "generated",
+      "counter_to": "st-35",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36",
+      "text": "This is not commonly the case, in notable courses (World History, Art History, etc.) established for Edgenuity, exercises are not provided. ",
+      "tag": "",
+      "counter_to": "st-36-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-36-gen",
+      "text": "This is commonly the case, in notable courses (World History, Art History, etc.) established for Edgenuity, exercises are not provided.",
+      "tag": "generated",
+      "counter_to": "st-36",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37",
+      "text": "More information may be retained [11] while reading since it is an active learning process. Video watching is a passive learning process. ",
+      "tag": "",
+      "counter_to": "st-37-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-37-gen",
+      "text": "More information may not be retained [11] while reading since it is an active learning process. Video watching is a passive learning process.",
+      "tag": "generated",
+      "counter_to": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38",
+      "text": "Watching to one talk about Language Arts is not as informative as reading. ",
+      "tag": "",
+      "counter_to": "st-38-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-38-gen",
+      "text": "Watching to one talk about Language Arts is as informative as reading.",
+      "tag": "generated",
+      "counter_to": "st-38",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39",
+      "text": "Videos show actionable steps in detail, unlike manuals, making them easier to follow and repeat. ",
+      "tag": "",
+      "counter_to": "st-39-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-39-gen",
+      "text": "Videos don't show actionable steps in detail, unlike manuals, making them easier to follow and repeat.",
+      "tag": "generated",
+      "counter_to": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40",
+      "text": "The Ikea manuals are too complicated for somebody to put together, namely the shelves. Videos will be more helpful. ",
+      "tag": "",
+      "counter_to": "st-40-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-40-gen",
+      "text": "The Ikea manuals aren't too complicated for somebody to put together, namely the shelves. Videos will be more helpful.",
+      "tag": "generated",
+      "counter_to": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41",
+      "text": "Ikea manuals [12] are notorious for being void of text, leaving many to struggle with putting the most simple-looking pieces together. ",
+      "tag": "",
+      "counter_to": "st-41-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-41-gen",
+      "text": "Ikea manuals [12] aren't notorious for being void of text, leaving many to struggle with putting the most simple-looking pieces together.",
+      "tag": "generated",
+      "counter_to": "st-41",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42",
+      "text": "Some Arduino block kits [13] are very plain in detail. ",
+      "tag": "",
+      "counter_to": "st-42-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-42-gen",
+      "text": "Some Arduino block kits [13] aren't very plain in detail.",
+      "tag": "generated",
+      "counter_to": "st-42",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43",
+      "text": "Depending on the topic, passive learning can be a good thing. ",
+      "tag": "",
+      "counter_to": "st-43-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-43-gen",
+      "text": "Depending on the topic, passive learning can't be a good thing.",
+      "tag": "generated",
+      "counter_to": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44",
+      "text": "Passively listening to foreign languages [14] can help the brain understand them better over time. ",
+      "tag": "",
+      "counter_to": "st-44-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-44-gen",
+      "text": "Passively not listening to foreign languages [14] can help the brain understand them better over time.",
+      "tag": "generated",
+      "counter_to": "st-44",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45",
+      "text": "Active recall tends to be a more successful learning style [15] than passive learning methods. ",
+      "tag": "",
+      "counter_to": "st-45-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-45-gen",
+      "text": "Active recall doesn't tend to be a more successful learning style [15] than passive learning methods.",
+      "tag": "generated",
+      "counter_to": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46",
+      "text": "Active recall can be implemented with watching videos. After watching a video, an individual can try and answer a number of questions on the video. ",
+      "tag": "",
+      "counter_to": "st-46-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-46-gen",
+      "text": "Active recall can't be implemented with watching videos. After watching a video, an individual can try and answer a number of questions on the video.",
+      "tag": "generated",
+      "counter_to": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47",
+      "text": "Though sites do it often, the info is not fully retained by the user for long enough. ",
+      "tag": "",
+      "counter_to": "st-47-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-47-gen",
+      "text": "Though sites do it often, the info is fully retained by the user for long enough.",
+      "tag": "generated",
+      "counter_to": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48",
+      "text": "Those similar sites provide a tab where the user can take notes of the video. ",
+      "tag": "",
+      "counter_to": "st-48-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-48-gen",
+      "text": "Those similar sites don't provide a tab where the user can take notes of the video.",
+      "tag": "generated",
+      "counter_to": "st-48",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49",
+      "text": "The user could just not be paying attention. ",
+      "tag": "",
+      "counter_to": "st-49-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-49-gen",
+      "text": "The user could just be paying attention.",
+      "tag": "generated",
+      "counter_to": "st-49",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50",
+      "text": "Passive learning does not encourage critical thinking, which many students need to use during this era. ",
+      "tag": "",
+      "counter_to": "st-50-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-50-gen",
+      "text": "Passive learning does encourage critical thinking, which many students need to use during this era.",
+      "tag": "generated",
+      "counter_to": "st-50",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51",
+      "text": "When watching videos, many people merely pay attention to the visuals rather than focusing on the learning content. ",
+      "tag": "",
+      "counter_to": "st-51-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-51-gen",
+      "text": "When watching videos, many people merely don't pay attention to the visuals rather than focusing on the learning content.",
+      "tag": "generated",
+      "counter_to": "st-51",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52",
+      "text": "Critical thinking isn't necessary for all subjects. ",
+      "tag": "",
+      "counter_to": "st-52-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-52-gen",
+      "text": "Critical thinking is necessary for all subjects.",
+      "tag": "generated",
+      "counter_to": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53",
+      "text": "A video may simply convey information without the need for problem-solving. ",
+      "tag": "",
+      "counter_to": "st-53-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-53-gen",
+      "text": "A video may not simply convey information without the need for problem-solving.",
+      "tag": "generated",
+      "counter_to": "st-53",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54",
+      "text": "One needs to critically think when it comes to the more important subjects such as math, science, and language arts while other subjects are less demanding. ",
+      "tag": "",
+      "counter_to": "st-54-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-54-gen",
+      "text": "One doesn't need to critically think when it comes to the more important subjects such as math, science, and language arts while other subjects are less demanding.",
+      "tag": "generated",
+      "counter_to": "st-54",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55",
+      "text": "A lot of meeting software like Zoom Or Adobe connects have chat rooms so the teacher can ask questions to students ",
+      "tag": "",
+      "counter_to": "st-55-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-55-gen",
+      "text": "A lot of meeting software like Zoom Or Adobe connects haven't chat rooms so the teacher can ask questions to students",
+      "tag": "generated",
+      "counter_to": "st-55",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56",
+      "text": "If they are a good learning format does not imply that they would be a good exclusive learning format or that it would be good to largely learn through lecture videos. They can only be a relatively small but important component of learning or at least not the only type of learning. ",
+      "tag": "",
+      "counter_to": "st-56-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-56-gen",
+      "text": "If they are a good learning format does imply that they would be a good exclusive learning format or that it would be good to largely learn through lecture videos. They can only be a relatively small but important component of learning or at least not the only type of learning.",
+      "tag": "generated",
+      "counter_to": "st-56",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57",
+      "text": "Watching videos may allow a person to replicate what they see, but not troubleshoot any problems that arise. ",
+      "tag": "",
+      "counter_to": "st-57-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-57-gen",
+      "text": "Watching videos may allow a person to replicate what they see, but troubleshoot any problems that arise.",
+      "tag": "generated",
+      "counter_to": "st-57",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58",
+      "text": "Video learning courses require self-discipline, which many students struggle with (pg 20 [16]). ",
+      "tag": "",
+      "counter_to": "st-58-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-58-gen",
+      "text": "Video learning courses don't require self-discipline, which many students struggle with (pg 20 [16]).",
+      "tag": "generated",
+      "counter_to": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59",
+      "text": "Students with ADHD struggle [17] with remote learning courses, which typically includes video content. ",
+      "tag": "",
+      "counter_to": "st-59-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-59-gen",
+      "text": "Students with ADHD struggle [17] with remote learning courses, which typically doesn't include video content.",
+      "tag": "generated",
+      "counter_to": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60",
+      "text": "These courses are usually partaken of in an environment in which the user feels most comfortable; therefore, the amount of distractions is increased and thus the temptation is stronger, whereas physical learning environments often (purposefully) lack these distractions. ",
+      "tag": "",
+      "counter_to": "st-60-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-60-gen",
+      "text": "These courses aren't usually partaken of in an environment in which the user feels most comfortable; therefore, the amount of distractions is increased and thus the temptation is stronger, whereas physical learning environments often (purposefully) lack these distractions.",
+      "tag": "generated",
+      "counter_to": "st-60",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61",
+      "text": "Video learning courses accommodate a variety of learning styles and abilities. ",
+      "tag": "",
+      "counter_to": "st-61-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-61-gen",
+      "text": "Video learning courses don't accommodate a variety of learning styles and abilities.",
+      "tag": "generated",
+      "counter_to": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62",
+      "text": "With video learning courses, the student benefits from watching lessons rather than reading them. ",
+      "tag": "",
+      "counter_to": "st-62-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-62-gen",
+      "text": "With video learning courses, the student doesn't benefit from watching lessons rather than reading them.",
+      "tag": "generated",
+      "counter_to": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63",
+      "text": "People can therefore learn from images rather than videos. ",
+      "tag": "",
+      "counter_to": "st-63-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-63-gen",
+      "text": "People can't therefore learn from images rather than videos.",
+      "tag": "generated",
+      "counter_to": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64",
+      "text": "Images are just a single frame and therefore, cannot show how to completely implement the instructions. ",
+      "tag": "",
+      "counter_to": "st-64-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-64-gen",
+      "text": "Images are just a single frame and therefore, canshow how to completely implement the instructions.",
+      "tag": "generated",
+      "counter_to": "st-64",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65",
+      "text": "Visual data is substantially easier [18] for the human brain to process than text. ",
+      "tag": "",
+      "counter_to": "st-65-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-65-gen",
+      "text": "Visual data isn't substantially easier [18] for the human brain to process than text.",
+      "tag": "generated",
+      "counter_to": "st-65",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66",
+      "text": "A significant [19] portion of the population are visual learners, so videos are a good format for them. ",
+      "tag": "",
+      "counter_to": "st-66-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-66-gen",
+      "text": "A significant [19] portion of the population aren't visual learners, so videos are a good format for them.",
+      "tag": "generated",
+      "counter_to": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67",
+      "text": "Videos with sound can also cater to the 30% of the population who are auditory learners [20]. ",
+      "tag": "",
+      "counter_to": "st-67-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-67-gen",
+      "text": "Videos with sound can't also cater to the 30% of the population who are auditory learners [20].",
+      "tag": "generated",
+      "counter_to": "st-67",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68",
+      "text": "People prefer to learn in different ways. ",
+      "tag": "",
+      "counter_to": "st-68-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-68-gen",
+      "text": "People don't prefer to learn in different ways.",
+      "tag": "generated",
+      "counter_to": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69",
+      "text": "People have different types of memory [21]. This impacts their preferred learning style. For example, some people have a hearing memory and some people remember things more visually and video brings those two together very well. ",
+      "tag": "",
+      "counter_to": "st-69-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-69-gen",
+      "text": "People don't have different types of memory [21]. This impacts their preferred learning style. For example, some people have a hearing memory and some people remember things more visually and video brings those two together very well.",
+      "tag": "generated",
+      "counter_to": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70",
+      "text": "Even if people are more suited to visual learning, they should improve those styles of learning they are less good at, in order to develop a more well rounded skillset. ",
+      "tag": "",
+      "counter_to": "st-70-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-70-gen",
+      "text": "Even if people aren't more suited to visual learning, they should improve those styles of learning they are less good at, in order to develop a more well rounded skillset.",
+      "tag": "generated",
+      "counter_to": "st-70",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71",
+      "text": "\"Some people have x memory\" implies completely distinct modules, which is not the case. In humans the visual center is far larger than the other senses, and new neurons are primarily born in the olfactory bulb and hippocampus (important role in spatial navigation). ",
+      "tag": "",
+      "counter_to": "st-71-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-71-gen",
+      "text": "\"Some people have x memory\" implies completely distinct modules, which is the case. In humans the visual center is far larger than the other senses, and new neurons are primarily born in the olfactory bulb and hippocampus (important role in spatial navigation).",
+      "tag": "generated",
+      "counter_to": "st-71",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72",
+      "text": "Video courses working well for more independent learners. ",
+      "tag": "",
+      "counter_to": "st-72-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-72-gen",
+      "text": "Video courses not working well for more independent learners.",
+      "tag": "generated",
+      "counter_to": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73",
+      "text": "Independent learners can be self-starters, not needing one-on-one instruction [22] in order to complete assignments. Video courses are a good learning format for these individuals. ",
+      "tag": "",
+      "counter_to": "st-73-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-73-gen",
+      "text": "Independent learners can be self-starters, needing one-on-one instruction [22] in order to complete assignments. Video courses are a good learning format for these individuals.",
+      "tag": "generated",
+      "counter_to": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74",
+      "text": "A lecture often offers the opportunity [23] for attendees to ask clarifying questions. ",
+      "tag": "",
+      "counter_to": "st-74-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-74-gen",
+      "text": "A lecture often doesn't offer the opportunity [23] for attendees to ask clarifying questions.",
+      "tag": "generated",
+      "counter_to": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75",
+      "text": "With a lecture, answers can be given in real time. The attendee doesn't have to wait to receive it. ",
+      "tag": "",
+      "counter_to": "st-75-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-75-gen",
+      "text": "With a lecture, answers can be given in real time. The attendee does have to wait to receive it.",
+      "tag": "generated",
+      "counter_to": "st-75",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76",
+      "text": "Video learning are helpful for slower learners. ",
+      "tag": "",
+      "counter_to": "st-76-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-76-gen",
+      "text": "Video learning aren't helpful for slower learners.",
+      "tag": "generated",
+      "counter_to": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77",
+      "text": "Online video courses are typically self-paced, giving the learner the option of going as fast or as slow as needed. ",
+      "tag": "",
+      "counter_to": "st-77-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-77-gen",
+      "text": "Online video courses aren't typically self-paced, giving the learner the option of going as fast or as slow as needed.",
+      "tag": "generated",
+      "counter_to": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78",
+      "text": "Some video course formats make the user feel rushed if they are behind on their lessons. This is discouraging to the user. ",
+      "tag": "",
+      "counter_to": "st-78-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-78-gen",
+      "text": "Some video course formats don't make the user feel rushed if they are behind on their lessons. This is discouraging to the user.",
+      "tag": "generated",
+      "counter_to": "st-78",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79",
+      "text": "Any particular course can be repeated multiple times and at the student's personal pace which is not possible in a class. ",
+      "tag": "",
+      "counter_to": "st-79-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-79-gen",
+      "text": "Any particular course can be repeated multiple times and at the student's personal pace which is possible in a class.",
+      "tag": "generated",
+      "counter_to": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80",
+      "text": "Video learning allows you to go back on something you weren’t listening to, because you weren’t focused. ",
+      "tag": "",
+      "counter_to": "st-80-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-80-gen",
+      "text": "Video learning allows you to go back on something you weren’t listening to, because you weren'tn’t focused.",
+      "tag": "generated",
+      "counter_to": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81",
+      "text": "Sites like VirtualNerd [24] provide students with the ability to go back over information if they need to. ",
+      "tag": "",
+      "counter_to": "st-81-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-81-gen",
+      "text": "Sites like VirtualNerd [24] don't provide students with the ability to go back over information if they need to.",
+      "tag": "generated",
+      "counter_to": "st-81",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82",
+      "text": "Those sites may also discourage looking at the videos again. ",
+      "tag": "",
+      "counter_to": "st-82-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-82-gen",
+      "text": "Those sites may not also discourage looking at the videos again.",
+      "tag": "generated",
+      "counter_to": "st-82",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83",
+      "text": "This can prove to be a negative influence on a student's record. ",
+      "tag": "",
+      "counter_to": "st-83-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-83-gen",
+      "text": "This can't prove to be a negative influence on a student's record.",
+      "tag": "generated",
+      "counter_to": "st-83",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84",
+      "text": "Some people can focus and memorize better when alone and not sitting in a room full of people or having to listen to a physical person talking instead of to a controllable video. ",
+      "tag": "",
+      "counter_to": "st-84-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-84-gen",
+      "text": "Some people can focus and memorize better when alone and sitting in a room full of people or having to listen to a physical person talking instead of to a controllable video.",
+      "tag": "generated",
+      "counter_to": "st-84",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85",
+      "text": "Many students prefer [25] to not have any audiovisual lessons (mainly referring to conventional physical-classroom ones) – when social aspects are not considered and the alternatives are well-designed – and can learn better just with e.g. texts and/or audio. Having video lessons available but not required may better be possible with video lessons. ",
+      "tag": "",
+      "counter_to": "st-85-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-85-gen",
+      "text": "Many students prefer [25] to have any audiovisual lessons (mainly referring to conventional physical-classroom ones) – when social aspects are not considered and the alternatives are well-designed – and can learn better just with e.g. texts and/or audio. Having video lessons available but not required may better be possible with video lessons.",
+      "tag": "generated",
+      "counter_to": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86",
+      "text": "This may also better enable or facilitate students to skip lessons altogether. ",
+      "tag": "",
+      "counter_to": "st-86-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-86-gen",
+      "text": "This may not also better enable or facilitate students to skip lessons altogether.",
+      "tag": "generated",
+      "counter_to": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87",
+      "text": "This problem can be mitigated in various ways such as having brief alternated multiple-choice questions after chapters that verify if the student has indeed learned the contents. ",
+      "tag": "",
+      "counter_to": "st-87-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-87-gen",
+      "text": "This problem can't be mitigated in various ways such as having brief alternated multiple-choice questions after chapters that verify if the student has indeed learned the contents.",
+      "tag": "generated",
+      "counter_to": "st-87",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88",
+      "text": "In many cases, they do not know which learning styles fit them best because students in nearly all cases never get to systematically/scientifically test these to appropriately personalize their learning. ",
+      "tag": "",
+      "counter_to": "st-88-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-88-gen",
+      "text": "In many cases, they know which learning styles fit them best because students in nearly all cases never get to systematically/scientifically test these to appropriately personalize their learning.",
+      "tag": "generated",
+      "counter_to": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89",
+      "text": "Even if they know which learning styles tend to be most efficient for them, they may still need audiovisual lessons for the required level of understanding and hence excluding or skipping them may reduce the quality of their education/grades and/or increase the time required – for example because they decide in hindsight to also have the audiovisual lesson after they already learned through other/alternative means. ",
+      "tag": "",
+      "counter_to": "st-89-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-89-gen",
+      "text": "Even if they know which learning styles tend to be most efficient for them, they may not still need audiovisual lessons for the required level of understanding and hence excluding or skipping them may reduce the quality of their education/grades and/or increase the time required – for example because they decide in hindsight to also have the audiovisual lesson after they already learned through other/alternative means.",
+      "tag": "generated",
+      "counter_to": "st-89",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90",
+      "text": "People could choose from which of the available learning styles or media suits them best. ",
+      "tag": "",
+      "counter_to": "st-90-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-90-gen",
+      "text": "People couldn't choose from which of the available learning styles or media suits them best.",
+      "tag": "generated",
+      "counter_to": "st-90",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91",
+      "text": "Video learning courses are more convenient for students and teachers and have unique advantages. ",
+      "tag": "",
+      "counter_to": "st-91-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-91-gen",
+      "text": "Video learning courses aren't more convenient for students and teachers and have unique advantages.",
+      "tag": "generated",
+      "counter_to": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92",
+      "text": "Video learning courses are a less restrictive form of learning than some traditional methods. ",
+      "tag": "",
+      "counter_to": "st-92-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-92-gen",
+      "text": "Video learning courses aren't a less restrictive form of learning than some traditional methods.",
+      "tag": "generated",
+      "counter_to": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93",
+      "text": "Traditional learning occurs at designated hours. Learning through video can take place at any time. ",
+      "tag": "",
+      "counter_to": "st-93-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-93-gen",
+      "text": "Traditional learning doesn't occur at designated hours. Learning through video can take place at any time.",
+      "tag": "generated",
+      "counter_to": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94",
+      "text": "Lectures in universities tend to follow a timetable [26]. ",
+      "tag": "",
+      "counter_to": "st-94-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-94-gen",
+      "text": "Lectures in universities don't tend to follow a timetable [26].",
+      "tag": "generated",
+      "counter_to": "st-94",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95",
+      "text": "Having classes at designated hours helps students stay disciplined. ",
+      "tag": "",
+      "counter_to": "st-95-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-95-gen",
+      "text": "Having classes at designated hours doesn't help students stay disciplined.",
+      "tag": "generated",
+      "counter_to": "st-95",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96",
+      "text": "Students doing online classes are often separated from other fellow students and educators, making it difficult for the teacher to know what the student may be doing at the moment. ",
+      "tag": "",
+      "counter_to": "st-96-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-96-gen",
+      "text": "Students not doing online classes are often separated from other fellow students and educators, making it difficult for the teacher to know what the student may be doing at the moment.",
+      "tag": "generated",
+      "counter_to": "st-96",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97",
+      "text": "Teachers won't know what students are doing, if they are all separated, such as now. ",
+      "tag": "",
+      "counter_to": "st-97-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-97-gen",
+      "text": "Teachers will know what students are doing, if they are all separated, such as now.",
+      "tag": "generated",
+      "counter_to": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98",
+      "text": "This sometimes is not the case, sites such as Grammarly and Odysseyware have been proven to track the progress of the students and sometimes how active they are within their sites. ",
+      "tag": "",
+      "counter_to": "st-98-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-98-gen",
+      "text": "This sometimes is the case, sites such as Grammarly and Odysseyware have been proven to track the progress of the students and sometimes how active they are within their sites.",
+      "tag": "generated",
+      "counter_to": "st-98",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99",
+      "text": "Not all the time can teachers take control. For example in MS Teams sometimes some people mess around, leading to teachers getting frustrated. ",
+      "tag": "",
+      "counter_to": "st-99-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-99-gen",
+      "text": "Not all the time can't teachers take control. For example in MS Teams sometimes some people mess around, leading to teachers getting frustrated.",
+      "tag": "generated",
+      "counter_to": "st-99",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100",
+      "text": "With video learning courses, students can be location-independent. ",
+      "tag": "",
+      "counter_to": "st-100-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-100-gen",
+      "text": "With video learning courses, students can't be location-independent.",
+      "tag": "generated",
+      "counter_to": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101",
+      "text": "Video learning courses allow students in more isolated living situations a chance to learn. ",
+      "tag": "",
+      "counter_to": "st-101-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-101-gen",
+      "text": "Video learning courses don't allow students in more isolated living situations a chance to learn.",
+      "tag": "generated",
+      "counter_to": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102",
+      "text": "A number of video learning platforms help educate people living in impoverished and remote areas. ",
+      "tag": "",
+      "counter_to": "st-102-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-102-gen",
+      "text": "A number of video learning platforms don't help educate people living in impoverished and remote areas.",
+      "tag": "generated",
+      "counter_to": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103",
+      "text": "Impartus [27] aims to improve literacy in rural communities in Asia. ",
+      "tag": "",
+      "counter_to": "st-103-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-103-gen",
+      "text": "Impartus [27] doesn't aim to improve literacy in rural communities in Asia.",
+      "tag": "generated",
+      "counter_to": "st-103",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104",
+      "text": "Online video courses [28] at Lumacha Primary School in Gansu, China help students whose families cannot afford to send them to better-equipped schools. ",
+      "tag": "",
+      "counter_to": "st-104-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-104-gen",
+      "text": "Online video courses [28] at Lumacha Primary School in Gansu, China help students whose families canafford to send them to better-equipped schools.",
+      "tag": "generated",
+      "counter_to": "st-104",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105",
+      "text": "A lecture encourages intellectual discussion while a video is more likely to be watched isolated from others. ",
+      "tag": "",
+      "counter_to": "st-105-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-105-gen",
+      "text": "A lecture encourages intellectual discussion while a video isn't more likely to be watched isolated from others.",
+      "tag": "generated",
+      "counter_to": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106",
+      "text": "Students can arrange to have discussions with one another after watching videos individually. ",
+      "tag": "",
+      "counter_to": "st-106-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-106-gen",
+      "text": "Students can't arrange to have discussions with one another after watching videos individually.",
+      "tag": "generated",
+      "counter_to": "st-106",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107",
+      "text": "-> See 1.4.2.1.1. ",
+      "tag": "",
+      "counter_to": "st-107-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-107-gen",
+      "text": "-> See 1.4.2.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-107",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108",
+      "text": "In comparison to text, videos may help some people feel like they aren't alone. ",
+      "tag": "",
+      "counter_to": "st-108-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-108-gen",
+      "text": "In comparison to text, videos may help some people feel like they are alone.",
+      "tag": "generated",
+      "counter_to": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109",
+      "text": "A video can help the learner to feel like they are physically present at the lecture. ",
+      "tag": "",
+      "counter_to": "st-109-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-109-gen",
+      "text": "A video can't help the learner to feel like they are physically present at the lecture.",
+      "tag": "generated",
+      "counter_to": "st-109",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110",
+      "text": "Sometimes those videos have limited access or can't provide a backup for those to analyze. This can be especially hard when a student has to use a live lecture and can't record the lecture to analyze multiple times. ",
+      "tag": "",
+      "counter_to": "st-110-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-110-gen",
+      "text": "Sometimes those videos have limited access or ca provide a backup for those to analyze. This can be especially hard when a student has to use a live lecture and can't record the lecture to analyze multiple times.",
+      "tag": "generated",
+      "counter_to": "st-110",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111",
+      "text": "They are not similar. A video is a static, unchanging presentation of information. A lecturer can get visual or auditory feedback and change adjust their lecture on the fly. ",
+      "tag": "",
+      "counter_to": "st-111-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-111-gen",
+      "text": "They are similar. A video is a static, unchanging presentation of information. A lecturer can get visual or auditory feedback and change adjust their lecture on the fly.",
+      "tag": "generated",
+      "counter_to": "st-111",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112",
+      "text": "Traditional learning methods take place in a location such as a classroom or lecture hall. In contrast, learning through video can occur in a number of locations. ",
+      "tag": "",
+      "counter_to": "st-112-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-112-gen",
+      "text": "Traditional learning methods don't take place in a location such as a classroom or lecture hall. In contrast, learning through video can occur in a number of locations.",
+      "tag": "generated",
+      "counter_to": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113",
+      "text": "During a crisis situation where the majority of schools are closed [29] (like the Covid-19 outbreak), remote video learning can help ensure that education continues. ",
+      "tag": "",
+      "counter_to": "st-113-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-113-gen",
+      "text": "During a crisis situation where the majority of schools are closed [29] (like the Covid-19 outbreak), remote video learning can't help ensure that education continues.",
+      "tag": "generated",
+      "counter_to": "st-113",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114",
+      "text": "With video learning courses, students will be able to get more rest since they won't have to wake up earlier to travel to school. ",
+      "tag": "",
+      "counter_to": "st-114-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-114-gen",
+      "text": "With video learning courses, students will be able to get more rest since they wo have to wake up earlier to travel to school.",
+      "tag": "generated",
+      "counter_to": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115",
+      "text": "Video courses may still require the student to be awake and present during normal class hours. ",
+      "tag": "",
+      "counter_to": "st-115-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-115-gen",
+      "text": "Video courses may not still require the student to be awake and present during normal class hours.",
+      "tag": "generated",
+      "counter_to": "st-115",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116",
+      "text": "Video learning courses are beneficial to students who are physically incapable of traveling to an in-person class. ",
+      "tag": "",
+      "counter_to": "st-116-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-116-gen",
+      "text": "Video learning courses aren't beneficial to students who are physically incapable of traveling to an in-person class.",
+      "tag": "generated",
+      "counter_to": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117",
+      "text": "Students with physical disabilities can still attend class with video courses. ",
+      "tag": "",
+      "counter_to": "st-117-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-117-gen",
+      "text": "Students with physical disabilities can't still attend class with video courses.",
+      "tag": "generated",
+      "counter_to": "st-117",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118",
+      "text": "During the Covid-19 pandemic, virtual classrooms [30] allowed the school year to continue remotely around the world. ",
+      "tag": "",
+      "counter_to": "st-118-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-118-gen",
+      "text": "During the Covid-19 pandemic, virtual classrooms [30] didn't allow the school year to continue remotely around the world.",
+      "tag": "generated",
+      "counter_to": "st-118",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119",
+      "text": "Teachers can turn to public information sources such as YouTube or Facebook to teach a concept. ",
+      "tag": "",
+      "counter_to": "st-119-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-119-gen",
+      "text": "Teachers can't turn to public information sources such as YouTube or Facebook to teach a concept.",
+      "tag": "generated",
+      "counter_to": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120",
+      "text": "Teachers can still use these sites in a classroom setting. ",
+      "tag": "",
+      "counter_to": "st-120-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-120-gen",
+      "text": "Teachers can't still use these sites in a classroom setting.",
+      "tag": "generated",
+      "counter_to": "st-120",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121",
+      "text": "A systemic review shows that in comparison to traditional text methods, video enhances [31] student learning. ",
+      "tag": "",
+      "counter_to": "st-121-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-121-gen",
+      "text": "A systemic review doesn't show that in comparison to traditional text methods, video enhances [31] student learning.",
+      "tag": "generated",
+      "counter_to": "st-121",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122",
+      "text": "Unlike for conventional lessons, one can easily pause, skip a few seconds back or rewatch. ",
+      "tag": "",
+      "counter_to": "st-122-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-122-gen",
+      "text": "Unlike for conventional lessons, one can't easily pause, skip a few seconds back or rewatch.",
+      "tag": "generated",
+      "counter_to": "st-122",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123",
+      "text": "With video lessons, it is unlikely for teachers to have students copy what they write on blackboards which may usually obstruct students from paying attention and learn efficiently. Hence, video lessons are more convenient and time-saving for most students. ",
+      "tag": "",
+      "counter_to": "st-123-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-123-gen",
+      "text": "With video lessons, it isn't unlikely for teachers to have students copy what they write on blackboards which may usually obstruct students from paying attention and learn efficiently. Hence, video lessons are more convenient and time-saving for most students.",
+      "tag": "generated",
+      "counter_to": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124",
+      "text": "Additional information such as answers to questions students previously had about something said at a specific moment or in a specific chapter and so on can be attached to the video at the time-stamp. They can also be searchable. ",
+      "tag": "",
+      "counter_to": "st-124-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-124-gen",
+      "text": "Additional information such as answers to questions students previously hadn't about something said at a specific moment or in a specific chapter and so on can be attached to the video at the time-stamp. They can also be searchable.",
+      "tag": "generated",
+      "counter_to": "st-124",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125",
+      "text": "With video lessons, teachers would be required to just hand students the handouts that they would have written on the blackboard or have students simply print it. ",
+      "tag": "",
+      "counter_to": "st-125-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-125-gen",
+      "text": "With video lessons, teachers wouldn't be required to just hand students the handouts that they would have written on the blackboard or have students simply print it.",
+      "tag": "generated",
+      "counter_to": "st-125",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126",
+      "text": "There are other ways such could happen, such as requiring teachers to do so or to give students the option for that. ",
+      "tag": "",
+      "counter_to": "st-126-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-126-gen",
+      "text": "There aren't other ways such could happen, such as requiring teachers to do so or to give students the option for that.",
+      "tag": "generated",
+      "counter_to": "st-126",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127",
+      "text": "Some students may learn better when writing everything, not just brief notes, down themselves during lessons (not just during learning in the form of cheatsheets/summaries and exercises). ",
+      "tag": "",
+      "counter_to": "st-127-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-127-gen",
+      "text": "Some students may learn better when writing everything, just brief notes, down themselves during lessons (not just during learning in the form of cheatsheets/summaries and exercises).",
+      "tag": "generated",
+      "counter_to": "st-127",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128",
+      "text": "Video learning courses can be difficult to follow. ",
+      "tag": "",
+      "counter_to": "st-128-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-128-gen",
+      "text": "Video learning courses can't be difficult to follow.",
+      "tag": "generated",
+      "counter_to": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129",
+      "text": "Videos allow the viewer to make connections between ideas that otherwise may get lost in text format. ",
+      "tag": "",
+      "counter_to": "st-129-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-129-gen",
+      "text": "Videos don't allow the viewer to make connections between ideas that otherwise may get lost in text format.",
+      "tag": "generated",
+      "counter_to": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130",
+      "text": "Demonstrative lessons, such as science experiments, may work better when there is a viewable instructor guiding the student rather than text instructions. ",
+      "tag": "",
+      "counter_to": "st-130-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-130-gen",
+      "text": "Demonstrative lessons, such as science experiments, may not work better when there is a viewable instructor guiding the student rather than text instructions.",
+      "tag": "generated",
+      "counter_to": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131",
+      "text": "Those visual instructions also assist users in experiments if necessary materials are unavailable. ",
+      "tag": "",
+      "counter_to": "st-131-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-131-gen",
+      "text": "Those visual instructions also assist users in experiments if necessary materials aren't unavailable.",
+      "tag": "generated",
+      "counter_to": "st-131",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132",
+      "text": "Text format is straight forward and cannot be miscommunicated by a third party, such as an instructor on a video. ",
+      "tag": "",
+      "counter_to": "st-132-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-132-gen",
+      "text": "Text format is straight forward and canbe miscommunicated by a third party, such as an instructor on a video.",
+      "tag": "generated",
+      "counter_to": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133",
+      "text": "When reading text, tone is harder to detect. ",
+      "tag": "",
+      "counter_to": "st-133-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-133-gen",
+      "text": "When reading text, tone isn't harder to detect.",
+      "tag": "generated",
+      "counter_to": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134",
+      "text": "Tone isn't necessary for learning a new skill or subject, as the content is typically informational. ",
+      "tag": "",
+      "counter_to": "st-134-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-134-gen",
+      "text": "Tone is necessary for learning a new skill or subject, as the content is typically informational.",
+      "tag": "generated",
+      "counter_to": "st-134",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135",
+      "text": "There are many technical and educational challenges to video learning courses that aren't present with other learning formats. ",
+      "tag": "",
+      "counter_to": "st-135-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-135-gen",
+      "text": "There are many technical and educational challenges to video learning courses that arepresent with other learning formats.",
+      "tag": "generated",
+      "counter_to": "st-135",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136",
+      "text": "-> See 1.1. ",
+      "tag": "",
+      "counter_to": "st-136-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-136-gen",
+      "text": "-> See 1.1. ",
+      "tag": "generated",
+      "counter_to": "st-136",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137",
+      "text": "The video may be low quality making it hard for the student to understand. ",
+      "tag": "",
+      "counter_to": "st-137-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-137-gen",
+      "text": "The video may not be low quality making it hard for the student to understand.",
+      "tag": "generated",
+      "counter_to": "st-137",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138",
+      "text": "Videos can have technical glitches that distort the lesson, making it difficult to for students to completely comprehend. ",
+      "tag": "",
+      "counter_to": "st-138-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-138-gen",
+      "text": "Videos can't have technical glitches that distort the lesson, making it difficult to for students to completely comprehend.",
+      "tag": "generated",
+      "counter_to": "st-138",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139",
+      "text": "If the video is equipped with a feature to slow down the speed or rewind, then this problem can be avoided. ",
+      "tag": "",
+      "counter_to": "st-139-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-139-gen",
+      "text": "If the video is equipped with a feature to slow down the speed or rewind, then this problem can't be avoided.",
+      "tag": "generated",
+      "counter_to": "st-139",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140",
+      "text": "Some programs have this feature disabled and require that you install an extension to speed-up or slow-down the content. ",
+      "tag": "",
+      "counter_to": "st-140-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-140-gen",
+      "text": "Some programs don't have this feature disabled and require that you install an extension to speed-up or slow-down the content.",
+      "tag": "generated",
+      "counter_to": "st-140",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141",
+      "text": "This is a problem with the specific program, not video format in general. ",
+      "tag": "",
+      "counter_to": "st-141-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-141-gen",
+      "text": "This is a problem with the specific program, video format in general.",
+      "tag": "generated",
+      "counter_to": "st-141",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142",
+      "text": "-> See 1.4.3.1. ",
+      "tag": "",
+      "counter_to": "st-142-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-142-gen",
+      "text": "-> See 1.4.3.1. ",
+      "tag": "generated",
+      "counter_to": "st-142",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143",
+      "text": "If people feel the video is leaving them behind, then they may become frustrated and disengage from the rest of it. ",
+      "tag": "",
+      "counter_to": "st-143-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-143-gen",
+      "text": "If people don't feel the video is leaving them behind, then they may become frustrated and disengage from the rest of it.",
+      "tag": "generated",
+      "counter_to": "st-143",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144",
+      "text": "Technical and educational challenges are not exclusive to video learning courses; every learning format has its obstacles. ",
+      "tag": "",
+      "counter_to": "st-144-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-144-gen",
+      "text": "Technical and educational challenges are exclusive to video learning courses; every learning format has its obstacles.",
+      "tag": "generated",
+      "counter_to": "st-144",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145",
+      "text": "Video courses can advance and democratize the field of education. ",
+      "tag": "",
+      "counter_to": "st-145-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-145-gen",
+      "text": "Video courses can't advance and democratize the field of education.",
+      "tag": "generated",
+      "counter_to": "st-145",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146",
+      "text": "-> See discussion #35761: Virtual Classrooms are the future of learning. ",
+      "tag": "",
+      "counter_to": "st-146-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-146-gen",
+      "text": "-> See discussion #35761: Virtual Classrooms aren't the future of learning.",
+      "tag": "generated",
+      "counter_to": "st-146",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147",
+      "text": "-> See 1.5.4. ",
+      "tag": "",
+      "counter_to": "st-147-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-147-gen",
+      "text": "-> See 1.5.4. ",
+      "tag": "generated",
+      "counter_to": "st-147",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148",
+      "text": "In order to access video courses a computer and internet connection is needed. Not all students have access to this [32]. ",
+      "tag": "",
+      "counter_to": "st-148-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-148-gen",
+      "text": "In order to access video courses a computer and internet connection is needed. all students have access to this [32].",
+      "tag": "generated",
+      "counter_to": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149",
+      "text": "With such distance learning [33], poorer countries can have not only high-quality teachers through online lessons but also would not need to pay for the school attendance or for traveling to school. ",
+      "tag": "",
+      "counter_to": "st-149-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-149-gen",
+      "text": "With such distance learning [33], poorer countries can have not only high-quality teachers through online lessons but also would need to pay for the school attendance or for traveling to school.",
+      "tag": "generated",
+      "counter_to": "st-149",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150",
+      "text": "This is highly dependent on infrastructure being provided for internet, many locations in places such as Africa still have poor internet infrastructure [34] and thus likely cannot reliably access these resources. ",
+      "tag": "",
+      "counter_to": "st-150-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-150-gen",
+      "text": "This is highly dependent on infrastructure being provided for internet, many locations in places such as Africa still have poor internet infrastructure [34] and thus likely canreliably access these resources.",
+      "tag": "generated",
+      "counter_to": "st-150",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151",
+      "text": "The same rings true in the United States, where many civilians are trapped with overpaying for poor internet because only 1, maybe 2 providers are available [35]. [1] [36] ",
+      "tag": "",
+      "counter_to": "st-151-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-151-gen",
+      "text": "The same rings true in the United States, where many civilians are trapped with overpaying for poor internet because only 1, maybe 2 providers aren't available [35]. [1] [36]",
+      "tag": "generated",
+      "counter_to": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152",
+      "text": "They may be overpaying and subject to unacceptable corporate monopoly power uses, but they still do have [37] some form of sufficient Internet access. ",
+      "tag": "",
+      "counter_to": "st-152-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-152-gen",
+      "text": "They may not be overpaying and subject to unacceptable corporate monopoly power uses, but they still do have [37] some form of sufficient Internet access.",
+      "tag": "generated",
+      "counter_to": "st-152",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153",
+      "text": "Meshnets [38] could enable them to access the Internet or contents from a local node without more expensive forms of infrastructure. In some developed countries like in Germany [39], Toronto [40] and Catalonia [41], there already are freely accessible networks albeit it currently (this could be changed) still needs some technical skills and security may be lower without a VPN. A router is often required. A little top-down support may be needed for expansion, saving lives during disasters [42] and educational purposes. ",
+      "tag": "",
+      "counter_to": "st-153-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-153-gen",
+      "text": "Meshnets [38] couldn't enable them to access the Internet or contents from a local node without more expensive forms of infrastructure. In some developed countries like in Germany [39], Toronto [40] and Catalonia [41], there already are freely accessible networks albeit it currently (this could be changed) still needs some technical skills and security may be lower without a VPN. A router is often required. A little top-down support may be needed for expansion, saving lives during disasters [42] and educational purposes.",
+      "tag": "generated",
+      "counter_to": "st-153",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154",
+      "text": "Even in sub-Saharan Africa ~30% [43] have some form of Internet access. Hence people who do not have access could be granted to go to somebody registered who has or similar. ",
+      "tag": "",
+      "counter_to": "st-154-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-154-gen",
+      "text": "Even in sub-Saharan Africa ~30% [43] have some form of Internet access. Hence people who do have access could be granted to go to somebody registered who has or similar.",
+      "tag": "generated",
+      "counter_to": "st-154",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155",
+      "text": "Internet access isn't really needed as the videos could get distributed in the form of video files, for example from a local person who has Internet, by physically sending an USB drive/stick or otherwise. Internet access would only be needed for the most comprehensive and dynamic variants of this. ",
+      "tag": "",
+      "counter_to": "st-155-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-155-gen",
+      "text": "Internet access is really needed as the videos could get distributed in the form of video files, for example from a local person who has Internet, by physically sending an USB drive/stick or otherwise. Internet access would only be needed for the most comprehensive and dynamic variants of this.",
+      "tag": "generated",
+      "counter_to": "st-155",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156",
+      "text": "This leads to distribution problems forming for this media. ",
+      "tag": "",
+      "counter_to": "st-156-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-156-gen",
+      "text": "This doesn't lead to distribution problems forming for this media.",
+      "tag": "generated",
+      "counter_to": "st-156",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157",
+      "text": "Various countries like Brazil have immense trade tariffs [44], making accessing most media next to impossible [45] if it was manufactured outside of the country. ",
+      "tag": "",
+      "counter_to": "st-157-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-157-gen",
+      "text": "Various countries like Brazil don't have immense trade tariffs [44], making accessing most media next to impossible [45] if it was manufactured outside of the country.",
+      "tag": "generated",
+      "counter_to": "st-157",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158",
+      "text": "Most devices that are manufactured now do not contain disc drives [46], making it difficult for individuals to run the cheapest way to physically distribute media. ",
+      "tag": "",
+      "counter_to": "st-158-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-158-gen",
+      "text": "Most devices that are manufactured now contain disc drives [46], making it difficult for individuals to run the cheapest way to physically distribute media.",
+      "tag": "generated",
+      "counter_to": "st-158",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159",
+      "text": "The cheapest way are cheap USB sticks, not DVDs or CDs. ",
+      "tag": "",
+      "counter_to": "st-159-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-159-gen",
+      "text": "The cheapest way are cheap USB sticks, DVDs or CDs.",
+      "tag": "generated",
+      "counter_to": "st-159",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160",
+      "text": "Media being distributed via USB drives is often a rare sight [47], no logistics are even set up to reliably distribute media via USB, mostly due to the higher cost to manufacture flash drives [48]. ",
+      "tag": "",
+      "counter_to": "st-160-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-160-gen",
+      "text": "Media being distributed via USB drives isn't often a rare sight [47], no logistics are even set up to reliably distribute media via USB, mostly due to the higher cost to manufacture flash drives [48].",
+      "tag": "generated",
+      "counter_to": "st-160",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161",
+      "text": "It would get distributed via federal program, organizations, or individuals which is not really related to the level of logistics and manufacturing. ",
+      "tag": "",
+      "counter_to": "st-161-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-161-gen",
+      "text": "It would get distributed via federal program, organizations, or individuals which is really related to the level of logistics and manufacturing.",
+      "tag": "generated",
+      "counter_to": "st-161",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162",
+      "text": "Again, this kind of distribution is too costly, which is why not even a federal program would invest in such an initiative. ",
+      "tag": "",
+      "counter_to": "st-162-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-162-gen",
+      "text": "Again, this kind of distribution is too costly, which is why even a federal program would invest in such an initiative.",
+      "tag": "generated",
+      "counter_to": "st-162",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163",
+      "text": "The claim did not say it would be entirely free of any cost, only that can be low-cost and that even if not, the costs likely would still be lower than pay for conventional teachers. ",
+      "tag": "",
+      "counter_to": "st-163-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-163-gen",
+      "text": "The claim did say it would be entirely free of any cost, only that can be low-cost and that even if not, the costs likely would still be lower than pay for conventional teachers.",
+      "tag": "generated",
+      "counter_to": "st-163",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164",
+      "text": "This, if it applies at all, would only apply to the poorest 10% of the world. This debate is not just about the poorest of the poor. ",
+      "tag": "",
+      "counter_to": "st-164-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-164-gen",
+      "text": "This, if it applies at all, would only apply to the poorest 10% of the world. This debate is just about the poorest of the poor.",
+      "tag": "generated",
+      "counter_to": "st-164",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165",
+      "text": "If this problem applies, the cost issue is not with the USB drives, and quite possibly also not with their distribution, but with a) properly setting up the educational system (lessons selection, exercises, grading, etc) and b) laptops or tablets. ",
+      "tag": "",
+      "counter_to": "st-165-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-165-gen",
+      "text": "If this problem applieses , the cost issue is with the USB drives, and quite possibly also not with their distribution, but with a) properly setting up the educational system (lessons selection, exercises, grading, etc) and b) laptops or tablets.",
+      "tag": "generated",
+      "counter_to": "st-165",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166",
+      "text": "They are rewritable and do not require disc drives. Other lessons or entirely different content can be written on it over and over many times [49]. ",
+      "tag": "",
+      "counter_to": "st-166-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-166-gen",
+      "text": "They are rewritable and do require disc drives. Other lessons or entirely different content can be written on it over and over many times [49].",
+      "tag": "generated",
+      "counter_to": "st-166",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167",
+      "text": "Disc media does not need to rely upon the storage medium needing to be modified though. As seen from physical releases for other media on CD, data can be saved locally while the data on the disc can just be read. ",
+      "tag": "",
+      "counter_to": "st-167-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-167-gen",
+      "text": "Disc media needs to rely upon the storage medium needing to be modified though. As seen from physical releases for other media on CD, data can be saved locally while the data on the disc can just be read.",
+      "tag": "generated",
+      "counter_to": "st-167",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168",
+      "text": "-> See 1.7.3.1.1.4.1.2.1.1. ",
+      "tag": "",
+      "counter_to": "st-168-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-168-gen",
+      "text": "-> See 1.7.3.1.1.4.1.2.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-168",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169",
+      "text": "These problems are not large and are smaller than the challenges of alternatives such as setting up a school with conventional teachers and good-quality lessons. For example, a drone or an organization's person traveling via road/rail transport could drop one USB drive in a village which is then passed through the village to copy over the files by a contact person. ",
+      "tag": "",
+      "counter_to": "st-169-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-169-gen",
+      "text": "These problems are large and are smaller than the challenges of alternatives such as setting up a school with conventional teachers and good-quality lessons. For example, a drone or an organization's person traveling via road/rail transport could drop one USB drive in a village which is then passed through the village to copy over the files by a contact person.",
+      "tag": "generated",
+      "counter_to": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170",
+      "text": "This, again, requires proper investment. It is likely that having a singular drive being distributed across a whole village could lead to undesired effects, most notably theft and/or the loss of files on the drive. ",
+      "tag": "",
+      "counter_to": "st-170-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-170-gen",
+      "text": "This, again, doesn't require proper investment. It is likely that having a singular drive being distributed across a whole village could lead to undesired effects, most notably theft and/or the loss of files on the drive.",
+      "tag": "generated",
+      "counter_to": "st-170",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171",
+      "text": "-> See 1.7.3.1.1.4.1.2.1.1.1.1.1. ",
+      "tag": "",
+      "counter_to": "st-171-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-171-gen",
+      "text": "-> See 1.7.3.1.1.4.1.2.1.1.1.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-171",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172",
+      "text": "A person can walk through the village, copy over the files while giving some brief guidance and then move to the next student's place. ",
+      "tag": "",
+      "counter_to": "st-172-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-172-gen",
+      "text": "A person can't walk through the village, copy over the files while giving some brief guidance and then move to the next student's place.",
+      "tag": "generated",
+      "counter_to": "st-172",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173",
+      "text": "The students would hand over the USB drive for example after scanning a QR code so people can know where the USB drive currently is and who lost it who would then need to pay for it. ",
+      "tag": "",
+      "counter_to": "st-173-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-173-gen",
+      "text": "The students wouldn't hand over the USB drive for example after scanning a QR code so people can know where the USB drive currently is and who lost it who would then need to pay for it.",
+      "tag": "generated",
+      "counter_to": "st-173",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174",
+      "text": "Many computers don't have a whole lot of storage. It would be reasonable that people may not want to have to store the media on their device due to how much storage this would consume. ",
+      "tag": "",
+      "counter_to": "st-174-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-174-gen",
+      "text": "Many computers do have a whole lot of storage. It would be reasonable that people may not want to have to store the media on their device due to how much storage this would consume.",
+      "tag": "generated",
+      "counter_to": "st-174",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175",
+      "text": "This is getting unreasonable. As of 2023, even some of the oldest laptops (or tablets; smartphones have small screens) in some of the poorest countries still have more than 20GB of free storage which would already be enough. ",
+      "tag": "",
+      "counter_to": "st-175-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-175-gen",
+      "text": "This isn't getting unreasonable. As of 2023, even some of the oldest laptops (or tablets; smartphones have small screens) in some of the poorest countries still have more than 20GB of free storage which would already be enough.",
+      "tag": "generated",
+      "counter_to": "st-175",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176",
+      "text": "Any USB drives being distributed would likely be the cheapest possible, and cheap drives tend to have poor lifespans and are prone to file corruption [50]. ",
+      "tag": "",
+      "counter_to": "st-176-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-176-gen",
+      "text": "Any USB drives being distributed wouldn't likely be the cheapest possible, and cheap drives tend to have poor lifespans and are prone to file corruption [50].",
+      "tag": "generated",
+      "counter_to": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177",
+      "text": "Even for the cheapest ones 5 years are likely and 10 years not unlikely [51], while just 3 years may be sufficiently long for it to be not just the cheapest but also a good option. ",
+      "tag": "",
+      "counter_to": "st-177-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-177-gen",
+      "text": "Even for the cheapest ones 5 years are likely and 10 years unlikely [51], while just 3 years may be sufficiently long for it to be not just the cheapest but also a good option.",
+      "tag": "generated",
+      "counter_to": "st-177",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178",
+      "text": "The source itself says \"In theory, most USB flash drives should be able to last for 10 and even more years, but the lifespan of a USB flash drive could be influenced by the following factors [...]\". ",
+      "tag": "",
+      "counter_to": "st-178-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-178-gen",
+      "text": "The source itself doesn't say \"In theory, most USB flash drives should be able to last for 10 and even more years, but the lifespan of a USB flash drive could be influenced by the following factors [...]\".",
+      "tag": "generated",
+      "counter_to": "st-178",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179",
+      "text": "This may affect some countries and regions, but not most of what is referred to with poorer countries here. ",
+      "tag": "",
+      "counter_to": "st-179-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-179-gen",
+      "text": "This may affect some countries and regions, but most of what is referred to with poorer countries here.",
+      "tag": "generated",
+      "counter_to": "st-179",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180",
+      "text": "They only need an Internet connection and the device to watch the videos on (preferably a large screen). Many courses are free and those that aren't could be made available to them for free or be created anew and so on. ",
+      "tag": "",
+      "counter_to": "st-180-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-180-gen",
+      "text": "They only need an Internet connection and the device to watch the videos on (preferably a large screen). Many courses are free and those that arecould be made available to them for free or be created anew and so on.",
+      "tag": "generated",
+      "counter_to": "st-180",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181",
+      "text": "They could be provided for those who don't as such can be cheaper than the expenses for the respective teacher(s) or their work-time. ",
+      "tag": "",
+      "counter_to": "st-181-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-181-gen",
+      "text": "They could be provided for those who doas such can be cheaper than the expenses for the respective teacher(s) or their work-time.",
+      "tag": "generated",
+      "counter_to": "st-181",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182",
+      "text": "Many of those also do not have access to conventional traditional schools with teachers. ",
+      "tag": "",
+      "counter_to": "st-182-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-182-gen",
+      "text": "Many of those also have access to conventional traditional schools with teachers.",
+      "tag": "generated",
+      "counter_to": "st-182",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183",
+      "text": "There are open source platforms schools all over the world can use freely and develop further. The most notable of which likely is the purpose-built virtual classroom and videoconferencing software, BigBlueButton [52]. ",
+      "tag": "",
+      "counter_to": "st-183-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-183-gen",
+      "text": "There are open source platforms schools all over the world can't use freely and develop further. The most notable of which likely is the purpose-built virtual classroom and videoconferencing software, BigBlueButton [52].",
+      "tag": "generated",
+      "counter_to": "st-183",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184",
+      "text": "Using free and open source software reduces costs and raises accessibility. ",
+      "tag": "",
+      "counter_to": "st-184-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-184-gen",
+      "text": "Using free and open source software doesn't reduce costs and raises accessibility.",
+      "tag": "generated",
+      "counter_to": "st-184",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185",
+      "text": "Using open source enables standardization and interoperability by which many types of software can integrate or share with each other. They can be combined – for example by integrating BigBlueButton into another school platform. ",
+      "tag": "",
+      "counter_to": "st-185-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-185-gen",
+      "text": "Using open source doesn't enable standardization and interoperability by which many types of software can integrate or share with each other. They can be combined – for example by integrating BigBlueButton into another school platform.",
+      "tag": "generated",
+      "counter_to": "st-185",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186",
+      "text": "If many educational institutions all over the world use the same software, they can work together efficiently to quickly solve any problems, make the software the best there is, and propose and develop further features or extensions and variants of the software. This can also greatly reduce labor requirements and hence costs. ",
+      "tag": "",
+      "counter_to": "st-186-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-186-gen",
+      "text": "If many educational institutions all over the world use the same software, they can't work together efficiently to quickly solve any problems, make the software the best there is, and propose and develop further features or extensions and variants of the software. This can also greatly reduce labor requirements and hence costs.",
+      "tag": "generated",
+      "counter_to": "st-186",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187",
+      "text": "-> See discussion #15628: Open source software is better and more secure. ",
+      "tag": "",
+      "counter_to": "st-187-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-187-gen",
+      "text": "-> See discussion #15628: Open source software isn't better and more secure.",
+      "tag": "generated",
+      "counter_to": "st-187",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188",
+      "text": "This enables states' sovereignty as they do not depend on a company (or multiple thereof) for their public educational institutions. They have more control, less risks for privacy intrusions, and more customizability and decision-making freedoms. ",
+      "tag": "",
+      "counter_to": "st-188-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-188-gen",
+      "text": "This enableses states' sovereignty as they do depend on a company (or multiple thereof) for their public educational institutions. They have more control, less risks for privacy intrusions, and more customizability and decision-making freedoms.",
+      "tag": "generated",
+      "counter_to": "st-188",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189",
+      "text": "Videos are helpful to those who cannot read. ",
+      "tag": "",
+      "counter_to": "st-189-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-189-gen",
+      "text": "Videos are helpful to those who can read.",
+      "tag": "generated",
+      "counter_to": "st-189",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190",
+      "text": "Even if videos can help those who cannot read, so can a number of other techniques [53]. Therefore, this does not differentiate video learning as a particularly strong learning format. ",
+      "tag": "",
+      "counter_to": "st-190-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-190-gen",
+      "text": "Even if videos can help those who can read, so can a number of other techniques [53]. Therefore, this does not differentiate video learning as a particularly strong learning format.",
+      "tag": "generated",
+      "counter_to": "st-190",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191",
+      "text": "Videos can help children learn basic principles like math, reading, and spelling. ",
+      "tag": "",
+      "counter_to": "st-191-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-191-gen",
+      "text": "Videos can't help children learn basic principles like math, reading, and spelling.",
+      "tag": "generated",
+      "counter_to": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192",
+      "text": "Shows such as 'Sesame Street [54]' are just as beneficial to children learning basic principles, as is preschool. ",
+      "tag": "",
+      "counter_to": "st-192-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-192-gen",
+      "text": "Doesn't show such as 'Sesame Street [54]' are just as beneficial to children learning basic principles, as is preschool.",
+      "tag": "generated",
+      "counter_to": "st-192",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193",
+      "text": "Many subjects, with math being the exception, require a level of interaction in order to learn the material. Videos do not allow for this. ",
+      "tag": "",
+      "counter_to": "st-193-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-193-gen",
+      "text": "Many subjects, with math being the exception, require a level of interaction in order to learn the material. Videos do allow for this.",
+      "tag": "generated",
+      "counter_to": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194",
+      "text": "Language arts requires students to sometimes interact with their instructor in order to learn certain elements. ",
+      "tag": "",
+      "counter_to": "st-194-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-194-gen",
+      "text": "Language arts doesn't require students to sometimes interact with their instructor in order to learn certain elements.",
+      "tag": "generated",
+      "counter_to": "st-194",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195",
+      "text": "Science, or more specifically, biology, requires students to conduct experiments to learn in that subject, something that online education fails to do. ",
+      "tag": "",
+      "counter_to": "st-195-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-195-gen",
+      "text": "Science, or more specifically, biology, doesn't require students to conduct experiments to learn in that subject, something that online education fails to do.",
+      "tag": "generated",
+      "counter_to": "st-195",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196",
+      "text": "There are programs, like Accelerate's Smart Science' [55] that offer students ways to view experiments being conducted. ",
+      "tag": "",
+      "counter_to": "st-196-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-196-gen",
+      "text": "There aren't programs, like Accelerate's Smart Science' [55] that offer students ways to view experiments being conducted.",
+      "tag": "generated",
+      "counter_to": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197",
+      "text": "Viewing an experiment does not provide a way to measure a student's ability to perform the experiment. ",
+      "tag": "",
+      "counter_to": "st-197-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-197-gen",
+      "text": "Viewing an experiment provides a way to measure a student's ability to perform the experiment.",
+      "tag": "generated",
+      "counter_to": "st-197",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198",
+      "text": "Sites such as Coursehero encourage students to copy work in numerous fields, like biology. ",
+      "tag": "",
+      "counter_to": "st-198-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-198-gen",
+      "text": "Sites such as Coursehero don't encourage students to copy work in numerous fields, like biology.",
+      "tag": "generated",
+      "counter_to": "st-198",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199",
+      "text": "Many people can learn beneficial skills from video learning courses. ",
+      "tag": "",
+      "counter_to": "st-199-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-199-gen",
+      "text": "Many people can't learn beneficial skills from video learning courses.",
+      "tag": "generated",
+      "counter_to": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200",
+      "text": "Videos are an effective way [56] to learn a new language. ",
+      "tag": "",
+      "counter_to": "st-200-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-200-gen",
+      "text": "Videos aren't an effective way [56] to learn a new language.",
+      "tag": "generated",
+      "counter_to": "st-200",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201",
+      "text": "Videos allow the learner's to put an image to words. ",
+      "tag": "",
+      "counter_to": "st-201-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-201-gen",
+      "text": "Videos don't allow the learner's to put an image to words.",
+      "tag": "generated",
+      "counter_to": "st-201",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202",
+      "text": "Watching movies [57] with subtitles are an effective way to learn a new language. ",
+      "tag": "",
+      "counter_to": "st-202-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-202-gen",
+      "text": "Watching movies [57] with subtitles aren't an effective way to learn a new language.",
+      "tag": "generated",
+      "counter_to": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203",
+      "text": "The learner can hear the person speak, see the words, as well as see how the word is spoken. This combines multiple senses, instead of one. ",
+      "tag": "",
+      "counter_to": "st-203-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-203-gen",
+      "text": "The learner can't hear the person speak, see the words, as well as see how the word is spoken. This combines multiple senses, instead of one.",
+      "tag": "generated",
+      "counter_to": "st-203",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204",
+      "text": "Successful programs like Rosetta Stone [58] use videos to teach a new language. ",
+      "tag": "",
+      "counter_to": "st-204-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-204-gen",
+      "text": "Successful programs like Rosetta Stone [58] don't use videos to teach a new language.",
+      "tag": "generated",
+      "counter_to": "st-204",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205",
+      "text": "Videos are unlikely to improve language speaking skills given that they typically only offer one-way communication to viewers. ",
+      "tag": "",
+      "counter_to": "st-205-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-205-gen",
+      "text": "Videos aren't unlikely to improve language speaking skills given that they typically only offer one-way communication to viewers.",
+      "tag": "generated",
+      "counter_to": "st-205",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206",
+      "text": "A 2017 study [59] found that students' speaking exam results improve after watching language videos. (p. 255) ",
+      "tag": "",
+      "counter_to": "st-206-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-206-gen",
+      "text": "A 2017 study [59] didn't find that students' speaking exam results improve after watching language videos. (p. 255)",
+      "tag": "generated",
+      "counter_to": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207",
+      "text": "This study involved just 20 participants [60] of which only 10 were in the treatment group. Therefore, it may not be reliable. (p. 259) ",
+      "tag": "",
+      "counter_to": "st-207-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-207-gen",
+      "text": "This study involveded just 20 participants [60] of which only 10 were in the treatment group. Therefore, it may be reliable. (p. 259)",
+      "tag": "generated",
+      "counter_to": "st-207",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208",
+      "text": "When integrated [61] into a classroom setting, language videos improve speaking skills. ",
+      "tag": "",
+      "counter_to": "st-208-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-208-gen",
+      "text": "When integrated [61] into a classroom setting, language videos don't improve speaking skills.",
+      "tag": "generated",
+      "counter_to": "st-208",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209",
+      "text": "Languages videos indirectly improve speaking skills by increasing the self-esteem [62] of students so that they feel less anxious about doing so. (p. 22) ",
+      "tag": "",
+      "counter_to": "st-209-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-209-gen",
+      "text": "Languages videos indirectly don't improve speaking skills by increasing the self-esteem [62] of students so that they feel less anxious about doing so. (p. 22)",
+      "tag": "generated",
+      "counter_to": "st-209",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210",
+      "text": "Native speakers in a video may speak too fast for beginners just learning. ",
+      "tag": "",
+      "counter_to": "st-210-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-210-gen",
+      "text": "Native speakers in a video may not speak too fast for beginners just learning.",
+      "tag": "generated",
+      "counter_to": "st-210",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211",
+      "text": "Subtitles may appear too quick for the learner to read and connect what they are reading and hearing. ",
+      "tag": "",
+      "counter_to": "st-211-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-211-gen",
+      "text": "Subtitles may not appear too quick for the learner to read and connect what they are reading and hearing.",
+      "tag": "generated",
+      "counter_to": "st-211",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212",
+      "text": "The video's quality is dependent upon the creator. ",
+      "tag": "",
+      "counter_to": "st-212-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-212-gen",
+      "text": "The video's quality isn't dependent upon the creator.",
+      "tag": "generated",
+      "counter_to": "st-212",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213",
+      "text": "Videos can be repeated and slowed down [63] to resolve the issue of native speakers speaking too fast for beginners. ",
+      "tag": "",
+      "counter_to": "st-213-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-213-gen",
+      "text": "Videos can't be repeated and slowed down [63] to resolve the issue of native speakers speaking too fast for beginners.",
+      "tag": "generated",
+      "counter_to": "st-213",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214",
+      "text": "Many people can learn skills through reading or attending one-on-one workshops as well. ",
+      "tag": "",
+      "counter_to": "st-214-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-214-gen",
+      "text": "Many people can't learn skills through reading or attending one-on-one workshops as well.",
+      "tag": "generated",
+      "counter_to": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215",
+      "text": "Some skills require hands-on instruction. Videos are not helpful for learning in this case. ",
+      "tag": "",
+      "counter_to": "st-215-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-215-gen",
+      "text": "Some skills require hands-on instruction. Videos are helpful for learning in this case.",
+      "tag": "generated",
+      "counter_to": "st-215",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216",
+      "text": "Watching a video that teaches you an activity that is meant to be learned physically, like biking or swiming, are not functional alternatives. ",
+      "tag": "",
+      "counter_to": "st-216-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-216-gen",
+      "text": "Watching a video that teaches you an activity that is meant to be learned physically, like biking or swiming, are functional alternatives.",
+      "tag": "generated",
+      "counter_to": "st-216",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217",
+      "text": "There are many skills were this isn't the case or much less so. ",
+      "tag": "",
+      "counter_to": "st-217-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-217-gen",
+      "text": "There are many skills were this isthe case or much less so.",
+      "tag": "generated",
+      "counter_to": "st-217",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218",
+      "text": "For cases that need physical practical experiential learning, people could apply blended learning [64] where they put what they learned via videos into practice, can ask questions, and so on. ",
+      "tag": "",
+      "counter_to": "st-218-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-218-gen",
+      "text": "For cases that need physical practical experiential learning, people couldn't apply blended learning [64] where they put what they learned via videos into practice, can ask questions, and so on.",
+      "tag": "generated",
+      "counter_to": "st-218",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-219",
+      "text": "This is beneficial for those who cannot take classes in person. ",
+      "tag": "",
+      "counter_to": "st-219-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-219-gen",
+      "text": "This is beneficial for those who cantake classes in person.",
+      "tag": "generated",
+      "counter_to": "st-219",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-220",
+      "text": "Video courses, such as Edgenuity [65], are helpful for those who home school. ",
+      "tag": "",
+      "counter_to": "st-220-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-220-gen",
+      "text": "Video courses, such as Edgenuity [65], aren't helpful for those who home school.",
+      "tag": "generated",
+      "counter_to": "st-220",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-221",
+      "text": "The videos within the program are very poor in detail and are very plain to watch, as described by many students that use the platform [66]. ",
+      "tag": "",
+      "counter_to": "st-221-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-221-gen",
+      "text": "The videos within the program are very poor in detail and aren't very plain to watch, as described by many students that use the platform [66].",
+      "tag": "generated",
+      "counter_to": "st-221",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-222",
+      "text": "Video courses are available for grades K-12 so children can learn from the comfort of their own home until college. ",
+      "tag": "",
+      "counter_to": "st-222-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-222-gen",
+      "text": "Video courses aren't available for grades K-12 so children can learn from the comfort of their own home until college.",
+      "tag": "generated",
+      "counter_to": "st-222",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-223",
+      "text": "Some of the instructors might ramble on about stuff or might have an unpleasing voice. ",
+      "tag": "",
+      "counter_to": "st-223-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-223-gen",
+      "text": "Some of the instructors mightn't ramble on about stuff or might have an unpleasing voice.",
+      "tag": "generated",
+      "counter_to": "st-223",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-224",
+      "text": "The content on there has unnecessary intro and review videos that are just a waste of time ",
+      "tag": "",
+      "counter_to": "st-224-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-224-gen",
+      "text": "The content on there doesn't have unnecessary intro and review videos that are just a waste of time",
+      "tag": "generated",
+      "counter_to": "st-224",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-225",
+      "text": "Edgenuity instructors, for example, often stray away from the topic. ",
+      "tag": "",
+      "counter_to": "st-225-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-225-gen",
+      "text": "Edgenuity instructors, for example, often don't stray away from the topic.",
+      "tag": "generated",
+      "counter_to": "st-225",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-226",
+      "text": "Many experts post free public [67] videos on social media to teach skills. ",
+      "tag": "",
+      "counter_to": "st-226-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-226-gen",
+      "text": "Many experts don't post free public [67] videos on social media to teach skills.",
+      "tag": "generated",
+      "counter_to": "st-226",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-227",
+      "text": "Many people learn practical skills from watching YouTube. ",
+      "tag": "",
+      "counter_to": "st-227-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-227-gen",
+      "text": "Many people don't learn practical skills from watching YouTube.",
+      "tag": "generated",
+      "counter_to": "st-227",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-228",
+      "text": "YouTube has become one of the most preferred tools for learning (p.14 [68]). ",
+      "tag": "",
+      "counter_to": "st-228-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-228-gen",
+      "text": "YouTube hasn't become one of the most preferred tools for learning (p.14 [68]).",
+      "tag": "generated",
+      "counter_to": "st-228",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-229",
+      "text": "A good source of legal information (and legal teaching) is Ian Corzine, a media lawyer that posts his content on youtube [69] ",
+      "tag": "",
+      "counter_to": "st-229-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-229-gen",
+      "text": "A good source of legal information (and legal teaching) isn't Ian Corzine, a media lawyer that posts his content on youtube [69]",
+      "tag": "generated",
+      "counter_to": "st-229",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-230",
+      "text": "A study proposes [70] that people can learn the useful life-saving skills of basic life support via video lessons – complemented [71] with face-to-face teaching – which are currently not included in school curricula in most or nearly all countries of the world. ",
+      "tag": "",
+      "counter_to": "st-230-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-230-gen",
+      "text": "A study proposeses [70] that people can learn the useful life-saving skills of basic life support via video lessons – complemented [71] with face-to-face teaching – which are currently included in school curricula in most or nearly all countries of the world.",
+      "tag": "generated",
+      "counter_to": "st-230",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-231",
+      "text": "There are manual skills, such as trades work or sewing, that requires visual learning. Videos are the best format for this, if in-person demos are not available. ",
+      "tag": "",
+      "counter_to": "st-231-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-231-gen",
+      "text": "There are manual skills, such as trades work or sewing, that requires visual learning. Videos are the best format for this, if in-person demos are available.",
+      "tag": "generated",
+      "counter_to": "st-231",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-232",
+      "text": "Video learning courses increase issues with refreshing one's self with information. ",
+      "tag": "",
+      "counter_to": "st-232-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-232-gen",
+      "text": "Video learning courses don't increase issues with refreshing one's self with information.",
+      "tag": "generated",
+      "counter_to": "st-232",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-233",
+      "text": "Often videos are incredibly long, provided estimates for completing instruction segments in Edgenuity take at least 30 minutes to at least an hour to accomplish initially. ",
+      "tag": "",
+      "counter_to": "st-233-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-233-gen",
+      "text": "Often videos aren't incredibly long, provided estimates for completing instruction segments in Edgenuity take at least 30 minutes to at least an hour to accomplish initially.",
+      "tag": "generated",
+      "counter_to": "st-233",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-234",
+      "text": "This could be sped up by simply reading through the transcripts to refresh content. ",
+      "tag": "",
+      "counter_to": "st-234-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-234-gen",
+      "text": "This couldn't be sped up by simply reading through the transcripts to refresh content.",
+      "tag": "generated",
+      "counter_to": "st-234",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-235",
+      "text": "This completely negates the fact that in the video lectures, visual content is not commonly included in these transcripts, which may harm those attempting to refresh themselves in fields like Math or Art. ",
+      "tag": "",
+      "counter_to": "st-235-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-235-gen",
+      "text": "This completely negateses the fact that in the video lectures, visual content is commonly included in these transcripts, which may harm those attempting to refresh themselves in fields like Math or Art.",
+      "tag": "generated",
+      "counter_to": "st-235",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-236",
+      "text": "Conventional lessons or lectures are also incredibly long, and usually much longer than 30 minutes. A common school day in European countries is from 8 AM to 1 PM with two breaks and one or a few days with afternoon school, which on average nearly entirely consists of conventional lectures. ",
+      "tag": "",
+      "counter_to": "st-236-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-236-gen",
+      "text": "Conventional lessons or lectures aren't also incredibly long, and usually much longer than 30 minutes. A common school day in European countries is from 8 AM to 1 PM with two breaks and one or a few days with afternoon school, which on average nearly entirely consists of conventional lectures.",
+      "tag": "generated",
+      "counter_to": "st-236",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-237",
+      "text": "Some platforms do not allow exercises to be repeated in instruction segments, negating any proper practice for important assessments such as tests or exams. ",
+      "tag": "",
+      "counter_to": "st-237-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-237-gen",
+      "text": "Some platforms allow exercises to be repeated in instruction segments, negating any proper practice for important assessments such as tests or exams.",
+      "tag": "generated",
+      "counter_to": "st-237",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-238",
+      "text": "This is an issue of those platforms or the educational policy, not this particular format or method of learning. ",
+      "tag": "",
+      "counter_to": "st-238-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-238-gen",
+      "text": "This is an issue of those platforms or the educational policy, this particular format or method of learning.",
+      "tag": "generated",
+      "counter_to": "st-238",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-239",
+      "text": "-> See 1.5.5. ",
+      "tag": "",
+      "counter_to": "st-239-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-239-gen",
+      "text": "-> See 1.5.5. ",
+      "tag": "generated",
+      "counter_to": "st-239",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-240",
+      "text": "-> See 1.5.6.2. ",
+      "tag": "",
+      "counter_to": "st-240-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-240-gen",
+      "text": "-> See 1.5.6.2. ",
+      "tag": "generated",
+      "counter_to": "st-240",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-241",
+      "text": "In some cases there are and in all cases there could be transcripts of the video which one could search to quickly jump to the relevant part of the video, which is not possible with conventional lectures. ",
+      "tag": "",
+      "counter_to": "st-241-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-241-gen",
+      "text": "In some cases there are and in all cases there could be transcripts of the video which one could search to quickly jump to the relevant part of the video, which is possible with conventional lectures.",
+      "tag": "generated",
+      "counter_to": "st-241",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-242",
+      "text": "There are major shortages of teachers in many countries – from developed ones to third-world countries – and increased or increasing the use of video lessons can be a solution to this problem. ",
+      "tag": "",
+      "counter_to": "st-242-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-242-gen",
+      "text": "There don't be major shortages of teachers in many countries – from developed ones to third-world countries – and increased or increasing the use of video lessons can be a solution to this problem.",
+      "tag": "generated",
+      "counter_to": "st-242",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-243",
+      "text": "With hybrid learning [72], less teachers can teach more students and moreover do so more efficiently as they can use the digital system data or otherwise make use of or benefit from such. ",
+      "tag": "",
+      "counter_to": "st-243-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-243-gen",
+      "text": "With hybrid learning [72], less teachers can't teach more students and moreover do so more efficiently as they can use the digital system data or otherwise make use of or benefit from such.",
+      "tag": "generated",
+      "counter_to": "st-243",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-244",
+      "text": "For example what have been 10 hours of schools could become 8 hours of video lessons and 2 hours of highly efficient, and possibly smaller-class size, conventional lessons – this would enable one teacher to be ~5 times as efficient. ",
+      "tag": "",
+      "counter_to": "st-244-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-244-gen",
+      "text": "For example what have been 10 hours of schools could become 8 hours of video lessons and 2 hours of highly efficient, and possibly smaller-class size, conventional lessons – this would don't enable one teacher to be ~5 times as efficient.",
+      "tag": "generated",
+      "counter_to": "st-244",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-245",
+      "text": "This efficiency in teaching can lead to a deficiency in grading, as more documents have to be glossed over to be properly graded, this can in-turn end up with disastrous results [73]. [1] [74] [2] [75] ",
+      "tag": "",
+      "counter_to": "st-245-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-245-gen",
+      "text": "This efficiency in teaching can lead to a deficiency in grading, as more documents have to be glossed over to be properly graded, this can in-turn don't end up with disastrous results [73]. [1] [74] [2] [75]",
+      "tag": "generated",
+      "counter_to": "st-245",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-246",
+      "text": "-> See 1.7.3.1. ",
+      "tag": "",
+      "counter_to": "st-246-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-246-gen",
+      "text": "-> See 1.7.3.1. ",
+      "tag": "generated",
+      "counter_to": "st-246",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-247",
+      "text": "Video lessons are difficult to keep as adaptable or adapted, flexible and up-to-date as conventional lessons. ",
+      "tag": "",
+      "counter_to": "st-247-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-247-gen",
+      "text": "Video lessons aren't difficult to keep as adaptable or adapted, flexible and up-to-date as conventional lessons.",
+      "tag": "generated",
+      "counter_to": "st-247",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-248",
+      "text": "It's difficult to change parts of it such as adding in a subsegment about a recent development that makes the contents more relevant to the students or altering a few words to adjust to newer information and so on. ",
+      "tag": "",
+      "counter_to": "st-248-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-248-gen",
+      "text": "It isn't difficult to change parts of it such as adding in a subsegment about a recent development that makes the contents more relevant to the students or altering a few words to adjust to newer information and so on.",
+      "tag": "generated",
+      "counter_to": "st-248",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-249",
+      "text": "Many conventional lessons are also difficult to keep up-to-date, such as the complex price of textbooks. ",
+      "tag": "",
+      "counter_to": "st-249-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-249-gen",
+      "text": "Many conventional lessons aren't also difficult to keep up-to-date, such as the complex price of textbooks.",
+      "tag": "generated",
+      "counter_to": "st-249",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-250",
+      "text": "Education is not only about the contents learned but also about socialization, building a social life, fun, and more. Depending on the extent to which video lessons are used, such aspects or benefits would be reduced. ",
+      "tag": "",
+      "counter_to": "st-250-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-250-gen",
+      "text": "Education isn't not only about the contents learned but also about socialization, building a social life, fun, and more. Depending on the extent to which video lessons are used, such aspects or benefits would be reduced.",
+      "tag": "generated",
+      "counter_to": "st-250",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-251",
+      "text": "-> See 1.10.1. ",
+      "tag": "",
+      "counter_to": "st-251-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-251-gen",
+      "text": "-> See 1.10.1. ",
+      "tag": "generated",
+      "counter_to": "st-251",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-252",
+      "text": "Alternatives designed for such purposes could be set up instead of having these benefits largely only as side-effects. ",
+      "tag": "",
+      "counter_to": "st-252-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-252-gen",
+      "text": "Alternatives designed for such purposes couldn't be set up instead of having these benefits largely only as side-effects.",
+      "tag": "generated",
+      "counter_to": "st-252",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-253",
+      "text": "It is nicer to socialize and meet other people while engaged in tasks such as attending school, attending classes/lectures or learning rather than for the purpose of e.g. socialization. Many sports activities, for example, are not highly social and are usually engaged in only in addition not as substitute(s) for the social aspects of education systems. ",
+      "tag": "",
+      "counter_to": "st-253-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-253-gen",
+      "text": "It is nicer to socialize and meet other people while engaged in tasks such as attending school, attending classes/lectures or learning rather than for the purpose of e.g. socialization. Many sports activities, for example, are highly social and are usually engaged in only in addition not as substitute(s) for the social aspects of education systems.",
+      "tag": "generated",
+      "counter_to": "st-253",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-254",
+      "text": "It may or could benefit rather than obstruct socialization to have large digital elements integrated in education despite of less time spent with fewer people in traditional physical educational facilities. ",
+      "tag": "",
+      "counter_to": "st-254-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-254-gen",
+      "text": "It may not or could benefit rather than obstruct socialization to have large digital elements integrated in education despite of less time spent with fewer people in traditional physical educational facilities.",
+      "tag": "generated",
+      "counter_to": "st-254",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-255",
+      "text": "If one can choose the video lessons, this has several advantages over mandated conventional lessons or learning of conventional curricula, even if these are slightly modular, by local predetermined teachers. ",
+      "tag": "",
+      "counter_to": "st-255-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-255-gen",
+      "text": "If one can choose the video lessons, this has several advantages over mandated conventional lessons or learning of conventional curricula, even if these aren't slightly modular, by local predetermined teachers.",
+      "tag": "generated",
+      "counter_to": "st-255",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-256",
+      "text": "In MOOCs [76], one can often choose video lessons from some of the best-level teachers of the world on that subject which have very unusual expertise and/or high capabilities to make the right things easily understandable. ",
+      "tag": "",
+      "counter_to": "st-256-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-256-gen",
+      "text": "In MOOCs [76], one can't often choose video lessons from some of the best-level teachers of the world on that subject which have very unusual expertise and/or high capabilities to make the right things easily understandable.",
+      "tag": "generated",
+      "counter_to": "st-256",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-257",
+      "text": "For example, some may be professors in renowned universities or known for their high impact and expertise in a scientific field or for their product development successes. Depending on the subject, there can be a significant number of video lessons to choose from. ",
+      "tag": "",
+      "counter_to": "st-257-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-257-gen",
+      "text": "For example, some may not be professors in renowned universities or known for their high impact and expertise in a scientific field or for their product development successes. Depending on the subject, there can be a significant number of video lessons to choose from.",
+      "tag": "generated",
+      "counter_to": "st-257",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-258",
+      "text": "Many subjects are not taught in conventional settings but via video lessons, especially 21st century skills [77] and knowledge such as modern software development or sustainability matters. ",
+      "tag": "",
+      "counter_to": "st-258-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-258-gen",
+      "text": "Many subjects are taught in conventional settings but via video lessons, especially 21st century skills [77] and knowledge such as modern software development or sustainability matters.",
+      "tag": "generated",
+      "counter_to": "st-258",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-259",
+      "text": "It is difficult to determine which video lessons are best for one's purpose, current level of skills or knowledge, and so on. For example, ratings do not necessarily reflect course quality. ",
+      "tag": "",
+      "counter_to": "st-259-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-259-gen",
+      "text": "It is difficult to determine which video lessons are best for one's purpose, current level of skills or knowledge, and so on. For example, ratings do necessarily reflect course quality.",
+      "tag": "generated",
+      "counter_to": "st-259",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-260",
+      "text": "Videos are a more entertaining way to learn. ",
+      "tag": "",
+      "counter_to": "st-260-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-260-gen",
+      "text": "Videos aren't a more entertaining way to learn.",
+      "tag": "generated",
+      "counter_to": "st-260",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-261",
+      "text": "Learning capacity improves [78] when the learning process is enjoyable. (p. 1) ",
+      "tag": "",
+      "counter_to": "st-261-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-261-gen",
+      "text": "Learning capacity improves [78] when the learning process isn't enjoyable. (p. 1)",
+      "tag": "generated",
+      "counter_to": "st-261",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-262",
+      "text": "When an employee's work is more fun, their information retention and skills increase by up to 40% [79]. ",
+      "tag": "",
+      "counter_to": "st-262-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-262-gen",
+      "text": "When an employee's work isn't more fun, their information retention and skills increase by up to 40% [79].",
+      "tag": "generated",
+      "counter_to": "st-262",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-263",
+      "text": "This can only apply to videos that are created to be entertaining. ",
+      "tag": "",
+      "counter_to": "st-263-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-263-gen",
+      "text": "This can't only apply to videos that are created to be entertaining.",
+      "tag": "generated",
+      "counter_to": "st-263",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-264",
+      "text": "Some videos are only informational without any entertaining features. ",
+      "tag": "",
+      "counter_to": "st-264-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-264-gen",
+      "text": "Some videos aren't only informational without any entertaining features.",
+      "tag": "generated",
+      "counter_to": "st-264",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-265",
+      "text": "Entertainment from videos actually make users to focus more often, this is namely true from teenage students. ",
+      "tag": "",
+      "counter_to": "st-265-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-265-gen",
+      "text": "Entertainment from videos actually make users to focus more often, this isn't namely true from teenage students.",
+      "tag": "generated",
+      "counter_to": "st-265",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-266",
+      "text": "Some people may find reading books a more entertaining way to learn than by watching videos. ",
+      "tag": "",
+      "counter_to": "st-266-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-266-gen",
+      "text": "Some people may not find reading books a more entertaining way to learn than by watching videos.",
+      "tag": "generated",
+      "counter_to": "st-266",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-267",
+      "text": "Generation Z prefers videos [80] to printed materials for learning. ",
+      "tag": "",
+      "counter_to": "st-267-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-267-gen",
+      "text": "Generation Z doesn't prefer videos [80] to printed materials for learning.",
+      "tag": "generated",
+      "counter_to": "st-267",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-268",
+      "text": "-> See 1.8.5.1.1. ",
+      "tag": "",
+      "counter_to": "st-268-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-268-gen",
+      "text": "-> See 1.8.5.1.1. ",
+      "tag": "generated",
+      "counter_to": "st-268",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-269",
+      "text": "Reading text is a very monotonous process. Videos, on the other hand, provide more visual interest. ",
+      "tag": "",
+      "counter_to": "st-269-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-269-gen",
+      "text": "Reading text isn't a very monotonous process. Videos, on the other hand, provide more visual interest.",
+      "tag": "generated",
+      "counter_to": "st-269",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-270",
+      "text": "Videos include movement and color which can be more interesting than reading black text on a white page. ",
+      "tag": "",
+      "counter_to": "st-270-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-270-gen",
+      "text": "Videos don't include movement and color which can be more interesting than reading black text on a white page.",
+      "tag": "generated",
+      "counter_to": "st-270",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-271",
+      "text": "Watching video lectures that one has to focus on can be or usually is less entertaining than sitting alongside classmates in physical room. ",
+      "tag": "",
+      "counter_to": "st-271-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-271-gen",
+      "text": "Watching video lectures that one has to focus on can't be or usually is less entertaining than sitting alongside classmates in physical room.",
+      "tag": "generated",
+      "counter_to": "st-271",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-272",
+      "text": "Video learning courses can be boring. ",
+      "tag": "",
+      "counter_to": "st-272-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-272-gen",
+      "text": "Video learning courses can't be boring.",
+      "tag": "generated",
+      "counter_to": "st-272",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-273",
+      "text": "People should have the freedom to choose how they learn. ",
+      "tag": "",
+      "counter_to": "st-273-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-273-gen",
+      "text": "People shouldn't have the freedom to choose how they learn.",
+      "tag": "generated",
+      "counter_to": "st-273",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-274",
+      "text": "It may be difficult for teachers to relate to their students through video, which can make students disinterested in the subject matter. ",
+      "tag": "",
+      "counter_to": "st-274-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-274-gen",
+      "text": "It may not be difficult for teachers to relate to their students through video, which can make students disinterested in the subject matter.",
+      "tag": "generated",
+      "counter_to": "st-274",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-275",
+      "text": "Students in the chat can just tell the teacher that they do not understand. ",
+      "tag": "",
+      "counter_to": "st-275-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-275-gen",
+      "text": "Students in the chat can just tell the teacher that they do understand.",
+      "tag": "generated",
+      "counter_to": "st-275",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-276",
+      "text": "Sometimes, an educator not trained with the format (like with Zoom), could disable that feature. ",
+      "tag": "",
+      "counter_to": "st-276-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-276-gen",
+      "text": "Sometimes, an educator not trained with the format (like with Zoom), couldn't disable that feature.",
+      "tag": "generated",
+      "counter_to": "st-276",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-277",
+      "text": "Sometimes, it can be quite difficult to explain the error, on either end nonetheless. ",
+      "tag": "",
+      "counter_to": "st-277-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-277-gen",
+      "text": "Sometimes, it can't be quite difficult to explain the error, on either end nonetheless.",
+      "tag": "generated",
+      "counter_to": "st-277",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-278",
+      "text": "In some scenarios, those videos can be easy to understand and also be slightly entertaining. ",
+      "tag": "",
+      "counter_to": "st-278-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-278-gen",
+      "text": "In some scenarios, those videos can't be easy to understand and also be slightly entertaining.",
+      "tag": "generated",
+      "counter_to": "st-278",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-279",
+      "text": "This is an issue with the subject matter, not the video itself. ",
+      "tag": "",
+      "counter_to": "st-279-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-279-gen",
+      "text": "This is an issue with the subject matter, the video itself.",
+      "tag": "generated",
+      "counter_to": "st-279",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-280",
+      "text": "History requires many details. A video with great detail upon everything can be boring. ",
+      "tag": "",
+      "counter_to": "st-280-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-280-gen",
+      "text": "History doesn't require many details. A video with great detail upon everything can be boring.",
+      "tag": "generated",
+      "counter_to": "st-280",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-281",
+      "text": "The topic of history has its own channel [81], meaning there are people who enjoy and likely learn from it. ",
+      "tag": "",
+      "counter_to": "st-281-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-281-gen",
+      "text": "The topic of history doesn't have its own channel [81], meaning there are people who enjoy and likely learn from it.",
+      "tag": "generated",
+      "counter_to": "st-281",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-282",
+      "text": "An instructor can be quite dull with how they get information across, which could be not remembered by a student. ",
+      "tag": "",
+      "counter_to": "st-282-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-282-gen",
+      "text": "An instructor can be quite dull with how they get information across, which could be remembered by a student.",
+      "tag": "generated",
+      "counter_to": "st-282",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-283",
+      "text": "Some people just can't entertain the viewer. ",
+      "tag": "",
+      "counter_to": "st-283-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-283-gen",
+      "text": "Some people just can entertain the viewer.",
+      "tag": "generated",
+      "counter_to": "st-283",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-284",
+      "text": "What is considered boring is subjective to the learning, and therefore cannot be applied to videos as a whole. ",
+      "tag": "",
+      "counter_to": "st-284-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-284-gen",
+      "text": "What is considered boring is subjective to the learning, and therefore canbe applied to videos as a whole.",
+      "tag": "generated",
+      "counter_to": "st-284",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-285",
+      "text": "Some videos are of an instructor talking. Not having a chance of picture can be monotonous. ",
+      "tag": "",
+      "counter_to": "st-285-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-285-gen",
+      "text": "Some videos are of an instructor talking. having a chance of picture can be monotonous.",
+      "tag": "generated",
+      "counter_to": "st-285",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-286",
+      "text": "Entertainment isn't necessary for learning. ",
+      "tag": "",
+      "counter_to": "st-286-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-286-gen",
+      "text": "Entertainment is necessary for learning.",
+      "tag": "generated",
+      "counter_to": "st-286",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-287",
+      "text": "Entertainment can distract from the idea/concept being taught. ",
+      "tag": "",
+      "counter_to": "st-287-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-287-gen",
+      "text": "Entertainment can't distract from the idea/concept being taught.",
+      "tag": "generated",
+      "counter_to": "st-287",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-288",
+      "text": "Entertainment makes learning fun, an important [82] aspect for students. ",
+      "tag": "",
+      "counter_to": "st-288-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-288-gen",
+      "text": "Entertainment doesn't make learning fun, an important [82] aspect for students.",
+      "tag": "generated",
+      "counter_to": "st-288",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-289",
+      "text": "The entertainment value of the video affects the student's attention span, either making them want to focus or not. ",
+      "tag": "",
+      "counter_to": "st-289-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-289-gen",
+      "text": "The entertainment value of the video doesn't affect the student's attention span, either making them want to focus or not.",
+      "tag": "generated",
+      "counter_to": "st-289",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-290",
+      "text": "The attention span of a student towards a video greatly can affect their grade level, if a video is not entertaining enough, a student will not focus. ",
+      "tag": "",
+      "counter_to": "st-290-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-290-gen",
+      "text": "The attention span of a student towards a video greatly can affect their grade level, if a video is entertaining enough, a student will not focus.",
+      "tag": "generated",
+      "counter_to": "st-290",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-291",
+      "text": "Entertainment also allows for students to actually focus upon the topic more clearly. ",
+      "tag": "",
+      "counter_to": "st-291-gen",
+      "source": "kialo-1"
+    },
+    {
+      "id": "st-291-gen",
+      "text": "Entertainment also doesn't allow for students to actually focus upon the topic more clearly.",
+      "tag": "generated",
+      "counter_to": "st-291",
+      "source": "kialo-1"
+    }
+  ],
+  "arguments": [
+    {
+      "id": "arg-1",
+      "claim": "st-1",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-2",
+      "claim": "st-2",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-3",
+      "claim": "st-4",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-4",
+      "claim": "st-5",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-5",
+      "claim": "st-6",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-6",
+      "claim": "st-7",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-7",
+      "claim": "st-11",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-8",
+      "claim": "st-14",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-9",
+      "claim": "st-15",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-10",
+      "claim": "st-18",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-11",
+      "claim": "st-19",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-12",
+      "claim": "st-20",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-13",
+      "claim": "st-23",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-14",
+      "claim": "st-25",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-15",
+      "claim": "st-28",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-16",
+      "claim": "st-32",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-17",
+      "claim": "st-33",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-18",
+      "claim": "st-34",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-19",
+      "claim": "st-37",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-20",
+      "claim": "st-39",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-21",
+      "claim": "st-40",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-22",
+      "claim": "st-43",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-23",
+      "claim": "st-45",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-24",
+      "claim": "st-46",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-25",
+      "claim": "st-47",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-26",
+      "claim": "st-52",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-27",
+      "claim": "st-58",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-28",
+      "claim": "st-59",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-29",
+      "claim": "st-61",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-30",
+      "claim": "st-62",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-31",
+      "claim": "st-63",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-32",
+      "claim": "st-66",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-33",
+      "claim": "st-68",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-34",
+      "claim": "st-69",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-35",
+      "claim": "st-72",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-36",
+      "claim": "st-73",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-37",
+      "claim": "st-74",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-38",
+      "claim": "st-76",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-39",
+      "claim": "st-77",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-40",
+      "claim": "st-79",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-41",
+      "claim": "st-80",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-42",
+      "claim": "st-85",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-43",
+      "claim": "st-86",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-44",
+      "claim": "st-88",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-45",
+      "claim": "st-91",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-46",
+      "claim": "st-92",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-47",
+      "claim": "st-93",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-48",
+      "claim": "st-97",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-49",
+      "claim": "st-100",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-50",
+      "claim": "st-101",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-51",
+      "claim": "st-102",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-52",
+      "claim": "st-105",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-53",
+      "claim": "st-108",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-54",
+      "claim": "st-112",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-55",
+      "claim": "st-114",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-56",
+      "claim": "st-116",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-57",
+      "claim": "st-119",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-58",
+      "claim": "st-123",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-59",
+      "claim": "st-128",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-60",
+      "claim": "st-129",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-61",
+      "claim": "st-130",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-62",
+      "claim": "st-132",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-63",
+      "claim": "st-133",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-64",
+      "claim": "st-135",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-65",
+      "claim": "st-137",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-66",
+      "claim": "st-138",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-67",
+      "claim": "st-139",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-68",
+      "claim": "st-140",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-69",
+      "claim": "st-145",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-70",
+      "claim": "st-148",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-71",
+      "claim": "st-149",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-72",
+      "claim": "st-150",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-73",
+      "claim": "st-151",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-74",
+      "claim": "st-155",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-75",
+      "claim": "st-156",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-76",
+      "claim": "st-158",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-77",
+      "claim": "st-159",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-78",
+      "claim": "st-160",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-79",
+      "claim": "st-161",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-80",
+      "claim": "st-162",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-81",
+      "claim": "st-166",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-82",
+      "claim": "st-169",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-83",
+      "claim": "st-170",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-84",
+      "claim": "st-174",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-85",
+      "claim": "st-176",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-86",
+      "claim": "st-183",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-87",
+      "claim": "st-189",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-88",
+      "claim": "st-191",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-89",
+      "claim": "st-193",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-90",
+      "claim": "st-195",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-91",
+      "claim": "st-196",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-92",
+      "claim": "st-197",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-93",
+      "claim": "st-199",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-94",
+      "claim": "st-200",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-95",
+      "claim": "st-202",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-96",
+      "claim": "st-205",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-97",
+      "claim": "st-206",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-98",
+      "claim": "st-210",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-99",
+      "claim": "st-211",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-100",
+      "claim": "st-214",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-101",
+      "claim": "st-216",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-102",
+      "claim": "st-219",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-103",
+      "claim": "st-220",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-104",
+      "claim": "st-226",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-105",
+      "claim": "st-227",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-106",
+      "claim": "st-232",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-107",
+      "claim": "st-233",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-108",
+      "claim": "st-234",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-109",
+      "claim": "st-237",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-110",
+      "claim": "st-242",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-111",
+      "claim": "st-243",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-112",
+      "claim": "st-244",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-113",
+      "claim": "st-247",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-114",
+      "claim": "st-250",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-115",
+      "claim": "st-252",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-116",
+      "claim": "st-255",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-117",
+      "claim": "st-256",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-118",
+      "claim": "st-260",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-119",
+      "claim": "st-261",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-120",
+      "claim": "st-263",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-121",
+      "claim": "st-267",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-122",
+      "claim": "st-269",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-123",
+      "claim": "st-272",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-124",
+      "claim": "st-274",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-125",
+      "claim": "st-275",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-126",
+      "claim": "st-279",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-127",
+      "claim": "st-280",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-128",
+      "claim": "st-286",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-129",
+      "claim": "st-288",
+      "source": "kialo-1"
+    },
+    {
+      "id": "arg-130",
+      "claim": "st-289",
+      "source": "kialo-1"
+    }
+  ],
+  "premises": [
+    {
+      "argument": "arg-1",
+      "premise": "st-2"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-32"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-58"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-61"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-91"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-128"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-145"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-199"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-232"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-242"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-247"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-250"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-255"
+    },
+    {
+      "argument": "arg-1",
+      "premise": "st-260"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-3"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-4"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-11"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-13"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-14"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-25"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-27"
+    },
+    {
+      "argument": "arg-2",
+      "premise": "st-28"
+    },
+    {
+      "argument": "arg-3",
+      "premise": "st-5"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-6"
+    },
+    {
+      "argument": "arg-4",
+      "premise": "st-10"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-7"
+    },
+    {
+      "argument": "arg-5",
+      "premise": "st-9"
+    },
+    {
+      "argument": "arg-6",
+      "premise": "st-8"
+    },
+    {
+      "argument": "arg-7",
+      "premise": "st-12"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-15"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-18"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-22"
+    },
+    {
+      "argument": "arg-8",
+      "premise": "st-23"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-16"
+    },
+    {
+      "argument": "arg-9",
+      "premise": "st-17"
+    },
+    {
+      "argument": "arg-10",
+      "premise": "st-19"
+    },
+    {
+      "argument": "arg-11",
+      "premise": "st-20"
+    },
+    {
+      "argument": "arg-12",
+      "premise": "st-21"
+    },
+    {
+      "argument": "arg-13",
+      "premise": "st-24"
+    },
+    {
+      "argument": "arg-14",
+      "premise": "st-26"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-29"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-30"
+    },
+    {
+      "argument": "arg-15",
+      "premise": "st-31"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-33"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-37"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-43"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-51"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-52"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-55"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-56"
+    },
+    {
+      "argument": "arg-16",
+      "premise": "st-57"
+    },
+    {
+      "argument": "arg-17",
+      "premise": "st-34"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-35"
+    },
+    {
+      "argument": "arg-18",
+      "premise": "st-36"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-38"
+    },
+    {
+      "argument": "arg-19",
+      "premise": "st-39"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-40"
+    },
+    {
+      "argument": "arg-20",
+      "premise": "st-42"
+    },
+    {
+      "argument": "arg-21",
+      "premise": "st-41"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-44"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-45"
+    },
+    {
+      "argument": "arg-22",
+      "premise": "st-50"
+    },
+    {
+      "argument": "arg-23",
+      "premise": "st-46"
+    },
+    {
+      "argument": "arg-24",
+      "premise": "st-47"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-48"
+    },
+    {
+      "argument": "arg-25",
+      "premise": "st-49"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-53"
+    },
+    {
+      "argument": "arg-26",
+      "premise": "st-54"
+    },
+    {
+      "argument": "arg-27",
+      "premise": "st-59"
+    },
+    {
+      "argument": "arg-28",
+      "premise": "st-60"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-62"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-72"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-76"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-84"
+    },
+    {
+      "argument": "arg-29",
+      "premise": "st-85"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-63"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-65"
+    },
+    {
+      "argument": "arg-30",
+      "premise": "st-66"
+    },
+    {
+      "argument": "arg-31",
+      "premise": "st-64"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-67"
+    },
+    {
+      "argument": "arg-32",
+      "premise": "st-68"
+    },
+    {
+      "argument": "arg-33",
+      "premise": "st-69"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-70"
+    },
+    {
+      "argument": "arg-34",
+      "premise": "st-71"
+    },
+    {
+      "argument": "arg-35",
+      "premise": "st-73"
+    },
+    {
+      "argument": "arg-36",
+      "premise": "st-74"
+    },
+    {
+      "argument": "arg-37",
+      "premise": "st-75"
+    },
+    {
+      "argument": "arg-38",
+      "premise": "st-77"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-78"
+    },
+    {
+      "argument": "arg-39",
+      "premise": "st-79"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-80"
+    },
+    {
+      "argument": "arg-40",
+      "premise": "st-83"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-81"
+    },
+    {
+      "argument": "arg-41",
+      "premise": "st-82"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-86"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-88"
+    },
+    {
+      "argument": "arg-42",
+      "premise": "st-90"
+    },
+    {
+      "argument": "arg-43",
+      "premise": "st-87"
+    },
+    {
+      "argument": "arg-44",
+      "premise": "st-89"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-92"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-118"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-119"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-121"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-122"
+    },
+    {
+      "argument": "arg-45",
+      "premise": "st-123"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-93"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-96"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-97"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-99"
+    },
+    {
+      "argument": "arg-46",
+      "premise": "st-100"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-94"
+    },
+    {
+      "argument": "arg-47",
+      "premise": "st-95"
+    },
+    {
+      "argument": "arg-48",
+      "premise": "st-98"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-101"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-112"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-114"
+    },
+    {
+      "argument": "arg-49",
+      "premise": "st-116"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-102"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-105"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-108"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-110"
+    },
+    {
+      "argument": "arg-50",
+      "premise": "st-111"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-103"
+    },
+    {
+      "argument": "arg-51",
+      "premise": "st-104"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-106"
+    },
+    {
+      "argument": "arg-52",
+      "premise": "st-107"
+    },
+    {
+      "argument": "arg-53",
+      "premise": "st-109"
+    },
+    {
+      "argument": "arg-54",
+      "premise": "st-113"
+    },
+    {
+      "argument": "arg-55",
+      "premise": "st-115"
+    },
+    {
+      "argument": "arg-56",
+      "premise": "st-117"
+    },
+    {
+      "argument": "arg-57",
+      "premise": "st-120"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-124"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-125"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-126"
+    },
+    {
+      "argument": "arg-58",
+      "premise": "st-127"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-129"
+    },
+    {
+      "argument": "arg-59",
+      "premise": "st-135"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-130"
+    },
+    {
+      "argument": "arg-60",
+      "premise": "st-132"
+    },
+    {
+      "argument": "arg-61",
+      "premise": "st-131"
+    },
+    {
+      "argument": "arg-62",
+      "premise": "st-133"
+    },
+    {
+      "argument": "arg-63",
+      "premise": "st-134"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-136"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-137"
+    },
+    {
+      "argument": "arg-64",
+      "premise": "st-144"
+    },
+    {
+      "argument": "arg-65",
+      "premise": "st-138"
+    },
+    {
+      "argument": "arg-66",
+      "premise": "st-139"
+    },
+    {
+      "argument": "arg-66",
+      "premise": "st-143"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-140"
+    },
+    {
+      "argument": "arg-67",
+      "premise": "st-142"
+    },
+    {
+      "argument": "arg-68",
+      "premise": "st-141"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-146"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-147"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-148"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-183"
+    },
+    {
+      "argument": "arg-69",
+      "premise": "st-189"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-149"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-181"
+    },
+    {
+      "argument": "arg-70",
+      "premise": "st-182"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-150"
+    },
+    {
+      "argument": "arg-71",
+      "premise": "st-180"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-151"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-153"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-154"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-155"
+    },
+    {
+      "argument": "arg-72",
+      "premise": "st-179"
+    },
+    {
+      "argument": "arg-73",
+      "premise": "st-152"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-156"
+    },
+    {
+      "argument": "arg-74",
+      "premise": "st-176"
+    },
+    {
+      "argument": "arg-75",
+      "premise": "st-157"
+    },
+    {
+      "argument": "arg-75",
+      "premise": "st-158"
+    },
+    {
+      "argument": "arg-75",
+      "premise": "st-168"
+    },
+    {
+      "argument": "arg-75",
+      "premise": "st-169"
+    },
+    {
+      "argument": "arg-76",
+      "premise": "st-159"
+    },
+    {
+      "argument": "arg-77",
+      "premise": "st-160"
+    },
+    {
+      "argument": "arg-77",
+      "premise": "st-166"
+    },
+    {
+      "argument": "arg-78",
+      "premise": "st-161"
+    },
+    {
+      "argument": "arg-79",
+      "premise": "st-162"
+    },
+    {
+      "argument": "arg-80",
+      "premise": "st-163"
+    },
+    {
+      "argument": "arg-80",
+      "premise": "st-164"
+    },
+    {
+      "argument": "arg-80",
+      "premise": "st-165"
+    },
+    {
+      "argument": "arg-81",
+      "premise": "st-167"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-170"
+    },
+    {
+      "argument": "arg-82",
+      "premise": "st-174"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-171"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-172"
+    },
+    {
+      "argument": "arg-83",
+      "premise": "st-173"
+    },
+    {
+      "argument": "arg-84",
+      "premise": "st-175"
+    },
+    {
+      "argument": "arg-85",
+      "premise": "st-177"
+    },
+    {
+      "argument": "arg-85",
+      "premise": "st-178"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-184"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-185"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-186"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-187"
+    },
+    {
+      "argument": "arg-86",
+      "premise": "st-188"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-190"
+    },
+    {
+      "argument": "arg-87",
+      "premise": "st-191"
+    },
+    {
+      "argument": "arg-88",
+      "premise": "st-192"
+    },
+    {
+      "argument": "arg-88",
+      "premise": "st-193"
+    },
+    {
+      "argument": "arg-89",
+      "premise": "st-194"
+    },
+    {
+      "argument": "arg-89",
+      "premise": "st-195"
+    },
+    {
+      "argument": "arg-90",
+      "premise": "st-196"
+    },
+    {
+      "argument": "arg-91",
+      "premise": "st-197"
+    },
+    {
+      "argument": "arg-92",
+      "premise": "st-198"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-200"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-214"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-216"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-219"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-226"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-230"
+    },
+    {
+      "argument": "arg-93",
+      "premise": "st-231"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-201"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-202"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-204"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-205"
+    },
+    {
+      "argument": "arg-94",
+      "premise": "st-210"
+    },
+    {
+      "argument": "arg-95",
+      "premise": "st-203"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-206"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-208"
+    },
+    {
+      "argument": "arg-96",
+      "premise": "st-209"
+    },
+    {
+      "argument": "arg-97",
+      "premise": "st-207"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-211"
+    },
+    {
+      "argument": "arg-98",
+      "premise": "st-213"
+    },
+    {
+      "argument": "arg-99",
+      "premise": "st-212"
+    },
+    {
+      "argument": "arg-100",
+      "premise": "st-215"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-217"
+    },
+    {
+      "argument": "arg-101",
+      "premise": "st-218"
+    },
+    {
+      "argument": "arg-102",
+      "premise": "st-220"
+    },
+    {
+      "argument": "arg-103",
+      "premise": "st-221"
+    },
+    {
+      "argument": "arg-103",
+      "premise": "st-222"
+    },
+    {
+      "argument": "arg-103",
+      "premise": "st-223"
+    },
+    {
+      "argument": "arg-103",
+      "premise": "st-224"
+    },
+    {
+      "argument": "arg-103",
+      "premise": "st-225"
+    },
+    {
+      "argument": "arg-104",
+      "premise": "st-227"
+    },
+    {
+      "argument": "arg-105",
+      "premise": "st-228"
+    },
+    {
+      "argument": "arg-105",
+      "premise": "st-229"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-233"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-237"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-239"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-240"
+    },
+    {
+      "argument": "arg-106",
+      "premise": "st-241"
+    },
+    {
+      "argument": "arg-107",
+      "premise": "st-234"
+    },
+    {
+      "argument": "arg-107",
+      "premise": "st-236"
+    },
+    {
+      "argument": "arg-108",
+      "premise": "st-235"
+    },
+    {
+      "argument": "arg-109",
+      "premise": "st-238"
+    },
+    {
+      "argument": "arg-110",
+      "premise": "st-243"
+    },
+    {
+      "argument": "arg-110",
+      "premise": "st-246"
+    },
+    {
+      "argument": "arg-111",
+      "premise": "st-244"
+    },
+    {
+      "argument": "arg-112",
+      "premise": "st-245"
+    },
+    {
+      "argument": "arg-113",
+      "premise": "st-248"
+    },
+    {
+      "argument": "arg-113",
+      "premise": "st-249"
+    },
+    {
+      "argument": "arg-114",
+      "premise": "st-251"
+    },
+    {
+      "argument": "arg-114",
+      "premise": "st-252"
+    },
+    {
+      "argument": "arg-114",
+      "premise": "st-254"
+    },
+    {
+      "argument": "arg-115",
+      "premise": "st-253"
+    },
+    {
+      "argument": "arg-116",
+      "premise": "st-256"
+    },
+    {
+      "argument": "arg-116",
+      "premise": "st-258"
+    },
+    {
+      "argument": "arg-116",
+      "premise": "st-259"
+    },
+    {
+      "argument": "arg-117",
+      "premise": "st-257"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-261"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-263"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-266"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-267"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-269"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-271"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-272"
+    },
+    {
+      "argument": "arg-118",
+      "premise": "st-286"
+    },
+    {
+      "argument": "arg-119",
+      "premise": "st-262"
+    },
+    {
+      "argument": "arg-120",
+      "premise": "st-264"
+    },
+    {
+      "argument": "arg-120",
+      "premise": "st-265"
+    },
+    {
+      "argument": "arg-121",
+      "premise": "st-268"
+    },
+    {
+      "argument": "arg-122",
+      "premise": "st-270"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-273"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-274"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-278"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-279"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-283"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-284"
+    },
+    {
+      "argument": "arg-123",
+      "premise": "st-285"
+    },
+    {
+      "argument": "arg-124",
+      "premise": "st-275"
+    },
+    {
+      "argument": "arg-125",
+      "premise": "st-276"
+    },
+    {
+      "argument": "arg-125",
+      "premise": "st-277"
+    },
+    {
+      "argument": "arg-126",
+      "premise": "st-280"
+    },
+    {
+      "argument": "arg-126",
+      "premise": "st-282"
+    },
+    {
+      "argument": "arg-127",
+      "premise": "st-281"
+    },
+    {
+      "argument": "arg-128",
+      "premise": "st-287"
+    },
+    {
+      "argument": "arg-128",
+      "premise": "st-288"
+    },
+    {
+      "argument": "arg-129",
+      "premise": "st-289"
+    },
+    {
+      "argument": "arg-129",
+      "premise": "st-291"
+    },
+    {
+      "argument": "arg-130",
+      "premise": "st-290"
+    }
+  ],
+  "sources": [
+    {
+      "name": "kialo-5",
+      "topic": "Are video learning courses a good learning format?",
+      "text": "Full Kialo Text",
+      "url": "https://www.kialo.com/are-video-learning-courses-a-good-learning-format-33565"
+    }
+  ]
+}

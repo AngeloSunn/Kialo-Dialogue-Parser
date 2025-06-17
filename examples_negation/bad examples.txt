@@ -1,0 +1,44 @@
+  {
+    "id": "st-8",
+    "text": "The price of cinema tickets vary from country to country [4], and can be incredibly affordable [5] in some places. ",
+    "tag": "",
+    "counter-to": "st-8-gen",
+    "source": "kialo-1"
+  },
+  {
+    "id": "st-8-gen",
+    "text": "The price of cinema tickets don't vary from country to country [4], and can be incredibly affordable [5] in some places.",
+    "tag": "generated",
+    "counter-to": "st-8",
+    "source": "kialo-1"
+  },
+
+  {
+    "id": "st-10",
+    "text": "In countries like Mali, a single cinema ticket can cost 59% of the average weekly wage [10]. ",
+    "tag": "",
+    "counter-to": "st-10-gen",
+    "source": "kialo-1"
+  },
+  {
+    "id": "st-10-gen",
+    "text": "In countries like Mali, a single cinema ticket can't cost 59% of the average weekly wage [10].",
+    "tag": "generated",
+    "counter-to": "st-10",
+    "source": "kialo-1"
+  },
+
+    {
+    "id": "st-21",
+    "text": "People are watching less live TV [20] than ever before. With plummeting viewership, these channels may no longer exist in the future. ",
+    "tag": "",
+    "counter-to": "st-21-gen",
+    "source": "kialo-1"
+  },
+  {
+    "id": "st-21-gen",
+    "text": "People are watching less live TV [20] than ever before. With plummeting viewership, these channels may longer exist in the future.",
+    "tag": "generated",
+    "counter-to": "st-21",
+    "source": "kialo-1"
+  },
