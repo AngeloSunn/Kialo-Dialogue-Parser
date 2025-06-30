@@ -1,2066 +1,3634 @@
 {
   "statements": [
     {
-      "id": "st-1",
+      "statement_id": 1,
       "text": "Schools should require students to learn a second language. ",
-      "tag": "",
-      "counter_to": "st-1-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-1-gen",
+      "statement_id": 2,
       "text": "Schools shouldn't require students to learn a second language.",
-      "tag": "generated",
-      "counter_to": "st-1",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-2",
+      "statement_id": 3,
       "text": "Learning a second language has long-term benefits for the brain. ",
-      "tag": "",
-      "counter_to": "st-2-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-2-gen",
+      "statement_id": 4,
       "text": "Learning a second language doesn't have long-term benefits for the brain.",
-      "tag": "generated",
-      "counter_to": "st-2",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-3",
+      "statement_id": 5,
       "text": "Language learning helps improve memory and recall skills [1]. ",
-      "tag": "",
-      "counter_to": "st-3-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-3-gen",
+      "statement_id": 6,
       "text": "Language learning doesn't help improve memory and recall skills [1].",
-      "tag": "generated",
-      "counter_to": "st-3",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-4",
+      "statement_id": 7,
       "text": "Being bilingual is associated with delayed onset of dementia [2]. ",
-      "tag": "",
-      "counter_to": "st-4-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-4-gen",
+      "statement_id": 8,
       "text": "Being bilingual is None associate with delayed onset of dementia [2].",
-      "tag": "generated",
-      "counter_to": "st-4",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-5",
+      "statement_id": 9,
       "text": "By forming new pathways in the neurons [3] of the brain, language learning is known to keep the brain healthier for longer. ",
-      "tag": "",
-      "counter_to": "st-5-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-5-gen",
+      "statement_id": 10,
       "text": "By forming new pathways in the neurons [3] of the brain, language learning isn't known to keep the brain healthier for longer.",
-      "tag": "generated",
-      "counter_to": "st-5",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-6",
+      "statement_id": 11,
       "text": "Memory capabilities and dementia are significantly influenced by biological factors, including genetics and body functions [4]. To the extent that biology affects memory, learning a second language is less effective in improving memory. ",
-      "tag": "",
-      "counter_to": "st-6-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-6-gen",
+      "statement_id": 12,
       "text": "Memory capabilities and dementia aren't significantly influenced by biological factors, including genetics and body functions [4]. To the extent that biology affects memory, learning a second language is less effective in improving memory.",
-      "tag": "generated",
-      "counter_to": "st-6",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-7",
+      "statement_id": 13,
       "text": "Learning a second language is not the only way to improve memory. There are several strategies [5] for improving memory that do not involve learning or knowing a second language. ",
-      "tag": "",
-      "counter_to": "st-7-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-7-gen",
+      "statement_id": 14,
       "text": "Learning a second language is the only way to improve memory. There are several strategies [5] for improving memory that do not involve learning or knowing a second language.",
-      "tag": "generated",
-      "counter_to": "st-7",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-8",
+      "statement_id": 15,
       "text": "These strategies do not confer secondary benefits like being able to communicate in another language. ",
-      "tag": "",
-      "counter_to": "st-8-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-8-gen",
+      "statement_id": 16,
       "text": "These strategies confer secondary benefits like being able to communicate in another language.",
-      "tag": "generated",
-      "counter_to": "st-8",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-9",
+      "statement_id": 17,
       "text": "Learning a second language facilitates brain development [6], which is conducive to improving various cognitive abilities. ",
-      "tag": "",
-      "counter_to": "st-9-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-9-gen",
+      "statement_id": 18,
       "text": "Learning a second language doesn't facilitate brain development [6], which is conducive to improving various cognitive abilities.",
-      "tag": "generated",
-      "counter_to": "st-9",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-10",
+      "statement_id": 19,
       "text": "Learning a second language is not required to have healthy cognitive abilities. ",
-      "tag": "",
-      "counter_to": "st-10-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-10-gen",
+      "statement_id": 20,
       "text": "Learning a second language is required to have healthy cognitive abilities.",
-      "tag": "generated",
-      "counter_to": "st-10",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-11",
+      "statement_id": 21,
       "text": "As long as one engages in mentally stimulating challenges [7] throughout their childhood and adulthood, their potential cognitive abilities will be achieved. ",
-      "tag": "",
-      "counter_to": "st-11-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-11-gen",
+      "statement_id": 22,
       "text": "As long as one doesn't engage in mentally stimulating challenges [7] throughout their childhood and adulthood, their potential cognitive abilities will be achieved.",
-      "tag": "generated",
-      "counter_to": "st-11",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-12",
+      "statement_id": 23,
       "text": "Learning a language engages [8] both the logical and creative abilities of the brain. ",
-      "tag": "",
-      "counter_to": "st-12-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-12-gen",
+      "statement_id": 24,
       "text": "Learning a language doesn't engage [8] both the logical and creative abilities of the brain.",
-      "tag": "generated",
-      "counter_to": "st-12",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-13",
+      "statement_id": 25,
       "text": "There are many types of exercises that engage [9] many parts of the brain, like learning a musical instrument or juggling. ",
-      "tag": "",
-      "counter_to": "st-13-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-13-gen",
+      "statement_id": 26,
       "text": "There aren't many types of exercises that engage [9] many parts of the brain, like learning a musical instrument or juggling.",
-      "tag": "generated",
-      "counter_to": "st-13",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-14",
+      "statement_id": 27,
       "text": "People could learn a language in their spare time and receive these same benefits. It is not necessary to mandate learning a language at school. ",
-      "tag": "",
-      "counter_to": "st-14-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-14-gen",
+      "statement_id": 28,
       "text": "People could learn a language in their spare time and receive these same benefits. It is necessary to mandate learning a language at school.",
-      "tag": "generated",
-      "counter_to": "st-14",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-15",
+      "statement_id": 29,
       "text": "Students typically do not have much spare time or motivation [10] to learn a foreign language. ",
-      "tag": "",
-      "counter_to": "st-15-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-15-gen",
+      "statement_id": 30,
       "text": "Students typically have much spare time or motivation [10] to learn a foreign language.",
-      "tag": "generated",
-      "counter_to": "st-15",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-16",
+      "statement_id": 31,
       "text": "Most kids are more interested in having fun than trying to master a foreign language. ",
-      "tag": "",
-      "counter_to": "st-16-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-16-gen",
+      "statement_id": 32,
       "text": "Most kids aren't more interested in having fun than trying to master a foreign language.",
-      "tag": "generated",
-      "counter_to": "st-16",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-17",
+      "statement_id": 33,
       "text": "It would be more effective for a child to move to a country [11] where they speak a different language. They would be able to master the language much more efficiently than being taught in schools. ",
-      "tag": "",
-      "counter_to": "st-17-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-17-gen",
+      "statement_id": 34,
       "text": "It wouldn't be more effective for a child to move to a country [11] where they speak a different language. They would be able to master the language much more efficiently than being taught in schools.",
-      "tag": "generated",
-      "counter_to": "st-17",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-18",
+      "statement_id": 35,
       "text": "It is impractical for most students to move to a different country. ",
-      "tag": "",
-      "counter_to": "st-18-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-18-gen",
+      "statement_id": 36,
       "text": "It isn't impractical for most students to move to a different country.",
-      "tag": "generated",
-      "counter_to": "st-18",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-19",
+      "statement_id": 37,
       "text": "For students raised in bilingual households, they would not need to take mandatory classes to get this benefit. ",
-      "tag": "",
-      "counter_to": "st-19-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-19-gen",
+      "statement_id": 38,
       "text": "For students raised in bilingual households, they would need to take mandatory classes to get this benefit.",
-      "tag": "generated",
-      "counter_to": "st-19",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-20",
+      "statement_id": 39,
       "text": "Since half the world [12] is already bilingual, learning a mandatory second language at school is not necessary. ",
-      "tag": "",
-      "counter_to": "st-20-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-20-gen",
+      "statement_id": 40,
       "text": "Since half the world [12] is already bilingual, learning a mandatory second language at school is necessary.",
-      "tag": "generated",
-      "counter_to": "st-20",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-21",
+      "statement_id": 41,
       "text": "Teaching a second language would be an unnecessary drain on school resources. ",
-      "tag": "",
-      "counter_to": "st-21-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-21-gen",
+      "statement_id": 42,
       "text": "Teaching a second language wouldn't be an unnecessary drain on school resources.",
-      "tag": "generated",
-      "counter_to": "st-21",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-22",
+      "statement_id": 43,
       "text": "If learning a language benefits a child's future, then schools should increase their available resources in order to provide them the opportunity to learn. ",
-      "tag": "",
-      "counter_to": "st-22-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-22-gen",
+      "statement_id": 44,
       "text": "If not learning a language benefits a child's future, then schools should increase their available resources in order to provide them the opportunity to learn.",
-      "tag": "generated",
-      "counter_to": "st-22",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-23",
+      "statement_id": 45,
       "text": "If governments prioritized language education, they would be able to allocate as many resources as needed. ",
-      "tag": "",
-      "counter_to": "st-23-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-23-gen",
+      "statement_id": 46,
       "text": "If governments prioritized language education, they wouldn't be able to allocate as many resources as needed.",
-      "tag": "generated",
-      "counter_to": "st-23",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-24",
+      "statement_id": 47,
       "text": "In many European countries, foreign language education is seen as critical and strongly supported [13] by the government. ",
-      "tag": "",
-      "counter_to": "st-24-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-24-gen",
+      "statement_id": 48,
       "text": "In many European countries, foreign language education isn't seen as critical and strongly supported [13] by the government.",
-      "tag": "generated",
-      "counter_to": "st-24",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-25",
+      "statement_id": 49,
       "text": "Many schools are already facing budget cuts that mean they have to cut back on certain offerings. ",
-      "tag": "",
-      "counter_to": "st-25-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-25-gen",
+      "statement_id": 50,
       "text": "Many schools aren't already facing budget cuts that mean they have to cut back on certain offerings.",
-      "tag": "generated",
-      "counter_to": "st-25",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-26",
+      "statement_id": 51,
       "text": "Many schools already teach a second language [14] as a part of the student curriculum. Schools that do not teach a second language can adopt the strategies followed by the former set of schools. ",
-      "tag": "",
-      "counter_to": "st-26-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-26-gen",
+      "statement_id": 52,
       "text": "Many schools already teach a second language [14] as a part of the student curriculum. Schools that do teach a second language can adopt the strategies followed by the former set of schools.",
-      "tag": "generated",
-      "counter_to": "st-26",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-27",
+      "statement_id": 53,
       "text": "There aren't enough teachers who are able to teach new langauges. ",
-      "tag": "",
-      "counter_to": "st-27-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-27-gen",
+      "statement_id": 54,
       "text": "There are enough teachers who are able to teach new langauges.",
-      "tag": "generated",
-      "counter_to": "st-27",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-28",
+      "statement_id": 55,
       "text": "The state or district should hire foreign language teachers if there is a shortage. ",
-      "tag": "",
-      "counter_to": "st-28-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-28-gen",
+      "statement_id": 56,
       "text": "The state or district shouldn't hire foreign language teachers if there is a shortage.",
-      "tag": "generated",
-      "counter_to": "st-28",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-29",
+      "statement_id": 57,
       "text": "This might involve hiring more foreigners, which could be more costly and pose a greater administrative burden [15]. ",
-      "tag": "",
-      "counter_to": "st-29-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-29-gen",
+      "statement_id": 58,
       "text": "This mightn't involve hiring more foreigners, which could be more costly and pose a greater administrative burden [15].",
-      "tag": "generated",
-      "counter_to": "st-29",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-30",
+      "statement_id": 59,
       "text": "The shortage of teachers [16] in America has been described as \"real, large and growing, and worse than we thought.\" ",
-      "tag": "",
-      "counter_to": "st-30-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-30-gen",
+      "statement_id": 60,
       "text": "The shortage of teachers [16] in America hasn't been described as \"real, large and growing, and worse than we thought.\"",
-      "tag": "generated",
-      "counter_to": "st-30",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-31",
+      "statement_id": 61,
       "text": "If teacher pay [17] is improved, more people are likely to apply to be teachers. ",
-      "tag": "",
-      "counter_to": "st-31-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-31-gen",
+      "statement_id": 62,
       "text": "If teacher pay [17] is improved, more people aren't likely to apply to be teachers.",
-      "tag": "generated",
-      "counter_to": "st-31",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-32",
+      "statement_id": 63,
       "text": "Schools should teach topics that can't already be done by machines, which translation can be [18]. ",
-      "tag": "",
-      "counter_to": "st-32-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-32-gen",
+      "statement_id": 64,
       "text": "Schools should teach topics that ca already be done by machines, which translation can be [18].",
-      "tag": "generated",
-      "counter_to": "st-32",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-33",
+      "statement_id": 65,
       "text": "Given that instantaneous translation technologies are widespread and likely to continue improving, it is not necessary to learn a second language. ",
-      "tag": "",
-      "counter_to": "st-33-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-33-gen",
+      "statement_id": 66,
       "text": "Given that instantaneous translation technologies are widespread and likely to continue improving, it is necessary to learn a second language.",
-      "tag": "generated",
-      "counter_to": "st-33",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-34",
+      "statement_id": 67,
       "text": "As AI technology improves [19], it is likely that instant, native level translation will be available in the coming years. ",
-      "tag": "",
-      "counter_to": "st-34-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-34-gen",
+      "statement_id": 68,
       "text": "As AI technology improves [19], it doesn't be likely that instant, native level translation will be available in the coming years.",
-      "tag": "generated",
-      "counter_to": "st-34",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-35",
+      "statement_id": 69,
       "text": "If that technology becomes inaccessible for any reason, then people will have to rely on language skills again. ",
-      "tag": "",
-      "counter_to": "st-35-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-35-gen",
+      "statement_id": 70,
       "text": "If that technology becomes inaccessible for any reason, then people won't have to rely on language skills again.",
-      "tag": "generated",
-      "counter_to": "st-35",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-36",
+      "statement_id": 71,
       "text": "This is equivalent to saying students shouldn't learn math because we have calculators, but a basic understanding is still needed. ",
-      "tag": "",
-      "counter_to": "st-36-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-36-gen",
+      "statement_id": 72,
       "text": "This is equivalent to saying students shouldlearn math because we have calculators, but a basic understanding is still needed.",
-      "tag": "generated",
-      "counter_to": "st-36",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-37",
+      "statement_id": 73,
       "text": "People who don't work in mathematics fields often forget basic math [20] later in life. This isn't seen as a major problem. ",
-      "tag": "",
-      "counter_to": "st-37-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-37-gen",
+      "statement_id": 74,
       "text": "People who dowork in mathematics fields often forget basic math [20] later in life. This isn't seen as a major problem.",
-      "tag": "generated",
-      "counter_to": "st-37",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-38",
+      "statement_id": 75,
       "text": "Learning a foreign language requires far fewer resources than subjects like science. ",
-      "tag": "",
-      "counter_to": "st-38-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-38-gen",
+      "statement_id": 76,
       "text": "Learning a foreign language doesn't require far fewer resources than subjects like science.",
-      "tag": "generated",
-      "counter_to": "st-38",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-39",
+      "statement_id": 77,
       "text": "Unlike science or physical education, learning a language does not require any specialized equipment [21]. ",
-      "tag": "",
-      "counter_to": "st-39-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-39-gen",
+      "statement_id": 78,
       "text": "Unlike science or physical education, learning a language requires any specialized equipment [21].",
-      "tag": "generated",
-      "counter_to": "st-39",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-40",
+      "statement_id": 79,
       "text": "There are several new language learning technologies [22] that could make learning easier, despite their higher costs over traditional methods. ",
-      "tag": "",
-      "counter_to": "st-40-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-40-gen",
+      "statement_id": 80,
       "text": "There aren't several new language learning technologies [22] that could make learning easier, despite their higher costs over traditional methods.",
-      "tag": "generated",
-      "counter_to": "st-40",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-41",
+      "statement_id": 81,
       "text": "To achieve a high level of competency, it might be required for students to go to the countries where the language is spoken. This could be be prohibitively expensive. ",
-      "tag": "",
-      "counter_to": "st-41-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-41-gen",
+      "statement_id": 82,
       "text": "To achieve a high level of competency, it mightn't be required for students to go to the countries where the language is spoken. This could be be prohibitively expensive.",
-      "tag": "generated",
-      "counter_to": "st-41",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-42",
+      "statement_id": 83,
       "text": "A semester abroad is generally seen as a fast and efficient way to learn a language, but only a small percentage [23] of students do this. ",
-      "tag": "",
-      "counter_to": "st-42-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-42-gen",
+      "statement_id": 84,
       "text": "A semester abroad isn't generally seen as a fast and efficient way to learn a language, but only a small percentage [23] of students do this.",
-      "tag": "generated",
-      "counter_to": "st-42",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-43",
+      "statement_id": 85,
       "text": "If learning a foreign language is less helpful to a student's future than learning science, then any allocation of resources would be wasteful. ",
-      "tag": "",
-      "counter_to": "st-43-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-43-gen",
+      "statement_id": 86,
       "text": "If learning a foreign language isn't less helpful to a student's future than learning science, then any allocation of resources would be wasteful.",
-      "tag": "generated",
-      "counter_to": "st-43",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-44",
+      "statement_id": 87,
       "text": "Given their importance to society, STEM degrees are highly sought after and could one day be offered for free [24]. No such proposal is made for language degrees. ",
-      "tag": "",
-      "counter_to": "st-44-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-44-gen",
+      "statement_id": 88,
       "text": "Given their importance to society, STEM degrees aren't highly sought after and could one day be offered for free [24]. No such proposal is made for language degrees.",
-      "tag": "generated",
-      "counter_to": "st-44",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-45",
+      "statement_id": 89,
       "text": "Learning a second language at school is ineffective to achieve functional proficiency, let alone fluency. ",
-      "tag": "",
-      "counter_to": "st-45-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-45-gen",
+      "statement_id": 90,
       "text": "Learning a second language at school isn't ineffective to achieve functional proficiency, let alone fluency.",
-      "tag": "generated",
-      "counter_to": "st-45",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-46",
+      "statement_id": 91,
       "text": "Given that language classes would likely only occur less than an hour a day [25], students are unlikely to attain any significant level of fluency. ",
-      "tag": "",
-      "counter_to": "st-46-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-46-gen",
+      "statement_id": 92,
       "text": "Given that language classes wouldn't likely only occur less than an hour a day [25], students are unlikely to attain any significant level of fluency.",
-      "tag": "generated",
-      "counter_to": "st-46",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-47",
+      "statement_id": 93,
       "text": "As young people typically pick up languages faster [26] than adults, they could achieve a high level of fluency, particularly if they started early in their school years. ",
-      "tag": "",
-      "counter_to": "st-47-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-47-gen",
+      "statement_id": 94,
       "text": "As young people typically pick up languages faster [26] than adults, they couldn't achieve a high level of fluency, particularly if they started early in their school years.",
-      "tag": "generated",
-      "counter_to": "st-47",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-48",
+      "statement_id": 95,
       "text": "This age difference is likely to only be significant if there is total immersion [27] in a language, which most schools do not offer. ",
-      "tag": "",
-      "counter_to": "st-48-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-48-gen",
+      "statement_id": 96,
       "text": "This age difference is likely to only be significant if there is total immersion [27] in a language, which most schools do offer.",
-      "tag": "generated",
-      "counter_to": "st-48",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-49",
+      "statement_id": 97,
       "text": "The reason for learning languages faster as a child is mainly [28] due [29] to [30] neurological reasons [31] which is not dependent on total immersion. The claim is unsourced. ",
-      "tag": "",
-      "counter_to": "st-49-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-49-gen",
+      "statement_id": 98,
       "text": "The reason for learning languages faster as a child is mainly [28] due [29] to [30] neurological reasons [31] which is dependent on total immersion. The claim is unsourced.",
-      "tag": "generated",
-      "counter_to": "st-49",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-50",
+      "statement_id": 99,
       "text": "Some languages can take years [32] to master, even studying full time. ",
-      "tag": "",
-      "counter_to": "st-50-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-50-gen",
+      "statement_id": 100,
       "text": "Some languages can't take years [32] to master, even studying full time.",
-      "tag": "generated",
-      "counter_to": "st-50",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-51",
+      "statement_id": 101,
       "text": "Many students around the world study English throughout their academic career yet do not attain [33] a significant command of the language. ",
-      "tag": "",
-      "counter_to": "st-51-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-51-gen",
+      "statement_id": 102,
       "text": "Many students around the world study English throughout their academic career yet attain [33] a significant command of the language.",
-      "tag": "generated",
-      "counter_to": "st-51",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-52",
+      "statement_id": 103,
       "text": "Students already have enough to do without having to learn a second language that they might never use. ",
-      "tag": "",
-      "counter_to": "st-52-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-52-gen",
+      "statement_id": 104,
       "text": "Students already have enough to do without having to learn a second language that they might use.",
-      "tag": "generated",
-      "counter_to": "st-52",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-53",
+      "statement_id": 105,
       "text": "Being forced to learn a language could spark interest in a topic that people didn't know they had. ",
-      "tag": "",
-      "counter_to": "st-53-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-53-gen",
+      "statement_id": 106,
       "text": "Being forced to learn a language could spark interest in a topic that people did know they had.",
-      "tag": "generated",
-      "counter_to": "st-53",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-54",
+      "statement_id": 107,
       "text": "Learning a foreign language could make people interested in the films or music of other cultures. ",
-      "tag": "",
-      "counter_to": "st-54-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-54-gen",
+      "statement_id": 108,
       "text": "Learning a foreign language couldn't make people interested in the films or music of other cultures.",
-      "tag": "generated",
-      "counter_to": "st-54",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-55",
+      "statement_id": 109,
       "text": "It is unclear why that would be a positive thing and why they would need to learn that language instead of finding these through other means, especially since films usually have redubbed versions and music lyrics usually can't be well understood even with beyond-basic language skills. ",
-      "tag": "",
-      "counter_to": "st-55-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-55-gen",
+      "statement_id": 110,
       "text": "It is unclear why that would be a positive thing and why they would need to learn that language instead of finding these through other means, especially since films usually have redubbed versions and music lyrics usually cabe well understood even with beyond-basic language skills.",
-      "tag": "generated",
-      "counter_to": "st-55",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-56",
+      "statement_id": 111,
       "text": "Many middle and high school students are already overwhelmed with work and extracurricular activities. ",
-      "tag": "",
-      "counter_to": "st-56-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-56-gen",
+      "statement_id": 112,
       "text": "Many middle and high school students aren't already overwhelmed with work and extracurricular activities.",
-      "tag": "generated",
-      "counter_to": "st-56",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-57",
+      "statement_id": 113,
       "text": "High school students in several countries suffer from a chronic lack of sleep [34] due to the amount of work they do. ",
-      "tag": "",
-      "counter_to": "st-57-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-57-gen",
+      "statement_id": 114,
       "text": "High school students in several countries don't suffer from a chronic lack of sleep [34] due to the amount of work they do.",
-      "tag": "generated",
-      "counter_to": "st-57",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-58",
+      "statement_id": 115,
       "text": "Students should be allowed to decide what subjects they would like to participate in. ",
-      "tag": "",
-      "counter_to": "st-58-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-58-gen",
+      "statement_id": 116,
       "text": "Students shouldn't be allowed to decide what subjects they would like to participate in.",
-      "tag": "generated",
-      "counter_to": "st-58",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-59",
+      "statement_id": 117,
       "text": "Students could be allowed to decided what language they want to learn. This will help them become more motivated. ",
-      "tag": "",
-      "counter_to": "st-59-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-59-gen",
+      "statement_id": 118,
       "text": "Students couldn't be allowed to decided what language they want to learn. This will help them become more motivated.",
-      "tag": "generated",
-      "counter_to": "st-59",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-60",
+      "statement_id": 119,
       "text": "Many countries allow students to choose certain electives [35] that allow them to focus on a smaller number of subjects that interest them. ",
-      "tag": "",
-      "counter_to": "st-60-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-60-gen",
+      "statement_id": 120,
       "text": "Many countries don't allow students to choose certain electives [35] that allow them to focus on a smaller number of subjects that interest them.",
-      "tag": "generated",
-      "counter_to": "st-60",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-61",
+      "statement_id": 121,
       "text": "Regardless of what students should be able to do, students are required to learn a certain set of subjects such as language, math, and science. The same principle can be applied to mandating second language courses. ",
-      "tag": "",
-      "counter_to": "st-61-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-61-gen",
+      "statement_id": 122,
       "text": "Regardless of what students should be able to do, students aren't required to learn a certain set of subjects such as language, math, and science. The same principle can be applied to mandating second language courses.",
-      "tag": "generated",
-      "counter_to": "st-61",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-62",
+      "statement_id": 123,
       "text": "Young children are not the best judges of what would be good for them in the long run. They may like to learn things that are more fun or enjoyable, but educators have a responsibility to teach children what they should know, even if they do not like them. ",
-      "tag": "",
-      "counter_to": "st-62-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-62-gen",
+      "statement_id": 124,
       "text": "Young children are the best judges of what would be good for them in the long run. They may like to learn things that are more fun or enjoyable, but educators have a responsibility to teach children what they should know, even if they do not like them.",
-      "tag": "generated",
-      "counter_to": "st-62",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-63",
+      "statement_id": 125,
       "text": "This argument applies to subjects taught at school. The point of primary and secondary education is to introduce students to a subject, not for them to master it. ",
-      "tag": "",
-      "counter_to": "st-63-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-63-gen",
+      "statement_id": 126,
       "text": "This argument applieses to subjects taught at school. The point of primary and secondary education is to introduce students to a subject, for them to master it.",
-      "tag": "generated",
-      "counter_to": "st-63",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-64",
+      "statement_id": 127,
       "text": "It is better for kids to be exposed to several different subjects in order for them to find out what they are interested in. ",
-      "tag": "",
-      "counter_to": "st-64-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-64-gen",
+      "statement_id": 128,
       "text": "It isn't better for kids to be exposed to several different subjects in order for them to find out what they are interested in.",
-      "tag": "generated",
-      "counter_to": "st-64",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-65",
+      "statement_id": 129,
       "text": "Students might discover that they have a knack for learning languages that they did not know they had. ",
-      "tag": "",
-      "counter_to": "st-65-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-65-gen",
+      "statement_id": 130,
       "text": "Students might discover that they have a knack for learning languages that they did know they had.",
-      "tag": "generated",
-      "counter_to": "st-65",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-66",
+      "statement_id": 131,
       "text": "If students focused on a smaller number of topics, they could learn them more efficiently. ",
-      "tag": "",
-      "counter_to": "st-66-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-66-gen",
+      "statement_id": 132,
       "text": "If students focused on a smaller number of topics, they couldn't learn them more efficiently.",
-      "tag": "generated",
-      "counter_to": "st-66",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-67",
+      "statement_id": 133,
       "text": "Having students focus on a smaller number of topics would leave gaps in the nation's workforce when they graduate. ",
-      "tag": "",
-      "counter_to": "st-67-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-67-gen",
+      "statement_id": 134,
       "text": "Not Having students focus on a smaller number of topics would leave gaps in the nation's workforce when they graduate.",
-      "tag": "generated",
-      "counter_to": "st-67",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-68",
+      "statement_id": 135,
       "text": "Some students can become fluent in a language during their school years if they are passionate about it and apply themselves. ",
-      "tag": "",
-      "counter_to": "st-68-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-68-gen",
+      "statement_id": 136,
       "text": "Some students can't become fluent in a language during their school years if they are passionate about it and apply themselves.",
-      "tag": "generated",
-      "counter_to": "st-68",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-69",
+      "statement_id": 137,
       "text": "Few students exhibit the kind of passion for learning a second language that would be required to achieve fluency. ",
-      "tag": "",
-      "counter_to": "st-69-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-69-gen",
+      "statement_id": 138,
       "text": "Few students don't exhibit the kind of passion for learning a second language that would be required to achieve fluency.",
-      "tag": "generated",
-      "counter_to": "st-69",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-70",
+      "statement_id": 139,
       "text": "Many students can have parents who push them [36] to succeed in academics. ",
-      "tag": "",
-      "counter_to": "st-70-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-70-gen",
+      "statement_id": 140,
       "text": "Many students can't have parents who push them [36] to succeed in academics.",
-      "tag": "generated",
-      "counter_to": "st-70",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-71",
+      "statement_id": 141,
       "text": "There are ways for students to show off their language skills, such as in online videos [37]. ",
-      "tag": "",
-      "counter_to": "st-71-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-71-gen",
+      "statement_id": 142,
       "text": "There aren't ways for students to show off their language skills, such as in online videos [37].",
-      "tag": "generated",
-      "counter_to": "st-71",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-72",
+      "statement_id": 143,
       "text": "There are language competitions [38] that motivated students can enter to showcase their skills. ",
-      "tag": "",
-      "counter_to": "st-72-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-72-gen",
+      "statement_id": 144,
       "text": "There are language competitions [38] that motivated students can't enter to showcase their skills.",
-      "tag": "generated",
-      "counter_to": "st-72",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-73",
+      "statement_id": 145,
       "text": "Learning a second language helps prepare students to live in a globalized world. ",
-      "tag": "",
-      "counter_to": "st-73-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-73-gen",
+      "statement_id": 146,
       "text": "Learning a second language doesn't help prepare students to live in a globalized world.",
-      "tag": "generated",
-      "counter_to": "st-73",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-74",
+      "statement_id": 147,
       "text": "Knowing a second language improves job prospects [39]. ",
-      "tag": "",
-      "counter_to": "st-74-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-74-gen",
+      "statement_id": 148,
       "text": "Knowing a second language doesn't improve job prospects [39].",
-      "tag": "generated",
-      "counter_to": "st-74",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-75",
+      "statement_id": 149,
       "text": "Knowing a second language gives you access to an entirely new job market. ",
-      "tag": "",
-      "counter_to": "st-75-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-75-gen",
+      "statement_id": 150,
       "text": "Knowing a second language doesn't give you access to an entirely new job market.",
-      "tag": "generated",
-      "counter_to": "st-75",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-76",
+      "statement_id": 151,
       "text": "Knowing a language like Chinese could give you access to jobs in massive markets [40]. ",
-      "tag": "",
-      "counter_to": "st-76-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-76-gen",
+      "statement_id": 152,
       "text": "Not Knowing a language like Chinese could give you access to jobs in massive markets [40].",
-      "tag": "generated",
-      "counter_to": "st-76",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-77",
+      "statement_id": 153,
       "text": "Any additional skill would improve job prospects; however, it would be impractical for students to learn every job-relevant skill. Therefore, students should be allowed to choose to learn the skills that they consider to be relevant or interesting. ",
-      "tag": "",
-      "counter_to": "st-77-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-77-gen",
+      "statement_id": 154,
       "text": "Any additional skill wouldn't improve job prospects; however, it would be impractical for students to learn every job-relevant skill. Therefore, students should be allowed to choose to learn the skills that they consider to be relevant or interesting.",
-      "tag": "generated",
-      "counter_to": "st-77",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-78",
+      "statement_id": 155,
       "text": "It could be that the majority of students learn the same skills for jobs that are popular in the moment, leading to these skills being less valuable due to an oversupply. ",
-      "tag": "",
-      "counter_to": "st-78-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-78-gen",
+      "statement_id": 156,
       "text": "It couldn't be that the majority of students learn the same skills for jobs that are popular in the moment, leading to these skills being less valuable due to an oversupply.",
-      "tag": "generated",
-      "counter_to": "st-78",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-79",
+      "statement_id": 157,
       "text": "There are plenty of highly successful people with good jobs who don't speak a second language. ",
-      "tag": "",
-      "counter_to": "st-79-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-79-gen",
+      "statement_id": 158,
       "text": "There are plenty of highly successful people with good jobs who dospeak a second language.",
-      "tag": "generated",
-      "counter_to": "st-79",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-80",
+      "statement_id": 159,
       "text": "It doesn't follow that knowing a second language wouldn't benefit people just because some highly successful people aren't bilingual. ",
-      "tag": "",
-      "counter_to": "st-80-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-80-gen",
+      "statement_id": 160,
       "text": "It follows that knowing a second language wouldn't benefit people just because some highly successful people aren't bilingual.",
-      "tag": "generated",
-      "counter_to": "st-80",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-81",
+      "statement_id": 161,
       "text": "Only a minority [41] of US presidents spoke any language other than English. ",
-      "tag": "",
-      "counter_to": "st-81-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-81-gen",
+      "statement_id": 162,
       "text": "Only a minority [41] of US presidents didn't speak any language other than English.",
-      "tag": "generated",
-      "counter_to": "st-81",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-82",
+      "statement_id": 163,
       "text": "Learning a language helps people understand the cultural traditions of that language's speakers. ",
-      "tag": "",
-      "counter_to": "st-82-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-82-gen",
+      "statement_id": 164,
       "text": "Learning a language doesn't help people understand the cultural traditions of that language's speakers.",
-      "tag": "generated",
-      "counter_to": "st-82",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-83",
+      "statement_id": 165,
       "text": "Being able to speak a language allows people to gain a deeper understanding of cultures than they could just using whatever information is available in one's native tongue. ",
-      "tag": "",
-      "counter_to": "st-83-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-83-gen",
+      "statement_id": 166,
       "text": "Not Being able to speak a language allows people to gain a deeper understanding of cultures than they could just using whatever information is available in one's native tongue.",
-      "tag": "generated",
-      "counter_to": "st-83",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-84",
+      "statement_id": 167,
       "text": "Especially for people who don't speak English, it could be difficult [42] to find information about more obscure countries or cultures online. ",
-      "tag": "",
-      "counter_to": "st-84-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-84-gen",
+      "statement_id": 168,
       "text": "Especially for people who do speak English, it could be difficult [42] to find information about more obscure countries or cultures online.",
-      "tag": "generated",
-      "counter_to": "st-84",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-85",
+      "statement_id": 169,
       "text": "If improving cultural awareness is the end goal, then children can directly be taught lessons about culture and cultural diversity without requiring them to learn a second language. ",
-      "tag": "",
-      "counter_to": "st-85-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-85-gen",
+      "statement_id": 170,
       "text": "If not improving cultural awareness is the end goal, then children can directly be taught lessons about culture and cultural diversity without requiring them to learn a second language.",
-      "tag": "generated",
-      "counter_to": "st-85",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-86",
+      "statement_id": 171,
       "text": "This is likely to be more fun for students, as they wouldn't be required to put in the hard work of language learning, like memorizing vocabulary or learning difficult grammar structures [43]. ",
-      "tag": "",
-      "counter_to": "st-86-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-86-gen",
+      "statement_id": 172,
       "text": "This is likely to be more fun for students, as they wouldbe required to put in the hard work of language learning, like memorizing vocabulary or learning difficult grammar structures [43].",
-      "tag": "generated",
-      "counter_to": "st-86",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-87",
+      "statement_id": 173,
       "text": "Languages are often intertwined with the culture of those who speak it. ",
-      "tag": "",
-      "counter_to": "st-87-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-87-gen",
+      "statement_id": 174,
       "text": "Languages aren't often intertwined with the culture of those who speak it.",
-      "tag": "generated",
-      "counter_to": "st-87",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-88",
+      "statement_id": 175,
       "text": "Understand levels of formality [44] in Korean can help people gain a better understanding of the country's hierarchical culture. ",
-      "tag": "",
-      "counter_to": "st-88-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-88-gen",
+      "statement_id": 176,
       "text": "Understand levels of formality [44] in Korean can't help people gain a better understanding of the country's hierarchical culture.",
-      "tag": "generated",
-      "counter_to": "st-88",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-89",
+      "statement_id": 177,
       "text": "Economic globalization is in decline [45]. It is, thus, less important to speak foreign languages than it used to be. ",
-      "tag": "",
-      "counter_to": "st-89-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-89-gen",
+      "statement_id": 178,
       "text": "Economic globalization isn't in decline [45]. It is, thus, less important to speak foreign languages than it used to be.",
-      "tag": "generated",
-      "counter_to": "st-89",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-90",
+      "statement_id": 179,
       "text": "In recent years, countries have become more interested in reducing geopolitical risk [46] than spreading the ideals of globalization. ",
-      "tag": "",
-      "counter_to": "st-90-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-90-gen",
+      "statement_id": 180,
       "text": "In recent years, countries haven't become more interested in reducing geopolitical risk [46] than spreading the ideals of globalization.",
-      "tag": "generated",
-      "counter_to": "st-90",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-91",
+      "statement_id": 181,
       "text": "As long as free markets are allowed to operate, companies willing to take on more risk will continue to expand into new countries. ",
-      "tag": "",
-      "counter_to": "st-91-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-91-gen",
+      "statement_id": 182,
       "text": "As long as free markets are allowed to operate, companies willing to take on more risk won't continue to expand into new countries.",
-      "tag": "generated",
-      "counter_to": "st-91",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-92",
+      "statement_id": 183,
       "text": "Technologies that allow people to communicate with others across the world are continuing to proliferate [47]. This will allow for more exchanges of people and ideas. ",
-      "tag": "",
-      "counter_to": "st-92-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-92-gen",
+      "statement_id": 184,
       "text": "Technologies that allow people to communicate with others across the world aren't continuing to proliferate [47]. This will allow for more exchanges of people and ideas.",
-      "tag": "generated",
-      "counter_to": "st-92",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-93",
+      "statement_id": 185,
       "text": "We may have already reached peak social media [48], and in the future people may spend less time sharing aspects of their lives online with people around the world. ",
-      "tag": "",
-      "counter_to": "st-93-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-93-gen",
+      "statement_id": 186,
       "text": "We may not have already reached peak social media [48], and in the future people may spend less time sharing aspects of their lives online with people around the world.",
-      "tag": "generated",
-      "counter_to": "st-93",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-94",
+      "statement_id": 187,
       "text": "A globalized world is more likely to have one common language, similar to how English is spoken around the world today. ",
-      "tag": "",
-      "counter_to": "st-94-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-94-gen",
+      "statement_id": 188,
       "text": "A globalized world isn't more likely to have one common language, similar to how English is spoken around the world today.",
-      "tag": "generated",
-      "counter_to": "st-94",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-95",
+      "statement_id": 189,
       "text": "The number of spoken languages is already declining rapidly [49], with speakers of niche languages usually speaking at least one other mainstream language. ",
-      "tag": "",
-      "counter_to": "st-95-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-95-gen",
+      "statement_id": 190,
       "text": "The number of spoken languages isn't already declining rapidly [49], with speakers of niche languages usually speaking at least one other mainstream language.",
-      "tag": "generated",
-      "counter_to": "st-95",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-96",
+      "statement_id": 191,
       "text": "The speed at which languages are being lost is increasing [50], meaning that it will be easier for people to communicate in the future. ",
-      "tag": "",
-      "counter_to": "st-96-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-96-gen",
+      "statement_id": 192,
       "text": "The speed at which languages are being lost isn't increasing [50], meaning that it will be easier for people to communicate in the future.",
-      "tag": "generated",
-      "counter_to": "st-96",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-97",
+      "statement_id": 193,
       "text": "If that is true, then the second language that everyone learns should be the common language. ",
-      "tag": "",
-      "counter_to": "st-97-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-97-gen",
+      "statement_id": 194,
       "text": "If that isn't true, then the second language that everyone learns should be the common language.",
-      "tag": "generated",
-      "counter_to": "st-97",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-98",
+      "statement_id": 195,
       "text": "Today, English is by far the most commonly studied language [51]. This is likely to continue for the foreseeable future. ",
-      "tag": "",
-      "counter_to": "st-98-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-98-gen",
+      "statement_id": 196,
       "text": "Today, English isn't by far the most commonly studied language [51]. This is likely to continue for the foreseeable future.",
-      "tag": "generated",
-      "counter_to": "st-98",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:39",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     }
   ],
-  "arguments": [
+  "counter_statements": [
     {
-      "id": "arg-1",
-      "claim": "st-1",
-      "source": "kialo-1"
+      "statement_id": 1,
+      "counterstatement_id": 2
     },
     {
-      "id": "arg-2",
-      "claim": "st-2",
-      "source": "kialo-1"
+      "statement_id": 3,
+      "counterstatement_id": 4
     },
     {
-      "id": "arg-3",
-      "claim": "st-3",
-      "source": "kialo-1"
+      "statement_id": 5,
+      "counterstatement_id": 6
     },
     {
-      "id": "arg-4",
-      "claim": "st-4",
-      "source": "kialo-1"
+      "statement_id": 7,
+      "counterstatement_id": 8
     },
     {
-      "id": "arg-5",
-      "claim": "st-7",
-      "source": "kialo-1"
+      "statement_id": 9,
+      "counterstatement_id": 10
     },
     {
-      "id": "arg-6",
-      "claim": "st-9",
-      "source": "kialo-1"
+      "statement_id": 11,
+      "counterstatement_id": 12
     },
     {
-      "id": "arg-7",
-      "claim": "st-10",
-      "source": "kialo-1"
+      "statement_id": 13,
+      "counterstatement_id": 14
     },
     {
-      "id": "arg-8",
-      "claim": "st-12",
-      "source": "kialo-1"
+      "statement_id": 15,
+      "counterstatement_id": 16
     },
     {
-      "id": "arg-9",
-      "claim": "st-14",
-      "source": "kialo-1"
+      "statement_id": 17,
+      "counterstatement_id": 18
     },
     {
-      "id": "arg-10",
-      "claim": "st-15",
-      "source": "kialo-1"
+      "statement_id": 19,
+      "counterstatement_id": 20
     },
     {
-      "id": "arg-11",
-      "claim": "st-17",
-      "source": "kialo-1"
+      "statement_id": 21,
+      "counterstatement_id": 22
     },
     {
-      "id": "arg-12",
-      "claim": "st-19",
-      "source": "kialo-1"
+      "statement_id": 23,
+      "counterstatement_id": 24
     },
     {
-      "id": "arg-13",
-      "claim": "st-21",
-      "source": "kialo-1"
+      "statement_id": 25,
+      "counterstatement_id": 26
     },
     {
-      "id": "arg-14",
-      "claim": "st-22",
-      "source": "kialo-1"
+      "statement_id": 27,
+      "counterstatement_id": 28
     },
     {
-      "id": "arg-15",
-      "claim": "st-23",
-      "source": "kialo-1"
+      "statement_id": 29,
+      "counterstatement_id": 30
     },
     {
-      "id": "arg-16",
-      "claim": "st-25",
-      "source": "kialo-1"
+      "statement_id": 31,
+      "counterstatement_id": 32
     },
     {
-      "id": "arg-17",
-      "claim": "st-27",
-      "source": "kialo-1"
+      "statement_id": 33,
+      "counterstatement_id": 34
     },
     {
-      "id": "arg-18",
-      "claim": "st-28",
-      "source": "kialo-1"
+      "statement_id": 35,
+      "counterstatement_id": 36
     },
     {
-      "id": "arg-19",
-      "claim": "st-30",
-      "source": "kialo-1"
+      "statement_id": 37,
+      "counterstatement_id": 38
     },
     {
-      "id": "arg-20",
-      "claim": "st-32",
-      "source": "kialo-1"
+      "statement_id": 39,
+      "counterstatement_id": 40
     },
     {
-      "id": "arg-21",
-      "claim": "st-33",
-      "source": "kialo-1"
+      "statement_id": 41,
+      "counterstatement_id": 42
     },
     {
-      "id": "arg-22",
-      "claim": "st-36",
-      "source": "kialo-1"
+      "statement_id": 43,
+      "counterstatement_id": 44
     },
     {
-      "id": "arg-23",
-      "claim": "st-38",
-      "source": "kialo-1"
+      "statement_id": 45,
+      "counterstatement_id": 46
     },
     {
-      "id": "arg-24",
-      "claim": "st-39",
-      "source": "kialo-1"
+      "statement_id": 47,
+      "counterstatement_id": 48
     },
     {
-      "id": "arg-25",
-      "claim": "st-41",
-      "source": "kialo-1"
+      "statement_id": 49,
+      "counterstatement_id": 50
     },
     {
-      "id": "arg-26",
-      "claim": "st-43",
-      "source": "kialo-1"
+      "statement_id": 51,
+      "counterstatement_id": 52
     },
     {
-      "id": "arg-27",
-      "claim": "st-45",
-      "source": "kialo-1"
+      "statement_id": 53,
+      "counterstatement_id": 54
     },
     {
-      "id": "arg-28",
-      "claim": "st-46",
-      "source": "kialo-1"
+      "statement_id": 55,
+      "counterstatement_id": 56
     },
     {
-      "id": "arg-29",
-      "claim": "st-47",
-      "source": "kialo-1"
+      "statement_id": 57,
+      "counterstatement_id": 58
     },
     {
-      "id": "arg-30",
-      "claim": "st-48",
-      "source": "kialo-1"
+      "statement_id": 59,
+      "counterstatement_id": 60
     },
     {
-      "id": "arg-31",
-      "claim": "st-50",
-      "source": "kialo-1"
+      "statement_id": 61,
+      "counterstatement_id": 62
     },
     {
-      "id": "arg-32",
-      "claim": "st-52",
-      "source": "kialo-1"
+      "statement_id": 63,
+      "counterstatement_id": 64
     },
     {
-      "id": "arg-33",
-      "claim": "st-53",
-      "source": "kialo-1"
+      "statement_id": 65,
+      "counterstatement_id": 66
     },
     {
-      "id": "arg-34",
-      "claim": "st-54",
-      "source": "kialo-1"
+      "statement_id": 67,
+      "counterstatement_id": 68
     },
     {
-      "id": "arg-35",
-      "claim": "st-56",
-      "source": "kialo-1"
+      "statement_id": 69,
+      "counterstatement_id": 70
     },
     {
-      "id": "arg-36",
-      "claim": "st-58",
-      "source": "kialo-1"
+      "statement_id": 71,
+      "counterstatement_id": 72
     },
     {
-      "id": "arg-37",
-      "claim": "st-60",
-      "source": "kialo-1"
+      "statement_id": 73,
+      "counterstatement_id": 74
     },
     {
-      "id": "arg-38",
-      "claim": "st-63",
-      "source": "kialo-1"
+      "statement_id": 75,
+      "counterstatement_id": 76
     },
     {
-      "id": "arg-39",
-      "claim": "st-64",
-      "source": "kialo-1"
+      "statement_id": 77,
+      "counterstatement_id": 78
     },
     {
-      "id": "arg-40",
-      "claim": "st-66",
-      "source": "kialo-1"
+      "statement_id": 79,
+      "counterstatement_id": 80
     },
     {
-      "id": "arg-41",
-      "claim": "st-68",
-      "source": "kialo-1"
+      "statement_id": 81,
+      "counterstatement_id": 82
     },
     {
-      "id": "arg-42",
-      "claim": "st-69",
-      "source": "kialo-1"
+      "statement_id": 83,
+      "counterstatement_id": 84
     },
     {
-      "id": "arg-43",
-      "claim": "st-71",
-      "source": "kialo-1"
+      "statement_id": 85,
+      "counterstatement_id": 86
     },
     {
-      "id": "arg-44",
-      "claim": "st-73",
-      "source": "kialo-1"
+      "statement_id": 87,
+      "counterstatement_id": 88
     },
     {
-      "id": "arg-45",
-      "claim": "st-74",
-      "source": "kialo-1"
+      "statement_id": 89,
+      "counterstatement_id": 90
     },
     {
-      "id": "arg-46",
-      "claim": "st-75",
-      "source": "kialo-1"
+      "statement_id": 91,
+      "counterstatement_id": 92
     },
     {
-      "id": "arg-47",
-      "claim": "st-77",
-      "source": "kialo-1"
+      "statement_id": 93,
+      "counterstatement_id": 94
     },
     {
-      "id": "arg-48",
-      "claim": "st-79",
-      "source": "kialo-1"
+      "statement_id": 95,
+      "counterstatement_id": 96
     },
     {
-      "id": "arg-49",
-      "claim": "st-82",
-      "source": "kialo-1"
+      "statement_id": 97,
+      "counterstatement_id": 98
     },
     {
-      "id": "arg-50",
-      "claim": "st-83",
-      "source": "kialo-1"
+      "statement_id": 99,
+      "counterstatement_id": 100
     },
     {
-      "id": "arg-51",
-      "claim": "st-85",
-      "source": "kialo-1"
+      "statement_id": 101,
+      "counterstatement_id": 102
     },
     {
-      "id": "arg-52",
-      "claim": "st-87",
-      "source": "kialo-1"
+      "statement_id": 103,
+      "counterstatement_id": 104
     },
     {
-      "id": "arg-53",
-      "claim": "st-89",
-      "source": "kialo-1"
+      "statement_id": 105,
+      "counterstatement_id": 106
     },
     {
-      "id": "arg-54",
-      "claim": "st-90",
-      "source": "kialo-1"
+      "statement_id": 107,
+      "counterstatement_id": 108
     },
     {
-      "id": "arg-55",
-      "claim": "st-92",
-      "source": "kialo-1"
+      "statement_id": 109,
+      "counterstatement_id": 110
     },
     {
-      "id": "arg-56",
-      "claim": "st-94",
-      "source": "kialo-1"
+      "statement_id": 111,
+      "counterstatement_id": 112
     },
     {
-      "id": "arg-57",
-      "claim": "st-95",
-      "source": "kialo-1"
+      "statement_id": 113,
+      "counterstatement_id": 114
     },
     {
-      "id": "arg-58",
-      "claim": "st-97",
-      "source": "kialo-1"
+      "statement_id": 115,
+      "counterstatement_id": 116
+    },
+    {
+      "statement_id": 117,
+      "counterstatement_id": 118
+    },
+    {
+      "statement_id": 119,
+      "counterstatement_id": 120
+    },
+    {
+      "statement_id": 121,
+      "counterstatement_id": 122
+    },
+    {
+      "statement_id": 123,
+      "counterstatement_id": 124
+    },
+    {
+      "statement_id": 125,
+      "counterstatement_id": 126
+    },
+    {
+      "statement_id": 127,
+      "counterstatement_id": 128
+    },
+    {
+      "statement_id": 129,
+      "counterstatement_id": 130
+    },
+    {
+      "statement_id": 131,
+      "counterstatement_id": 132
+    },
+    {
+      "statement_id": 133,
+      "counterstatement_id": 134
+    },
+    {
+      "statement_id": 135,
+      "counterstatement_id": 136
+    },
+    {
+      "statement_id": 137,
+      "counterstatement_id": 138
+    },
+    {
+      "statement_id": 139,
+      "counterstatement_id": 140
+    },
+    {
+      "statement_id": 141,
+      "counterstatement_id": 142
+    },
+    {
+      "statement_id": 143,
+      "counterstatement_id": 144
+    },
+    {
+      "statement_id": 145,
+      "counterstatement_id": 146
+    },
+    {
+      "statement_id": 147,
+      "counterstatement_id": 148
+    },
+    {
+      "statement_id": 149,
+      "counterstatement_id": 150
+    },
+    {
+      "statement_id": 151,
+      "counterstatement_id": 152
+    },
+    {
+      "statement_id": 153,
+      "counterstatement_id": 154
+    },
+    {
+      "statement_id": 155,
+      "counterstatement_id": 156
+    },
+    {
+      "statement_id": 157,
+      "counterstatement_id": 158
+    },
+    {
+      "statement_id": 159,
+      "counterstatement_id": 160
+    },
+    {
+      "statement_id": 161,
+      "counterstatement_id": 162
+    },
+    {
+      "statement_id": 163,
+      "counterstatement_id": 164
+    },
+    {
+      "statement_id": 165,
+      "counterstatement_id": 166
+    },
+    {
+      "statement_id": 167,
+      "counterstatement_id": 168
+    },
+    {
+      "statement_id": 169,
+      "counterstatement_id": 170
+    },
+    {
+      "statement_id": 171,
+      "counterstatement_id": 172
+    },
+    {
+      "statement_id": 173,
+      "counterstatement_id": 174
+    },
+    {
+      "statement_id": 175,
+      "counterstatement_id": 176
+    },
+    {
+      "statement_id": 177,
+      "counterstatement_id": 178
+    },
+    {
+      "statement_id": 179,
+      "counterstatement_id": 180
+    },
+    {
+      "statement_id": 181,
+      "counterstatement_id": 182
+    },
+    {
+      "statement_id": 183,
+      "counterstatement_id": 184
+    },
+    {
+      "statement_id": 185,
+      "counterstatement_id": 186
+    },
+    {
+      "statement_id": 187,
+      "counterstatement_id": 188
+    },
+    {
+      "statement_id": 189,
+      "counterstatement_id": 190
+    },
+    {
+      "statement_id": 191,
+      "counterstatement_id": 192
+    },
+    {
+      "statement_id": 193,
+      "counterstatement_id": 194
+    },
+    {
+      "statement_id": 195,
+      "counterstatement_id": 196
     }
   ],
-  "premises": [
+  "acp": [
     {
-      "argument": "arg-1",
-      "premise": "st-2"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 3
     },
     {
-      "argument": "arg-1",
-      "premise": "st-21"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 41
     },
     {
-      "argument": "arg-1",
-      "premise": "st-45"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 89
     },
     {
-      "argument": "arg-1",
-      "premise": "st-73"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 145
     },
     {
-      "argument": "arg-2",
-      "premise": "st-3"
+      "argument_id": 2,
+      "claim_id": 3,
+      "premise_id": 5
     },
     {
-      "argument": "arg-2",
-      "premise": "st-9"
+      "argument_id": 2,
+      "claim_id": 3,
+      "premise_id": 17
     },
     {
-      "argument": "arg-2",
-      "premise": "st-14"
+      "argument_id": 2,
+      "claim_id": 3,
+      "premise_id": 27
     },
     {
-      "argument": "arg-3",
-      "premise": "st-4"
+      "argument_id": 3,
+      "claim_id": 5,
+      "premise_id": 7
     },
     {
-      "argument": "arg-3",
-      "premise": "st-7"
+      "argument_id": 3,
+      "claim_id": 5,
+      "premise_id": 13
     },
     {
-      "argument": "arg-4",
-      "premise": "st-5"
+      "argument_id": 4,
+      "claim_id": 7,
+      "premise_id": 9
     },
     {
-      "argument": "arg-4",
-      "premise": "st-6"
+      "argument_id": 4,
+      "claim_id": 7,
+      "premise_id": 11
     },
     {
-      "argument": "arg-5",
-      "premise": "st-8"
+      "argument_id": 5,
+      "claim_id": 13,
+      "premise_id": 15
     },
     {
-      "argument": "arg-6",
-      "premise": "st-10"
+      "argument_id": 6,
+      "claim_id": 17,
+      "premise_id": 19
     },
     {
-      "argument": "arg-6",
-      "premise": "st-12"
+      "argument_id": 6,
+      "claim_id": 17,
+      "premise_id": 23
     },
     {
-      "argument": "arg-7",
-      "premise": "st-11"
+      "argument_id": 7,
+      "claim_id": 19,
+      "premise_id": 21
     },
     {
-      "argument": "arg-8",
-      "premise": "st-13"
+      "argument_id": 8,
+      "claim_id": 23,
+      "premise_id": 25
     },
     {
-      "argument": "arg-9",
-      "premise": "st-15"
+      "argument_id": 9,
+      "claim_id": 27,
+      "premise_id": 29
     },
     {
-      "argument": "arg-9",
-      "premise": "st-17"
+      "argument_id": 9,
+      "claim_id": 27,
+      "premise_id": 33
     },
     {
-      "argument": "arg-9",
-      "premise": "st-19"
+      "argument_id": 9,
+      "claim_id": 27,
+      "premise_id": 37
     },
     {
-      "argument": "arg-10",
-      "premise": "st-16"
+      "argument_id": 10,
+      "claim_id": 29,
+      "premise_id": 31
     },
     {
-      "argument": "arg-11",
-      "premise": "st-18"
+      "argument_id": 11,
+      "claim_id": 33,
+      "premise_id": 35
     },
     {
-      "argument": "arg-12",
-      "premise": "st-20"
+      "argument_id": 12,
+      "claim_id": 37,
+      "premise_id": 39
     },
     {
-      "argument": "arg-13",
-      "premise": "st-22"
+      "argument_id": 13,
+      "claim_id": 41,
+      "premise_id": 43
     },
     {
-      "argument": "arg-13",
-      "premise": "st-27"
+      "argument_id": 13,
+      "claim_id": 41,
+      "premise_id": 53
     },
     {
-      "argument": "arg-13",
-      "premise": "st-32"
+      "argument_id": 13,
+      "claim_id": 41,
+      "premise_id": 63
     },
     {
-      "argument": "arg-13",
-      "premise": "st-38"
+      "argument_id": 13,
+      "claim_id": 41,
+      "premise_id": 75
     },
     {
-      "argument": "arg-14",
-      "premise": "st-23"
+      "argument_id": 14,
+      "claim_id": 43,
+      "premise_id": 45
     },
     {
-      "argument": "arg-14",
-      "premise": "st-25"
+      "argument_id": 14,
+      "claim_id": 43,
+      "premise_id": 49
     },
     {
-      "argument": "arg-15",
-      "premise": "st-24"
+      "argument_id": 15,
+      "claim_id": 45,
+      "premise_id": 47
     },
     {
-      "argument": "arg-16",
-      "premise": "st-26"
+      "argument_id": 16,
+      "claim_id": 49,
+      "premise_id": 51
     },
     {
-      "argument": "arg-17",
-      "premise": "st-28"
+      "argument_id": 17,
+      "claim_id": 53,
+      "premise_id": 55
     },
     {
-      "argument": "arg-17",
-      "premise": "st-30"
+      "argument_id": 17,
+      "claim_id": 53,
+      "premise_id": 59
     },
     {
-      "argument": "arg-18",
-      "premise": "st-29"
+      "argument_id": 18,
+      "claim_id": 55,
+      "premise_id": 57
     },
     {
-      "argument": "arg-19",
-      "premise": "st-31"
+      "argument_id": 19,
+      "claim_id": 59,
+      "premise_id": 61
     },
     {
-      "argument": "arg-20",
-      "premise": "st-33"
+      "argument_id": 20,
+      "claim_id": 63,
+      "premise_id": 65
     },
     {
-      "argument": "arg-20",
-      "premise": "st-36"
+      "argument_id": 20,
+      "claim_id": 63,
+      "premise_id": 71
     },
     {
-      "argument": "arg-21",
-      "premise": "st-34"
+      "argument_id": 21,
+      "claim_id": 65,
+      "premise_id": 67
     },
     {
-      "argument": "arg-21",
-      "premise": "st-35"
+      "argument_id": 21,
+      "claim_id": 65,
+      "premise_id": 69
     },
     {
-      "argument": "arg-22",
-      "premise": "st-37"
+      "argument_id": 22,
+      "claim_id": 71,
+      "premise_id": 73
     },
     {
-      "argument": "arg-23",
-      "premise": "st-39"
+      "argument_id": 23,
+      "claim_id": 75,
+      "premise_id": 77
     },
     {
-      "argument": "arg-23",
-      "premise": "st-41"
+      "argument_id": 23,
+      "claim_id": 75,
+      "premise_id": 81
     },
     {
-      "argument": "arg-23",
-      "premise": "st-43"
+      "argument_id": 23,
+      "claim_id": 75,
+      "premise_id": 85
     },
     {
-      "argument": "arg-24",
-      "premise": "st-40"
+      "argument_id": 24,
+      "claim_id": 77,
+      "premise_id": 79
     },
     {
-      "argument": "arg-25",
-      "premise": "st-42"
+      "argument_id": 25,
+      "claim_id": 81,
+      "premise_id": 83
     },
     {
-      "argument": "arg-26",
-      "premise": "st-44"
+      "argument_id": 26,
+      "claim_id": 85,
+      "premise_id": 87
     },
     {
-      "argument": "arg-27",
-      "premise": "st-46"
+      "argument_id": 27,
+      "claim_id": 89,
+      "premise_id": 91
     },
     {
-      "argument": "arg-27",
-      "premise": "st-52"
+      "argument_id": 27,
+      "claim_id": 89,
+      "premise_id": 103
     },
     {
-      "argument": "arg-27",
-      "premise": "st-63"
+      "argument_id": 27,
+      "claim_id": 89,
+      "premise_id": 125
     },
     {
-      "argument": "arg-27",
-      "premise": "st-68"
+      "argument_id": 27,
+      "claim_id": 89,
+      "premise_id": 135
     },
     {
-      "argument": "arg-28",
-      "premise": "st-47"
+      "argument_id": 28,
+      "claim_id": 91,
+      "premise_id": 93
     },
     {
-      "argument": "arg-28",
-      "premise": "st-50"
+      "argument_id": 28,
+      "claim_id": 91,
+      "premise_id": 99
     },
     {
-      "argument": "arg-29",
-      "premise": "st-48"
+      "argument_id": 29,
+      "claim_id": 93,
+      "premise_id": 95
     },
     {
-      "argument": "arg-30",
-      "premise": "st-49"
+      "argument_id": 30,
+      "claim_id": 95,
+      "premise_id": 97
     },
     {
-      "argument": "arg-31",
-      "premise": "st-51"
+      "argument_id": 31,
+      "claim_id": 99,
+      "premise_id": 101
     },
     {
-      "argument": "arg-32",
-      "premise": "st-53"
+      "argument_id": 32,
+      "claim_id": 103,
+      "premise_id": 105
     },
     {
-      "argument": "arg-32",
-      "premise": "st-56"
+      "argument_id": 32,
+      "claim_id": 103,
+      "premise_id": 111
     },
     {
-      "argument": "arg-32",
-      "premise": "st-58"
+      "argument_id": 32,
+      "claim_id": 103,
+      "premise_id": 115
     },
     {
-      "argument": "arg-33",
-      "premise": "st-54"
+      "argument_id": 33,
+      "claim_id": 105,
+      "premise_id": 107
     },
     {
-      "argument": "arg-34",
-      "premise": "st-55"
+      "argument_id": 34,
+      "claim_id": 107,
+      "premise_id": 109
     },
     {
-      "argument": "arg-35",
-      "premise": "st-57"
+      "argument_id": 35,
+      "claim_id": 111,
+      "premise_id": 113
     },
     {
-      "argument": "arg-36",
-      "premise": "st-59"
+      "argument_id": 36,
+      "claim_id": 115,
+      "premise_id": 117
     },
     {
-      "argument": "arg-36",
-      "premise": "st-60"
+      "argument_id": 36,
+      "claim_id": 115,
+      "premise_id": 119
     },
     {
-      "argument": "arg-36",
-      "premise": "st-62"
+      "argument_id": 36,
+      "claim_id": 115,
+      "premise_id": 123
     },
     {
-      "argument": "arg-37",
-      "premise": "st-61"
+      "argument_id": 37,
+      "claim_id": 119,
+      "premise_id": 121
     },
     {
-      "argument": "arg-38",
-      "premise": "st-64"
+      "argument_id": 38,
+      "claim_id": 125,
+      "premise_id": 127
     },
     {
-      "argument": "arg-38",
-      "premise": "st-66"
+      "argument_id": 38,
+      "claim_id": 125,
+      "premise_id": 131
     },
     {
-      "argument": "arg-39",
-      "premise": "st-65"
+      "argument_id": 39,
+      "claim_id": 127,
+      "premise_id": 129
     },
     {
-      "argument": "arg-40",
-      "premise": "st-67"
+      "argument_id": 40,
+      "claim_id": 131,
+      "premise_id": 133
     },
     {
-      "argument": "arg-41",
-      "premise": "st-69"
+      "argument_id": 41,
+      "claim_id": 135,
+      "premise_id": 137
     },
     {
-      "argument": "arg-41",
-      "premise": "st-71"
+      "argument_id": 41,
+      "claim_id": 135,
+      "premise_id": 141
     },
     {
-      "argument": "arg-42",
-      "premise": "st-70"
+      "argument_id": 42,
+      "claim_id": 137,
+      "premise_id": 139
     },
     {
-      "argument": "arg-43",
-      "premise": "st-72"
+      "argument_id": 43,
+      "claim_id": 141,
+      "premise_id": 143
     },
     {
-      "argument": "arg-44",
-      "premise": "st-74"
+      "argument_id": 44,
+      "claim_id": 145,
+      "premise_id": 147
     },
     {
-      "argument": "arg-44",
-      "premise": "st-82"
+      "argument_id": 44,
+      "claim_id": 145,
+      "premise_id": 163
     },
     {
-      "argument": "arg-44",
-      "premise": "st-89"
+      "argument_id": 44,
+      "claim_id": 145,
+      "premise_id": 177
     },
     {
-      "argument": "arg-44",
-      "premise": "st-94"
+      "argument_id": 44,
+      "claim_id": 145,
+      "premise_id": 187
     },
     {
-      "argument": "arg-45",
-      "premise": "st-75"
+      "argument_id": 45,
+      "claim_id": 147,
+      "premise_id": 149
     },
     {
-      "argument": "arg-45",
-      "premise": "st-77"
+      "argument_id": 45,
+      "claim_id": 147,
+      "premise_id": 153
     },
     {
-      "argument": "arg-45",
-      "premise": "st-79"
+      "argument_id": 45,
+      "claim_id": 147,
+      "premise_id": 157
     },
     {
-      "argument": "arg-46",
-      "premise": "st-76"
+      "argument_id": 46,
+      "claim_id": 149,
+      "premise_id": 151
     },
     {
-      "argument": "arg-47",
-      "premise": "st-78"
+      "argument_id": 47,
+      "claim_id": 153,
+      "premise_id": 155
     },
     {
-      "argument": "arg-48",
-      "premise": "st-80"
+      "argument_id": 48,
+      "claim_id": 157,
+      "premise_id": 159
     },
     {
-      "argument": "arg-48",
-      "premise": "st-81"
+      "argument_id": 48,
+      "claim_id": 157,
+      "premise_id": 161
     },
     {
-      "argument": "arg-49",
-      "premise": "st-83"
+      "argument_id": 49,
+      "claim_id": 163,
+      "premise_id": 165
     },
     {
-      "argument": "arg-49",
-      "premise": "st-85"
+      "argument_id": 49,
+      "claim_id": 163,
+      "premise_id": 169
     },
     {
-      "argument": "arg-49",
-      "premise": "st-87"
+      "argument_id": 49,
+      "claim_id": 163,
+      "premise_id": 173
     },
     {
-      "argument": "arg-50",
-      "premise": "st-84"
+      "argument_id": 50,
+      "claim_id": 165,
+      "premise_id": 167
     },
     {
-      "argument": "arg-51",
-      "premise": "st-86"
+      "argument_id": 51,
+      "claim_id": 169,
+      "premise_id": 171
     },
     {
-      "argument": "arg-52",
-      "premise": "st-88"
+      "argument_id": 52,
+      "claim_id": 173,
+      "premise_id": 175
     },
     {
-      "argument": "arg-53",
-      "premise": "st-90"
+      "argument_id": 53,
+      "claim_id": 177,
+      "premise_id": 179
     },
     {
-      "argument": "arg-53",
-      "premise": "st-92"
+      "argument_id": 53,
+      "claim_id": 177,
+      "premise_id": 183
     },
     {
-      "argument": "arg-54",
-      "premise": "st-91"
+      "argument_id": 54,
+      "claim_id": 179,
+      "premise_id": 181
     },
     {
-      "argument": "arg-55",
-      "premise": "st-93"
+      "argument_id": 55,
+      "claim_id": 183,
+      "premise_id": 185
     },
     {
-      "argument": "arg-56",
-      "premise": "st-95"
+      "argument_id": 56,
+      "claim_id": 187,
+      "premise_id": 189
     },
     {
-      "argument": "arg-56",
-      "premise": "st-97"
+      "argument_id": 56,
+      "claim_id": 187,
+      "premise_id": 193
     },
     {
-      "argument": "arg-57",
-      "premise": "st-96"
+      "argument_id": 57,
+      "claim_id": 189,
+      "premise_id": 191
     },
     {
-      "argument": "arg-58",
-      "premise": "st-98"
+      "argument_id": 58,
+      "claim_id": 193,
+      "premise_id": 195
     }
   ],
-  "sources": [
+  "source_manual": [],
+  "source_generated": [
     {
-      "name": "kialo-8",
-      "topic": "Should schools require students to learn a second language?",
-      "text": "Full Kialo Text",
-      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586"
+      "statement_id": 2,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Schools shouldn't require students to learn a second language."
+    },
+    {
+      "statement_id": 4,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a second language doesn't have long-term benefits for the brain."
+    },
+    {
+      "statement_id": 6,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Language learning doesn't help improve memory and recall skills [1]."
+    },
+    {
+      "statement_id": 8,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Being bilingual is None associate with delayed onset of dementia [2]."
+    },
+    {
+      "statement_id": 10,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "By forming new pathways in the neurons [3] of the brain, language learning isn't known to keep the brain healthier for longer."
+    },
+    {
+      "statement_id": 12,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Memory capabilities and dementia aren't significantly influenced by biological factors, including genetics and body functions [4]. To the extent that biology affects memory, learning a second language is less effective in improving memory."
+    },
+    {
+      "statement_id": 14,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a second language is the only way to improve memory. There are several strategies [5] for improving memory that do not involve learning or knowing a second language."
+    },
+    {
+      "statement_id": 16,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "These strategies confer secondary benefits like being able to communicate in another language."
+    },
+    {
+      "statement_id": 18,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a second language doesn't facilitate brain development [6], which is conducive to improving various cognitive abilities."
+    },
+    {
+      "statement_id": 20,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a second language is required to have healthy cognitive abilities."
+    },
+    {
+      "statement_id": 22,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "As long as one doesn't engage in mentally stimulating challenges [7] throughout their childhood and adulthood, their potential cognitive abilities will be achieved."
+    },
+    {
+      "statement_id": 24,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a language doesn't engage [8] both the logical and creative abilities of the brain."
+    },
+    {
+      "statement_id": 26,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There aren't many types of exercises that engage [9] many parts of the brain, like learning a musical instrument or juggling."
+    },
+    {
+      "statement_id": 28,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "People could learn a language in their spare time and receive these same benefits. It is necessary to mandate learning a language at school."
+    },
+    {
+      "statement_id": 30,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Students typically have much spare time or motivation [10] to learn a foreign language."
+    },
+    {
+      "statement_id": 32,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Most kids aren't more interested in having fun than trying to master a foreign language."
+    },
+    {
+      "statement_id": 34,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It wouldn't be more effective for a child to move to a country [11] where they speak a different language. They would be able to master the language much more efficiently than being taught in schools."
+    },
+    {
+      "statement_id": 36,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It isn't impractical for most students to move to a different country."
+    },
+    {
+      "statement_id": 38,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "For students raised in bilingual households, they would need to take mandatory classes to get this benefit."
+    },
+    {
+      "statement_id": 40,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Since half the world [12] is already bilingual, learning a mandatory second language at school is necessary."
+    },
+    {
+      "statement_id": 42,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Teaching a second language wouldn't be an unnecessary drain on school resources."
+    },
+    {
+      "statement_id": 44,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If not learning a language benefits a child's future, then schools should increase their available resources in order to provide them the opportunity to learn."
+    },
+    {
+      "statement_id": 46,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If governments prioritized language education, they wouldn't be able to allocate as many resources as needed."
+    },
+    {
+      "statement_id": 48,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "In many European countries, foreign language education isn't seen as critical and strongly supported [13] by the government."
+    },
+    {
+      "statement_id": 50,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many schools aren't already facing budget cuts that mean they have to cut back on certain offerings."
+    },
+    {
+      "statement_id": 52,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many schools already teach a second language [14] as a part of the student curriculum. Schools that do teach a second language can adopt the strategies followed by the former set of schools."
+    },
+    {
+      "statement_id": 54,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There are enough teachers who are able to teach new langauges."
+    },
+    {
+      "statement_id": 56,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The state or district shouldn't hire foreign language teachers if there is a shortage."
+    },
+    {
+      "statement_id": 58,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This mightn't involve hiring more foreigners, which could be more costly and pose a greater administrative burden [15]."
+    },
+    {
+      "statement_id": 60,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The shortage of teachers [16] in America hasn't been described as \"real, large and growing, and worse than we thought.\""
+    },
+    {
+      "statement_id": 62,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If teacher pay [17] is improved, more people aren't likely to apply to be teachers."
+    },
+    {
+      "statement_id": 64,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Schools should teach topics that ca already be done by machines, which translation can be [18]."
+    },
+    {
+      "statement_id": 66,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Given that instantaneous translation technologies are widespread and likely to continue improving, it is necessary to learn a second language."
+    },
+    {
+      "statement_id": 68,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "As AI technology improves [19], it doesn't be likely that instant, native level translation will be available in the coming years."
+    },
+    {
+      "statement_id": 70,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If that technology becomes inaccessible for any reason, then people won't have to rely on language skills again."
+    },
+    {
+      "statement_id": 72,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This is equivalent to saying students shouldlearn math because we have calculators, but a basic understanding is still needed."
+    },
+    {
+      "statement_id": 74,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "People who dowork in mathematics fields often forget basic math [20] later in life. This isn't seen as a major problem."
+    },
+    {
+      "statement_id": 76,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a foreign language doesn't require far fewer resources than subjects like science."
+    },
+    {
+      "statement_id": 78,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Unlike science or physical education, learning a language requires any specialized equipment [21]."
+    },
+    {
+      "statement_id": 80,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There aren't several new language learning technologies [22] that could make learning easier, despite their higher costs over traditional methods."
+    },
+    {
+      "statement_id": 82,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "To achieve a high level of competency, it mightn't be required for students to go to the countries where the language is spoken. This could be be prohibitively expensive."
+    },
+    {
+      "statement_id": 84,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "A semester abroad isn't generally seen as a fast and efficient way to learn a language, but only a small percentage [23] of students do this."
+    },
+    {
+      "statement_id": 86,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If learning a foreign language isn't less helpful to a student's future than learning science, then any allocation of resources would be wasteful."
+    },
+    {
+      "statement_id": 88,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Given their importance to society, STEM degrees aren't highly sought after and could one day be offered for free [24]. No such proposal is made for language degrees."
+    },
+    {
+      "statement_id": 90,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a second language at school isn't ineffective to achieve functional proficiency, let alone fluency."
+    },
+    {
+      "statement_id": 92,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Given that language classes wouldn't likely only occur less than an hour a day [25], students are unlikely to attain any significant level of fluency."
+    },
+    {
+      "statement_id": 94,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "As young people typically pick up languages faster [26] than adults, they couldn't achieve a high level of fluency, particularly if they started early in their school years."
+    },
+    {
+      "statement_id": 96,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This age difference is likely to only be significant if there is total immersion [27] in a language, which most schools do offer."
+    },
+    {
+      "statement_id": 98,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The reason for learning languages faster as a child is mainly [28] due [29] to [30] neurological reasons [31] which is dependent on total immersion. The claim is unsourced."
+    },
+    {
+      "statement_id": 100,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Some languages can't take years [32] to master, even studying full time."
+    },
+    {
+      "statement_id": 102,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many students around the world study English throughout their academic career yet attain [33] a significant command of the language."
+    },
+    {
+      "statement_id": 104,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Students already have enough to do without having to learn a second language that they might use."
+    },
+    {
+      "statement_id": 106,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Being forced to learn a language could spark interest in a topic that people did know they had."
+    },
+    {
+      "statement_id": 108,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a foreign language couldn't make people interested in the films or music of other cultures."
+    },
+    {
+      "statement_id": 110,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It is unclear why that would be a positive thing and why they would need to learn that language instead of finding these through other means, especially since films usually have redubbed versions and music lyrics usually cabe well understood even with beyond-basic language skills."
+    },
+    {
+      "statement_id": 112,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many middle and high school students aren't already overwhelmed with work and extracurricular activities."
+    },
+    {
+      "statement_id": 114,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "High school students in several countries don't suffer from a chronic lack of sleep [34] due to the amount of work they do."
+    },
+    {
+      "statement_id": 116,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Students shouldn't be allowed to decide what subjects they would like to participate in."
+    },
+    {
+      "statement_id": 118,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Students couldn't be allowed to decided what language they want to learn. This will help them become more motivated."
+    },
+    {
+      "statement_id": 120,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many countries don't allow students to choose certain electives [35] that allow them to focus on a smaller number of subjects that interest them."
+    },
+    {
+      "statement_id": 122,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Regardless of what students should be able to do, students aren't required to learn a certain set of subjects such as language, math, and science. The same principle can be applied to mandating second language courses."
+    },
+    {
+      "statement_id": 124,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Young children are the best judges of what would be good for them in the long run. They may like to learn things that are more fun or enjoyable, but educators have a responsibility to teach children what they should know, even if they do not like them."
+    },
+    {
+      "statement_id": 126,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This argument applieses to subjects taught at school. The point of primary and secondary education is to introduce students to a subject, for them to master it."
+    },
+    {
+      "statement_id": 128,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It isn't better for kids to be exposed to several different subjects in order for them to find out what they are interested in."
+    },
+    {
+      "statement_id": 130,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Students might discover that they have a knack for learning languages that they did know they had."
+    },
+    {
+      "statement_id": 132,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If students focused on a smaller number of topics, they couldn't learn them more efficiently."
+    },
+    {
+      "statement_id": 134,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Not Having students focus on a smaller number of topics would leave gaps in the nation's workforce when they graduate."
+    },
+    {
+      "statement_id": 136,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Some students can't become fluent in a language during their school years if they are passionate about it and apply themselves."
+    },
+    {
+      "statement_id": 138,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Few students don't exhibit the kind of passion for learning a second language that would be required to achieve fluency."
+    },
+    {
+      "statement_id": 140,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many students can't have parents who push them [36] to succeed in academics."
+    },
+    {
+      "statement_id": 142,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There aren't ways for students to show off their language skills, such as in online videos [37]."
+    },
+    {
+      "statement_id": 144,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There are language competitions [38] that motivated students can't enter to showcase their skills."
+    },
+    {
+      "statement_id": 146,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a second language doesn't help prepare students to live in a globalized world."
+    },
+    {
+      "statement_id": 148,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Knowing a second language doesn't improve job prospects [39]."
+    },
+    {
+      "statement_id": 150,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Knowing a second language doesn't give you access to an entirely new job market."
+    },
+    {
+      "statement_id": 152,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Not Knowing a language like Chinese could give you access to jobs in massive markets [40]."
+    },
+    {
+      "statement_id": 154,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Any additional skill wouldn't improve job prospects; however, it would be impractical for students to learn every job-relevant skill. Therefore, students should be allowed to choose to learn the skills that they consider to be relevant or interesting."
+    },
+    {
+      "statement_id": 156,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It couldn't be that the majority of students learn the same skills for jobs that are popular in the moment, leading to these skills being less valuable due to an oversupply."
+    },
+    {
+      "statement_id": 158,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There are plenty of highly successful people with good jobs who dospeak a second language."
+    },
+    {
+      "statement_id": 160,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It follows that knowing a second language wouldn't benefit people just because some highly successful people aren't bilingual."
+    },
+    {
+      "statement_id": 162,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Only a minority [41] of US presidents didn't speak any language other than English."
+    },
+    {
+      "statement_id": 164,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Learning a language doesn't help people understand the cultural traditions of that language's speakers."
+    },
+    {
+      "statement_id": 166,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Not Being able to speak a language allows people to gain a deeper understanding of cultures than they could just using whatever information is available in one's native tongue."
+    },
+    {
+      "statement_id": 168,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Especially for people who do speak English, it could be difficult [42] to find information about more obscure countries or cultures online."
+    },
+    {
+      "statement_id": 170,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If not improving cultural awareness is the end goal, then children can directly be taught lessons about culture and cultural diversity without requiring them to learn a second language."
+    },
+    {
+      "statement_id": 172,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This is likely to be more fun for students, as they wouldbe required to put in the hard work of language learning, like memorizing vocabulary or learning difficult grammar structures [43]."
+    },
+    {
+      "statement_id": 174,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Languages aren't often intertwined with the culture of those who speak it."
+    },
+    {
+      "statement_id": 176,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Understand levels of formality [44] in Korean can't help people gain a better understanding of the country's hierarchical culture."
+    },
+    {
+      "statement_id": 178,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Economic globalization isn't in decline [45]. It is, thus, less important to speak foreign languages than it used to be."
+    },
+    {
+      "statement_id": 180,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "In recent years, countries haven't become more interested in reducing geopolitical risk [46] than spreading the ideals of globalization."
+    },
+    {
+      "statement_id": 182,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "As long as free markets are allowed to operate, companies willing to take on more risk won't continue to expand into new countries."
+    },
+    {
+      "statement_id": 184,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Technologies that allow people to communicate with others across the world aren't continuing to proliferate [47]. This will allow for more exchanges of people and ideas."
+    },
+    {
+      "statement_id": 186,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "We may not have already reached peak social media [48], and in the future people may spend less time sharing aspects of their lives online with people around the world."
+    },
+    {
+      "statement_id": 188,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "A globalized world isn't more likely to have one common language, similar to how English is spoken around the world today."
+    },
+    {
+      "statement_id": 190,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The number of spoken languages isn't already declining rapidly [49], with speakers of niche languages usually speaking at least one other mainstream language."
+    },
+    {
+      "statement_id": 192,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The speed at which languages are being lost isn't increasing [50], meaning that it will be easier for people to communicate in the future."
+    },
+    {
+      "statement_id": 194,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If that isn't true, then the second language that everyone learns should be the common language."
+    },
+    {
+      "statement_id": 196,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Today, English isn't by far the most commonly studied language [51]. This is likely to continue for the foreseeable future."
+    }
+  ],
+  "source_retrieval": [
+    {
+      "statement_id": 1,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Schools should require students to learn a second language. "
+    },
+    {
+      "statement_id": 3,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a second language has long-term benefits for the brain. "
+    },
+    {
+      "statement_id": 5,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Language learning helps improve memory and recall skills [1]. "
+    },
+    {
+      "statement_id": 7,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Being bilingual is associated with delayed onset of dementia [2]. "
+    },
+    {
+      "statement_id": 9,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "By forming new pathways in the neurons [3] of the brain, language learning is known to keep the brain healthier for longer. "
+    },
+    {
+      "statement_id": 11,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Memory capabilities and dementia are significantly influenced by biological factors, including genetics and body functions [4]. To the extent that biology affects memory, learning a second language is less effective in improving memory. "
+    },
+    {
+      "statement_id": 13,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a second language is not the only way to improve memory. There are several strategies [5] for improving memory that do not involve learning or knowing a second language. "
+    },
+    {
+      "statement_id": 15,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "These strategies do not confer secondary benefits like being able to communicate in another language. "
+    },
+    {
+      "statement_id": 17,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a second language facilitates brain development [6], which is conducive to improving various cognitive abilities. "
+    },
+    {
+      "statement_id": 19,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a second language is not required to have healthy cognitive abilities. "
+    },
+    {
+      "statement_id": 21,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "As long as one engages in mentally stimulating challenges [7] throughout their childhood and adulthood, their potential cognitive abilities will be achieved. "
+    },
+    {
+      "statement_id": 23,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a language engages [8] both the logical and creative abilities of the brain. "
+    },
+    {
+      "statement_id": 25,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "There are many types of exercises that engage [9] many parts of the brain, like learning a musical instrument or juggling. "
+    },
+    {
+      "statement_id": 27,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "People could learn a language in their spare time and receive these same benefits. It is not necessary to mandate learning a language at school. "
+    },
+    {
+      "statement_id": 29,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Students typically do not have much spare time or motivation [10] to learn a foreign language. "
+    },
+    {
+      "statement_id": 31,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Most kids are more interested in having fun than trying to master a foreign language. "
+    },
+    {
+      "statement_id": 33,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "It would be more effective for a child to move to a country [11] where they speak a different language. They would be able to master the language much more efficiently than being taught in schools. "
+    },
+    {
+      "statement_id": 35,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "It is impractical for most students to move to a different country. "
+    },
+    {
+      "statement_id": 37,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "For students raised in bilingual households, they would not need to take mandatory classes to get this benefit. "
+    },
+    {
+      "statement_id": 39,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Since half the world [12] is already bilingual, learning a mandatory second language at school is not necessary. "
+    },
+    {
+      "statement_id": 41,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Teaching a second language would be an unnecessary drain on school resources. "
+    },
+    {
+      "statement_id": 43,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If learning a language benefits a child's future, then schools should increase their available resources in order to provide them the opportunity to learn. "
+    },
+    {
+      "statement_id": 45,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If governments prioritized language education, they would be able to allocate as many resources as needed. "
+    },
+    {
+      "statement_id": 47,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "In many European countries, foreign language education is seen as critical and strongly supported [13] by the government. "
+    },
+    {
+      "statement_id": 49,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Many schools are already facing budget cuts that mean they have to cut back on certain offerings. "
+    },
+    {
+      "statement_id": 51,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Many schools already teach a second language [14] as a part of the student curriculum. Schools that do not teach a second language can adopt the strategies followed by the former set of schools. "
+    },
+    {
+      "statement_id": 53,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "There aren't enough teachers who are able to teach new langauges. "
+    },
+    {
+      "statement_id": 55,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "The state or district should hire foreign language teachers if there is a shortage. "
+    },
+    {
+      "statement_id": 57,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "This might involve hiring more foreigners, which could be more costly and pose a greater administrative burden [15]. "
+    },
+    {
+      "statement_id": 59,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "The shortage of teachers [16] in America has been described as \"real, large and growing, and worse than we thought.\" "
+    },
+    {
+      "statement_id": 61,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If teacher pay [17] is improved, more people are likely to apply to be teachers. "
+    },
+    {
+      "statement_id": 63,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Schools should teach topics that can't already be done by machines, which translation can be [18]. "
+    },
+    {
+      "statement_id": 65,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Given that instantaneous translation technologies are widespread and likely to continue improving, it is not necessary to learn a second language. "
+    },
+    {
+      "statement_id": 67,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "As AI technology improves [19], it is likely that instant, native level translation will be available in the coming years. "
+    },
+    {
+      "statement_id": 69,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If that technology becomes inaccessible for any reason, then people will have to rely on language skills again. "
+    },
+    {
+      "statement_id": 71,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "This is equivalent to saying students shouldn't learn math because we have calculators, but a basic understanding is still needed. "
+    },
+    {
+      "statement_id": 73,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "People who don't work in mathematics fields often forget basic math [20] later in life. This isn't seen as a major problem. "
+    },
+    {
+      "statement_id": 75,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a foreign language requires far fewer resources than subjects like science. "
+    },
+    {
+      "statement_id": 77,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Unlike science or physical education, learning a language does not require any specialized equipment [21]. "
+    },
+    {
+      "statement_id": 79,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "There are several new language learning technologies [22] that could make learning easier, despite their higher costs over traditional methods. "
+    },
+    {
+      "statement_id": 81,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "To achieve a high level of competency, it might be required for students to go to the countries where the language is spoken. This could be be prohibitively expensive. "
+    },
+    {
+      "statement_id": 83,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "A semester abroad is generally seen as a fast and efficient way to learn a language, but only a small percentage [23] of students do this. "
+    },
+    {
+      "statement_id": 85,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If learning a foreign language is less helpful to a student's future than learning science, then any allocation of resources would be wasteful. "
+    },
+    {
+      "statement_id": 87,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Given their importance to society, STEM degrees are highly sought after and could one day be offered for free [24]. No such proposal is made for language degrees. "
+    },
+    {
+      "statement_id": 89,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a second language at school is ineffective to achieve functional proficiency, let alone fluency. "
+    },
+    {
+      "statement_id": 91,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Given that language classes would likely only occur less than an hour a day [25], students are unlikely to attain any significant level of fluency. "
+    },
+    {
+      "statement_id": 93,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "As young people typically pick up languages faster [26] than adults, they could achieve a high level of fluency, particularly if they started early in their school years. "
+    },
+    {
+      "statement_id": 95,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "This age difference is likely to only be significant if there is total immersion [27] in a language, which most schools do not offer. "
+    },
+    {
+      "statement_id": 97,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "The reason for learning languages faster as a child is mainly [28] due [29] to [30] neurological reasons [31] which is not dependent on total immersion. The claim is unsourced. "
+    },
+    {
+      "statement_id": 99,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Some languages can take years [32] to master, even studying full time. "
+    },
+    {
+      "statement_id": 101,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Many students around the world study English throughout their academic career yet do not attain [33] a significant command of the language. "
+    },
+    {
+      "statement_id": 103,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Students already have enough to do without having to learn a second language that they might never use. "
+    },
+    {
+      "statement_id": 105,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Being forced to learn a language could spark interest in a topic that people didn't know they had. "
+    },
+    {
+      "statement_id": 107,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a foreign language could make people interested in the films or music of other cultures. "
+    },
+    {
+      "statement_id": 109,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "It is unclear why that would be a positive thing and why they would need to learn that language instead of finding these through other means, especially since films usually have redubbed versions and music lyrics usually can't be well understood even with beyond-basic language skills. "
+    },
+    {
+      "statement_id": 111,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Many middle and high school students are already overwhelmed with work and extracurricular activities. "
+    },
+    {
+      "statement_id": 113,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "High school students in several countries suffer from a chronic lack of sleep [34] due to the amount of work they do. "
+    },
+    {
+      "statement_id": 115,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Students should be allowed to decide what subjects they would like to participate in. "
+    },
+    {
+      "statement_id": 117,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Students could be allowed to decided what language they want to learn. This will help them become more motivated. "
+    },
+    {
+      "statement_id": 119,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Many countries allow students to choose certain electives [35] that allow them to focus on a smaller number of subjects that interest them. "
+    },
+    {
+      "statement_id": 121,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Regardless of what students should be able to do, students are required to learn a certain set of subjects such as language, math, and science. The same principle can be applied to mandating second language courses. "
+    },
+    {
+      "statement_id": 123,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Young children are not the best judges of what would be good for them in the long run. They may like to learn things that are more fun or enjoyable, but educators have a responsibility to teach children what they should know, even if they do not like them. "
+    },
+    {
+      "statement_id": 125,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "This argument applies to subjects taught at school. The point of primary and secondary education is to introduce students to a subject, not for them to master it. "
+    },
+    {
+      "statement_id": 127,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "It is better for kids to be exposed to several different subjects in order for them to find out what they are interested in. "
+    },
+    {
+      "statement_id": 129,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Students might discover that they have a knack for learning languages that they did not know they had. "
+    },
+    {
+      "statement_id": 131,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If students focused on a smaller number of topics, they could learn them more efficiently. "
+    },
+    {
+      "statement_id": 133,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Having students focus on a smaller number of topics would leave gaps in the nation's workforce when they graduate. "
+    },
+    {
+      "statement_id": 135,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Some students can become fluent in a language during their school years if they are passionate about it and apply themselves. "
+    },
+    {
+      "statement_id": 137,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Few students exhibit the kind of passion for learning a second language that would be required to achieve fluency. "
+    },
+    {
+      "statement_id": 139,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Many students can have parents who push them [36] to succeed in academics. "
+    },
+    {
+      "statement_id": 141,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "There are ways for students to show off their language skills, such as in online videos [37]. "
+    },
+    {
+      "statement_id": 143,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "There are language competitions [38] that motivated students can enter to showcase their skills. "
+    },
+    {
+      "statement_id": 145,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a second language helps prepare students to live in a globalized world. "
+    },
+    {
+      "statement_id": 147,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Knowing a second language improves job prospects [39]. "
+    },
+    {
+      "statement_id": 149,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Knowing a second language gives you access to an entirely new job market. "
+    },
+    {
+      "statement_id": 151,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Knowing a language like Chinese could give you access to jobs in massive markets [40]. "
+    },
+    {
+      "statement_id": 153,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Any additional skill would improve job prospects; however, it would be impractical for students to learn every job-relevant skill. Therefore, students should be allowed to choose to learn the skills that they consider to be relevant or interesting. "
+    },
+    {
+      "statement_id": 155,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "It could be that the majority of students learn the same skills for jobs that are popular in the moment, leading to these skills being less valuable due to an oversupply. "
+    },
+    {
+      "statement_id": 157,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "There are plenty of highly successful people with good jobs who don't speak a second language. "
+    },
+    {
+      "statement_id": 159,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "It doesn't follow that knowing a second language wouldn't benefit people just because some highly successful people aren't bilingual. "
+    },
+    {
+      "statement_id": 161,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Only a minority [41] of US presidents spoke any language other than English. "
+    },
+    {
+      "statement_id": 163,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Learning a language helps people understand the cultural traditions of that language's speakers. "
+    },
+    {
+      "statement_id": 165,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Being able to speak a language allows people to gain a deeper understanding of cultures than they could just using whatever information is available in one's native tongue. "
+    },
+    {
+      "statement_id": 167,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Especially for people who don't speak English, it could be difficult [42] to find information about more obscure countries or cultures online. "
+    },
+    {
+      "statement_id": 169,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If improving cultural awareness is the end goal, then children can directly be taught lessons about culture and cultural diversity without requiring them to learn a second language. "
+    },
+    {
+      "statement_id": 171,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "This is likely to be more fun for students, as they wouldn't be required to put in the hard work of language learning, like memorizing vocabulary or learning difficult grammar structures [43]. "
+    },
+    {
+      "statement_id": 173,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Languages are often intertwined with the culture of those who speak it. "
+    },
+    {
+      "statement_id": 175,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Understand levels of formality [44] in Korean can help people gain a better understanding of the country's hierarchical culture. "
+    },
+    {
+      "statement_id": 177,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Economic globalization is in decline [45]. It is, thus, less important to speak foreign languages than it used to be. "
+    },
+    {
+      "statement_id": 179,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "In recent years, countries have become more interested in reducing geopolitical risk [46] than spreading the ideals of globalization. "
+    },
+    {
+      "statement_id": 181,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "As long as free markets are allowed to operate, companies willing to take on more risk will continue to expand into new countries. "
+    },
+    {
+      "statement_id": 183,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Technologies that allow people to communicate with others across the world are continuing to proliferate [47]. This will allow for more exchanges of people and ideas. "
+    },
+    {
+      "statement_id": 185,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "We may have already reached peak social media [48], and in the future people may spend less time sharing aspects of their lives online with people around the world. "
+    },
+    {
+      "statement_id": 187,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "A globalized world is more likely to have one common language, similar to how English is spoken around the world today. "
+    },
+    {
+      "statement_id": 189,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "The number of spoken languages is already declining rapidly [49], with speakers of niche languages usually speaking at least one other mainstream language. "
+    },
+    {
+      "statement_id": 191,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "The speed at which languages are being lost is increasing [50], meaning that it will be easier for people to communicate in the future. "
+    },
+    {
+      "statement_id": 193,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "If that is true, then the second language that everyone learns should be the common language. "
+    },
+    {
+      "statement_id": 195,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/should-schools-require-students-to-learn-a-second-language-55586",
+      "text_raw": "Today, English is by far the most commonly studied language [51]. This is likely to continue for the foreseeable future. "
     }
   ]
 }

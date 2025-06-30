@@ -1,916 +1,1599 @@
 {
   "statements": [
     {
-      "id": "st-1",
+      "statement_id": 1,
       "text": "A child doesn't owe his parents something for getting raised by them. ",
-      "tag": "",
-      "counter_to": "st-1-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-1-gen",
+      "statement_id": 2,
       "text": "A child does owe his parents something for getting raised by them.",
-      "tag": "generated",
-      "counter_to": "st-1",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-2",
+      "statement_id": 3,
       "text": "Having demands to your children with the argument that you raised them puts unhealthy mental stress on them. ",
-      "tag": "",
-      "counter_to": "st-2-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-2-gen",
+      "statement_id": 4,
       "text": "Having demands to your children with the argument that you raised them doesn't put unhealthy mental stress on them.",
-      "tag": "generated",
-      "counter_to": "st-2",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-3",
+      "statement_id": 5,
       "text": "Parents often try to enforce their own demands upon their children by emphasising how much they have done for their children. ",
-      "tag": "",
-      "counter_to": "st-3-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-3-gen",
+      "statement_id": 6,
       "text": "Parents often don't try to enforce their own demands upon their children by emphasising how much they have done for their children.",
-      "tag": "generated",
-      "counter_to": "st-3",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-4",
+      "statement_id": 7,
       "text": "This can include limiting a child's career options by forcing them to pick a career path that their parents most prefer. ",
-      "tag": "",
-      "counter_to": "st-4-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-4-gen",
+      "statement_id": 8,
       "text": "This can't include limiting a child's career options by forcing them to pick a career path that their parents most prefer.",
-      "tag": "generated",
-      "counter_to": "st-4",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-5",
+      "statement_id": 9,
       "text": "Parents' demands are usually designed to encourage children to push themselves and reach their maximum potential. Parents want the best for their children and this comes through in their demands. ",
-      "tag": "",
-      "counter_to": "st-5-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-5-gen",
+      "statement_id": 10,
       "text": "Parents' demands aren't usually designed to encourage children to push themselves and reach their maximum potential. Parents want the best for their children and this comes through in their demands.",
-      "tag": "generated",
-      "counter_to": "st-5",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-6",
+      "statement_id": 11,
       "text": "It is a lot of effort to raise children and they should be thankful to their parents. ",
-      "tag": "",
-      "counter_to": "st-6-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-6-gen",
+      "statement_id": 12,
       "text": "It doesn't be a lot of effort to raise children and they should be thankful to their parents.",
-      "tag": "generated",
-      "counter_to": "st-6",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-7",
+      "statement_id": 13,
       "text": "This thankfulness should be earned and voluntary. It should not be a cultural demand. ",
-      "tag": "",
-      "counter_to": "st-7-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-7-gen",
+      "statement_id": 14,
       "text": "This thankfulness should be earned and voluntary. It should be a cultural demand.",
-      "tag": "generated",
-      "counter_to": "st-7",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-8",
+      "statement_id": 15,
       "text": "There are personal benefits to showing gratitude towards others. ",
-      "tag": "",
-      "counter_to": "st-8-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-8-gen",
+      "statement_id": 16,
       "text": "There aren't personal benefits to showing gratitude towards others.",
-      "tag": "generated",
-      "counter_to": "st-8",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-9",
+      "statement_id": 17,
       "text": "People who practise gratitude are more optimistic and happier [1]. ",
-      "tag": "",
-      "counter_to": "st-9-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-9-gen",
+      "statement_id": 18,
       "text": "People who practise gratitude aren't more optimistic and happier [1].",
-      "tag": "generated",
-      "counter_to": "st-9",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-10",
+      "statement_id": 19,
       "text": "Knowledge of the benefits of showing gratitude does not affect a person's ability to genuinely feel gratitude. ",
-      "tag": "",
-      "counter_to": "st-10-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-10-gen",
+      "statement_id": 20,
       "text": "Knowledge of the benefits of showing gratitude affects a person's ability to genuinely feel gratitude.",
-      "tag": "generated",
-      "counter_to": "st-10",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-11",
+      "statement_id": 21,
       "text": "Practising gratitude has significant social benefits. ",
-      "tag": "",
-      "counter_to": "st-11-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-11-gen",
+      "statement_id": 22,
       "text": "Practising gratitude doesn't have significant social benefits.",
-      "tag": "generated",
-      "counter_to": "st-11",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-12",
+      "statement_id": 23,
       "text": "Expressing gratitude makes people feel less lonely [2] and isolated. ",
-      "tag": "",
-      "counter_to": "st-12-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-12-gen",
+      "statement_id": 24,
       "text": "Expressing gratitude doesn't make people feel less lonely [2] and isolated.",
-      "tag": "generated",
-      "counter_to": "st-12",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-13",
+      "statement_id": 25,
       "text": "Currently, the economy is favoring the older generations. So by no means are current children able to monetarily give to their parents, as their own welfare will be difficult. ",
-      "tag": "",
-      "counter_to": "st-13-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-13-gen",
+      "statement_id": 26,
       "text": "Currently, the economy isn't favoring the older generations. So by no means are current children able to monetarily give to their parents, as their own welfare will be difficult.",
-      "tag": "generated",
-      "counter_to": "st-13",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-14",
+      "statement_id": 27,
       "text": "Millennials [3] currently have more debt than any other generation in history. It it therefore highly unlikely that they will be financially equipped to care for ailing parents. ",
-      "tag": "",
-      "counter_to": "st-14-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-14-gen",
+      "statement_id": 28,
       "text": "Millennials [3] currently don't have more debt than any other generation in history. It it therefore highly unlikely that they will be financially equipped to care for ailing parents.",
-      "tag": "generated",
-      "counter_to": "st-14",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-15",
+      "statement_id": 29,
       "text": "Children don't decide to be born. ",
-      "tag": "",
-      "counter_to": "st-15-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-15-gen",
+      "statement_id": 30,
       "text": "Children decide to be born.",
-      "tag": "generated",
-      "counter_to": "st-15",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-16",
+      "statement_id": 31,
       "text": "Parents sign up to bring up the children when they choose to have children. Children do not sign up to any such responsibility and hence should not be held accountable. ",
-      "tag": "",
-      "counter_to": "st-16-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-16-gen",
+      "statement_id": 32,
       "text": "Parents sign up to bring up the children when they choose to have children. Children do sign up to any such responsibility and hence should not be held accountable.",
-      "tag": "generated",
-      "counter_to": "st-16",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-17",
+      "statement_id": 33,
       "text": "Parents who decide to have children know the implications that come with brining up children. As a result, they make an informed choice and should not be able to demand things in return. ",
-      "tag": "",
-      "counter_to": "st-17-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-17-gen",
+      "statement_id": 34,
       "text": "Parents who decide to have children know the implications that come with brining up children. As a result, they make an informed choice and should be able to demand things in return.",
-      "tag": "generated",
-      "counter_to": "st-17",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-18",
+      "statement_id": 35,
       "text": "Many people end up having children without ever choosing to have them. ",
-      "tag": "",
-      "counter_to": "st-18-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-18-gen",
+      "statement_id": 36,
       "text": "Many people don't end up having children without ever choosing to have them.",
-      "tag": "generated",
-      "counter_to": "st-18",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-19",
+      "statement_id": 37,
       "text": "The global rate [4] of unintended pregnancy was estimated at 44% of all pregnancies between 2010 and 2014. ",
-      "tag": "",
-      "counter_to": "st-19-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-19-gen",
+      "statement_id": 38,
       "text": "The global rate [4] of unintended pregnancy wasn't estimated at 44% of all pregnancies between 2010 and 2014.",
-      "tag": "generated",
-      "counter_to": "st-19",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-20",
+      "statement_id": 39,
       "text": "Not opting to terminate a pregnancy is still a choice that results in people having a baby. ",
-      "tag": "",
-      "counter_to": "st-20-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-20-gen",
+      "statement_id": 40,
       "text": "Opting to terminate a pregnancy is still a choice that results in people having a baby.",
-      "tag": "generated",
-      "counter_to": "st-20",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-21",
+      "statement_id": 41,
       "text": "Many countries [5] have banned abortion and hence people are not able to opt out of having children if they end up getting pregnant. ",
-      "tag": "",
-      "counter_to": "st-21-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-21-gen",
+      "statement_id": 42,
       "text": "Many countries [5] have banned abortion and hence people are able to opt out of having children if they end up getting pregnant.",
-      "tag": "generated",
-      "counter_to": "st-21",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-22",
+      "statement_id": 43,
       "text": "A lack of choice is not a good way of determining someone's obligations to others. ",
-      "tag": "",
-      "counter_to": "st-22-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-22-gen",
+      "statement_id": 44,
       "text": "A lack of choice is a good way of determining someone's obligations to others.",
-      "tag": "generated",
-      "counter_to": "st-22",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-23",
+      "statement_id": 45,
       "text": "Parents don't choose to ail and need care as they get older either. Everyone lacks choice in one way or another. ",
-      "tag": "",
-      "counter_to": "st-23-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-23-gen",
+      "statement_id": 46,
       "text": "Parents do choose to ail and need care as they get older either. Everyone lacks choice in one way or another.",
-      "tag": "generated",
-      "counter_to": "st-23",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-24",
+      "statement_id": 47,
       "text": "Most children would likely say they are glad to be alive, irrespective of their lack of choice. Given this, it is unreasonable for them to deny certain obligations arising from their existence as if their life were a burden. ",
-      "tag": "",
-      "counter_to": "st-24-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-24-gen",
+      "statement_id": 48,
       "text": "Most children wouldn't likely say they are glad to be alive, irrespective of their lack of choice. Given this, it is unreasonable for them to deny certain obligations arising from their existence as if their life were a burden.",
-      "tag": "generated",
-      "counter_to": "st-24",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-25",
+      "statement_id": 49,
       "text": "Although there are exceptions, it is a basic instinct for parents to rear their children. ",
-      "tag": "",
-      "counter_to": "st-25-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-25-gen",
+      "statement_id": 50,
       "text": "Although there are exceptions, it isn't a basic instinct for parents to rear their children.",
-      "tag": "generated",
-      "counter_to": "st-25",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-26",
+      "statement_id": 51,
       "text": "The only thing any parent should expect from their child is respect and honesty. As a parent you are to model behaviour and should then be saving for retirement in order not to burden your children. ",
-      "tag": "",
-      "counter_to": "st-26-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-26-gen",
+      "statement_id": 52,
       "text": "The only thing any parent should expect from their child is respect and honesty. As a parent you are to model behaviour and should then be saving for retirement in order to burden your children.",
-      "tag": "generated",
-      "counter_to": "st-26",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-27",
+      "statement_id": 53,
       "text": "Taking care of your child should be self-evident and not connected to demands to your child. ",
-      "tag": "",
-      "counter_to": "st-27-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-27-gen",
+      "statement_id": 54,
       "text": "Taking care of your child should be self-evident and connected to demands to your child.",
-      "tag": "generated",
-      "counter_to": "st-27",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-28",
+      "statement_id": 55,
       "text": "Having children with the expectation to get something from them is immoral. ",
-      "tag": "",
-      "counter_to": "st-28-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-28-gen",
+      "statement_id": 56,
       "text": "Having children with the expectation to get something from them isn't immoral.",
-      "tag": "generated",
-      "counter_to": "st-28",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-29",
+      "statement_id": 57,
       "text": "If parents have children only to get something in return, then they are using their children as a means to an end. This is morally wrong. ",
-      "tag": "",
-      "counter_to": "st-29-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-29-gen",
+      "statement_id": 58,
       "text": "If parents have children only to get something in return, then they aren't using their children as a means to an end. This is morally wrong.",
-      "tag": "generated",
-      "counter_to": "st-29",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-30",
+      "statement_id": 59,
       "text": "Kantian ethics [6] says that human beings have inherent value and so should only be treated as an end. ",
-      "tag": "",
-      "counter_to": "st-30-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-30-gen",
+      "statement_id": 60,
       "text": "Kantian ethics [6] doesn't say that human beings have inherent value and so should only be treated as an end.",
-      "tag": "generated",
-      "counter_to": "st-30",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-31",
+      "statement_id": 61,
       "text": "Not all people subscribe to Kantian ethics. ",
-      "tag": "",
-      "counter_to": "st-31-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-31-gen",
+      "statement_id": 62,
       "text": "Not all people don't subscribe to Kantian ethics.",
-      "tag": "generated",
-      "counter_to": "st-31",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-32",
+      "statement_id": 63,
       "text": "Even if the expectation of reward is itself immoral, the child can still be morally indebted to their parents. ",
-      "tag": "",
-      "counter_to": "st-32-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-32-gen",
+      "statement_id": 64,
       "text": "Even if the expectation of reward isn't itself immoral, the child can still be morally indebted to their parents.",
-      "tag": "generated",
-      "counter_to": "st-32",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-33",
+      "statement_id": 65,
       "text": "It is immoral to expect things of one's child because it is an imposition on the child's moral agency. By contrast, there might be independent moral reasons for the child to owe his parents for raising them. ",
-      "tag": "",
-      "counter_to": "st-33-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-33-gen",
+      "statement_id": 66,
       "text": "It is immoral to expect things of one's child because it isn't an imposition on the child's moral agency. By contrast, there might be independent moral reasons for the child to owe his parents for raising them.",
-      "tag": "generated",
-      "counter_to": "st-33",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-34",
+      "statement_id": 67,
       "text": "For a child's moral agency to be intact, the child must be able to internally rationalise what his moral duties ought to be and freely act on them. The pressure of parental expectations likely interrupts this process. ",
-      "tag": "",
-      "counter_to": "st-34-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-34-gen",
+      "statement_id": 68,
       "text": "For a child's moral agency to not be intact, the child must be able to internally rationalise what his moral duties ought to be and freely act on them. The pressure of parental expectations likely interrupts this process.",
-      "tag": "generated",
-      "counter_to": "st-34",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-35",
+      "statement_id": 69,
       "text": "There is no practical way to avoid the influence of parental expectations in the development of a child's sense of morality. ",
-      "tag": "",
-      "counter_to": "st-35-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-35-gen",
+      "statement_id": 70,
       "text": "There isn't no practical way to avoid the influence of parental expectations in the development of a child's sense of morality.",
-      "tag": "generated",
-      "counter_to": "st-35",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-36",
+      "statement_id": 71,
       "text": "A child's moral agency is inherently interwoven [7] with their parents' sense of morality, and by extension, their moral expectations. Therefore, this constructs a false dichotomy [8]. ",
-      "tag": "",
-      "counter_to": "st-36-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-36-gen",
+      "statement_id": 72,
       "text": "A child's moral agency isn't inherently interwoven [7] with their parents' sense of morality, and by extension, their moral expectations. Therefore, this constructs a false dichotomy [8].",
-      "tag": "generated",
-      "counter_to": "st-36",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-37",
+      "statement_id": 73,
       "text": "Children are a way to have people who support you for when you get old. ",
-      "tag": "",
-      "counter_to": "st-37-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-37-gen",
+      "statement_id": 74,
       "text": "Children aren't a way to have people who support you for when you get old.",
-      "tag": "generated",
-      "counter_to": "st-37",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-38",
+      "statement_id": 75,
       "text": "This is important for families in developing countries where there might not be social security systems in place ",
-      "tag": "",
-      "counter_to": "st-38-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-38-gen",
+      "statement_id": 76,
       "text": "This is important for families in developing countries where there might be social security systems in place",
-      "tag": "generated",
-      "counter_to": "st-38",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-39",
+      "statement_id": 77,
       "text": "Many countries in the world [9] have no healthcare or welfare support for the elderly. ",
-      "tag": "",
-      "counter_to": "st-39-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-39-gen",
+      "statement_id": 78,
       "text": "Many countries in the world [9] don't have no healthcare or welfare support for the elderly.",
-      "tag": "generated",
-      "counter_to": "st-39",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-40",
+      "statement_id": 79,
       "text": "In the UK, if the elderly meet a certain financial threshold, then the local authority [10] will pay for their care home. ",
-      "tag": "",
-      "counter_to": "st-40-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-40-gen",
+      "statement_id": 80,
       "text": "In the UK, if the elderly meet a certain financial threshold, then the local authority [10] won't pay for their care home.",
-      "tag": "generated",
-      "counter_to": "st-40",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-41",
+      "statement_id": 81,
       "text": "In the UK, care for the elderly is in crisis [11]. Therefore, in practice many are likely dependent on their children for support in their old age. ",
-      "tag": "",
-      "counter_to": "st-41-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-41-gen",
+      "statement_id": 82,
       "text": "In the UK, care for the elderly isn't in crisis [11]. Therefore, in practice many are likely dependent on their children for support in their old age.",
-      "tag": "generated",
-      "counter_to": "st-41",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-42",
+      "statement_id": 83,
       "text": "There are other ways for people to get support in their old age that do not rely on their children. ",
-      "tag": "",
-      "counter_to": "st-42-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-42-gen",
+      "statement_id": 84,
       "text": "There are other ways for people to get support in their old age that do rely on their children.",
-      "tag": "generated",
-      "counter_to": "st-42",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-43",
+      "statement_id": 85,
       "text": "-> See 1.7.1.1.1. ",
-      "tag": "",
-      "counter_to": "st-43-gen",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "retrieved",
+      "predecessor": null,
+      "successor": null
     },
     {
-      "id": "st-43-gen",
+      "statement_id": 86,
       "text": "-> See 1.7.1.1.1. ",
-      "tag": "generated",
-      "counter_to": "st-43",
-      "source": "kialo-1"
+      "created_at": "2025-06-30 17:47:38",
+      "kind": "generated",
+      "predecessor": null,
+      "successor": null
     }
   ],
-  "arguments": [
+  "counter_statements": [
     {
-      "id": "arg-1",
-      "claim": "st-1",
-      "source": "kialo-1"
+      "statement_id": 1,
+      "counterstatement_id": 2
     },
     {
-      "id": "arg-2",
-      "claim": "st-2",
-      "source": "kialo-1"
+      "statement_id": 3,
+      "counterstatement_id": 4
     },
     {
-      "id": "arg-3",
-      "claim": "st-3",
-      "source": "kialo-1"
+      "statement_id": 5,
+      "counterstatement_id": 6
     },
     {
-      "id": "arg-4",
-      "claim": "st-6",
-      "source": "kialo-1"
+      "statement_id": 7,
+      "counterstatement_id": 8
     },
     {
-      "id": "arg-5",
-      "claim": "st-8",
-      "source": "kialo-1"
+      "statement_id": 9,
+      "counterstatement_id": 10
     },
     {
-      "id": "arg-6",
-      "claim": "st-11",
-      "source": "kialo-1"
+      "statement_id": 11,
+      "counterstatement_id": 12
     },
     {
-      "id": "arg-7",
-      "claim": "st-13",
-      "source": "kialo-1"
+      "statement_id": 13,
+      "counterstatement_id": 14
     },
     {
-      "id": "arg-8",
-      "claim": "st-15",
-      "source": "kialo-1"
+      "statement_id": 15,
+      "counterstatement_id": 16
     },
     {
-      "id": "arg-9",
-      "claim": "st-17",
-      "source": "kialo-1"
+      "statement_id": 17,
+      "counterstatement_id": 18
     },
     {
-      "id": "arg-10",
-      "claim": "st-18",
-      "source": "kialo-1"
+      "statement_id": 19,
+      "counterstatement_id": 20
     },
     {
-      "id": "arg-11",
-      "claim": "st-19",
-      "source": "kialo-1"
+      "statement_id": 21,
+      "counterstatement_id": 22
     },
     {
-      "id": "arg-12",
-      "claim": "st-20",
-      "source": "kialo-1"
+      "statement_id": 23,
+      "counterstatement_id": 24
     },
     {
-      "id": "arg-13",
-      "claim": "st-22",
-      "source": "kialo-1"
+      "statement_id": 25,
+      "counterstatement_id": 26
     },
     {
-      "id": "arg-14",
-      "claim": "st-25",
-      "source": "kialo-1"
+      "statement_id": 27,
+      "counterstatement_id": 28
     },
     {
-      "id": "arg-15",
-      "claim": "st-27",
-      "source": "kialo-1"
+      "statement_id": 29,
+      "counterstatement_id": 30
     },
     {
-      "id": "arg-16",
-      "claim": "st-28",
-      "source": "kialo-1"
+      "statement_id": 31,
+      "counterstatement_id": 32
     },
     {
-      "id": "arg-17",
-      "claim": "st-29",
-      "source": "kialo-1"
+      "statement_id": 33,
+      "counterstatement_id": 34
     },
     {
-      "id": "arg-18",
-      "claim": "st-30",
-      "source": "kialo-1"
+      "statement_id": 35,
+      "counterstatement_id": 36
     },
     {
-      "id": "arg-19",
-      "claim": "st-32",
-      "source": "kialo-1"
+      "statement_id": 37,
+      "counterstatement_id": 38
     },
     {
-      "id": "arg-20",
-      "claim": "st-33",
-      "source": "kialo-1"
+      "statement_id": 39,
+      "counterstatement_id": 40
     },
     {
-      "id": "arg-21",
-      "claim": "st-34",
-      "source": "kialo-1"
+      "statement_id": 41,
+      "counterstatement_id": 42
     },
     {
-      "id": "arg-22",
-      "claim": "st-37",
-      "source": "kialo-1"
+      "statement_id": 43,
+      "counterstatement_id": 44
     },
     {
-      "id": "arg-23",
-      "claim": "st-38",
-      "source": "kialo-1"
+      "statement_id": 45,
+      "counterstatement_id": 46
     },
     {
-      "id": "arg-24",
-      "claim": "st-39",
-      "source": "kialo-1"
+      "statement_id": 47,
+      "counterstatement_id": 48
     },
     {
-      "id": "arg-25",
-      "claim": "st-40",
-      "source": "kialo-1"
+      "statement_id": 49,
+      "counterstatement_id": 50
     },
     {
-      "id": "arg-26",
-      "claim": "st-42",
-      "source": "kialo-1"
+      "statement_id": 51,
+      "counterstatement_id": 52
+    },
+    {
+      "statement_id": 53,
+      "counterstatement_id": 54
+    },
+    {
+      "statement_id": 55,
+      "counterstatement_id": 56
+    },
+    {
+      "statement_id": 57,
+      "counterstatement_id": 58
+    },
+    {
+      "statement_id": 59,
+      "counterstatement_id": 60
+    },
+    {
+      "statement_id": 61,
+      "counterstatement_id": 62
+    },
+    {
+      "statement_id": 63,
+      "counterstatement_id": 64
+    },
+    {
+      "statement_id": 65,
+      "counterstatement_id": 66
+    },
+    {
+      "statement_id": 67,
+      "counterstatement_id": 68
+    },
+    {
+      "statement_id": 69,
+      "counterstatement_id": 70
+    },
+    {
+      "statement_id": 71,
+      "counterstatement_id": 72
+    },
+    {
+      "statement_id": 73,
+      "counterstatement_id": 74
+    },
+    {
+      "statement_id": 75,
+      "counterstatement_id": 76
+    },
+    {
+      "statement_id": 77,
+      "counterstatement_id": 78
+    },
+    {
+      "statement_id": 79,
+      "counterstatement_id": 80
+    },
+    {
+      "statement_id": 81,
+      "counterstatement_id": 82
+    },
+    {
+      "statement_id": 83,
+      "counterstatement_id": 84
+    },
+    {
+      "statement_id": 85,
+      "counterstatement_id": 86
     }
   ],
-  "premises": [
+  "acp": [
     {
-      "argument": "arg-1",
-      "premise": "st-2"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 3
     },
     {
-      "argument": "arg-1",
-      "premise": "st-6"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 11
     },
     {
-      "argument": "arg-1",
-      "premise": "st-13"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 25
     },
     {
-      "argument": "arg-1",
-      "premise": "st-15"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 29
     },
     {
-      "argument": "arg-1",
-      "premise": "st-25"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 49
     },
     {
-      "argument": "arg-1",
-      "premise": "st-27"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 53
     },
     {
-      "argument": "arg-1",
-      "premise": "st-37"
+      "argument_id": 1,
+      "claim_id": 1,
+      "premise_id": 73
     },
     {
-      "argument": "arg-2",
-      "premise": "st-3"
+      "argument_id": 2,
+      "claim_id": 3,
+      "premise_id": 5
     },
     {
-      "argument": "arg-3",
-      "premise": "st-4"
+      "argument_id": 3,
+      "claim_id": 5,
+      "premise_id": 7
     },
     {
-      "argument": "arg-3",
-      "premise": "st-5"
+      "argument_id": 3,
+      "claim_id": 5,
+      "premise_id": 9
     },
     {
-      "argument": "arg-4",
-      "premise": "st-7"
+      "argument_id": 4,
+      "claim_id": 11,
+      "premise_id": 13
     },
     {
-      "argument": "arg-4",
-      "premise": "st-8"
+      "argument_id": 4,
+      "claim_id": 11,
+      "premise_id": 15
     },
     {
-      "argument": "arg-4",
-      "premise": "st-11"
+      "argument_id": 4,
+      "claim_id": 11,
+      "premise_id": 21
     },
     {
-      "argument": "arg-5",
-      "premise": "st-9"
+      "argument_id": 5,
+      "claim_id": 15,
+      "premise_id": 17
     },
     {
-      "argument": "arg-5",
-      "premise": "st-10"
+      "argument_id": 5,
+      "claim_id": 15,
+      "premise_id": 19
     },
     {
-      "argument": "arg-6",
-      "premise": "st-12"
+      "argument_id": 6,
+      "claim_id": 21,
+      "premise_id": 23
     },
     {
-      "argument": "arg-7",
-      "premise": "st-14"
+      "argument_id": 7,
+      "claim_id": 25,
+      "premise_id": 27
     },
     {
-      "argument": "arg-8",
-      "premise": "st-16"
+      "argument_id": 8,
+      "claim_id": 29,
+      "premise_id": 31
     },
     {
-      "argument": "arg-8",
-      "premise": "st-17"
+      "argument_id": 8,
+      "claim_id": 29,
+      "premise_id": 33
     },
     {
-      "argument": "arg-8",
-      "premise": "st-22"
+      "argument_id": 8,
+      "claim_id": 29,
+      "premise_id": 43
     },
     {
-      "argument": "arg-9",
-      "premise": "st-18"
+      "argument_id": 9,
+      "claim_id": 33,
+      "premise_id": 35
     },
     {
-      "argument": "arg-10",
-      "premise": "st-19"
+      "argument_id": 10,
+      "claim_id": 35,
+      "premise_id": 37
     },
     {
-      "argument": "arg-11",
-      "premise": "st-20"
+      "argument_id": 11,
+      "claim_id": 37,
+      "premise_id": 39
     },
     {
-      "argument": "arg-12",
-      "premise": "st-21"
+      "argument_id": 12,
+      "claim_id": 39,
+      "premise_id": 41
     },
     {
-      "argument": "arg-13",
-      "premise": "st-23"
+      "argument_id": 13,
+      "claim_id": 43,
+      "premise_id": 45
     },
     {
-      "argument": "arg-13",
-      "premise": "st-24"
+      "argument_id": 13,
+      "claim_id": 43,
+      "premise_id": 47
     },
     {
-      "argument": "arg-14",
-      "premise": "st-26"
+      "argument_id": 14,
+      "claim_id": 49,
+      "premise_id": 51
     },
     {
-      "argument": "arg-15",
-      "premise": "st-28"
+      "argument_id": 15,
+      "claim_id": 53,
+      "premise_id": 55
     },
     {
-      "argument": "arg-16",
-      "premise": "st-29"
+      "argument_id": 16,
+      "claim_id": 55,
+      "premise_id": 57
     },
     {
-      "argument": "arg-16",
-      "premise": "st-32"
+      "argument_id": 16,
+      "claim_id": 55,
+      "premise_id": 63
     },
     {
-      "argument": "arg-17",
-      "premise": "st-30"
+      "argument_id": 17,
+      "claim_id": 57,
+      "premise_id": 59
     },
     {
-      "argument": "arg-18",
-      "premise": "st-31"
+      "argument_id": 18,
+      "claim_id": 59,
+      "premise_id": 61
     },
     {
-      "argument": "arg-19",
-      "premise": "st-33"
+      "argument_id": 19,
+      "claim_id": 63,
+      "premise_id": 65
     },
     {
-      "argument": "arg-20",
-      "premise": "st-34"
+      "argument_id": 20,
+      "claim_id": 65,
+      "premise_id": 67
     },
     {
-      "argument": "arg-20",
-      "premise": "st-36"
+      "argument_id": 20,
+      "claim_id": 65,
+      "premise_id": 71
     },
     {
-      "argument": "arg-21",
-      "premise": "st-35"
+      "argument_id": 21,
+      "claim_id": 67,
+      "premise_id": 69
     },
     {
-      "argument": "arg-22",
-      "premise": "st-38"
+      "argument_id": 22,
+      "claim_id": 73,
+      "premise_id": 75
     },
     {
-      "argument": "arg-22",
-      "premise": "st-42"
+      "argument_id": 22,
+      "claim_id": 73,
+      "premise_id": 83
     },
     {
-      "argument": "arg-23",
-      "premise": "st-39"
+      "argument_id": 23,
+      "claim_id": 75,
+      "premise_id": 77
     },
     {
-      "argument": "arg-24",
-      "premise": "st-40"
+      "argument_id": 24,
+      "claim_id": 77,
+      "premise_id": 79
     },
     {
-      "argument": "arg-25",
-      "premise": "st-41"
+      "argument_id": 25,
+      "claim_id": 79,
+      "premise_id": 81
     },
     {
-      "argument": "arg-26",
-      "premise": "st-43"
+      "argument_id": 26,
+      "claim_id": 83,
+      "premise_id": 85
     }
   ],
-  "sources": [
+  "source_manual": [],
+  "source_generated": [
     {
-      "name": "kialo-17",
-      "topic": "A child doesn't owe his parents something for getting raised by them",
-      "text": "Full Kialo Text",
-      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667"
+      "statement_id": 2,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "A child does owe his parents something for getting raised by them."
+    },
+    {
+      "statement_id": 4,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Having demands to your children with the argument that you raised them doesn't put unhealthy mental stress on them."
+    },
+    {
+      "statement_id": 6,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Parents often don't try to enforce their own demands upon their children by emphasising how much they have done for their children."
+    },
+    {
+      "statement_id": 8,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This can't include limiting a child's career options by forcing them to pick a career path that their parents most prefer."
+    },
+    {
+      "statement_id": 10,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Parents' demands aren't usually designed to encourage children to push themselves and reach their maximum potential. Parents want the best for their children and this comes through in their demands."
+    },
+    {
+      "statement_id": 12,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It doesn't be a lot of effort to raise children and they should be thankful to their parents."
+    },
+    {
+      "statement_id": 14,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This thankfulness should be earned and voluntary. It should be a cultural demand."
+    },
+    {
+      "statement_id": 16,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There aren't personal benefits to showing gratitude towards others."
+    },
+    {
+      "statement_id": 18,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "People who practise gratitude aren't more optimistic and happier [1]."
+    },
+    {
+      "statement_id": 20,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Knowledge of the benefits of showing gratitude affects a person's ability to genuinely feel gratitude."
+    },
+    {
+      "statement_id": 22,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Practising gratitude doesn't have significant social benefits."
+    },
+    {
+      "statement_id": 24,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Expressing gratitude doesn't make people feel less lonely [2] and isolated."
+    },
+    {
+      "statement_id": 26,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Currently, the economy isn't favoring the older generations. So by no means are current children able to monetarily give to their parents, as their own welfare will be difficult."
+    },
+    {
+      "statement_id": 28,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Millennials [3] currently don't have more debt than any other generation in history. It it therefore highly unlikely that they will be financially equipped to care for ailing parents."
+    },
+    {
+      "statement_id": 30,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Children decide to be born."
+    },
+    {
+      "statement_id": 32,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Parents sign up to bring up the children when they choose to have children. Children do sign up to any such responsibility and hence should not be held accountable."
+    },
+    {
+      "statement_id": 34,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Parents who decide to have children know the implications that come with brining up children. As a result, they make an informed choice and should be able to demand things in return."
+    },
+    {
+      "statement_id": 36,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many people don't end up having children without ever choosing to have them."
+    },
+    {
+      "statement_id": 38,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The global rate [4] of unintended pregnancy wasn't estimated at 44% of all pregnancies between 2010 and 2014."
+    },
+    {
+      "statement_id": 40,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Opting to terminate a pregnancy is still a choice that results in people having a baby."
+    },
+    {
+      "statement_id": 42,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many countries [5] have banned abortion and hence people are able to opt out of having children if they end up getting pregnant."
+    },
+    {
+      "statement_id": 44,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "A lack of choice is a good way of determining someone's obligations to others."
+    },
+    {
+      "statement_id": 46,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Parents do choose to ail and need care as they get older either. Everyone lacks choice in one way or another."
+    },
+    {
+      "statement_id": 48,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Most children wouldn't likely say they are glad to be alive, irrespective of their lack of choice. Given this, it is unreasonable for them to deny certain obligations arising from their existence as if their life were a burden."
+    },
+    {
+      "statement_id": 50,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Although there are exceptions, it isn't a basic instinct for parents to rear their children."
+    },
+    {
+      "statement_id": 52,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "The only thing any parent should expect from their child is respect and honesty. As a parent you are to model behaviour and should then be saving for retirement in order to burden your children."
+    },
+    {
+      "statement_id": 54,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Taking care of your child should be self-evident and connected to demands to your child."
+    },
+    {
+      "statement_id": 56,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Having children with the expectation to get something from them isn't immoral."
+    },
+    {
+      "statement_id": 58,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "If parents have children only to get something in return, then they aren't using their children as a means to an end. This is morally wrong."
+    },
+    {
+      "statement_id": 60,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Kantian ethics [6] doesn't say that human beings have inherent value and so should only be treated as an end."
+    },
+    {
+      "statement_id": 62,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Not all people don't subscribe to Kantian ethics."
+    },
+    {
+      "statement_id": 64,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Even if the expectation of reward isn't itself immoral, the child can still be morally indebted to their parents."
+    },
+    {
+      "statement_id": 66,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "It is immoral to expect things of one's child because it isn't an imposition on the child's moral agency. By contrast, there might be independent moral reasons for the child to owe his parents for raising them."
+    },
+    {
+      "statement_id": 68,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "For a child's moral agency to not be intact, the child must be able to internally rationalise what his moral duties ought to be and freely act on them. The pressure of parental expectations likely interrupts this process."
+    },
+    {
+      "statement_id": 70,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There isn't no practical way to avoid the influence of parental expectations in the development of a child's sense of morality."
+    },
+    {
+      "statement_id": 72,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "A child's moral agency isn't inherently interwoven [7] with their parents' sense of morality, and by extension, their moral expectations. Therefore, this constructs a false dichotomy [8]."
+    },
+    {
+      "statement_id": 74,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Children aren't a way to have people who support you for when you get old."
+    },
+    {
+      "statement_id": 76,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "This is important for families in developing countries where there might be social security systems in place"
+    },
+    {
+      "statement_id": 78,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "Many countries in the world [9] don't have no healthcare or welfare support for the elderly."
+    },
+    {
+      "statement_id": 80,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "In the UK, if the elderly meet a certain financial threshold, then the local authority [10] won't pay for their care home."
+    },
+    {
+      "statement_id": 82,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "In the UK, care for the elderly isn't in crisis [11]. Therefore, in practice many are likely dependent on their children for support in their old age."
+    },
+    {
+      "statement_id": 84,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "There are other ways for people to get support in their old age that do rely on their children."
+    },
+    {
+      "statement_id": 86,
+      "model": "Negator",
+      "version": "1.1.6",
+      "text_raw": "-> See 1.7.1.1.1. "
+    }
+  ],
+  "source_retrieval": [
+    {
+      "statement_id": 1,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "A child doesn't owe his parents something for getting raised by them. "
+    },
+    {
+      "statement_id": 3,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Having demands to your children with the argument that you raised them puts unhealthy mental stress on them. "
+    },
+    {
+      "statement_id": 5,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Parents often try to enforce their own demands upon their children by emphasising how much they have done for their children. "
+    },
+    {
+      "statement_id": 7,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "This can include limiting a child's career options by forcing them to pick a career path that their parents most prefer. "
+    },
+    {
+      "statement_id": 9,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Parents' demands are usually designed to encourage children to push themselves and reach their maximum potential. Parents want the best for their children and this comes through in their demands. "
+    },
+    {
+      "statement_id": 11,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "It is a lot of effort to raise children and they should be thankful to their parents. "
+    },
+    {
+      "statement_id": 13,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "This thankfulness should be earned and voluntary. It should not be a cultural demand. "
+    },
+    {
+      "statement_id": 15,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "There are personal benefits to showing gratitude towards others. "
+    },
+    {
+      "statement_id": 17,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "People who practise gratitude are more optimistic and happier [1]. "
+    },
+    {
+      "statement_id": 19,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Knowledge of the benefits of showing gratitude does not affect a person's ability to genuinely feel gratitude. "
+    },
+    {
+      "statement_id": 21,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Practising gratitude has significant social benefits. "
+    },
+    {
+      "statement_id": 23,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Expressing gratitude makes people feel less lonely [2] and isolated. "
+    },
+    {
+      "statement_id": 25,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Currently, the economy is favoring the older generations. So by no means are current children able to monetarily give to their parents, as their own welfare will be difficult. "
+    },
+    {
+      "statement_id": 27,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Millennials [3] currently have more debt than any other generation in history. It it therefore highly unlikely that they will be financially equipped to care for ailing parents. "
+    },
+    {
+      "statement_id": 29,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Children don't decide to be born. "
+    },
+    {
+      "statement_id": 31,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Parents sign up to bring up the children when they choose to have children. Children do not sign up to any such responsibility and hence should not be held accountable. "
+    },
+    {
+      "statement_id": 33,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Parents who decide to have children know the implications that come with brining up children. As a result, they make an informed choice and should not be able to demand things in return. "
+    },
+    {
+      "statement_id": 35,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Many people end up having children without ever choosing to have them. "
+    },
+    {
+      "statement_id": 37,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "The global rate [4] of unintended pregnancy was estimated at 44% of all pregnancies between 2010 and 2014. "
+    },
+    {
+      "statement_id": 39,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Not opting to terminate a pregnancy is still a choice that results in people having a baby. "
+    },
+    {
+      "statement_id": 41,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Many countries [5] have banned abortion and hence people are not able to opt out of having children if they end up getting pregnant. "
+    },
+    {
+      "statement_id": 43,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "A lack of choice is not a good way of determining someone's obligations to others. "
+    },
+    {
+      "statement_id": 45,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Parents don't choose to ail and need care as they get older either. Everyone lacks choice in one way or another. "
+    },
+    {
+      "statement_id": 47,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Most children would likely say they are glad to be alive, irrespective of their lack of choice. Given this, it is unreasonable for them to deny certain obligations arising from their existence as if their life were a burden. "
+    },
+    {
+      "statement_id": 49,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Although there are exceptions, it is a basic instinct for parents to rear their children. "
+    },
+    {
+      "statement_id": 51,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "The only thing any parent should expect from their child is respect and honesty. As a parent you are to model behaviour and should then be saving for retirement in order not to burden your children. "
+    },
+    {
+      "statement_id": 53,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Taking care of your child should be self-evident and not connected to demands to your child. "
+    },
+    {
+      "statement_id": 55,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Having children with the expectation to get something from them is immoral. "
+    },
+    {
+      "statement_id": 57,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "If parents have children only to get something in return, then they are using their children as a means to an end. This is morally wrong. "
+    },
+    {
+      "statement_id": 59,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Kantian ethics [6] says that human beings have inherent value and so should only be treated as an end. "
+    },
+    {
+      "statement_id": 61,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Not all people subscribe to Kantian ethics. "
+    },
+    {
+      "statement_id": 63,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Even if the expectation of reward is itself immoral, the child can still be morally indebted to their parents. "
+    },
+    {
+      "statement_id": 65,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "It is immoral to expect things of one's child because it is an imposition on the child's moral agency. By contrast, there might be independent moral reasons for the child to owe his parents for raising them. "
+    },
+    {
+      "statement_id": 67,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "For a child's moral agency to be intact, the child must be able to internally rationalise what his moral duties ought to be and freely act on them. The pressure of parental expectations likely interrupts this process. "
+    },
+    {
+      "statement_id": 69,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "There is no practical way to avoid the influence of parental expectations in the development of a child's sense of morality. "
+    },
+    {
+      "statement_id": 71,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "A child's moral agency is inherently interwoven [7] with their parents' sense of morality, and by extension, their moral expectations. Therefore, this constructs a false dichotomy [8]. "
+    },
+    {
+      "statement_id": 73,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Children are a way to have people who support you for when you get old. "
+    },
+    {
+      "statement_id": 75,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "This is important for families in developing countries where there might not be social security systems in place "
+    },
+    {
+      "statement_id": 77,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "Many countries in the world [9] have no healthcare or welfare support for the elderly. "
+    },
+    {
+      "statement_id": 79,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "In the UK, if the elderly meet a certain financial threshold, then the local authority [10] will pay for their care home. "
+    },
+    {
+      "statement_id": 81,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "In the UK, care for the elderly is in crisis [11]. Therefore, in practice many are likely dependent on their children for support in their old age. "
+    },
+    {
+      "statement_id": 83,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "There are other ways for people to get support in their old age that do not rely on their children. "
+    },
+    {
+      "statement_id": 85,
+      "name": "Kialo",
+      "url": "https://www.kialo.com/a-child-doesnt-owe-his-parents-something-for-getting-raised-by-them-30667",
+      "text_raw": "-> See 1.7.1.1.1. "
     }
   ]
 }
